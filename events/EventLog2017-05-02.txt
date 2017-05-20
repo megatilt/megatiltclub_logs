@@ -1,0 +1,2197 @@
+﻿2017-05-02 00:00:09|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 00:00:09|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 00:00:09|Table|magicmike joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 00:00:09|Table|lordsilver joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 00:00:09|Table|causestud joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 00:01:39|Connect|Connection 000000B6 accepted from IP 67.61.100.105, PC 8C321D81
+2017-05-02 00:03:03|Account|New account created for airbou
+2017-05-02 00:03:08|Login|airbou logged into session 000000B6 from IP 67.61.100.105, PC 8C321D81
+2017-05-02 00:05:24|Account|airbou -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 00:05:24|Table|airbou registers for Hourly NLHE 200 Freeroll
+2017-05-02 00:07:08|Account|causestud +100 balance 200 (NLHE 01A)
+2017-05-02 00:07:08|Table|causestud removed from NLHE 01A via sitout timer
+2017-05-02 00:07:21|Logout|magicmike logged out session 000000B4, PC 2445619D
+2017-05-02 00:07:24|System|Traffic - Seconds: 600, Bytes in: 31840, Bytes out: 2100929, Total: 2132769
+2017-05-02 00:07:57|Connect|lordsilver disconnects session 000000AD, PC EA7B2171
+2017-05-02 00:08:32|Account|airbou -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 00:08:32|Table|airbou registers for Hourly PLO 200 Freeroll
+2017-05-02 00:09:07|Connect|Connection 000000B7 accepted from IP 109.236.94.21, PC C331EFC0
+2017-05-02 00:10:14|Account|New account created for growdigi
+2017-05-02 00:10:17|Login|growdigi logged into session 000000B7 from IP 109.236.94.21, PC C331EFC0
+2017-05-02 00:10:24|Connect|Connection 000000AD expired for lordsilver, PC EA7B2171
+2017-05-02 00:10:34|Connect|Connection 000000B8 accepted from IP 201.7.231.1, PC 0873412A
+2017-05-02 00:10:45|Connect|IP 201.7.231.1 disconnects session 000000B8, PC 0873412A
+2017-05-02 00:11:10|Account|growdigi -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 00:11:10|Table|growdigi registers for Hourly NLHE 200 Freeroll
+2017-05-02 00:13:12|Connect|Connection 000000B9 accepted from IP 85.157.35.44, PC 4E467694
+2017-05-02 00:13:24|Connect|Connection 000000B8 expired for IP 201.7.231.1, PC 0873412A
+2017-05-02 00:13:57|Account|growdigi -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 00:13:57|Table|growdigi registers for Hourly PLO 200 Freeroll
+2017-05-02 00:14:08|Account|pokertron +200 balance 1400 (Hourly NLHE 200 Freeroll)
+2017-05-02 00:14:17|Account|causestud -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 00:14:17|Table|causestud registers for Hourly NLHE 200 Freeroll
+2017-05-02 00:14:20|Account|New account created for harrarara
+2017-05-02 00:14:20|Account|pokertron -0 balance 1400 (Hourly NLHE 200 Freeroll)
+2017-05-02 00:14:20|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 00:14:34|Login|harrarara logged into session 000000B9 from IP 85.157.35.44, PC 4E467694
+2017-05-02 00:14:35|Connect|causestud disconnects session 000000B5, PC 2AB2B0C3
+2017-05-02 00:14:38|Account|Jessica -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 00:14:38|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 00:15:09|Account|harrarara -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 00:15:09|Table|harrarara registers for Hourly PLO 200 Freeroll
+2017-05-02 00:15:28|Connect|airbou reconnects session 000000B6
+2017-05-02 00:17:24|Connect|Connection 000000B5 expired for causestud, PC 2AB2B0C3
+2017-05-02 00:17:24|System|Traffic - Seconds: 600, Bytes in: 49596, Bytes out: 2690793, Total: 2740389
+2017-05-02 00:24:20|Connect|airbou reconnects session 000000B6
+2017-05-02 00:24:37|Connect|Connection 000000BA accepted from IP 119.95.218.64, PC 2AB2B0C3
+2017-05-02 00:24:40|Login|causestud logged into session 000000BA from IP 119.95.218.64, PC 2AB2B0C3
+2017-05-02 00:24:44|Connect|Jessica disconnects session 000000B0, PC 9950266D
+2017-05-02 00:25:24|Connect|Packet port sweeps: 1
+2017-05-02 00:27:24|Connect|Connection 000000B0 expired for Jessica, PC 9950266D
+2017-05-02 00:27:24|System|Traffic - Seconds: 600, Bytes in: 5030, Bytes out: 30451, Total: 35481
+2017-05-02 00:30:09|Table|growdigi joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 00:30:09|Table|airbou joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 00:30:09|Table|lordsilver joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 00:30:09|Table|harrarara joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 00:30:09|Table|causestud joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 00:30:09|Table|pokertron joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 00:30:09|Table|magicmike joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 00:30:09|Table|Jessica joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 00:31:07|Account|causestud -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 00:31:07|Table|causestud registers for Hourly PLO 200 Freeroll
+2017-05-02 00:34:24|Connect|Packet port sweeps: 1
+2017-05-02 00:35:28|Account|pokertron -0 balance 1400 (Hourly PLO 200 Freeroll)
+2017-05-02 00:35:28|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 00:36:34|Account|Jessica +0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 00:36:44|Account|harrarara -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 00:36:44|Table|harrarara registers for Hourly NLHE 200 Freeroll
+2017-05-02 00:37:24|System|Traffic - Seconds: 600, Bytes in: 23326, Bytes out: 1605747, Total: 1629073
+2017-05-02 00:38:28|Connect|Connection 000000BB accepted from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 00:38:42|Login|Efyang logged into session 000000BB from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 00:38:47|Account|Efyang -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 00:38:47|Table|Efyang registers for Hourly NLHE 200 Freeroll
+2017-05-02 00:38:55|Account|Efyang -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 00:38:55|Table|Efyang registers for Hourly PLO 200 Freeroll
+2017-05-02 00:39:15|Account|causestud +200 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 00:40:05|Table|airbou unregisters from Hourly NLHE 200 Freeroll
+2017-05-02 00:40:05|Account|airbou +0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 00:40:10|Connect|airbou disconnects session 000000B6, PC 8C321D81
+2017-05-02 00:42:24|Connect|Connection 000000B6 expired for airbou, PC 8C321D81
+2017-05-02 00:47:24|System|Traffic - Seconds: 600, Bytes in: 13465, Bytes out: 605501, Total: 618966
+2017-05-02 00:47:27|Connect|Gss disconnects session 000000A5, PC 68768B75
+2017-05-02 00:50:24|Connect|Connection 000000A5 expired for Gss, PC 68768B75
+2017-05-02 00:50:25|Connect|Connection 000000BC accepted from IP 212.220.1.134, PC 9950266D
+2017-05-02 00:51:44|Connect|Bam disconnects session 0000002A, PC 5BD01B97
+2017-05-02 00:51:53|Connect|IP 212.220.1.134 disconnects session 000000BC, PC 9950266D
+2017-05-02 00:52:04|Connect|Connection 000000BD accepted from IP 212.220.1.134, PC 9950266D
+2017-05-02 00:52:24|Login|Jessica logged into session 000000BD from IP 212.220.1.134, PC 9950266D
+2017-05-02 00:52:37|Account|Jessica -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 00:52:37|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 00:54:24|Connect|Connection 0000002A expired for Bam, PC 5BD01B97
+2017-05-02 00:54:24|Connect|Connection 000000BC expired for IP 212.220.1.134, PC 9950266D
+2017-05-02 00:55:50|Connect|Connection 000000BE accepted from IP 137.151.175.48, PC D31BA16B
+2017-05-02 00:56:05|Login|magicmike logged into session 000000BE from IP 137.151.175.48, PC D31BA16B
+2017-05-02 00:56:17|Account|magicmike -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 00:56:17|Table|magicmike registers for Hourly PLO 200 Freeroll
+2017-05-02 00:56:23|Account|magicmike -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 00:56:23|Table|magicmike registers for Hourly NLHE 200 Freeroll
+2017-05-02 00:57:24|System|Traffic - Seconds: 600, Bytes in: 14119, Bytes out: 496261, Total: 510380
+2017-05-02 00:59:29|Connect|IP 49.146.210.179 disconnects session 00000067, PC 07D0ACD3
+2017-05-02 01:00:09|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 01:00:09|Table|Efyang joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 01:00:09|Table|harrarara joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 01:00:09|Table|growdigi joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 01:00:09|Table|magicmike joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 01:00:09|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 01:00:09|Table|causestud joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 01:00:51|Account|pokertron -0 balance 1400 (Hourly NLHE 200 Freeroll)
+2017-05-02 01:00:51|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 01:01:03|Account|causestud -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 01:01:03|Table|causestud registers for Hourly NLHE 200 Freeroll
+2017-05-02 01:02:24|Connect|Connection 00000067 expired for IP 49.146.210.179, PC 07D0ACD3
+2017-05-02 01:03:26|Connect|growdigi disconnects session 000000B7, PC C331EFC0
+2017-05-02 01:06:24|Connect|Connection 000000B7 expired for growdigi, PC C331EFC0
+2017-05-02 01:07:03|Account|magicmike -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 01:07:03|Table|magicmike registers for Hourly NLHE 200 Freeroll
+2017-05-02 01:07:24|System|Traffic - Seconds: 600, Bytes in: 16580, Bytes out: 1205106, Total: 1221686
+2017-05-02 01:11:51|Account|Jessica +200 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 01:12:07|Account|Jessica -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 01:12:07|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 01:14:51|Account|Efyang -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 01:14:51|Table|Efyang registers for Hourly NLHE 200 Freeroll
+2017-05-02 01:16:05|Connect|Connection 000000BF accepted from IP 185.24.232.14, PC C331EFC0
+2017-05-02 01:16:13|Login|growdigi logged into session 000000BF from IP 185.24.232.14, PC C331EFC0
+2017-05-02 01:17:24|System|Traffic - Seconds: 600, Bytes in: 12108, Bytes out: 487814, Total: 499922
+2017-05-02 01:20:38|Logout|Mat logged out session 00000064, PC 17A6F9F4
+2017-05-02 01:20:41|Connect|Efyang disconnects session 000000BB, PC 1CEE2B38
+2017-05-02 01:22:51|Connect|Connection 000000C0 accepted from IP 172.58.95.123, PC 7CC611D8
+2017-05-02 01:23:17|Connect|IP 172.58.95.123 disconnects session 000000C0, PC 7CC611D8
+2017-05-02 01:23:25|Connect|Connection 000000BB expired for Efyang, PC 1CEE2B38
+2017-05-02 01:23:58|Connect|Connection 000000C1 accepted from IP 49.146.210.179, PC 07D0ACD3
+2017-05-02 01:25:25|Connect|Connection 000000C0 expired for IP 172.58.95.123, PC 7CC611D8
+2017-05-02 01:25:31|Connect|magicmike disconnects session 000000BE, PC D31BA16B
+2017-05-02 01:27:25|System|Traffic - Seconds: 600, Bytes in: 14040, Bytes out: 447456, Total: 461496
+2017-05-02 01:28:25|Connect|Connection 000000BE expired for magicmike, PC D31BA16B
+2017-05-02 01:29:35|Connect|Connection 000000C2 accepted from IP 137.151.175.48, PC 0059EE5D
+2017-05-02 01:29:45|Login|magicmike logged into session 000000C2 from IP 137.151.175.48, PC 0059EE5D
+2017-05-02 01:30:10|Table|Efyang joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 01:30:10|Table|causestud joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 01:30:10|Table|magicmike joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 01:30:10|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 01:30:10|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 01:30:25|Account|causestud -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 01:30:25|Table|causestud registers for Hourly PLO 200 Freeroll
+2017-05-02 01:32:51|Account|magicmike -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 01:32:51|Table|magicmike registers for Hourly PLO 200 Freeroll
+2017-05-02 01:33:21|Connect|Connection 000000C3 accepted from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 01:33:31|Login|Efyang logged into session 000000C3 from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 01:34:57|Account|Jessica -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 01:34:57|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 01:36:29|Account|harrarara -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 01:36:29|Table|harrarara registers for Hourly NLHE 200 Freeroll
+2017-05-02 01:36:50|Account|pokertron +200 balance 1600 (Hourly PLO 200 Freeroll)
+2017-05-02 01:36:57|Account|pokertron -0 balance 1600 (Hourly PLO 200 Freeroll)
+2017-05-02 01:36:57|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 01:37:00|Account|Efyang -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 01:37:00|Table|Efyang registers for Hourly PLO 200 Freeroll
+2017-05-02 01:37:25|System|Traffic - Seconds: 600, Bytes in: 26469, Bytes out: 1522363, Total: 1548832
+2017-05-02 01:47:25|System|Traffic - Seconds: 600, Bytes in: 105, Bytes out: 3807, Total: 3912
+2017-05-02 01:47:40|Connect|magicmike disconnects session 000000C2, PC 0059EE5D
+2017-05-02 01:49:44|Connect|magicmike reconnects session 000000C2
+2017-05-02 01:53:04|Connect|Efyang disconnects session 000000C3, PC 1CEE2B38
+2017-05-02 01:54:54|Connect|Connection 000000C4 accepted from IP 69.122.82.96, PC D7AF492C
+2017-05-02 01:55:18|Login|spyder logged into session 000000C4 from IP 69.122.82.96, PC D7AF492C
+2017-05-02 01:55:25|Connect|Connection 000000C3 expired for Efyang, PC 1CEE2B38
+2017-05-02 01:55:28|Account|spyder -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 01:55:28|Table|spyder registers for Hourly NLHE 200 Freeroll
+2017-05-02 01:57:03|Connect|magicmike disconnects session 000000C2, PC 0059EE5D
+2017-05-02 01:57:04|Connect|Connection 000000C5 accepted from IP 137.151.175.48, PC 0059EE5D
+2017-05-02 01:57:11|Logout|magicmike logged out session 000000C2, PC 0059EE5D
+2017-05-02 01:57:11|Login|magicmike logged into session 000000C5 from IP 137.151.175.48, PC 0059EE5D
+2017-05-02 01:57:20|Account|harrarara -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 01:57:20|Table|harrarara registers for Hourly PLO 200 Freeroll
+2017-05-02 01:57:25|System|Traffic - Seconds: 600, Bytes in: 15876, Bytes out: 863361, Total: 879237
+2017-05-02 01:58:26|Connect|growdigi disconnects session 000000BF, PC C331EFC0
+2017-05-02 02:00:10|Table|magicmike joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 02:00:10|Table|harrarara joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 02:00:10|Table|Efyang joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 02:00:10|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 02:00:10|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 02:00:10|Table|spyder joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 02:00:10|Table|causestud joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 02:01:20|Account|pokertron -0 balance 1600 (Hourly NLHE 200 Freeroll)
+2017-05-02 02:01:20|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 02:01:21|Account|causestud -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 02:01:21|Table|causestud registers for Hourly NLHE 200 Freeroll
+2017-05-02 02:01:25|Connect|Connection 000000BF expired for growdigi, PC C331EFC0
+2017-05-02 02:01:31|Connect|Connection 000000C6 accepted from IP 180.253.94.57, PC 01749E53
+2017-05-02 02:01:39|Connect|IP 180.253.94.57 disconnects session 000000C6, PC 01749E53
+2017-05-02 02:04:25|Connect|Connection 000000C6 expired for IP 180.253.94.57, PC 01749E53
+2017-05-02 02:06:33|Account|Efyang +0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 02:07:25|System|Traffic - Seconds: 600, Bytes in: 32166, Bytes out: 1729742, Total: 1761908
+2017-05-02 02:10:33|Account|Jessica -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 02:10:33|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 02:11:28|Connect|magicmike disconnects session 000000C5, PC 0059EE5D
+2017-05-02 02:11:47|Connect|Connection 000000C7 accepted from IP 137.151.175.48, PC 0059EE5D
+2017-05-02 02:11:54|Logout|magicmike logged out session 000000C5, PC 0059EE5D
+2017-05-02 02:11:54|Login|magicmike logged into session 000000C7 from IP 137.151.175.48, PC 0059EE5D
+2017-05-02 02:16:54|Logout|spyder logged out session 000000C4, PC D7AF492C
+2017-05-02 02:17:24|System|Traffic - Seconds: 600, Bytes in: 13426, Bytes out: 803482, Total: 816908
+2017-05-02 02:17:51|Account|causestud +200 balance 600 (Hourly NLHE 200 Freeroll)
+2017-05-02 02:17:58|Account|magicmike -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 02:17:58|Table|magicmike registers for Hourly NLHE 200 Freeroll
+2017-05-02 02:26:41|Connect|Jessica disconnects session 000000BD, PC 9950266D
+2017-05-02 02:26:55|Account|harrarara -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 02:26:55|Table|harrarara registers for Hourly NLHE 200 Freeroll
+2017-05-02 02:27:24|System|Traffic - Seconds: 600, Bytes in: 2315, Bytes out: 43272, Total: 45587
+2017-05-02 02:29:24|Connect|Connection 000000BD expired for Jessica, PC 9950266D
+2017-05-02 02:30:09|Table|magicmike joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 02:30:09|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 02:30:09|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 02:30:09|Table|Efyang joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 02:30:09|Table|harrarara joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 02:30:09|Table|causestud joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 02:30:26|Account|pokertron -0 balance 1600 (Hourly PLO 200 Freeroll)
+2017-05-02 02:30:26|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 02:33:49|Connect|Connection 000000C8 accepted from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 02:34:13|Login|Efyang logged into session 000000C8 from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 02:36:03|Account|Jessica +0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 02:36:05|Account|causestud -0 balance 600 (Hourly PLO 200 Freeroll)
+2017-05-02 02:36:05|Table|causestud registers for Hourly PLO 200 Freeroll
+2017-05-02 02:36:08|Account|magicmike -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 02:36:08|Table|magicmike registers for Hourly PLO 200 Freeroll
+2017-05-02 02:36:20|Connect|Connection 000000C9 accepted from IP 212.220.1.134, PC 9950266D
+2017-05-02 02:36:38|Login|Jessica logged into session 000000C9 from IP 212.220.1.134, PC 9950266D
+2017-05-02 02:36:53|Account|Jessica -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 02:36:53|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 02:37:24|System|Traffic - Seconds: 600, Bytes in: 14684, Bytes out: 608882, Total: 623566
+2017-05-02 02:38:14|Account|harrarara +200 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 02:38:37|Account|harrarara -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 02:38:37|Table|harrarara registers for Hourly PLO 200 Freeroll
+2017-05-02 02:45:58|Account|Efyang -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 02:45:58|Table|Efyang registers for Hourly NLHE 200 Freeroll
+2017-05-02 02:46:03|Account|Efyang -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 02:46:03|Table|Efyang registers for Hourly PLO 200 Freeroll
+2017-05-02 02:47:24|System|Traffic - Seconds: 600, Bytes in: 4556, Bytes out: 102716, Total: 107272
+2017-05-02 02:49:24|Connect|Jessica disconnects session 000000C9, PC 9950266D
+2017-05-02 02:52:24|Connect|Connection 000000C9 expired for Jessica, PC 9950266D
+2017-05-02 02:57:24|System|Traffic - Seconds: 600, Bytes in: 1610, Bytes out: 6250, Total: 7860
+2017-05-02 03:00:09|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 03:00:09|Table|causestud joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 03:00:09|Table|Efyang joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 03:00:09|Table|harrarara joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 03:00:09|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 03:00:09|Table|magicmike joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 03:00:23|Account|causestud -0 balance 600 (Hourly NLHE 200 Freeroll)
+2017-05-02 03:00:23|Table|causestud registers for Hourly NLHE 200 Freeroll
+2017-05-02 03:00:34|Account|pokertron -0 balance 1600 (Hourly NLHE 200 Freeroll)
+2017-05-02 03:00:34|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 03:01:23|Connect|Connection 000000CA accepted from IP 212.220.1.134, PC 9950266D
+2017-05-02 03:01:39|Login|Jessica logged into session 000000CA from IP 212.220.1.134, PC 9950266D
+2017-05-02 03:02:09|Account|Jessica -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 03:02:09|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 03:03:37|Connect|magicmike disconnects session 000000C7, PC 0059EE5D
+2017-05-02 03:03:39|Connect|Connection 000000CB accepted from IP 137.151.175.48, PC 0059EE5D
+2017-05-02 03:03:45|Logout|magicmike logged out session 000000C7, PC 0059EE5D
+2017-05-02 03:03:45|Login|magicmike logged into session 000000CB from IP 137.151.175.48, PC 0059EE5D
+2017-05-02 03:06:06|Connect|Jessica disconnects session 000000CA, PC 9950266D
+2017-05-02 03:06:26|Connect|Connection 000000CC accepted from IP 212.220.1.134, PC 9950266D
+2017-05-02 03:07:00|Connect|IP 212.220.1.134 disconnects session 000000CC, PC 9950266D
+2017-05-02 03:07:09|Connect|Connection 000000CD accepted from IP 212.220.1.134, PC 9950266D
+2017-05-02 03:07:24|System|Traffic - Seconds: 600, Bytes in: 14447, Bytes out: 647790, Total: 662237
+2017-05-02 03:07:31|Connect|IP 212.220.1.134 disconnects session 000000CD, PC 9950266D
+2017-05-02 03:08:24|Connect|Connection 000000CA expired for Jessica, PC 9950266D
+2017-05-02 03:08:36|Account|magicmike -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 03:08:36|Table|magicmike registers for Hourly NLHE 200 Freeroll
+2017-05-02 03:09:24|Connect|Connection 000000CC expired for IP 212.220.1.134, PC 9950266D
+2017-05-02 03:10:20|Connect|Connection 000000CE accepted from IP 212.220.1.134, PC 9950266D
+2017-05-02 03:10:24|Connect|Connection 000000CD expired for IP 212.220.1.134, PC 9950266D
+2017-05-02 03:10:38|Login|Jessica logged into session 000000CE from IP 212.220.1.134, PC 9950266D
+2017-05-02 03:12:01|Account|harrarara +200 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 03:16:54|Connect|Jessica disconnects session 000000CE, PC 9950266D
+2017-05-02 03:17:24|System|Traffic - Seconds: 600, Bytes in: 10140, Bytes out: 360667, Total: 370807
+2017-05-02 03:17:55|Account|harrarara -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 03:17:55|Table|harrarara registers for Hourly NLHE 200 Freeroll
+2017-05-02 03:19:24|Connect|Connection 000000CE expired for Jessica, PC 9950266D
+2017-05-02 03:21:44|Connect|Connection 000000CF accepted from IP 60.243.103.49, PC DAD99177
+2017-05-02 03:21:47|Connect|Connection 000000D0 accepted from IP 212.220.1.134, PC 9950266D
+2017-05-02 03:22:02|Connect|IP 60.243.103.49 disconnects session 000000CF, PC DAD99177
+2017-05-02 03:22:02|Login|Jessica logged into session 000000D0 from IP 212.220.1.134, PC 9950266D
+2017-05-02 03:24:24|Connect|Connection 000000CF expired for IP 60.243.103.49, PC DAD99177
+2017-05-02 03:27:24|System|Traffic - Seconds: 600, Bytes in: 6038, Bytes out: 109186, Total: 115224
+2017-05-02 03:29:11|Connect|Connection 000000D1 accepted from IP 47.88.138.116, PC 42A65326
+2017-05-02 03:30:07|Account|New account created for ccccyyyyyys
+2017-05-02 03:30:09|Table|Efyang joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 03:30:09|Table|causestud joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 03:30:09|Table|harrarara joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 03:30:09|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 03:30:09|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 03:30:09|Table|magicmike joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 03:30:11|Login|ccccyyyyyys logged into session 000000D1 from IP 47.88.138.116, PC 42A65326
+2017-05-02 03:30:29|Connect|ccccyyyyyys disconnects session 000000D1, PC 42A65326
+2017-05-02 03:30:33|Account|causestud -0 balance 600 (Hourly PLO 200 Freeroll)
+2017-05-02 03:30:33|Table|causestud registers for Hourly PLO 200 Freeroll
+2017-05-02 03:31:34|Account|pokertron -0 balance 1600 (Hourly PLO 200 Freeroll)
+2017-05-02 03:31:34|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 03:33:24|Connect|Connection 000000D1 expired for ccccyyyyyys, PC 42A65326
+2017-05-02 03:34:09|Connect|magicmike disconnects session 000000CB, PC 0059EE5D
+2017-05-02 03:34:32|Account|Jessica -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 03:34:32|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 03:36:24|Connect|Connection 000000CB expired for magicmike, PC 0059EE5D
+2017-05-02 03:37:24|System|Traffic - Seconds: 600, Bytes in: 24001, Bytes out: 1397767, Total: 1421768
+2017-05-02 03:37:32|Account|Efyang +200 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 03:37:41|Account|Efyang -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 03:37:41|Table|Efyang registers for Hourly PLO 200 Freeroll
+2017-05-02 03:38:04|Account|harrarara -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 03:38:04|Table|harrarara registers for Hourly PLO 200 Freeroll
+2017-05-02 03:47:24|System|Traffic - Seconds: 600, Bytes in: 1030, Bytes out: 36907, Total: 37937
+2017-05-02 03:57:24|System|Traffic - Seconds: 600, Bytes in: 105, Bytes out: 3217, Total: 3322
+2017-05-02 04:00:09|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 04:00:09|Table|causestud joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 04:00:09|Table|harrarara joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 04:00:09|Table|magicmike joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 04:00:09|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 04:01:35|Connect|Connection 000000D2 accepted from IP 104.32.111.87, PC 9C5AC909
+2017-05-02 04:01:45|Login|magicmike logged into session 000000D2 from IP 104.32.111.87, PC 9C5AC909
+2017-05-02 04:04:54|Account|Efyang -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 04:04:54|Table|Efyang registers for Hourly NLHE 200 Freeroll
+2017-05-02 04:07:00|Account|harrarara -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 04:07:00|Table|harrarara registers for Hourly NLHE 200 Freeroll
+2017-05-02 04:07:24|System|Traffic - Seconds: 600, Bytes in: 21817, Bytes out: 1385250, Total: 1407067
+2017-05-02 04:08:08|Account|magicmike -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 04:08:08|Table|magicmike registers for Hourly NLHE 200 Freeroll
+2017-05-02 04:08:11|Account|magicmike -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 04:08:11|Table|magicmike registers for Hourly PLO 200 Freeroll
+2017-05-02 04:10:05|Account|Jessica -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 04:10:05|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 04:10:26|Account|causestud +200 balance 800 (Hourly NLHE 200 Freeroll)
+2017-05-02 04:10:29|Logout|pokertron logged out session 000000B2, PC BA50DFF5
+2017-05-02 04:10:40|Account|causestud -0 balance 800 (Hourly NLHE 200 Freeroll)
+2017-05-02 04:10:40|Table|causestud registers for Hourly NLHE 200 Freeroll
+2017-05-02 04:10:50|Logout|Jessica logged out session 000000D0, PC 9950266D
+2017-05-02 04:17:24|System|Traffic - Seconds: 600, Bytes in: 4970, Bytes out: 206775, Total: 211745
+2017-05-02 04:27:24|System|Traffic - Seconds: 600, Bytes in: 536, Bytes out: 2864, Total: 3400
+2017-05-02 04:30:09|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 04:30:09|Table|magicmike joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 04:30:09|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 04:30:09|Table|harrarara joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 04:30:09|Table|causestud joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 04:30:09|Table|Efyang joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 04:35:51|Account|Jessica +0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 04:35:51|Account|pokertron +0 balance 1600 (Hourly PLO 200 Freeroll)
+2017-05-02 04:37:24|System|Traffic - Seconds: 600, Bytes in: 6009, Bytes out: 431276, Total: 437285
+2017-05-02 04:38:13|Account|magicmike -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 04:38:13|Table|magicmike registers for Hourly PLO 200 Freeroll
+2017-05-02 04:38:19|Account|harrarara -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 04:38:19|Table|harrarara registers for Hourly PLO 200 Freeroll
+2017-05-02 04:38:38|Account|causestud +200 balance 1000 (Hourly PLO 200 Freeroll)
+2017-05-02 04:38:41|Connect|Connection 000000D3 accepted from IP 73.232.212.143, PC 97FB5484
+2017-05-02 04:38:47|Account|Efyang -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 04:38:47|Table|Efyang registers for Hourly PLO 200 Freeroll
+2017-05-02 04:38:50|Login|Blackbettle logged into session 000000D3 from IP 73.232.212.143, PC 97FB5484
+2017-05-02 04:39:03|Account|Blackbettle -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 04:39:03|Table|Blackbettle registers for Hourly NLHE 200 Freeroll
+2017-05-02 04:40:24|Account|causestud -0 balance 1000 (Hourly PLO 200 Freeroll)
+2017-05-02 04:40:24|Table|causestud registers for Hourly PLO 200 Freeroll
+2017-05-02 04:43:13|Connect|Connection 000000D4 accepted from IP 195.251.4.20, PC 3AF4E7F1
+2017-05-02 04:43:25|Login|bspus logged into session 000000D4 from IP 195.251.4.20, PC 3AF4E7F1
+2017-05-02 04:43:47|Account|bspus -0 balance 800 (Hourly NLHE 200 Freeroll)
+2017-05-02 04:43:47|Table|bspus registers for Hourly NLHE 200 Freeroll
+2017-05-02 04:43:52|Account|bspus -0 balance 800 (Hourly PLO 200 Freeroll)
+2017-05-02 04:43:52|Table|bspus registers for Hourly PLO 200 Freeroll
+2017-05-02 04:47:24|System|Traffic - Seconds: 600, Bytes in: 17628, Bytes out: 589605, Total: 607233
+2017-05-02 04:49:24|Connect|Efyang disconnects session 000000C8, PC 1CEE2B38
+2017-05-02 04:51:24|Connect|Connection 000000C8 expired for Efyang, PC 1CEE2B38
+2017-05-02 04:57:24|System|Traffic - Seconds: 600, Bytes in: 607, Bytes out: 3887, Total: 4494
+2017-05-02 04:58:26|Connect|Connection 000000D5 accepted from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 04:59:16|Login|Efyang logged into session 000000D5 from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 05:00:09|Table|Blackbettle joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 05:00:09|Table|causestud joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 05:00:09|Table|harrarara joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 05:00:09|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 05:00:09|Table|bspus joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 05:00:09|Table|Efyang joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 05:00:09|Table|magicmike joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 05:00:56|Account|causestud -0 balance 1000 (Hourly NLHE 200 Freeroll)
+2017-05-02 05:00:56|Table|causestud registers for Hourly NLHE 200 Freeroll
+2017-05-02 05:04:29|Account|magicmike -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 05:04:29|Table|magicmike registers for Hourly NLHE 200 Freeroll
+2017-05-02 05:04:35|Account|Efyang -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 05:04:35|Table|Efyang registers for Hourly NLHE 200 Freeroll
+2017-05-02 05:05:08|Account|harrarara -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 05:05:08|Table|harrarara registers for Hourly NLHE 200 Freeroll
+2017-05-02 05:05:42|Account|Jessica +0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 05:06:33|Account|bspus +200 balance 1000 (Hourly NLHE 200 Freeroll)
+2017-05-02 05:06:40|Connect|bspus disconnects session 000000D4, PC 3AF4E7F1
+2017-05-02 05:06:56|Account|Blackbettle -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 05:06:56|Table|Blackbettle registers for Hourly PLO 200 Freeroll
+2017-05-02 05:07:25|System|Traffic - Seconds: 600, Bytes in: 17065, Bytes out: 1040152, Total: 1057217
+2017-05-02 05:09:25|Connect|Connection 000000D4 expired for bspus, PC 3AF4E7F1
+2017-05-02 05:17:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 2316, Total: 2316
+2017-05-02 05:27:24|System|Traffic - Seconds: 600, Bytes in: 209, Bytes out: 2558, Total: 2767
+2017-05-02 05:30:09|Table|Efyang joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 05:30:09|Table|causestud joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 05:30:09|Table|harrarara joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 05:30:09|Table|magicmike joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 05:30:09|Table|bspus joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 05:30:09|Table|Blackbettle joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 05:30:23|Account|causestud -0 balance 1000 (Hourly PLO 200 Freeroll)
+2017-05-02 05:30:23|Table|causestud registers for Hourly PLO 200 Freeroll
+2017-05-02 05:30:25|Table|PLO 04A closed
+2017-05-02 07:51:50|Account|causestud +0 balance 1000 (Crash Recovery)
+2017-05-02 07:51:50|Account|causestud crash recovery from Hourly NLHE 200 Freeroll (TReg) 2017-05-02 05:05:08
+2017-05-02 07:51:50|Account|magicmike +0 balance 200 (Crash Recovery)
+2017-05-02 07:51:50|Account|magicmike crash recovery from Hourly NLHE 200 Freeroll (TReg) 2017-05-02 05:05:08
+2017-05-02 07:51:50|Account|Efyang +0 balance 200 (Crash Recovery)
+2017-05-02 07:51:50|Account|Efyang crash recovery from Hourly NLHE 200 Freeroll (TReg) 2017-05-02 05:05:08
+2017-05-02 07:51:50|Account|harrarara +0 balance 400 (Crash Recovery)
+2017-05-02 07:51:50|Account|harrarara crash recovery from Hourly NLHE 200 Freeroll (TReg) 2017-05-02 05:05:08
+2017-05-02 07:51:50|Account|causestud +0 balance 1000 (Crash Recovery)
+2017-05-02 07:51:50|Account|causestud crash recovery from Hourly PLO 200 Freeroll (TReg) 2017-05-02 05:30:23
+2017-05-02 07:51:50|Account|Blackbettle +33.33 balance 33.33 (Crash Recovery)
+2017-05-02 07:51:50|Account|Blackbettle crash recovery from Hourly PLO 200 Freeroll (TRun) 2017-05-02 05:30:10
+2017-05-02 07:51:50|Account|bspus +33.33 balance 1033.33 (Crash Recovery)
+2017-05-02 07:51:50|Account|bspus crash recovery from Hourly PLO 200 Freeroll (TRun) 2017-05-02 05:30:10
+2017-05-02 07:51:50|Account|causestud +33.33 balance 1033.33 (Crash Recovery)
+2017-05-02 07:51:50|Account|causestud crash recovery from Hourly PLO 200 Freeroll (TRun) 2017-05-02 05:30:10
+2017-05-02 07:51:50|Account|Efyang +33.33 balance 233.33 (Crash Recovery)
+2017-05-02 07:51:50|Account|Efyang crash recovery from Hourly PLO 200 Freeroll (TRun) 2017-05-02 05:30:10
+2017-05-02 07:51:50|Account|harrarara +33.33 balance 433.33 (Crash Recovery)
+2017-05-02 07:51:50|Account|harrarara crash recovery from Hourly PLO 200 Freeroll (TRun) 2017-05-02 05:30:10
+2017-05-02 07:51:50|Account|magicmike +33.33 balance 233.33 (Crash Recovery)
+2017-05-02 07:51:50|Account|magicmike crash recovery from Hourly PLO 200 Freeroll (TRun) 2017-05-02 05:30:10
+2017-05-02 07:51:50|Rake|Entry fee account +0 balance 0 (Crash Recovery)
+2017-05-02 07:51:50|Rake|Entry fee crash recovery from Hourly PLO 200 Freeroll (TRun) 2017-05-02 05:30:10
+2017-05-02 07:53:08|System|Game server started
+2017-05-02 07:53:08|Table|NLHE 01A opened
+2017-05-02 07:53:08|Table|NLHE 02A opened
+2017-05-02 07:53:08|Table|NLHE 03A opened
+2017-05-02 07:53:08|Table|NLHE 04A opened
+2017-05-02 07:53:08|Table|NLHE 05A opened
+2017-05-02 07:53:08|Table|PLO 01A opened
+2017-05-02 07:53:08|Table|PLO 02A opened
+2017-05-02 07:53:08|Table|PLO 03A opened
+2017-05-02 07:53:08|Table|PLO 04A opened
+2017-05-02 07:53:08|Table|PLO 05A opened
+2017-05-02 07:53:08|Table|Hourly NLHE 200 Freeroll opened
+2017-05-02 07:53:08|Table|Hourly PLO 200 Freeroll opened
+2017-05-02 07:53:52|Connect|Connection 00000001 accepted from IP 121.54.39.143, PC F1DF7B4D
+2017-05-02 07:54:12|Connect|IP 121.54.39.143 disconnects session 00000001, PC F1DF7B4D
+2017-05-02 07:56:17|Connect|Connection 00000002 accepted from IP 104.32.111.87, PC 15EB3B2F
+2017-05-02 07:56:36|Login|lordsilver logged into session 00000002 from IP 104.32.111.87, PC 15EB3B2F
+2017-05-02 07:57:08|Connect|Connection 00000001 expired for IP 121.54.39.143, PC F1DF7B4D
+2017-05-02 07:57:31|Account|lordsilver -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 07:57:31|Table|lordsilver registers for Hourly NLHE 200 Freeroll
+2017-05-02 07:57:34|Account|lordsilver -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 07:57:34|Table|lordsilver registers for Hourly PLO 200 Freeroll
+2017-05-02 07:57:50|Connect|Connection 00000003 accepted from IP 208.54.39.224, PC DB54BE32
+2017-05-02 07:58:08|Login|magicmike logged into session 00000003 from IP 208.54.39.224, PC DB54BE32
+2017-05-02 07:58:15|Account|magicmike -0 balance 233.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 07:58:15|Table|magicmike registers for Hourly NLHE 200 Freeroll
+2017-05-02 07:58:21|Account|magicmike -0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 07:58:21|Table|magicmike registers for Hourly PLO 200 Freeroll
+2017-05-02 07:58:23|Connect|Connection 00000004 accepted from IP 118.232.9.247, PC 80569003
+2017-05-02 07:58:41|Login|sajuuk logged into session 00000004 from IP 118.232.9.247, PC 80569003
+2017-05-02 07:58:48|Account|sajuuk -0 balance 1000 (Hourly NLHE 200 Freeroll)
+2017-05-02 07:58:48|Table|sajuuk registers for Hourly NLHE 200 Freeroll
+2017-05-02 07:58:56|Account|sajuuk -0 balance 1000 (Hourly PLO 200 Freeroll)
+2017-05-02 07:58:56|Table|sajuuk registers for Hourly PLO 200 Freeroll
+2017-05-02 08:00:08|Table|magicmike joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 08:00:08|Table|lordsilver joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 08:00:08|Table|sajuuk joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 08:00:17|Connect|magicmike reconnects session 00000003
+2017-05-02 08:00:58|Connect|Connection 00000005 accepted from IP 208.54.39.224, PC C9BA1A97
+2017-05-02 08:01:06|Logout|magicmike logged out session 00000003, PC DB54BE32
+2017-05-02 08:01:06|Login|magicmike logged into session 00000005 from IP 208.54.39.224, PC C9BA1A97
+2017-05-02 08:03:08|System|Traffic - Seconds: 600, Bytes in: 52223, Bytes out: 2758812, Total: 2811035
+2017-05-02 08:04:08|Connect|File port sweeps: 6
+2017-05-02 08:06:10|Account|sajuuk +200 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 08:06:28|Account|lordsilver -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 08:06:28|Table|lordsilver registers for Hourly NLHE 200 Freeroll
+2017-05-02 08:07:17|Account|sajuuk -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 08:07:17|Table|sajuuk registers for Hourly NLHE 200 Freeroll
+2017-05-02 08:07:48|Connect|magicmike disconnects session 00000005, PC C9BA1A97
+2017-05-02 08:10:08|Connect|Connection 00000005 expired for magicmike, PC C9BA1A97
+2017-05-02 08:13:08|System|Traffic - Seconds: 600, Bytes in: 9910, Bytes out: 604114, Total: 614024
+2017-05-02 08:14:51|Connect|Connection 00000006 accepted from IP 178.76.204.54, PC 235F1A05
+2017-05-02 08:15:59|Account|New account created for potatos55
+2017-05-02 08:16:03|Login|potatos55 logged into session 00000006 from IP 178.76.204.54, PC 235F1A05
+2017-05-02 08:16:45|Account|potatos55 -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 08:16:45|Table|potatos55 registers for Hourly NLHE 200 Freeroll
+2017-05-02 08:17:17|Logout|potatos55 logged out session 00000006, PC 235F1A05
+2017-05-02 08:17:21|Connect|Connection 00000007 accepted from IP 178.76.204.54, PC 235F1A05
+2017-05-02 08:17:30|Login|potatos55 logged into session 00000007 from IP 178.76.204.54, PC 235F1A05
+2017-05-02 08:18:27|Account|potatos55 -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 08:18:27|Table|potatos55 registers for Hourly PLO 200 Freeroll
+2017-05-02 08:20:13|Connect|Connection 00000008 accepted from IP 203.215.121.165, PC FF6418F0
+2017-05-02 08:20:22|Login|Buenaobra logged into session 00000008 from IP 203.215.121.165, PC FF6418F0
+2017-05-02 08:20:54|Account|Buenaobra -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 08:20:54|Table|Buenaobra registers for Hourly NLHE 200 Freeroll
+2017-05-02 08:21:01|Account|Buenaobra -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 08:21:01|Table|Buenaobra registers for Hourly PLO 200 Freeroll
+2017-05-02 08:23:08|System|Traffic - Seconds: 600, Bytes in: 26777, Bytes out: 931278, Total: 958055
+2017-05-02 08:27:01|Connect|Connection 00000009 accepted from IP 121.54.39.143, PC F1DF7B4D
+2017-05-02 08:27:19|Connect|IP 121.54.39.143 disconnects session 00000009, PC F1DF7B4D
+2017-05-02 08:27:38|Connect|Connection 0000000A accepted from IP 208.54.39.224, PC C9BA1A97
+2017-05-02 08:27:44|Login|magicmike logged into session 0000000A from IP 208.54.39.224, PC C9BA1A97
+2017-05-02 08:28:38|Table|magicmike unregisters from Hourly PLO 200 Freeroll
+2017-05-02 08:28:38|Account|magicmike +0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 08:28:42|Account|magicmike -0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 08:28:42|Table|magicmike registers for Hourly PLO 200 Freeroll
+2017-05-02 08:28:49|Account|magicmike -0 balance 233.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 08:28:49|Table|magicmike registers for Hourly NLHE 200 Freeroll
+2017-05-02 08:30:08|Connect|Connection 00000009 expired for IP 121.54.39.143, PC F1DF7B4D
+2017-05-02 08:30:08|Table|sajuuk joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 08:30:08|Table|Buenaobra joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 08:30:08|Table|magicmike joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 08:30:08|Table|lordsilver joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 08:30:08|Table|potatos55 joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 08:30:39|Connect|Connection 0000000B accepted from IP 151.182.169.25, PC 5F0F18F3
+2017-05-02 08:32:04|Login|Tokutaro logged into session 0000000B from IP 151.182.169.25, PC 5F0F18F3
+2017-05-02 08:32:13|Account|Tokutaro -0 balance 600 (Hourly NLHE 200 Freeroll)
+2017-05-02 08:32:13|Table|Tokutaro registers for Hourly NLHE 200 Freeroll
+2017-05-02 08:32:18|Account|Tokutaro -0 balance 600 (Hourly PLO 200 Freeroll)
+2017-05-02 08:32:18|Table|Tokutaro registers for Hourly PLO 200 Freeroll
+2017-05-02 08:32:52|Account|lordsilver -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 08:32:52|Table|lordsilver registers for Hourly PLO 200 Freeroll
+2017-05-02 08:33:08|System|Traffic - Seconds: 600, Bytes in: 13782, Bytes out: 679464, Total: 693246
+2017-05-02 08:35:45|Account|magicmike -0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 08:35:45|Table|magicmike registers for Hourly PLO 200 Freeroll
+2017-05-02 08:36:01|Account|Buenaobra +200 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 08:36:26|Account|Buenaobra -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 08:36:26|Table|Buenaobra registers for Hourly PLO 200 Freeroll
+2017-05-02 08:40:55|Connect|Connection 0000000C accepted from IP 195.251.4.25, PC 8C4B24C0
+2017-05-02 08:41:03|Account|sajuuk -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 08:41:03|Table|sajuuk registers for Hourly PLO 200 Freeroll
+2017-05-02 08:41:13|Login|bspus logged into session 0000000C from IP 195.251.4.25, PC 8C4B24C0
+2017-05-02 08:41:24|Account|bspus -0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 08:41:24|Table|bspus registers for Hourly PLO 200 Freeroll
+2017-05-02 08:41:31|Account|bspus -0 balance 1033.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 08:41:31|Table|bspus registers for Hourly NLHE 200 Freeroll
+2017-05-02 08:41:41|Connect|bspus disconnects session 0000000C, PC 8C4B24C0
+2017-05-02 08:41:53|Connect|Connection 0000000D accepted from IP 195.251.4.20, PC 3AF4E7F1
+2017-05-02 08:41:59|Logout|bspus logged out session 0000000C, PC 8C4B24C0
+2017-05-02 08:41:59|Login|bspus logged into session 0000000D from IP 195.251.4.20, PC 3AF4E7F1
+2017-05-02 08:43:08|System|Traffic - Seconds: 600, Bytes in: 17815, Bytes out: 667200, Total: 685015
+2017-05-02 08:52:08|Connect|File port sweeps: 2
+2017-05-02 08:53:08|System|Traffic - Seconds: 600, Bytes in: 313, Bytes out: 4165, Total: 4478
+2017-05-02 08:57:27|Connect|Connection 0000000E accepted from IP 121.54.39.143, PC F1DF7B4D
+2017-05-02 08:57:43|Connect|IP 121.54.39.143 disconnects session 0000000E, PC F1DF7B4D
+2017-05-02 08:59:42|Connect|bspus disconnects session 0000000D, PC 3AF4E7F1
+2017-05-02 08:59:57|Connect|bspus reconnects session 0000000D
+2017-05-02 09:00:08|Connect|Connection 0000000E expired for IP 121.54.39.143, PC F1DF7B4D
+2017-05-02 09:00:08|Table|sajuuk joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 09:00:08|Table|Tokutaro joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 09:00:08|Table|magicmike joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 09:00:08|Table|Buenaobra joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 09:00:08|Table|bspus joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 09:00:08|Table|lordsilver joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 09:00:08|Table|potatos55 joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 09:00:22|Account|Tokutaro -0 balance 600 (Hourly NLHE 200 Freeroll)
+2017-05-02 09:00:22|Table|Tokutaro registers for Hourly NLHE 200 Freeroll
+2017-05-02 09:03:08|System|Traffic - Seconds: 600, Bytes in: 7791, Bytes out: 315922, Total: 323713
+2017-05-02 09:05:57|Connect|bspus disconnects session 0000000D, PC 3AF4E7F1
+2017-05-02 09:07:49|Account|Buenaobra -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 09:07:49|Table|Buenaobra registers for Hourly NLHE 200 Freeroll
+2017-05-02 09:08:08|Connect|Connection 0000000D expired for bspus, PC 3AF4E7F1
+2017-05-02 09:08:30|Account|lordsilver -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 09:08:30|Table|lordsilver registers for Hourly NLHE 200 Freeroll
+2017-05-02 09:10:10|Connect|magicmike disconnects session 0000000A, PC C9BA1A97
+2017-05-02 09:10:27|Account|Tokutaro +200 balance 800 (Hourly NLHE 200 Freeroll)
+2017-05-02 09:10:56|Account|potatos55 -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 09:10:56|Table|potatos55 registers for Hourly NLHE 200 Freeroll
+2017-05-02 09:13:08|Connect|Connection 0000000A expired for magicmike, PC C9BA1A97
+2017-05-02 09:13:08|System|Traffic - Seconds: 600, Bytes in: 15387, Bytes out: 761623, Total: 777010
+2017-05-02 09:14:31|Connect|potatos55 disconnects session 00000007, PC 235F1A05
+2017-05-02 09:17:08|Connect|Connection 00000007 expired for potatos55, PC 235F1A05
+2017-05-02 09:20:12|Connect|Connection 0000000F accepted from IP 86.44.237.8, PC 884A1C16
+2017-05-02 09:23:08|System|Traffic - Seconds: 600, Bytes in: 9916, Bytes out: 439628, Total: 449544
+2017-05-02 09:25:46|Connect|Connection 00000010 accepted from IP 208.54.39.224, PC C9BA1A97
+2017-05-02 09:25:53|Login|magicmike logged into session 00000010 from IP 208.54.39.224, PC C9BA1A97
+2017-05-02 09:26:01|Account|magicmike -0 balance 233.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 09:26:01|Table|magicmike registers for Hourly NLHE 200 Freeroll
+2017-05-02 09:26:05|Table|magicmike unregisters from Hourly PLO 200 Freeroll
+2017-05-02 09:26:05|Account|magicmike +0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 09:26:08|Account|magicmike -0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 09:26:08|Table|magicmike registers for Hourly PLO 200 Freeroll
+2017-05-02 09:26:21|Connect|IP 86.44.237.8 disconnects session 0000000F, PC 884A1C16
+2017-05-02 09:27:20|Connect|Connection 00000011 accepted from IP 178.76.204.54, PC BAAB44FD
+2017-05-02 09:27:44|Login|potatos55 logged into session 00000011 from IP 178.76.204.54, PC BAAB44FD
+2017-05-02 09:27:52|Account|potatos55 -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 09:27:52|Table|potatos55 registers for Hourly PLO 200 Freeroll
+2017-05-02 09:29:08|Connect|Connection 0000000F expired for IP 86.44.237.8, PC 884A1C16
+2017-05-02 09:29:25|Account|sajuuk -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 09:29:25|Table|sajuuk registers for Hourly NLHE 200 Freeroll
+2017-05-02 09:30:08|Table|Buenaobra joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 09:30:08|Table|bspus joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 09:30:08|Table|sajuuk joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 09:30:08|Table|magicmike joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 09:30:08|Table|Tokutaro joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 09:30:08|Table|potatos55 joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 09:30:08|Table|lordsilver joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 09:30:22|Account|Tokutaro -0 balance 800 (Hourly PLO 200 Freeroll)
+2017-05-02 09:30:22|Table|Tokutaro registers for Hourly PLO 200 Freeroll
+2017-05-02 09:31:42|Account|magicmike -0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 09:31:42|Table|magicmike registers for Hourly PLO 200 Freeroll
+2017-05-02 09:32:38|Account|lordsilver -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 09:32:38|Table|lordsilver registers for Hourly PLO 200 Freeroll
+2017-05-02 09:33:08|System|Traffic - Seconds: 600, Bytes in: 20727, Bytes out: 1113589, Total: 1134316
+2017-05-02 09:33:24|Connect|Connection 00000012 accepted from IP 119.95.218.64, PC 2AB2B0C3
+2017-05-02 09:33:27|Login|causestud logged into session 00000012 from IP 119.95.218.64, PC 2AB2B0C3
+2017-05-02 09:33:33|Account|causestud -0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 09:33:33|Table|causestud registers for Hourly PLO 200 Freeroll
+2017-05-02 09:33:40|Account|causestud -0 balance 1033.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 09:33:40|Table|causestud registers for Hourly NLHE 200 Freeroll
+2017-05-02 09:36:23|Account|bspus +0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 09:36:53|Account|Buenaobra -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 09:36:53|Table|Buenaobra registers for Hourly PLO 200 Freeroll
+2017-05-02 09:38:17|Account|potatos55 +200 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 09:43:08|System|Traffic - Seconds: 600, Bytes in: 9396, Bytes out: 318408, Total: 327804
+2017-05-02 09:53:08|System|Traffic - Seconds: 600, Bytes in: 159, Bytes out: 2583, Total: 2742
+2017-05-02 09:54:10|Account|sajuuk -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 09:54:10|Table|sajuuk registers for Hourly PLO 200 Freeroll
+2017-05-02 10:00:08|Table|lordsilver joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 10:00:08|Table|Buenaobra joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 10:00:08|Table|causestud joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 10:00:08|Table|potatos55 joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 10:00:08|Table|magicmike joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 10:00:08|Table|Tokutaro joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 10:00:08|Table|sajuuk joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 10:00:20|Account|Tokutaro -0 balance 800 (Hourly NLHE 200 Freeroll)
+2017-05-02 10:00:20|Table|Tokutaro registers for Hourly NLHE 200 Freeroll
+2017-05-02 10:01:12|Account|causestud -0 balance 1033.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 10:01:12|Table|causestud registers for Hourly NLHE 200 Freeroll
+2017-05-02 10:01:32|Account|Buenaobra -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 10:01:32|Table|Buenaobra registers for Hourly NLHE 200 Freeroll
+2017-05-02 10:02:32|Connect|Buenaobra disconnects session 00000008, PC FF6418F0
+2017-05-02 10:02:39|Connect|Connection 00000013 accepted from IP 112.198.69.229, PC CEBA4677
+2017-05-02 10:03:08|System|Traffic - Seconds: 600, Bytes in: 20130, Bytes out: 1264998, Total: 1285128
+2017-05-02 10:03:50|Connect|Connection 00000014 accepted from IP 49.146.210.179, PC 17A6F9F4
+2017-05-02 10:04:04|Connect|causestud disconnects session 00000012, PC 2AB2B0C3
+2017-05-02 10:04:28|Connect|Connection 00000015 accepted from IP 119.95.218.64, PC 2AB2B0C3
+2017-05-02 10:04:30|Logout|causestud logged out session 00000012, PC 2AB2B0C3
+2017-05-02 10:04:30|Login|causestud logged into session 00000015 from IP 119.95.218.64, PC 2AB2B0C3
+2017-05-02 10:05:08|Connect|Connection 00000008 expired for Buenaobra, PC FF6418F0
+2017-05-02 10:05:33|Login|Mat logged into session 00000014 from IP 49.146.210.179, PC 17A6F9F4
+2017-05-02 10:05:57|Account|Mat -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 10:05:57|Table|Mat registers for Hourly PLO 200 Freeroll
+2017-05-02 10:06:32|Account|potatos55 -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 10:06:32|Table|potatos55 registers for Hourly PLO 200 Freeroll
+2017-05-02 10:06:38|Account|potatos55 -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 10:06:38|Table|potatos55 registers for Hourly NLHE 200 Freeroll
+2017-05-02 10:07:59|Connect|magicmike disconnects session 00000010, PC C9BA1A97
+2017-05-02 10:08:37|Account|New account created for swipernam75
+2017-05-02 10:09:29|Account|Tokutaro +200 balance 1000 (Hourly NLHE 200 Freeroll)
+2017-05-02 10:09:36|Account|lordsilver -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 10:09:36|Table|lordsilver registers for Hourly NLHE 200 Freeroll
+2017-05-02 10:10:08|Connect|Connection 00000010 expired for magicmike, PC C9BA1A97
+2017-05-02 10:13:08|System|Traffic - Seconds: 600, Bytes in: 18341, Bytes out: 924829, Total: 943170
+2017-05-02 10:16:37|Account|sajuuk -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 10:16:37|Table|sajuuk registers for Hourly NLHE 200 Freeroll
+2017-05-02 10:18:17|Login|swipernam75 logged into session 00000013 from IP 112.198.69.229, PC CEBA4677
+2017-05-02 10:18:37|Account|swipernam75 -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 10:18:37|Table|swipernam75 registers for Hourly NLHE 200 Freeroll
+2017-05-02 10:18:49|Account|swipernam75 -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 10:18:49|Table|swipernam75 registers for Hourly PLO 200 Freeroll
+2017-05-02 10:19:32|Connect|Connection 00000016 accepted from IP 203.106.150.119, PC 5EE20A90
+2017-05-02 10:22:47|Connect|lordsilver disconnects session 00000002, PC 15EB3B2F
+2017-05-02 10:22:49|Connect|lordsilver reconnects session 00000002
+2017-05-02 10:23:01|Connect|lordsilver disconnects session 00000002, PC 15EB3B2F
+2017-05-02 10:23:02|Connect|lordsilver reconnects session 00000002
+2017-05-02 10:23:08|System|Traffic - Seconds: 600, Bytes in: 16069, Bytes out: 983128, Total: 999197
+2017-05-02 10:23:15|Connect|lordsilver disconnects session 00000002, PC 15EB3B2F
+2017-05-02 10:23:16|Connect|lordsilver reconnects session 00000002
+2017-05-02 10:23:24|Connect|Connection 00000017 accepted from IP 193.70.95.180, PC 299F3DE3
+2017-05-02 10:23:32|Connect|lordsilver disconnects session 00000002, PC 15EB3B2F
+2017-05-02 10:23:33|Connect|lordsilver reconnects session 00000002
+2017-05-02 10:24:10|Account|New account created for Riekie
+2017-05-02 10:24:16|Login|Riekie logged into session 00000016 from IP 203.106.150.119, PC 5EE20A90
+2017-05-02 10:29:22|Connect|Connection 00000018 accepted from IP 49.146.210.179, PC 07D0ACD3
+2017-05-02 10:30:08|Table|Tokutaro joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 10:30:08|Table|causestud joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 10:30:08|Table|Buenaobra joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 10:30:08|Table|lordsilver joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 10:30:08|Table|Mat joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 10:30:08|Table|swipernam75 joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 10:30:08|Table|sajuuk joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 10:30:08|Table|potatos55 joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 10:30:08|Table|magicmike joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 10:30:22|Account|New account created for bestlooser
+2017-05-02 10:30:23|Account|Tokutaro -0 balance 1000 (Hourly PLO 200 Freeroll)
+2017-05-02 10:30:23|Table|Tokutaro registers for Hourly PLO 200 Freeroll
+2017-05-02 10:30:25|Connect|Riekie disconnects session 00000016, PC 5EE20A90
+2017-05-02 10:30:26|Account|causestud -0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 10:30:26|Table|causestud registers for Hourly PLO 200 Freeroll
+2017-05-02 10:30:29|Login|bestlooser logged into session 00000017 from IP 193.70.95.180, PC 299F3DE3
+2017-05-02 10:31:17|Account|bestlooser -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 10:31:17|Table|bestlooser registers for Hourly PLO 200 Freeroll
+2017-05-02 10:31:48|Account|bestlooser -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 10:31:48|Table|bestlooser registers for Hourly NLHE 200 Freeroll
+2017-05-02 10:33:08|Connect|Connection 00000016 expired for Riekie, PC 5EE20A90
+2017-05-02 10:33:08|System|Traffic - Seconds: 600, Bytes in: 34710, Bytes out: 1866269, Total: 1900979
+2017-05-02 10:33:52|Connect|Connection 00000019 accepted from IP 112.198.68.90, PC D4485F89
+2017-05-02 10:35:08|Account|swipernam75 -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 10:35:08|Table|swipernam75 registers for Hourly PLO 200 Freeroll
+2017-05-02 10:36:11|Account|New account created for thekid
+2017-05-02 10:36:27|Login|thekid logged into session 00000019 from IP 112.198.68.90, PC D4485F89
+2017-05-02 10:36:43|Account|thekid -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 10:36:43|Table|thekid registers for Hourly PLO 200 Freeroll
+2017-05-02 10:36:52|Account|thekid -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 10:36:52|Table|thekid registers for Hourly NLHE 200 Freeroll
+2017-05-02 10:37:51|Connect|lordsilver disconnects session 00000002, PC 15EB3B2F
+2017-05-02 10:40:08|Connect|Connection 00000002 expired for lordsilver, PC 15EB3B2F
+2017-05-02 10:41:15|Account|potatos55 +200 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 10:43:08|System|Traffic - Seconds: 600, Bytes in: 20052, Bytes out: 1161242, Total: 1181294
+2017-05-02 10:45:41|Account|potatos55 -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 10:45:41|Table|potatos55 registers for Hourly PLO 200 Freeroll
+2017-05-02 10:45:48|Connect|thekid disconnects session 00000019, PC D4485F89
+2017-05-02 10:45:53|Connect|Connection 0000001A accepted from IP 112.198.68.90, PC D4485F89
+2017-05-02 10:45:57|Logout|thekid logged out session 00000019, PC D4485F89
+2017-05-02 10:45:57|Login|thekid logged into session 0000001A from IP 112.198.68.90, PC D4485F89
+2017-05-02 10:50:21|Connect|thekid disconnects session 0000001A, PC D4485F89
+2017-05-02 10:50:47|Connect|Connection 0000001B accepted from IP 104.222.140.32, PC EFA2C306
+2017-05-02 10:50:51|Login|playa logged into session 0000001B from IP 104.222.140.32, PC EFA2C306
+2017-05-02 10:51:22|Account|playa -0 balance 1016.40 (Hourly NLHE 200 Freeroll)
+2017-05-02 10:51:22|Table|playa registers for Hourly NLHE 200 Freeroll
+2017-05-02 10:51:29|Connect|Connection 0000001C accepted from IP 112.198.68.90, PC D4485F89
+2017-05-02 10:51:29|Account|playa -0 balance 1016.40 (Hourly PLO 200 Freeroll)
+2017-05-02 10:51:29|Table|playa registers for Hourly PLO 200 Freeroll
+2017-05-02 10:51:38|Connect|IP 112.198.68.90 disconnects session 0000001C, PC D4485F89
+2017-05-02 10:51:39|Connect|Connection 0000001D accepted from IP 112.198.68.90, PC D4485F89
+2017-05-02 10:51:44|Logout|thekid logged out session 0000001A, PC D4485F89
+2017-05-02 10:51:44|Login|thekid logged into session 0000001D from IP 112.198.68.90, PC D4485F89
+2017-05-02 10:53:08|System|Traffic - Seconds: 600, Bytes in: 11696, Bytes out: 68264, Total: 79960
+2017-05-02 10:54:08|Connect|Connection 0000001C expired for IP 112.198.68.90, PC D4485F89
+2017-05-02 10:55:48|Connect|thekid disconnects session 0000001D, PC D4485F89
+2017-05-02 10:58:08|Connect|Connection 0000001D expired for thekid, PC D4485F89
+2017-05-02 10:59:18|Connect|Connection 0000001E accepted from IP 112.198.76.202, PC 5A575467
+2017-05-02 10:59:31|Login|haruchankoy logged into session 0000001E from IP 112.198.76.202, PC 5A575467
+2017-05-02 10:59:44|Account|haruchankoy -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 10:59:44|Table|haruchankoy registers for Hourly NLHE 200 Freeroll
+2017-05-02 10:59:50|Account|haruchankoy -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 10:59:50|Table|haruchankoy registers for Hourly PLO 200 Freeroll
+2017-05-02 11:00:08|Table|Buenaobra joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 11:00:08|Table|causestud joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 11:00:08|Table|swipernam75 joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 11:00:08|Table|potatos55 joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 11:00:08|Table|bestlooser joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 11:00:08|Table|sajuuk joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 11:00:08|Table|lordsilver joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 11:00:08|Table|playa joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 11:00:08|Table|thekid joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 11:00:08|Table|haruchankoy joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 11:00:08|Table|Tokutaro joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 11:00:18|Account|sajuuk -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 11:00:18|Table|sajuuk registers for Hourly PLO 200 Freeroll
+2017-05-02 11:01:31|Account|causestud -0 balance 1033.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 11:01:31|Table|causestud registers for Hourly NLHE 200 Freeroll
+2017-05-02 11:03:05|Connect|sajuuk disconnects session 00000004, PC 80569003
+2017-05-02 11:03:08|System|Traffic - Seconds: 600, Bytes in: 21535, Bytes out: 1345425, Total: 1366960
+2017-05-02 11:03:53|Account|playa -0 balance 1016.40 (Hourly NLHE 200 Freeroll)
+2017-05-02 11:03:53|Table|playa registers for Hourly NLHE 200 Freeroll
+2017-05-02 11:05:00|Connect|IP 49.146.210.179 disconnects session 00000018, PC 07D0ACD3
+2017-05-02 11:05:03|Connect|Connection 0000001F accepted from IP 49.146.210.179, PC 07D0ACD3
+2017-05-02 11:05:08|Connect|Connection 00000004 expired for sajuuk, PC 80569003
+2017-05-02 11:05:29|Connect|IP 49.146.210.179 disconnects session 0000001F, PC 07D0ACD3
+2017-05-02 11:05:31|Connect|Connection 00000020 accepted from IP 49.146.210.179, PC 07D0ACD3
+2017-05-02 11:05:39|Account|thekid +0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 11:06:11|Account|Buenaobra +0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 11:06:11|Account|lordsilver +0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 11:07:08|Connect|Connection 00000018 expired for IP 49.146.210.179, PC 07D0ACD3
+2017-05-02 11:08:08|Connect|Connection 0000001F expired for IP 49.146.210.179, PC 07D0ACD3
+2017-05-02 11:09:03|Connect|Connection 00000021 accepted from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 11:09:39|Login|Efyang logged into session 00000021 from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 11:09:44|Account|Efyang -0 balance 233.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 11:09:44|Table|Efyang registers for Hourly NLHE 200 Freeroll
+2017-05-02 11:09:49|Account|Efyang -0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 11:09:49|Table|Efyang registers for Hourly PLO 200 Freeroll
+2017-05-02 11:10:35|Connect|Tokutaro disconnects session 0000000B, PC 5F0F18F3
+2017-05-02 11:11:08|Connect|File port sweeps: 2
+2017-05-02 11:13:08|Connect|Connection 0000000B expired for Tokutaro, PC 5F0F18F3
+2017-05-02 11:13:08|System|Traffic - Seconds: 600, Bytes in: 25894, Bytes out: 1349700, Total: 1375594
+2017-05-02 11:17:22|Account|haruchankoy +200 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 11:17:40|Account|bestlooser -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 11:17:40|Table|bestlooser registers for Hourly NLHE 200 Freeroll
+2017-05-02 11:17:55|Account|potatos55 -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 11:17:55|Table|potatos55 registers for Hourly NLHE 200 Freeroll
+2017-05-02 11:17:59|Account|haruchankoy -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 11:17:59|Table|haruchankoy registers for Hourly NLHE 200 Freeroll
+2017-05-02 11:23:08|System|Traffic - Seconds: 600, Bytes in: 8830, Bytes out: 299586, Total: 308416
+2017-05-02 11:28:01|Connect|Connection 00000022 accepted from IP 195.251.4.20, PC 3AF4E7F1
+2017-05-02 11:28:03|Login|bspus logged into session 00000022 from IP 195.251.4.20, PC 3AF4E7F1
+2017-05-02 11:28:12|Account|bspus -0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 11:28:12|Table|bspus registers for Hourly PLO 200 Freeroll
+2017-05-02 11:28:42|Connect|Connection 00000023 accepted from IP 202.188.58.64, PC 68768B75
+2017-05-02 11:28:45|Login|Gss logged into session 00000023 from IP 202.188.58.64, PC 68768B75
+2017-05-02 11:29:11|Account|Gss -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 11:29:11|Table|Gss registers for Hourly PLO 200 Freeroll
+2017-05-02 11:30:08|Table|causestud joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 11:30:08|Table|bestlooser joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 11:30:08|Table|haruchankoy joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 11:30:08|Table|Tokutaro joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 11:30:08|Table|thekid joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 11:30:08|Table|Gss joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 11:30:08|Table|potatos55 joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 11:30:08|Table|Efyang joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 11:30:08|Table|sajuuk joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 11:30:08|Table|bspus joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 11:30:08|Table|playa joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 11:30:08|Table|swipernam75 joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 11:32:01|Connect|Connection 00000024 accepted from IP 118.232.9.247, PC 80569003
+2017-05-02 11:32:13|Login|sajuuk logged into session 00000024 from IP 118.232.9.247, PC 80569003
+2017-05-02 11:32:28|Account|sajuuk -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 11:32:28|Table|sajuuk registers for Hourly NLHE 200 Freeroll
+2017-05-02 11:33:08|System|Traffic - Seconds: 600, Bytes in: 28865, Bytes out: 1464044, Total: 1492909
+2017-05-02 11:33:52|Account|causestud -0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 11:33:52|Table|causestud registers for Hourly PLO 200 Freeroll
+2017-05-02 11:34:01|Account|Efyang -0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 11:34:01|Table|Efyang registers for Hourly PLO 200 Freeroll
+2017-05-02 11:35:46|Account|Tokutaro +0 balance 1000 (Hourly PLO 200 Freeroll)
+2017-05-02 11:35:46|Account|swipernam75 +0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 11:36:08|Account|thekid +0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 11:37:06|Connect|Gss disconnects session 00000023, PC 68768B75
+2017-05-02 11:39:08|Connect|Connection 00000023 expired for Gss, PC 68768B75
+2017-05-02 11:40:12|Connect|bspus disconnects session 00000022, PC 3AF4E7F1
+2017-05-02 11:40:25|Connect|bspus reconnects session 00000022
+2017-05-02 11:42:35|Account|haruchankoy -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 11:42:35|Table|haruchankoy registers for Hourly PLO 200 Freeroll
+2017-05-02 11:42:44|Account|potatos55 +200 balance 600 (Hourly PLO 200 Freeroll)
+2017-05-02 11:43:04|Account|bspus -0 balance 1033.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 11:43:04|Table|bspus registers for Hourly NLHE 200 Freeroll
+2017-05-02 11:43:08|System|Traffic - Seconds: 600, Bytes in: 19570, Bytes out: 1139131, Total: 1158701
+2017-05-02 11:43:35|Connect|haruchankoy disconnects session 0000001E, PC 5A575467
+2017-05-02 11:45:02|Account|bestlooser -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 11:45:02|Table|bestlooser registers for Hourly PLO 200 Freeroll
+2017-05-02 11:46:08|Connect|Connection 0000001E expired for haruchankoy, PC 5A575467
+2017-05-02 11:53:08|System|Traffic - Seconds: 600, Bytes in: 8181, Bytes out: 412844, Total: 421025
+2017-05-02 11:55:16|Account|sajuuk -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 11:55:16|Table|sajuuk registers for Hourly PLO 200 Freeroll
+2017-05-02 12:00:08|Table|Efyang joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 12:00:08|Table|causestud joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 12:00:08|Table|playa joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 12:00:08|Table|haruchankoy joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 12:00:08|Table|sajuuk joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 12:00:08|Table|bspus joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 12:00:08|Table|bestlooser joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 12:00:08|Table|potatos55 joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 12:00:40|Account|causestud -0 balance 1033.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:00:40|Table|causestud registers for Hourly NLHE 200 Freeroll
+2017-05-02 12:03:08|System|Traffic - Seconds: 600, Bytes in: 9619, Bytes out: 886702, Total: 896321
+2017-05-02 12:05:28|Account|bestlooser -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:05:28|Table|bestlooser registers for Hourly NLHE 200 Freeroll
+2017-05-02 12:06:48|Account|haruchankoy +0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:07:15|Table|Efyang unregisters from Hourly PLO 200 Freeroll
+2017-05-02 12:07:15|Account|Efyang +0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 12:07:20|Account|Efyang -0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 12:07:20|Table|Efyang registers for Hourly PLO 200 Freeroll
+2017-05-02 12:07:26|Account|Efyang -0 balance 233.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:07:26|Table|Efyang registers for Hourly NLHE 200 Freeroll
+2017-05-02 12:09:51|Connect|Connection 00000025 accepted from IP 174.193.131.125, PC 4CD54486
+2017-05-02 12:10:04|Login|killedcobain logged into session 00000025 from IP 174.193.131.125, PC 4CD54486
+2017-05-02 12:10:15|Account|killedcobain -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:10:15|Table|killedcobain registers for Hourly NLHE 200 Freeroll
+2017-05-02 12:11:32|Connect|swipernam75 disconnects session 00000013, PC CEBA4677
+2017-05-02 12:11:42|Connect|bspus disconnects session 00000022, PC 3AF4E7F1
+2017-05-02 12:11:58|Account|playa +200 balance 1216.40 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:12:16|Account|potatos55 -0 balance 600 (Hourly PLO 200 Freeroll)
+2017-05-02 12:12:16|Table|potatos55 registers for Hourly PLO 200 Freeroll
+2017-05-02 12:12:24|Account|playa -0 balance 1216.40 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:12:24|Table|playa registers for Hourly NLHE 200 Freeroll
+2017-05-02 12:12:54|Connect|swipernam75 reconnects session 00000013
+2017-05-02 12:13:08|System|Traffic - Seconds: 600, Bytes in: 18232, Bytes out: 1219036, Total: 1237268
+2017-05-02 12:14:08|Connect|Connection 00000022 expired for bspus, PC 3AF4E7F1
+2017-05-02 12:14:23|Account|potatos55 -0 balance 600 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:14:23|Table|potatos55 registers for Hourly NLHE 200 Freeroll
+2017-05-02 12:14:23|Connect|Connection 00000026 accepted from IP 112.198.68.99, PC 52579219
+2017-05-02 12:15:21|Account|New account created for imNUTZ
+2017-05-02 12:15:25|Login|imNUTZ logged into session 00000026 from IP 112.198.68.99, PC 52579219
+2017-05-02 12:15:38|Connect|imNUTZ disconnects session 00000026, PC 52579219
+2017-05-02 12:15:54|Connect|killedcobain disconnects session 00000025, PC 4CD54486
+2017-05-02 12:15:58|Connect|killedcobain reconnects session 00000025
+2017-05-02 12:18:08|Connect|Connection 00000026 expired for imNUTZ, PC 52579219
+2017-05-02 12:22:29|Connect|Connection 00000027 accepted from IP 151.182.169.25, PC 5F0F18F3
+2017-05-02 12:22:54|Connect|killedcobain disconnects session 00000025, PC 4CD54486
+2017-05-02 12:23:08|System|Traffic - Seconds: 600, Bytes in: 15420, Bytes out: 675542, Total: 690962
+2017-05-02 12:23:34|Connect|Connection 00000028 accepted from IP 121.54.39.153, PC 3E6F6B89
+2017-05-02 12:23:53|Login|Tokutaro logged into session 00000027 from IP 151.182.169.25, PC 5F0F18F3
+2017-05-02 12:23:57|Account|Tokutaro -0 balance 1000 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:23:57|Table|Tokutaro registers for Hourly NLHE 200 Freeroll
+2017-05-02 12:24:03|Account|Tokutaro -0 balance 1000 (Hourly PLO 200 Freeroll)
+2017-05-02 12:24:03|Table|Tokutaro registers for Hourly PLO 200 Freeroll
+2017-05-02 12:25:08|Connect|Connection 00000025 expired for killedcobain, PC 4CD54486
+2017-05-02 12:25:47|Account|New account created for xxxpeeweexxx
+2017-05-02 12:26:06|Login|xxxpeeweexxx logged into session 00000028 from IP 121.54.39.153, PC 3E6F6B89
+2017-05-02 12:27:05|Connect|xxxpeeweexxx disconnects session 00000028, PC 3E6F6B89
+2017-05-02 12:27:19|Connect|Connection 00000029 accepted from IP 121.54.39.153, PC 3E6F6B89
+2017-05-02 12:27:40|Logout|xxxpeeweexxx logged out session 00000028, PC 3E6F6B89
+2017-05-02 12:27:40|Login|xxxpeeweexxx logged into session 00000029 from IP 121.54.39.153, PC 3E6F6B89
+2017-05-02 12:28:11|Account|xxxpeeweexxx -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 12:28:11|Table|xxxpeeweexxx registers for Hourly PLO 200 Freeroll
+2017-05-02 12:29:29|Account|sajuuk -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:29:29|Table|sajuuk registers for Hourly NLHE 200 Freeroll
+2017-05-02 12:30:08|Table|haruchankoy joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 12:30:08|Table|causestud joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 12:30:08|Table|Efyang joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 12:30:08|Table|Tokutaro joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 12:30:08|Table|bestlooser joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 12:30:08|Table|sajuuk joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 12:30:08|Table|xxxpeeweexxx joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 12:30:08|Table|potatos55 joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 12:30:08|Connect|bestlooser disconnects session 00000017, PC 299F3DE3
+2017-05-02 12:30:38|Connect|Connection 0000002A accepted from IP 46.165.230.5, PC 299F3DE3
+2017-05-02 12:30:40|Account|Tokutaro -0 balance 1000 (Hourly PLO 200 Freeroll)
+2017-05-02 12:30:40|Table|Tokutaro registers for Hourly PLO 200 Freeroll
+2017-05-02 12:30:55|Logout|bestlooser logged out session 00000017, PC 299F3DE3
+2017-05-02 12:30:55|Login|bestlooser logged into session 0000002A from IP 46.165.230.5, PC 299F3DE3
+2017-05-02 12:31:23|Connect|potatos55 disconnects session 00000011, PC BAAB44FD
+2017-05-02 12:33:08|System|Traffic - Seconds: 600, Bytes in: 38037, Bytes out: 1612149, Total: 1650186
+2017-05-02 12:34:08|Connect|Connection 00000011 expired for potatos55, PC BAAB44FD
+2017-05-02 12:34:16|Account|playa -0 balance 1216.40 (Hourly PLO 200 Freeroll)
+2017-05-02 12:34:16|Table|playa registers for Hourly PLO 200 Freeroll
+2017-05-02 12:34:28|Connect|Efyang disconnects session 00000021, PC 1CEE2B38
+2017-05-02 12:35:54|Account|haruchankoy +0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 12:35:54|Account|causestud +0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 12:37:08|Connect|Connection 00000021 expired for Efyang, PC 1CEE2B38
+2017-05-02 12:37:35|Account|causestud -0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 12:37:35|Table|causestud registers for Hourly PLO 200 Freeroll
+2017-05-02 12:38:44|Account|sajuuk +200 balance 1400 (Hourly PLO 200 Freeroll)
+2017-05-02 12:39:04|Table|bestlooser unregisters from Hourly NLHE 200 Freeroll
+2017-05-02 12:39:04|Account|bestlooser +0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:39:19|Account|sajuuk -0 balance 1400 (Hourly PLO 200 Freeroll)
+2017-05-02 12:39:19|Table|sajuuk registers for Hourly PLO 200 Freeroll
+2017-05-02 12:39:21|Account|xxxpeeweexxx -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:39:21|Table|xxxpeeweexxx registers for Hourly NLHE 200 Freeroll
+2017-05-02 12:39:39|Account|xxxpeeweexxx -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 12:39:39|Table|xxxpeeweexxx registers for Hourly PLO 200 Freeroll
+2017-05-02 12:40:30|Connect|Connection 0000002B accepted from IP 181.229.231.4, PC A9BCCFBF
+2017-05-02 12:40:57|Login|pokertron logged into session 0000002B from IP 181.229.231.4, PC A9BCCFBF
+2017-05-02 12:41:10|Account|pokertron -0 balance 1600 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:41:10|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 12:41:25|Account|pokertron -0 balance 1600 (Hourly PLO 200 Freeroll)
+2017-05-02 12:41:25|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 12:41:32|Connect|xxxpeeweexxx disconnects session 00000029, PC 3E6F6B89
+2017-05-02 12:43:09|System|Traffic - Seconds: 600, Bytes in: 24046, Bytes out: 1056374, Total: 1080420
+2017-05-02 12:44:09|Connect|Connection 00000029 expired for xxxpeeweexxx, PC 3E6F6B89
+2017-05-02 12:45:41|Connect|Connection 0000002C accepted from IP 217.12.57.200, PC EE426A9F
+2017-05-02 12:46:48|Connect|Connection 0000002D accepted from IP 174.193.131.125, PC 4CD54486
+2017-05-02 12:46:53|Login|killedcobain logged into session 0000002D from IP 174.193.131.125, PC 4CD54486
+2017-05-02 12:47:00|Connect|Connection 0000002E accepted from IP 181.229.231.4, PC A9BCCFBF
+2017-05-02 12:47:02|Connect|IP 181.229.231.4 disconnects session 0000002E, PC A9BCCFBF
+2017-05-02 12:47:52|Connect|Connection 0000002F accepted from IP 121.96.175.27, PC BE812134
+2017-05-02 12:48:16|Logout|121.96.175.27 logged out session 0000002F, PC BE812134
+2017-05-02 12:48:37|Connect|Connection 00000030 accepted from IP 212.220.1.134, PC 9950266D
+2017-05-02 12:49:06|Connect|IP 212.220.1.134 disconnects session 00000030, PC 9950266D
+2017-05-02 12:49:09|Connect|Connection 0000002E expired for IP 181.229.231.4, PC A9BCCFBF
+2017-05-02 12:49:36|Connect|Connection 00000031 accepted from IP 212.220.1.134, PC 9950266D
+2017-05-02 12:49:54|Login|Jessica logged into session 00000031 from IP 212.220.1.134, PC 9950266D
+2017-05-02 12:50:06|Account|Jessica -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 12:50:06|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 12:50:18|Account|Jessica -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 12:50:18|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 12:51:09|Connect|Connection 00000030 expired for IP 212.220.1.134, PC 9950266D
+2017-05-02 12:51:58|Connect|pokertron disconnects session 0000002B, PC A9BCCFBF
+2017-05-02 12:52:00|Connect|pokertron reconnects session 0000002B
+2017-05-02 12:53:09|System|Traffic - Seconds: 600, Bytes in: 20890, Bytes out: 726042, Total: 746932
+2017-05-02 12:55:54|Connect|bestlooser disconnects session 0000002A, PC 299F3DE3
+2017-05-02 12:58:09|Connect|Connection 0000002A expired for bestlooser, PC 299F3DE3
+2017-05-02 12:58:09|Connect|killedcobain disconnects session 0000002D, PC 4CD54486
+2017-05-02 12:59:01|Connect|killedcobain reconnects session 0000002D
+2017-05-02 13:00:09|Table|xxxpeeweexxx joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 13:00:09|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 13:00:09|Table|potatos55 joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 13:00:09|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 13:00:09|Table|sajuuk joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 13:00:09|Table|Efyang joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 13:00:09|Table|Tokutaro joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 13:00:09|Table|causestud joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 13:00:09|Table|killedcobain joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 13:00:09|Table|playa joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 13:01:01|Account|pokertron -0 balance 1600 (Hourly NLHE 200 Freeroll)
+2017-05-02 13:01:01|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 13:01:15|Account|causestud -0 balance 1033.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 13:01:15|Table|causestud registers for Hourly NLHE 200 Freeroll
+2017-05-02 13:03:09|System|Traffic - Seconds: 600, Bytes in: 13324, Bytes out: 845819, Total: 859143
+2017-05-02 13:05:12|Connect|Connection 00000032 accepted from IP 180.191.104.146, PC 0E37347A
+2017-05-02 13:05:37|Login|Chicken logged into session 00000032 from IP 180.191.104.146, PC 0E37347A
+2017-05-02 13:05:54|Account|Efyang +0 balance 233.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 13:05:54|Account|xxxpeeweexxx +0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 13:06:47|Account|Tokutaro -0 balance 1000 (Hourly NLHE 200 Freeroll)
+2017-05-02 13:06:47|Table|Tokutaro registers for Hourly NLHE 200 Freeroll
+2017-05-02 13:08:58|Connect|killedcobain disconnects session 0000002D, PC 4CD54486
+2017-05-02 13:10:21|Connect|Connection 00000033 accepted from IP 112.198.68.53, PC D4485F89
+2017-05-02 13:10:25|Login|thekid logged into session 00000033 from IP 112.198.68.53, PC D4485F89
+2017-05-02 13:10:31|Account|thekid -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 13:10:31|Table|thekid registers for Hourly PLO 200 Freeroll
+2017-05-02 13:10:51|Connect|swipernam75 disconnects session 00000013, PC CEBA4677
+2017-05-02 13:11:08|Connect|Connection 0000002D expired for killedcobain, PC 4CD54486
+2017-05-02 13:11:51|Connect|playa disconnects session 0000001B, PC EFA2C306
+2017-05-02 13:12:45|Account|thekid -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 13:12:45|Table|thekid registers for Hourly NLHE 200 Freeroll
+2017-05-02 13:13:08|Connect|Connection 00000013 expired for swipernam75, PC CEBA4677
+2017-05-02 13:13:08|System|Traffic - Seconds: 600, Bytes in: 35708, Bytes out: 2213172, Total: 2248880
+2017-05-02 13:14:08|Connect|Connection 0000001B expired for playa, PC EFA2C306
+2017-05-02 13:16:43|Account|sajuuk +200 balance 1600 (Hourly NLHE 200 Freeroll)
+2017-05-02 13:16:57|Account|Jessica -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 13:16:57|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 13:17:40|Account|sajuuk -0 balance 1600 (Hourly NLHE 200 Freeroll)
+2017-05-02 13:17:40|Table|sajuuk registers for Hourly NLHE 200 Freeroll
+2017-05-02 13:23:08|System|Traffic - Seconds: 600, Bytes in: 7129, Bytes out: 278626, Total: 285755
+2017-05-02 13:23:50|Connect|Jessica disconnects session 00000031, PC 9950266D
+2017-05-02 13:24:09|Connect|Connection 00000034 accepted from IP 212.220.1.134, PC 9950266D
+2017-05-02 13:24:33|Connect|Connection 00000035 accepted from IP 178.76.204.54, PC 9E3BE72D
+2017-05-02 13:24:43|Login|potatos55 logged into session 00000035 from IP 178.76.204.54, PC 9E3BE72D
+2017-05-02 13:24:52|Account|potatos55 -0 balance 600 (Hourly PLO 200 Freeroll)
+2017-05-02 13:24:52|Table|potatos55 registers for Hourly PLO 200 Freeroll
+2017-05-02 13:24:58|Account|potatos55 -0 balance 600 (Hourly NLHE 200 Freeroll)
+2017-05-02 13:24:58|Table|potatos55 registers for Hourly NLHE 200 Freeroll
+2017-05-02 13:25:03|Connect|IP 212.220.1.134 disconnects session 00000034, PC 9950266D
+2017-05-02 13:25:11|Connect|Connection 00000036 accepted from IP 212.220.1.134, PC 9950266D
+2017-05-02 13:25:34|Connect|IP 212.220.1.134 disconnects session 00000036, PC 9950266D
+2017-05-02 13:26:08|Connect|Connection 00000031 expired for Jessica, PC 9950266D
+2017-05-02 13:27:08|Connect|Connection 00000034 expired for IP 212.220.1.134, PC 9950266D
+2017-05-02 13:28:08|Connect|Connection 00000036 expired for IP 212.220.1.134, PC 9950266D
+2017-05-02 13:29:03|Account|Chicken -0 balance 542.85 (Hourly PLO 200 Freeroll)
+2017-05-02 13:29:03|Table|Chicken registers for Hourly PLO 200 Freeroll
+2017-05-02 13:30:08|Table|thekid joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 13:30:08|Table|causestud joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 13:30:08|Table|sajuuk joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 13:30:08|Table|Chicken joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 13:30:08|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 13:30:08|Table|playa joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 13:30:08|Table|xxxpeeweexxx joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 13:30:08|Table|Tokutaro joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 13:30:08|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 13:30:08|Table|potatos55 joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 13:33:00|Account|pokertron -0 balance 1600 (Hourly PLO 200 Freeroll)
+2017-05-02 13:33:00|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 13:33:08|System|Traffic - Seconds: 600, Bytes in: 31352, Bytes out: 1473734, Total: 1505086
+2017-05-02 13:33:41|Connect|potatos55 disconnects session 00000035, PC 9E3BE72D
+2017-05-02 13:35:43|Account|playa +0 balance 1216.40 (Hourly PLO 200 Freeroll)
+2017-05-02 13:35:45|Account|xxxpeeweexxx +0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 13:35:45|Account|Jessica +0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 13:35:55|Account|causestud -0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 13:35:55|Table|causestud registers for Hourly PLO 200 Freeroll
+2017-05-02 13:36:08|Connect|Connection 00000035 expired for potatos55, PC 9E3BE72D
+2017-05-02 13:38:39|Account|thekid +200 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 13:38:48|Logout|Chicken logged out session 00000032, PC 0E37347A
+2017-05-02 13:43:08|System|Traffic - Seconds: 600, Bytes in: 10788, Bytes out: 591763, Total: 602551
+2017-05-02 13:51:46|Account|Tokutaro -0 balance 1000 (Hourly PLO 200 Freeroll)
+2017-05-02 13:51:46|Table|Tokutaro registers for Hourly PLO 200 Freeroll
+2017-05-02 13:53:08|System|Traffic - Seconds: 600, Bytes in: 376, Bytes out: 7611, Total: 7987
+2017-05-02 13:54:18|Account|thekid -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 13:54:18|Table|thekid registers for Hourly PLO 200 Freeroll
+2017-05-02 13:55:40|Connect|Connection 00000037 accepted from IP 178.76.204.54, PC E24AFCE2
+2017-05-02 13:55:48|Login|potatos55 logged into session 00000037 from IP 178.76.204.54, PC E24AFCE2
+2017-05-02 14:00:08|Table|sajuuk joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 14:00:08|Table|potatos55 joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 14:00:08|Table|Tokutaro joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 14:00:08|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 14:00:08|Table|causestud joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 14:00:08|Table|thekid joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 14:00:08|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 14:00:22|Account|Tokutaro -0 balance 1000 (Hourly NLHE 200 Freeroll)
+2017-05-02 14:00:22|Table|Tokutaro registers for Hourly NLHE 200 Freeroll
+2017-05-02 14:00:31|Account|potatos55 -0 balance 600 (Hourly NLHE 200 Freeroll)
+2017-05-02 14:00:31|Table|potatos55 registers for Hourly NLHE 200 Freeroll
+2017-05-02 14:00:37|Account|potatos55 -0 balance 600 (Hourly PLO 200 Freeroll)
+2017-05-02 14:00:37|Table|potatos55 registers for Hourly PLO 200 Freeroll
+2017-05-02 14:01:06|Connect|Connection 00000038 accepted from IP 91.210.192.194, PC 9950266D
+2017-05-02 14:01:10|Login|alexander13 logged into session 0000002C from IP 217.12.57.200, PC EE426A9F
+2017-05-02 14:01:22|Login|Jessica logged into session 00000038 from IP 91.210.192.194, PC 9950266D
+2017-05-02 14:01:41|Connect|Connection 00000039 accepted from IP 112.198.99.157, PC 2D5BF410
+2017-05-02 14:01:53|Account|pokertron -0 balance 1600 (Hourly NLHE 200 Freeroll)
+2017-05-02 14:01:53|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 14:02:02|Account|sajuuk -0 balance 1600 (Hourly PLO 200 Freeroll)
+2017-05-02 14:02:02|Table|sajuuk registers for Hourly PLO 200 Freeroll
+2017-05-02 14:02:45|Account|alexander13 -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 14:02:45|Table|alexander13 registers for Hourly NLHE 200 Freeroll
+2017-05-02 14:02:56|Connect|IP 112.198.99.157 disconnects session 00000039, PC 2D5BF410
+2017-05-02 14:03:08|System|Traffic - Seconds: 600, Bytes in: 35675, Bytes out: 1933754, Total: 1969429
+2017-05-02 14:04:48|Account|Jessica -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 14:04:48|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 14:04:58|Account|Jessica -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 14:04:58|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 14:05:08|Connect|Connection 00000039 expired for IP 112.198.99.157, PC 2D5BF410
+2017-05-02 14:05:43|Account|causestud +0 balance 1033.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 14:09:43|Account|potatos55 +200 balance 800 (Hourly NLHE 200 Freeroll)
+2017-05-02 14:10:21|Connect|potatos55 disconnects session 00000037, PC E24AFCE2
+2017-05-02 14:13:08|Connect|Connection 00000037 expired for potatos55, PC E24AFCE2
+2017-05-02 14:13:08|System|Traffic - Seconds: 600, Bytes in: 13724, Bytes out: 797614, Total: 811338
+2017-05-02 14:15:26|Connect|thekid disconnects session 00000033, PC D4485F89
+2017-05-02 14:18:08|Connect|Connection 00000033 expired for thekid, PC D4485F89
+2017-05-02 14:18:32|Table|alexander13 unregisters from Hourly NLHE 200 Freeroll
+2017-05-02 14:18:32|Account|alexander13 +0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 14:18:35|Connect|alexander13 disconnects session 0000002C, PC EE426A9F
+2017-05-02 14:19:14|Connect|Connection 0000003A accepted from IP 112.198.102.237, PC D4485F89
+2017-05-02 14:19:23|Login|thekid logged into session 0000003A from IP 112.198.102.237, PC D4485F89
+2017-05-02 14:19:43|Account|thekid -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 14:19:43|Table|thekid registers for Hourly NLHE 200 Freeroll
+2017-05-02 14:21:08|Connect|Connection 0000002C expired for alexander13, PC EE426A9F
+2017-05-02 14:23:08|System|Traffic - Seconds: 600, Bytes in: 2631, Bytes out: 25422, Total: 28053
+2017-05-02 14:28:24|Connect|Connection 0000003B accepted from IP 82.145.34.64, PC E46F9D88
+2017-05-02 14:28:42|Login|potatos55 logged into session 0000003B from IP 82.145.34.64, PC E46F9D88
+2017-05-02 14:30:08|Table|potatos55 joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 14:30:08|Table|thekid joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 14:30:08|Table|causestud joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 14:30:08|Table|Jessica joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 14:30:08|Table|sajuuk joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 14:30:08|Table|Tokutaro joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 14:30:08|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 14:30:36|Connect|Tokutaro disconnects session 00000027, PC 5F0F18F3
+2017-05-02 14:31:02|Connect|causestud disconnects session 00000015, PC 2AB2B0C3
+2017-05-02 14:33:08|Connect|Connection 00000015 expired for causestud, PC 2AB2B0C3
+2017-05-02 14:33:08|Connect|Connection 00000027 expired for Tokutaro, PC 5F0F18F3
+2017-05-02 14:33:08|System|Traffic - Seconds: 600, Bytes in: 26365, Bytes out: 1358247, Total: 1384612
+2017-05-02 14:34:15|Account|potatos55 -0 balance 800 (Hourly PLO 200 Freeroll)
+2017-05-02 14:34:15|Table|potatos55 registers for Hourly PLO 200 Freeroll
+2017-05-02 14:34:27|Connect|potatos55 disconnects session 0000003B, PC E46F9D88
+2017-05-02 14:35:57|Account|pokertron -0 balance 1600 (Hourly PLO 200 Freeroll)
+2017-05-02 14:35:57|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 14:36:51|Account|Tokutaro +0 balance 1000 (Hourly PLO 200 Freeroll)
+2017-05-02 14:36:51|Account|causestud +0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 14:37:08|Connect|Connection 0000003B expired for potatos55, PC E46F9D88
+2017-05-02 14:39:34|Account|Jessica -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 14:39:34|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 14:40:50|Account|thekid +200 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 14:40:59|Account|sajuuk -0 balance 1600 (Hourly PLO 200 Freeroll)
+2017-05-02 14:40:59|Table|sajuuk registers for Hourly PLO 200 Freeroll
+2017-05-02 14:41:07|Account|sajuuk -0 balance 1600 (Hourly NLHE 200 Freeroll)
+2017-05-02 14:41:07|Table|sajuuk registers for Hourly NLHE 200 Freeroll
+2017-05-02 14:43:08|System|Traffic - Seconds: 600, Bytes in: 11820, Bytes out: 539014, Total: 550834
+2017-05-02 14:44:59|Connect|Connection 0000003C accepted from IP 151.182.169.25, PC 5F0F18F3
+2017-05-02 14:45:03|Login|Tokutaro logged into session 0000003C from IP 151.182.169.25, PC 5F0F18F3
+2017-05-02 14:45:20|Account|Tokutaro -0 balance 1000 (Hourly PLO 200 Freeroll)
+2017-05-02 14:45:20|Table|Tokutaro registers for Hourly PLO 200 Freeroll
+2017-05-02 14:52:31|Account|thekid -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 14:52:31|Table|thekid registers for Hourly PLO 200 Freeroll
+2017-05-02 14:53:08|System|Traffic - Seconds: 600, Bytes in: 12686, Bytes out: 477278, Total: 489964
+2017-05-02 14:57:03|Connect|Connection 0000003D accepted from IP 112.12.77.253, PC 8F128F70
+2017-05-02 14:59:44|Account|New account created for jeeb
+2017-05-02 14:59:50|Login|jeeb logged into session 0000003D from IP 112.12.77.253, PC 8F128F70
+2017-05-02 15:00:08|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 15:00:08|Table|Tokutaro joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 15:00:08|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 15:00:08|Table|sajuuk joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 15:00:08|Table|potatos55 joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 15:00:08|Table|thekid joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 15:00:18|Account|pokertron -0 balance 1600 (Hourly NLHE 200 Freeroll)
+2017-05-02 15:00:18|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 15:03:05|Account|thekid -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 15:03:05|Table|thekid registers for Hourly NLHE 200 Freeroll
+2017-05-02 15:03:08|System|Traffic - Seconds: 600, Bytes in: 23784, Bytes out: 1698691, Total: 1722475
+2017-05-02 15:03:43|Connect|Connection 0000003E accepted from IP 188.163.32.145, PC 8B555D0D
+2017-05-02 15:05:04|Account|Tokutaro -0 balance 1000 (Hourly NLHE 200 Freeroll)
+2017-05-02 15:05:04|Table|Tokutaro registers for Hourly NLHE 200 Freeroll
+2017-05-02 15:05:43|Account|potatos55 +0 balance 800 (Hourly NLHE 200 Freeroll)
+2017-05-02 15:08:14|Account|Jessica -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 15:08:14|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 15:08:33|Connect|IP 188.163.32.145 disconnects session 0000003E, PC 8B555D0D
+2017-05-02 15:11:08|Connect|Connection 0000003E expired for IP 188.163.32.145, PC 8B555D0D
+2017-05-02 15:12:22|Connect|Connection 0000003F accepted from IP 188.163.32.145, PC 8B555D0D
+2017-05-02 15:12:24|Connect|Connection 00000040 accepted from IP 45.77.17.18, PC 7BD8BE25
+2017-05-02 15:13:08|System|Traffic - Seconds: 600, Bytes in: 40646, Bytes out: 2122264, Total: 2162910
+2017-05-02 15:13:31|Account|New account created for OKME
+2017-05-02 15:13:35|Login|OKME logged into session 00000040 from IP 45.77.17.18, PC 7BD8BE25
+2017-05-02 15:14:48|Connect|OKME disconnects session 00000040, PC 7BD8BE25
+2017-05-02 15:16:18|Account|sajuuk +200 balance 1800 (Hourly NLHE 200 Freeroll)
+2017-05-02 15:16:39|Account|sajuuk -0 balance 1800 (Hourly NLHE 200 Freeroll)
+2017-05-02 15:16:39|Table|sajuuk registers for Hourly NLHE 200 Freeroll
+2017-05-02 15:17:08|Connect|Connection 00000040 expired for OKME, PC 7BD8BE25
+2017-05-02 15:21:50|Connect|IP 188.163.32.145 disconnects session 0000003F, PC 8B555D0D
+2017-05-02 15:21:53|Connect|Connection 00000041 accepted from IP 188.163.32.145, PC 8B555D0D
+2017-05-02 15:22:32|Connect|IP 188.163.32.145 disconnects session 00000041, PC 8B555D0D
+2017-05-02 15:23:02|Connect|Connection 00000042 accepted from IP 46.165.216.71, PC 0D4B93A2
+2017-05-02 15:23:08|System|Traffic - Seconds: 600, Bytes in: 17290, Bytes out: 718976, Total: 736266
+2017-05-02 15:23:11|Login|potatos55 logged into session 00000042 from IP 46.165.216.71, PC 0D4B93A2
+2017-05-02 15:23:22|Account|potatos55 -0 balance 800 (Hourly NLHE 200 Freeroll)
+2017-05-02 15:23:22|Table|potatos55 registers for Hourly NLHE 200 Freeroll
+2017-05-02 15:24:08|Connect|Connection 0000003F expired for IP 188.163.32.145, PC 8B555D0D
+2017-05-02 15:25:00|Connect|Connection 00000043 accepted from IP 79.131.107.224, PC AE588A8A
+2017-05-02 15:25:08|Connect|Connection 00000041 expired for IP 188.163.32.145, PC 8B555D0D
+2017-05-02 15:25:09|Login|bspus logged into session 00000043 from IP 79.131.107.224, PC AE588A8A
+2017-05-02 15:25:18|Account|bspus -0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 15:25:18|Table|bspus registers for Hourly PLO 200 Freeroll
+2017-05-02 15:30:08|Table|Tokutaro joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 15:30:08|Table|Jessica joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 15:30:08|Table|thekid joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 15:30:08|Table|sajuuk joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 15:30:08|Table|potatos55 joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 15:30:08|Table|bspus joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 15:30:08|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 15:30:38|Account|sajuuk -0 balance 1800 (Hourly PLO 200 Freeroll)
+2017-05-02 15:30:38|Table|sajuuk registers for Hourly PLO 200 Freeroll
+2017-05-02 15:31:48|Account|Jessica -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 15:31:48|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 15:33:08|System|Traffic - Seconds: 600, Bytes in: 13297, Bytes out: 844842, Total: 858139
+2017-05-02 15:33:33|Account|pokertron -0 balance 1600 (Hourly PLO 200 Freeroll)
+2017-05-02 15:33:33|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 15:34:31|Logout|bspus logged out session 00000043, PC AE588A8A
+2017-05-02 15:36:09|Account|Tokutaro +200 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 15:36:21|Account|Tokutaro -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 15:36:21|Table|Tokutaro registers for Hourly PLO 200 Freeroll
+2017-05-02 15:42:15|Connect|jeeb disconnects session 0000003D, PC 8F128F70
+2017-05-02 15:42:40|Connect|Connection 00000044 accepted from IP 79.131.107.224, PC AE588A8A
+2017-05-02 15:42:43|Login|bspus logged into session 00000044 from IP 79.131.107.224, PC AE588A8A
+2017-05-02 15:43:08|System|Traffic - Seconds: 600, Bytes in: 7418, Bytes out: 305919, Total: 313337
+2017-05-02 15:45:08|Connect|Connection 0000003D expired for jeeb, PC 8F128F70
+2017-05-02 15:45:25|Connect|thekid disconnects session 0000003A, PC D4485F89
+2017-05-02 15:46:54|Connect|Connection 00000045 accepted from IP 112.198.102.237, PC D4485F89
+2017-05-02 15:46:57|Logout|thekid logged out session 0000003A, PC D4485F89
+2017-05-02 15:46:57|Login|thekid logged into session 00000045 from IP 112.198.102.237, PC D4485F89
+2017-05-02 15:47:18|Account|thekid -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 15:47:18|Table|thekid registers for Hourly PLO 200 Freeroll
+2017-05-02 15:48:38|Account|pokertron -200 balance 1400 (NLHE 01A)
+2017-05-02 15:48:38|Table|pokertron joins NLHE 01A
+2017-05-02 15:48:47|Account|pokertron -400 balance 1000 (NLHE 02A)
+2017-05-02 15:48:47|Table|pokertron joins NLHE 02A
+2017-05-02 15:48:57|Account|pokertron -500 balance 500 (NLHE 03A)
+2017-05-02 15:48:57|Table|pokertron joins NLHE 03A
+2017-05-02 15:49:19|Account|pokertron +400 balance 900 (NLHE 02A)
+2017-05-02 15:49:19|Table|pokertron leaves NLHE 02A
+2017-05-02 15:49:25|Account|pokertron +500 balance 1400 (NLHE 03A)
+2017-05-02 15:49:25|Table|pokertron leaves NLHE 03A
+2017-05-02 15:50:41|Account|pokertron +200 balance 1600 (NLHE 01A)
+2017-05-02 15:50:41|Table|pokertron leaves NLHE 01A
+2017-05-02 15:53:08|System|Traffic - Seconds: 600, Bytes in: 3496, Bytes out: 51581, Total: 55077
+2017-05-02 16:00:08|Table|sajuuk joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 16:00:08|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 16:00:08|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 16:00:08|Table|thekid joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 16:00:08|Table|potatos55 joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 16:00:08|Table|Tokutaro joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 16:00:22|Connect|Connection 00000046 accepted from IP 188.163.32.145, PC 571AED05
+2017-05-02 16:01:01|Account|New account created for alf
+2017-05-02 16:01:03|Account|Jessica -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:01:03|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:01:08|Login|alf logged into session 00000046 from IP 188.163.32.145, PC 571AED05
+2017-05-02 16:02:13|Account|alf -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:02:13|Table|alf registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:02:20|Account|Tokutaro -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:02:20|Table|Tokutaro registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:03:07|Connect|Connection 00000047 accepted from IP 182.16.87.42, PC 4B613E76
+2017-05-02 16:03:08|System|Traffic - Seconds: 600, Bytes in: 27138, Bytes out: 1604112, Total: 1631250
+2017-05-02 16:03:44|Table|alf unregisters from Hourly NLHE 200 Freeroll
+2017-05-02 16:03:44|Account|alf +0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:04:57|Logout|alf logged out session 00000046, PC 571AED05
+2017-05-02 16:05:03|Connect|Connection 00000048 accepted from IP 188.163.32.145, PC 571AED05
+2017-05-02 16:05:13|Connect|IP 188.163.32.145 disconnects session 00000048, PC 571AED05
+2017-05-02 16:06:29|Account|New account created for rwt
+2017-05-02 16:06:35|Login|rwt logged into session 00000047 from IP 182.16.87.42, PC 4B613E76
+2017-05-02 16:06:51|Account|pokertron -0 balance 1600 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:06:51|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:07:58|Connect|Connection 00000049 accepted from IP 203.87.129.147, PC 588CB78F
+2017-05-02 16:08:08|Connect|Connection 00000048 expired for IP 188.163.32.145, PC 571AED05
+2017-05-02 16:08:23|Connect|IP 203.87.129.147 disconnects session 00000049, PC 588CB78F
+2017-05-02 16:08:43|Account|rwt +0 balance 0 (NLHE 04A)
+2017-05-02 16:08:43|Table|rwt removed from NLHE 04A via expired reservation
+2017-05-02 16:08:44|Connect|rwt disconnects session 00000047, PC 4B613E76
+2017-05-02 16:08:56|Account|thekid -400 balance 0 (PLO 02A)
+2017-05-02 16:08:56|Table|thekid joins PLO 02A
+2017-05-02 16:09:10|Account|thekid -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:09:10|Table|thekid registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:09:36|Account|potatos55 -0 balance 800 (Hourly PLO 200 Freeroll)
+2017-05-02 16:09:36|Table|potatos55 registers for Hourly PLO 200 Freeroll
+2017-05-02 16:09:40|Account|potatos55 -0 balance 800 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:09:40|Table|potatos55 registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:11:08|Connect|Connection 00000047 expired for rwt, PC 4B613E76
+2017-05-02 16:11:08|Connect|Connection 00000049 expired for IP 203.87.129.147, PC 588CB78F
+2017-05-02 16:13:08|System|Traffic - Seconds: 600, Bytes in: 45600, Bytes out: 1957798, Total: 2003398
+2017-05-02 16:13:50|Account|Tokutaro +200 balance 1400 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:14:02|Account|pokertron -400 balance 1200 (PLO 02A)
+2017-05-02 16:14:02|Table|pokertron joins PLO 02A
+2017-05-02 16:15:22|Rake|Rake account +0.20 balance 40.95 (PLO 02A)
+2017-05-02 16:15:30|Connect|Connection 0000004A accepted from IP 188.163.32.145, PC 571AED05
+2017-05-02 16:15:43|Login|alf logged into session 0000004A from IP 188.163.32.145, PC 571AED05
+2017-05-02 16:15:51|Rake|Rake account +0.40 balance 41.35 (PLO 02A)
+2017-05-02 16:16:01|Account|potatos55 -200 balance 600 (NLHE 01A)
+2017-05-02 16:16:01|Table|potatos55 joins NLHE 01A
+2017-05-02 16:16:34|Account|alf -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 16:16:34|Table|alf registers for Hourly PLO 200 Freeroll
+2017-05-02 16:16:37|Rake|Rake account +10.60 balance 51.95 (PLO 02A)
+2017-05-02 16:17:05|Rake|Rake account +0.60 balance 52.55 (PLO 02A)
+2017-05-02 16:17:10|Account|potatos55 +200 balance 800 (NLHE 01A)
+2017-05-02 16:17:10|Table|potatos55 leaves NLHE 01A
+2017-05-02 16:17:35|Rake|Rake account +0.20 balance 52.75 (PLO 02A)
+2017-05-02 16:18:11|Rake|Rake account +1.40 balance 54.15 (PLO 02A)
+2017-05-02 16:18:35|Rake|Rake account +0.40 balance 54.55 (PLO 02A)
+2017-05-02 16:19:08|Rake|Rake account +0.55 balance 55.10 (PLO 02A)
+2017-05-02 16:19:42|Rake|Rake account +0.60 balance 55.70 (PLO 02A)
+2017-05-02 16:19:44|Account|sajuuk -0 balance 1800 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:19:44|Table|sajuuk registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:19:59|Rake|Rake account +0.20 balance 55.90 (PLO 02A)
+2017-05-02 16:20:20|Rake|Rake account +0.20 balance 56.10 (PLO 02A)
+2017-05-02 16:20:43|Rake|Rake account +0.20 balance 56.30 (PLO 02A)
+2017-05-02 16:20:56|Account|alf -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:20:56|Table|alf registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:21:28|Rake|Rake account +1.20 balance 57.50 (PLO 02A)
+2017-05-02 16:21:46|Rake|Rake account +0.20 balance 57.70 (PLO 02A)
+2017-05-02 16:22:19|Rake|Rake account +0.40 balance 58.10 (PLO 02A)
+2017-05-02 16:22:54|Rake|Rake account +2.20 balance 60.30 (PLO 02A)
+2017-05-02 16:23:08|System|Traffic - Seconds: 600, Bytes in: 21743, Bytes out: 507193, Total: 528936
+2017-05-02 16:23:37|Rake|Rake account +1.70 balance 62 (PLO 02A)
+2017-05-02 16:24:00|Rake|Rake account +0.60 balance 62.60 (PLO 02A)
+2017-05-02 16:24:27|Rake|Rake account +0.40 balance 63 (PLO 02A)
+2017-05-02 16:24:52|Rake|Rake account +0.60 balance 63.60 (PLO 02A)
+2017-05-02 16:25:17|Rake|Rake account +0.60 balance 64.20 (PLO 02A)
+2017-05-02 16:25:42|Rake|Rake account +0.20 balance 64.40 (PLO 02A)
+2017-05-02 16:26:11|Rake|Rake account +0.60 balance 65 (PLO 02A)
+2017-05-02 16:26:30|Rake|Rake account +0.20 balance 65.20 (PLO 02A)
+2017-05-02 16:26:51|Rake|Rake account +0.20 balance 65.40 (PLO 02A)
+2017-05-02 16:27:10|Rake|Rake account +0.20 balance 65.60 (PLO 02A)
+2017-05-02 16:27:30|Rake|Rake account +0.40 balance 66 (PLO 02A)
+2017-05-02 16:28:19|Rake|Rake account +0.60 balance 66.60 (PLO 02A)
+2017-05-02 16:28:53|Rake|Rake account +1.35 balance 67.95 (PLO 02A)
+2017-05-02 16:29:14|Rake|Rake account +0.20 balance 68.15 (PLO 02A)
+2017-05-02 16:29:23|Connect|Connection 0000004B accepted from IP 112.198.76.202, PC 5A575467
+2017-05-02 16:29:34|Login|haruchankoy logged into session 0000004B from IP 112.198.76.202, PC 5A575467
+2017-05-02 16:29:38|Rake|Rake account +0.20 balance 68.35 (PLO 02A)
+2017-05-02 16:29:41|Account|haruchankoy -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:29:41|Table|haruchankoy registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:29:45|Account|haruchankoy -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 16:29:45|Table|haruchankoy registers for Hourly PLO 200 Freeroll
+2017-05-02 16:30:08|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 16:30:08|Table|Tokutaro joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 16:30:08|Table|haruchankoy joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 16:30:08|Table|alf joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 16:30:08|Table|potatos55 joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 16:30:08|Table|sajuuk joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 16:30:08|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 16:30:08|Table|thekid joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 16:30:11|Rake|Rake account +0.40 balance 68.75 (PLO 02A)
+2017-05-02 16:30:17|Account|pokertron -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 16:30:17|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 16:30:37|Account|sajuuk -0 balance 1800 (Hourly PLO 200 Freeroll)
+2017-05-02 16:30:37|Table|sajuuk registers for Hourly PLO 200 Freeroll
+2017-05-02 16:30:42|Rake|Rake account +0.40 balance 69.15 (PLO 02A)
+2017-05-02 16:31:17|Account|Jessica -0 balance 400 (Hourly PLO 200 Freeroll)
+2017-05-02 16:31:17|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 16:31:26|Rake|Rake account +0.60 balance 69.75 (PLO 02A)
+2017-05-02 16:31:59|Rake|Rake account +0.40 balance 70.15 (PLO 02A)
+2017-05-02 16:32:24|Rake|Rake account +0.40 balance 70.55 (PLO 02A)
+2017-05-02 16:32:50|Rake|Rake account +0.40 balance 70.95 (PLO 02A)
+2017-05-02 16:33:08|System|Traffic - Seconds: 600, Bytes in: 33457, Bytes out: 1063709, Total: 1097166
+2017-05-02 16:33:15|Account|haruchankoy -200 balance 0 (PLO 02A)
+2017-05-02 16:33:15|Table|haruchankoy joins PLO 02A
+2017-05-02 16:33:34|Rake|Rake account +2.30 balance 73.25 (PLO 02A)
+2017-05-02 16:33:54|Rake|Rake account +0.20 balance 73.45 (PLO 02A)
+2017-05-02 16:34:53|Rake|Rake account +1.20 balance 74.65 (PLO 02A)
+2017-05-02 16:34:55|Connect|Tokutaro disconnects session 0000003C, PC 5F0F18F3
+2017-05-02 16:36:08|Rake|Rake account +9.40 balance 84.05 (PLO 02A)
+2017-05-02 16:36:13|Account|haruchankoy +0 balance 0 (PLO 02A)
+2017-05-02 16:36:13|Table|haruchankoy leaves PLO 02A
+2017-05-02 16:36:20|Account|haruchankoy -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 16:36:20|Table|haruchankoy registers for Hourly PLO 200 Freeroll
+2017-05-02 16:36:25|Account|thekid -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 16:36:25|Table|thekid registers for Hourly PLO 200 Freeroll
+2017-05-02 16:36:37|Rake|Rake account +0.40 balance 84.45 (PLO 02A)
+2017-05-02 16:37:08|Connect|Connection 0000003C expired for Tokutaro, PC 5F0F18F3
+2017-05-02 16:37:26|Rake|Rake account +5.20 balance 89.65 (PLO 02A)
+2017-05-02 16:38:01|Rake|Rake account +0.40 balance 90.05 (PLO 02A)
+2017-05-02 16:38:28|Rake|Rake account +0.60 balance 90.65 (PLO 02A)
+2017-05-02 16:38:28|Connect|Connection 0000004C accepted from IP 185.120.147.171, PC 299F3DE3
+2017-05-02 16:38:39|Login|bestlooser logged into session 0000004C from IP 185.120.147.171, PC 299F3DE3
+2017-05-02 16:38:55|Rake|Rake account +0.20 balance 90.85 (PLO 02A)
+2017-05-02 16:39:32|Rake|Rake account +1.70 balance 92.55 (PLO 02A)
+2017-05-02 16:40:01|Account|bestlooser -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 16:40:01|Table|bestlooser registers for Hourly PLO 200 Freeroll
+2017-05-02 16:40:09|Rake|Rake account +0.40 balance 92.95 (PLO 02A)
+2017-05-02 16:40:11|Account|bestlooser -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:40:11|Table|bestlooser registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:40:50|Rake|Rake account +0.80 balance 93.75 (PLO 02A)
+2017-05-02 16:41:11|Rake|Rake account +0.20 balance 93.95 (PLO 02A)
+2017-05-02 16:41:16|Table|bestlooser unregisters from Hourly PLO 200 Freeroll
+2017-05-02 16:41:16|Account|bestlooser +0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 16:41:25|Account|bestlooser -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 16:41:25|Table|bestlooser registers for Hourly PLO 200 Freeroll
+2017-05-02 16:41:30|Connect|Connection 0000004D accepted from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 16:41:41|Rake|Rake account +0.20 balance 94.15 (PLO 02A)
+2017-05-02 16:42:03|Rake|Rake account +0.40 balance 94.55 (PLO 02A)
+2017-05-02 16:42:04|Login|Efyang logged into session 0000004D from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 16:42:23|Account|Efyang -0 balance 233.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:42:23|Table|Efyang registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:42:27|Table|Efyang unregisters from Hourly NLHE 200 Freeroll
+2017-05-02 16:42:27|Account|Efyang +0 balance 233.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:42:32|Connect|Connection 0000004E accepted from IP 94.165.97.254, PC 80C85CCD
+2017-05-02 16:42:36|Account|Efyang -0 balance 233.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:42:36|Table|Efyang registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:42:37|Rake|Rake account +0.80 balance 95.35 (PLO 02A)
+2017-05-02 16:42:41|Account|Efyang -0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 16:42:41|Table|Efyang registers for Hourly PLO 200 Freeroll
+2017-05-02 16:43:08|System|Traffic - Seconds: 600, Bytes in: 50955, Bytes out: 1881405, Total: 1932360
+2017-05-02 16:43:10|Rake|Rake account +0.40 balance 95.75 (PLO 02A)
+2017-05-02 16:43:39|Rake|Rake account +0.40 balance 96.15 (PLO 02A)
+2017-05-02 16:44:06|Rake|Rake account +0.40 balance 96.55 (PLO 02A)
+2017-05-02 16:45:02|Rake|Rake account +0.20 balance 96.75 (PLO 02A)
+2017-05-02 16:45:23|Rake|Rake account +0.40 balance 97.15 (PLO 02A)
+2017-05-02 16:46:02|Rake|Rake account +0.20 balance 97.35 (PLO 02A)
+2017-05-02 16:46:37|Account|alf +200 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 16:46:57|Rake|Rake account +1.20 balance 98.55 (PLO 02A)
+2017-05-02 16:47:23|Rake|Rake account +0.40 balance 98.95 (PLO 02A)
+2017-05-02 16:47:57|Connect|haruchankoy disconnects session 0000004B, PC 5A575467
+2017-05-02 16:47:57|Rake|Rake account +0.60 balance 99.55 (PLO 02A)
+2017-05-02 16:48:00|Account|New account created for banderas
+2017-05-02 16:48:05|Login|banderas logged into session 0000004E from IP 94.165.97.254, PC 80C85CCD
+2017-05-02 16:48:19|Account|banderas -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 16:48:19|Table|banderas registers for Hourly NLHE 200 Freeroll
+2017-05-02 16:48:26|Account|banderas -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 16:48:26|Table|banderas registers for Hourly PLO 200 Freeroll
+2017-05-02 16:48:46|Rake|Rake account +1.35 balance 100.90 (PLO 02A)
+2017-05-02 16:49:07|Rake|Rake account +0.20 balance 101.10 (PLO 02A)
+2017-05-02 16:49:34|Rake|Rake account +0.60 balance 101.70 (PLO 02A)
+2017-05-02 16:50:08|Connect|Connection 0000004B expired for haruchankoy, PC 5A575467
+2017-05-02 16:50:15|Rake|Rake account +0.60 balance 102.30 (PLO 02A)
+2017-05-02 16:50:31|Account|thekid +498.07 balance 498.07 (PLO 02A)
+2017-05-02 16:50:31|Table|thekid leaves PLO 02A
+2017-05-02 16:50:42|Logout|thekid logged out session 00000045, PC D4485F89
+2017-05-02 16:50:43|Account|pokertron +440.38 balance 1640.38 (PLO 02A)
+2017-05-02 16:50:43|Table|pokertron leaves PLO 02A
+2017-05-02 16:53:08|System|Traffic - Seconds: 600, Bytes in: 20825, Bytes out: 648683, Total: 669508
+2017-05-02 16:58:07|Connect|Efyang disconnects session 0000004D, PC 1CEE2B38
+2017-05-02 17:00:08|Connect|Connection 0000004D expired for Efyang, PC 1CEE2B38
+2017-05-02 17:00:08|Table|bestlooser joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 17:00:08|Table|haruchankoy joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 17:00:08|Table|potatos55 joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 17:00:08|Table|thekid joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 17:00:08|Table|sajuuk joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 17:00:08|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 17:00:08|Table|Tokutaro joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 17:00:08|Table|banderas joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 17:00:08|Table|Efyang joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 17:00:08|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 17:00:08|Table|alf joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 17:00:35|Account|Jessica -0 balance 400 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:00:35|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 17:01:15|Account|pokertron -0 balance 1640.38 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:01:15|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 17:03:08|System|Traffic - Seconds: 600, Bytes in: 14472, Bytes out: 757974, Total: 772446
+2017-05-02 17:03:18|Connect|Connection 0000004F accepted from IP 112.198.76.202, PC 5A575467
+2017-05-02 17:03:42|Login|haruchankoy logged into session 0000004F from IP 112.198.76.202, PC 5A575467
+2017-05-02 17:03:48|Connect|Connection 00000050 accepted from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 17:03:57|Login|Efyang logged into session 00000050 from IP 130.105.229.60, PC 1CEE2B38
+2017-05-02 17:05:40|Account|Tokutaro +0 balance 1400 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:05:45|Account|thekid +0 balance 498.07 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:06:21|Account|potatos55 -0 balance 800 (Hourly PLO 200 Freeroll)
+2017-05-02 17:06:21|Table|potatos55 registers for Hourly PLO 200 Freeroll
+2017-05-02 17:06:37|Account|potatos55 -200 balance 600 (NLHE 01A)
+2017-05-02 17:06:37|Table|potatos55 joins NLHE 01A
+2017-05-02 17:08:12|Connect|Connection 00000051 accepted from IP 151.182.169.25, PC 5F0F18F3
+2017-05-02 17:08:26|Account|potatos55 +200 balance 800 (NLHE 01A)
+2017-05-02 17:08:26|Table|potatos55 leaves NLHE 01A
+2017-05-02 17:08:33|Login|Tokutaro logged into session 00000051 from IP 151.182.169.25, PC 5F0F18F3
+2017-05-02 17:08:41|Account|Tokutaro -0 balance 1400 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:08:41|Table|Tokutaro registers for Hourly NLHE 200 Freeroll
+2017-05-02 17:08:45|Account|Tokutaro -0 balance 1400 (Hourly PLO 200 Freeroll)
+2017-05-02 17:08:45|Table|Tokutaro registers for Hourly PLO 200 Freeroll
+2017-05-02 17:09:54|Account|Jessica -1 balance 399 (Transfer to pokertron)
+2017-05-02 17:09:54|Account|pokertron +1 balance 1641.38 (Transfer from Jessica)
+2017-05-02 17:09:54|Account|Jessica transfers 1 to pokertron
+2017-05-02 17:10:21|Account|Jessica -399 balance 0 (Transfer to pokertron)
+2017-05-02 17:10:21|Account|pokertron +399 balance 2040.38 (Transfer from Jessica)
+2017-05-02 17:10:21|Account|Jessica transfers 399 to pokertron
+2017-05-02 17:13:08|System|Traffic - Seconds: 600, Bytes in: 37013, Bytes out: 1639002, Total: 1676015
+2017-05-02 17:13:42|Connect|alf disconnects session 0000004A, PC 571AED05
+2017-05-02 17:14:59|Account|bestlooser +200 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:15:28|Account|bestlooser -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:15:28|Table|bestlooser registers for Hourly NLHE 200 Freeroll
+2017-05-02 17:15:28|Account|haruchankoy -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:15:28|Table|haruchankoy registers for Hourly NLHE 200 Freeroll
+2017-05-02 17:16:08|Connect|Connection 0000004A expired for alf, PC 571AED05
+2017-05-02 17:17:52|Account|banderas -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:17:52|Table|banderas registers for Hourly NLHE 200 Freeroll
+2017-05-02 17:18:54|Account|Efyang -0 balance 233.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:18:54|Table|Efyang registers for Hourly NLHE 200 Freeroll
+2017-05-02 17:20:01|Account|sajuuk -0 balance 1800 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:20:01|Table|sajuuk registers for Hourly NLHE 200 Freeroll
+2017-05-02 17:20:48|Account|pokertron -200 balance 1840.38 (NLHE 01A)
+2017-05-02 17:20:48|Table|pokertron joins NLHE 01A
+2017-05-02 17:20:51|Account|bestlooser -100 balance 100 (NLHE 01A)
+2017-05-02 17:20:51|Table|bestlooser joins NLHE 01A
+2017-05-02 17:21:31|Connect|haruchankoy disconnects session 0000004F, PC 5A575467
+2017-05-02 17:22:00|Rake|Rake account +1.30 balance 103.60 (NLHE 01A)
+2017-05-02 17:22:46|Rake|Rake account +0.40 balance 104 (NLHE 01A)
+2017-05-02 17:23:08|System|Traffic - Seconds: 600, Bytes in: 11492, Bytes out: 224569, Total: 236061
+2017-05-02 17:23:30|Rake|Rake account +0.10 balance 104.10 (NLHE 01A)
+2017-05-02 17:24:08|Connect|Connection 0000004F expired for haruchankoy, PC 5A575467
+2017-05-02 17:24:20|Rake|Rake account +0.20 balance 104.30 (NLHE 01A)
+2017-05-02 17:24:45|Rake|Rake account +0.10 balance 104.40 (NLHE 01A)
+2017-05-02 17:26:14|Rake|Rake account +6.80 balance 111.20 (NLHE 01A)
+2017-05-02 17:27:01|Rake|Rake account +0.30 balance 111.50 (NLHE 01A)
+2017-05-02 17:27:36|Rake|Rake account +0.10 balance 111.60 (NLHE 01A)
+2017-05-02 17:28:08|Rake|Rake account +0.10 balance 111.70 (NLHE 01A)
+2017-05-02 17:28:37|Rake|Rake account +0.10 balance 111.80 (NLHE 01A)
+2017-05-02 17:29:15|Rake|Rake account +0.10 balance 111.90 (NLHE 01A)
+2017-05-02 17:29:44|Rake|Rake account +0.20 balance 112.10 (NLHE 01A)
+2017-05-02 17:30:08|Table|potatos55 joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 17:30:08|Table|haruchankoy joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 17:30:08|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 17:30:08|Table|Tokutaro joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 17:30:08|Table|sajuuk joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 17:30:08|Table|bestlooser joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 17:30:08|Table|thekid joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 17:30:08|Table|banderas joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 17:30:08|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 17:30:08|Table|Efyang joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 17:30:30|Rake|Rake account +0.10 balance 112.20 (NLHE 01A)
+2017-05-02 17:30:36|Account|Jessica -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 17:30:36|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 17:31:15|Rake|Rake account +0.10 balance 112.30 (NLHE 01A)
+2017-05-02 17:31:27|Connect|Connection 00000052 accepted from IP 112.198.76.202, PC 5A575467
+2017-05-02 17:31:37|Login|haruchankoy logged into session 00000052 from IP 112.198.76.202, PC 5A575467
+2017-05-02 17:31:49|Account|potatos55 -100 balance 700 (NLHE 01A)
+2017-05-02 17:31:49|Table|potatos55 joins NLHE 01A
+2017-05-02 17:32:00|Account|banderas -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 17:32:00|Table|banderas registers for Hourly PLO 200 Freeroll
+2017-05-02 17:32:19|Logout|banderas logged out session 0000004E, PC 80C85CCD
+2017-05-02 17:32:34|Rake|Rake account +0.50 balance 112.80 (NLHE 01A)
+2017-05-02 17:33:08|System|Traffic - Seconds: 600, Bytes in: 25040, Bytes out: 839808, Total: 864848
+2017-05-02 17:33:10|Connect|Tokutaro disconnects session 00000051, PC 5F0F18F3
+2017-05-02 17:33:35|Rake|Rake account +0.20 balance 113 (NLHE 01A)
+2017-05-02 17:35:14|Rake|Rake account +0.50 balance 113.50 (NLHE 01A)
+2017-05-02 17:36:07|Rake|Rake account +0.10 balance 113.60 (NLHE 01A)
+2017-05-02 17:36:08|Connect|Connection 00000051 expired for Tokutaro, PC 5F0F18F3
+2017-05-02 17:36:37|Account|thekid +0 balance 498.07 (Hourly PLO 200 Freeroll)
+2017-05-02 17:37:18|Rake|Rake account +0.30 balance 113.90 (NLHE 01A)
+2017-05-02 17:38:17|Account|pokertron -88.70 balance 1751.68 (NLHE 01A)
+2017-05-02 17:38:18|Account|haruchankoy -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 17:38:18|Table|haruchankoy registers for Hourly PLO 200 Freeroll
+2017-05-02 17:38:23|Account|potatos55 +0 balance 700 (NLHE 01A)
+2017-05-02 17:38:23|Table|potatos55 leaves NLHE 01A
+2017-05-02 17:38:23|Rake|Rake account +5.90 balance 119.80 (NLHE 01A)
+2017-05-02 17:38:30|Logout|potatos55 logged out session 00000042, PC 0D4B93A2
+2017-05-02 17:39:13|Rake|Rake account +0.10 balance 119.90 (NLHE 01A)
+2017-05-02 17:40:22|Rake|Rake account +0.10 balance 120 (NLHE 01A)
+2017-05-02 17:41:59|Rake|Rake account +0.10 balance 120.10 (NLHE 01A)
+2017-05-02 17:42:38|Rake|Rake account +0.10 balance 120.20 (NLHE 01A)
+2017-05-02 17:43:08|System|Traffic - Seconds: 600, Bytes in: 27341, Bytes out: 1054096, Total: 1081437
+2017-05-02 17:43:20|Rake|Rake account +0.10 balance 120.30 (NLHE 01A)
+2017-05-02 17:43:57|Rake|Rake account +0.10 balance 120.40 (NLHE 01A)
+2017-05-02 17:44:42|Rake|Rake account +0.10 balance 120.50 (NLHE 01A)
+2017-05-02 17:45:25|Rake|Rake account +0.10 balance 120.60 (NLHE 01A)
+2017-05-02 17:46:07|Rake|Rake account +0.10 balance 120.70 (NLHE 01A)
+2017-05-02 17:46:56|Account|sajuuk +200 balance 2000 (Hourly PLO 200 Freeroll)
+2017-05-02 17:47:00|Rake|Rake account +0.10 balance 120.80 (NLHE 01A)
+2017-05-02 17:47:22|Account|sajuuk -0 balance 2000 (Hourly PLO 200 Freeroll)
+2017-05-02 17:47:22|Table|sajuuk registers for Hourly PLO 200 Freeroll
+2017-05-02 17:47:44|Connect|haruchankoy disconnects session 00000052, PC 5A575467
+2017-05-02 17:47:54|Rake|Rake account +0.10 balance 120.90 (NLHE 01A)
+2017-05-02 17:48:15|Account|bspus -0 balance 1033.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:48:15|Table|bspus registers for Hourly NLHE 200 Freeroll
+2017-05-02 17:48:16|Account|pokertron -0 balance 1751.68 (Hourly PLO 200 Freeroll)
+2017-05-02 17:48:16|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 17:48:19|Account|bspus -0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 17:48:19|Table|bspus registers for Hourly PLO 200 Freeroll
+2017-05-02 17:48:20|Rake|Rake account +0.10 balance 121 (NLHE 01A)
+2017-05-02 17:48:58|Rake|Rake account +0.10 balance 121.10 (NLHE 01A)
+2017-05-02 17:49:44|Rake|Rake account +0.20 balance 121.30 (NLHE 01A)
+2017-05-02 17:50:08|Connect|Connection 00000052 expired for haruchankoy, PC 5A575467
+2017-05-02 17:50:12|Rake|Rake account +0.10 balance 121.40 (NLHE 01A)
+2017-05-02 17:50:44|Rake|Rake account +0.10 balance 121.50 (NLHE 01A)
+2017-05-02 17:51:26|Rake|Rake account +0.20 balance 121.70 (NLHE 01A)
+2017-05-02 17:52:24|Rake|Rake account +0.10 balance 121.80 (NLHE 01A)
+2017-05-02 17:53:08|System|Traffic - Seconds: 600, Bytes in: 19687, Bytes out: 577746, Total: 597433
+2017-05-02 17:53:18|Rake|Rake account +0.30 balance 122.10 (NLHE 01A)
+2017-05-02 17:53:43|Rake|Rake account +0.10 balance 122.20 (NLHE 01A)
+2017-05-02 17:54:48|Rake|Rake account +0.30 balance 122.50 (NLHE 01A)
+2017-05-02 17:55:40|Rake|Rake account +0.10 balance 122.60 (NLHE 01A)
+2017-05-02 17:55:46|Connect|Connection 00000053 accepted from IP 46.165.216.71, PC 36241E54
+2017-05-02 17:56:05|Login|potatos55 logged into session 00000053 from IP 46.165.216.71, PC 36241E54
+2017-05-02 17:56:14|Account|potatos55 -0 balance 700 (Hourly NLHE 200 Freeroll)
+2017-05-02 17:56:14|Table|potatos55 registers for Hourly NLHE 200 Freeroll
+2017-05-02 17:56:20|Rake|Rake account +0.10 balance 122.70 (NLHE 01A)
+2017-05-02 17:57:02|Connect|Connection 00000054 accepted from IP 151.182.169.25, PC 5F0F18F3
+2017-05-02 17:57:22|Login|Tokutaro logged into session 00000054 from IP 151.182.169.25, PC 5F0F18F3
+2017-05-02 17:57:25|Rake|Rake account +0.30 balance 123 (NLHE 01A)
+2017-05-02 17:57:37|Account|Tokutaro -0 balance 1400 (Hourly PLO 200 Freeroll)
+2017-05-02 17:57:37|Table|Tokutaro registers for Hourly PLO 200 Freeroll
+2017-05-02 17:57:55|Rake|Rake account +0.10 balance 123.10 (NLHE 01A)
+2017-05-02 17:58:36|Rake|Rake account +0.20 balance 123.30 (NLHE 01A)
+2017-05-02 17:59:09|Rake|Rake account +0.10 balance 123.40 (NLHE 01A)
+2017-05-02 18:00:06|Rake|Rake account +0.10 balance 123.50 (NLHE 01A)
+2017-05-02 18:00:08|Table|Efyang joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 18:00:08|Table|bestlooser joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 18:00:08|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 18:00:08|Table|potatos55 joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 18:00:08|Table|Tokutaro joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 18:00:08|Table|sajuuk joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 18:00:08|Table|bspus joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 18:00:08|Table|haruchankoy joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 18:00:08|Table|banderas joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 18:00:08|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 18:00:21|Account|pokertron -0 balance 1751.68 (Hourly NLHE 200 Freeroll)
+2017-05-02 18:00:21|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 18:01:03|Rake|Rake account +0.20 balance 123.70 (NLHE 01A)
+2017-05-02 18:01:27|Connect|Connection 00000055 accepted from IP 208.184.162.153, PC 35FB24BD
+2017-05-02 18:01:42|Rake|Rake account +0.10 balance 123.80 (NLHE 01A)
+2017-05-02 18:02:08|Account|Jessica -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 18:02:08|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 18:02:10|Connect|IP 208.184.162.153 disconnects session 00000055, PC 35FB24BD
+2017-05-02 18:02:51|Account|bspus -0 balance 1033.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 18:02:51|Table|bspus registers for Hourly NLHE 200 Freeroll
+2017-05-02 18:02:55|Rake|Rake account +0.40 balance 124.20 (NLHE 01A)
+2017-05-02 18:03:08|System|Traffic - Seconds: 600, Bytes in: 47660, Bytes out: 2094559, Total: 2142219
+2017-05-02 18:03:53|Rake|Rake account +0.40 balance 124.60 (NLHE 01A)
+2017-05-02 18:04:43|Rake|Rake account +0.60 balance 125.20 (NLHE 01A)
+2017-05-02 18:05:08|Connect|Connection 00000055 expired for IP 208.184.162.153, PC 35FB24BD
+2017-05-02 18:05:29|Rake|Rake account +0.20 balance 125.40 (NLHE 01A)
+2017-05-02 18:05:42|Account|banderas +0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 18:05:53|Account|haruchankoy +0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 18:05:59|Rake|Rake account +0.10 balance 125.50 (NLHE 01A)
+2017-05-02 18:06:13|Account|bestlooser -0 balance 100 (Hourly PLO 200 Freeroll)
+2017-05-02 18:06:13|Table|bestlooser registers for Hourly PLO 200 Freeroll
+2017-05-02 18:06:26|Account|bestlooser -0 balance 100 (Hourly NLHE 200 Freeroll)
+2017-05-02 18:06:26|Table|bestlooser registers for Hourly NLHE 200 Freeroll
+2017-05-02 18:06:46|Connect|sajuuk disconnects session 00000024, PC 80569003
+2017-05-02 18:07:01|Rake|Rake account +0.30 balance 125.80 (NLHE 01A)
+2017-05-02 18:07:53|Rake|Rake account +0.10 balance 125.90 (NLHE 01A)
+2017-05-02 18:08:05|Connect|Efyang disconnects session 00000050, PC 1CEE2B38
+2017-05-02 18:08:39|Rake|Rake account +0.10 balance 126 (NLHE 01A)
+2017-05-02 18:09:08|Connect|Connection 00000024 expired for sajuuk, PC 80569003
+2017-05-02 18:09:42|Rake|Rake account +0.30 balance 126.30 (NLHE 01A)
+2017-05-02 18:09:53|Connect|Connection 00000056 accepted from IP 108.60.141.178, PC 21F6E530
+2017-05-02 18:10:08|Connect|Connection 00000050 expired for Efyang, PC 1CEE2B38
+2017-05-02 18:10:13|Rake|Rake account +0.10 balance 126.40 (NLHE 01A)
+2017-05-02 18:10:25|Account|New account created for kycsgl
+2017-05-02 18:10:27|Login|kycsgl logged into session 00000056 from IP 108.60.141.178, PC 21F6E530
+2017-05-02 18:10:35|Rake|Rake account +0.10 balance 126.50 (NLHE 01A)
+2017-05-02 18:10:45|Connect|kycsgl disconnects session 00000056, PC 21F6E530
+2017-05-02 18:11:13|Rake|Rake account +0.20 balance 126.70 (NLHE 01A)
+2017-05-02 18:11:37|Rake|Rake account +0.10 balance 126.80 (NLHE 01A)
+2017-05-02 18:12:15|Rake|Rake account +0.20 balance 127 (NLHE 01A)
+2017-05-02 18:12:56|Account|Tokutaro +200 balance 1600 (Hourly NLHE 200 Freeroll)
+2017-05-02 18:13:02|Connect|potatos55 disconnects session 00000053, PC 36241E54
+2017-05-02 18:13:06|Connect|Tokutaro disconnects session 00000054, PC 5F0F18F3
+2017-05-02 18:13:08|Connect|Connection 00000056 expired for kycsgl, PC 21F6E530
+2017-05-02 18:13:08|System|Traffic - Seconds: 600, Bytes in: 45339, Bytes out: 2042088, Total: 2087427
+2017-05-02 18:13:10|Rake|Rake account +0.20 balance 127.20 (NLHE 01A)
+2017-05-02 18:13:55|Rake|Rake account +0.30 balance 127.50 (NLHE 01A)
+2017-05-02 18:15:08|Connect|Connection 00000053 expired for potatos55, PC 36241E54
+2017-05-02 18:15:08|Connect|Connection 00000054 expired for Tokutaro, PC 5F0F18F3
+2017-05-02 18:15:17|Rake|Rake account +0.60 balance 128.10 (NLHE 01A)
+2017-05-02 18:15:59|Rake|Rake account +0.20 balance 128.30 (NLHE 01A)
+2017-05-02 18:17:05|Rake|Rake account +0.40 balance 128.70 (NLHE 01A)
+2017-05-02 18:17:36|Rake|Rake account +0.10 balance 128.80 (NLHE 01A)
+2017-05-02 18:18:04|Rake|Rake account +0.10 balance 128.90 (NLHE 01A)
+2017-05-02 18:18:56|Rake|Rake account +0.20 balance 129.10 (NLHE 01A)
+2017-05-02 18:19:43|Rake|Rake account +0.30 balance 129.40 (NLHE 01A)
+2017-05-02 18:20:24|Rake|Rake account +0.40 balance 129.80 (NLHE 01A)
+2017-05-02 18:21:20|Rake|Rake account +0.20 balance 130 (NLHE 01A)
+2017-05-02 18:22:07|Rake|Rake account +0.30 balance 130.30 (NLHE 01A)
+2017-05-02 18:22:43|Rake|Rake account +0.10 balance 130.40 (NLHE 01A)
+2017-05-02 18:23:08|System|Traffic - Seconds: 600, Bytes in: 11839, Bytes out: 293882, Total: 305721
+2017-05-02 18:23:45|Connect|Connection 00000057 accepted from IP 73.232.212.143, PC 97FB5484
+2017-05-02 18:23:50|Login|Blackbettle logged into session 00000057 from IP 73.232.212.143, PC 97FB5484
+2017-05-02 18:24:01|Account|Blackbettle -0 balance 33.33 (Hourly PLO 200 Freeroll)
+2017-05-02 18:24:01|Table|Blackbettle registers for Hourly PLO 200 Freeroll
+2017-05-02 18:24:08|Rake|Rake account +0.90 balance 131.30 (NLHE 01A)
+2017-05-02 18:25:04|Rake|Rake account +0.10 balance 131.40 (NLHE 01A)
+2017-05-02 18:25:30|Rake|Rake account +0.10 balance 131.50 (NLHE 01A)
+2017-05-02 18:26:37|Rake|Rake account +0.40 balance 131.90 (NLHE 01A)
+2017-05-02 18:27:09|Rake|Rake account +0.20 balance 132.10 (NLHE 01A)
+2017-05-02 18:27:41|Rake|Rake account +0.10 balance 132.20 (NLHE 01A)
+2017-05-02 18:27:54|Connect|Connection 00000058 accepted from IP 118.232.9.247, PC 80569003
+2017-05-02 18:28:06|Rake|Rake account +0.10 balance 132.30 (NLHE 01A)
+2017-05-02 18:28:08|Login|sajuuk logged into session 00000058 from IP 118.232.9.247, PC 80569003
+2017-05-02 18:28:28|Account|sajuuk -0 balance 2000 (Hourly NLHE 200 Freeroll)
+2017-05-02 18:28:28|Table|sajuuk registers for Hourly NLHE 200 Freeroll
+2017-05-02 18:28:44|Rake|Rake account +0.20 balance 132.50 (NLHE 01A)
+2017-05-02 18:29:24|Rake|Rake account +0.20 balance 132.70 (NLHE 01A)
+2017-05-02 18:30:06|Rake|Rake account +0.10 balance 132.80 (NLHE 01A)
+2017-05-02 18:30:08|Table|Blackbettle joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 18:30:08|Table|banderas joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 18:30:08|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 18:30:08|Table|pokertron joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 18:30:08|Table|sajuuk joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 18:30:08|Table|bspus joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 18:30:08|Table|bestlooser joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 18:30:08|Table|Tokutaro joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 18:30:08|Table|haruchankoy joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 18:30:39|Rake|Rake account +0.10 balance 132.90 (NLHE 01A)
+2017-05-02 18:31:13|Account|Jessica -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 18:31:13|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 18:31:22|Rake|Rake account +0.20 balance 133.10 (NLHE 01A)
+2017-05-02 18:32:08|Rake|Rake account +0.30 balance 133.40 (NLHE 01A)
+2017-05-02 18:32:34|Connect|bspus disconnects session 00000044, PC AE588A8A
+2017-05-02 18:32:55|Rake|Rake account +0.10 balance 133.50 (NLHE 01A)
+2017-05-02 18:33:08|System|Traffic - Seconds: 600, Bytes in: 26379, Bytes out: 728914, Total: 755293
+2017-05-02 18:33:40|Rake|Rake account +0.20 balance 133.70 (NLHE 01A)
+2017-05-02 18:34:32|Rake|Rake account +0.10 balance 133.80 (NLHE 01A)
+2017-05-02 18:35:08|Connect|Connection 00000044 expired for bspus, PC AE588A8A
+2017-05-02 18:36:04|Rake|Rake account +0.20 balance 134 (NLHE 01A)
+2017-05-02 18:36:15|Account|banderas +0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 18:36:15|Account|haruchankoy +0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 18:36:35|Account|Blackbettle -0 balance 33.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 18:36:35|Table|Blackbettle registers for Hourly NLHE 200 Freeroll
+2017-05-02 18:36:46|Rake|Rake account +0.10 balance 134.10 (NLHE 01A)
+2017-05-02 18:37:49|Rake|Rake account +0.50 balance 134.60 (NLHE 01A)
+2017-05-02 18:38:35|Rake|Rake account +0.70 balance 135.30 (NLHE 01A)
+2017-05-02 18:39:06|Rake|Rake account +0.10 balance 135.40 (NLHE 01A)
+2017-05-02 18:39:40|Rake|Rake account +0.10 balance 135.50 (NLHE 01A)
+2017-05-02 18:40:18|Rake|Rake account +0.10 balance 135.60 (NLHE 01A)
+2017-05-02 18:40:50|Rake|Rake account +0.10 balance 135.70 (NLHE 01A)
+2017-05-02 18:41:54|Rake|Rake account +0.50 balance 136.20 (NLHE 01A)
+2017-05-02 18:42:31|Rake|Rake account +0.10 balance 136.30 (NLHE 01A)
+2017-05-02 18:43:08|System|Traffic - Seconds: 600, Bytes in: 26407, Bytes out: 872389, Total: 898796
+2017-05-02 18:43:45|Rake|Rake account +0.20 balance 136.50 (NLHE 01A)
+2017-05-02 18:44:22|Rake|Rake account +0.20 balance 136.70 (NLHE 01A)
+2017-05-02 18:44:51|Rake|Rake account +0.10 balance 136.80 (NLHE 01A)
+2017-05-02 18:44:55|Connect|Connection 00000059 accepted from IP 174.193.131.125, PC 4CD54486
+2017-05-02 18:45:07|Login|killedcobain logged into session 00000059 from IP 174.193.131.125, PC 4CD54486
+2017-05-02 18:45:24|Rake|Rake account +0.10 balance 136.90 (NLHE 01A)
+2017-05-02 18:45:52|Connect|killedcobain disconnects session 00000059, PC 4CD54486
+2017-05-02 18:46:12|Rake|Rake account +0.20 balance 137.10 (NLHE 01A)
+2017-05-02 18:46:51|Rake|Rake account +0.10 balance 137.20 (NLHE 01A)
+2017-05-02 18:47:17|Connect|Connection 0000005A accepted from IP 79.131.107.224, PC AE588A8A
+2017-05-02 18:47:19|Login|bspus logged into session 0000005A from IP 79.131.107.224, PC AE588A8A
+2017-05-02 18:47:34|Account|bspus -0 balance 1033.33 (Hourly PLO 200 Freeroll)
+2017-05-02 18:47:34|Table|bspus registers for Hourly PLO 200 Freeroll
+2017-05-02 18:47:46|Account|pokertron +200 balance 1951.68 (Hourly PLO 200 Freeroll)
+2017-05-02 18:48:02|Rake|Rake account +0.30 balance 137.50 (NLHE 01A)
+2017-05-02 18:48:08|Connect|Connection 00000059 expired for killedcobain, PC 4CD54486
+2017-05-02 18:48:22|Connect|sajuuk disconnects session 00000058, PC 80569003
+2017-05-02 18:48:35|Account|pokertron -0 balance 1951.68 (Hourly PLO 200 Freeroll)
+2017-05-02 18:48:35|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 18:48:35|Rake|Rake account +0.20 balance 137.70 (NLHE 01A)
+2017-05-02 18:48:48|Account|bestlooser -0 balance 100 (Hourly PLO 200 Freeroll)
+2017-05-02 18:48:48|Table|bestlooser registers for Hourly PLO 200 Freeroll
+2017-05-02 18:49:23|Rake|Rake account +0.20 balance 137.90 (NLHE 01A)
+2017-05-02 18:50:01|Rake|Rake account +0.20 balance 138.10 (NLHE 01A)
+2017-05-02 18:50:45|Rake|Rake account +0.20 balance 138.30 (NLHE 01A)
+2017-05-02 18:51:06|Rake|Rake account +0.10 balance 138.40 (NLHE 01A)
+2017-05-02 18:51:08|Connect|Connection 00000058 expired for sajuuk, PC 80569003
+2017-05-02 18:52:16|Rake|Rake account +0.10 balance 138.50 (NLHE 01A)
+2017-05-02 18:52:57|Rake|Rake account +0.10 balance 138.60 (NLHE 01A)
+2017-05-02 18:53:08|System|Traffic - Seconds: 600, Bytes in: 23533, Bytes out: 637594, Total: 661127
+2017-05-02 18:53:41|Rake|Rake account +0.20 balance 138.80 (NLHE 01A)
+2017-05-02 18:54:18|Rake|Rake account +0.10 balance 138.90 (NLHE 01A)
+2017-05-02 18:54:55|Rake|Rake account +0.10 balance 139 (NLHE 01A)
+2017-05-02 18:55:18|Connect|Connection 0000005B accepted from IP 188.163.32.145, PC 8B555D0D
+2017-05-02 18:55:24|Rake|Rake account +0.10 balance 139.10 (NLHE 01A)
+2017-05-02 18:55:56|Login|alf logged into session 0000005B from IP 188.163.32.145, PC 8B555D0D
+2017-05-02 18:56:01|Rake|Rake account +0.10 balance 139.20 (NLHE 01A)
+2017-05-02 18:56:55|Rake|Rake account +0.20 balance 139.40 (NLHE 01A)
+2017-05-02 18:57:46|Account|alf -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 18:57:46|Table|alf registers for Hourly NLHE 200 Freeroll
+2017-05-02 18:58:12|Rake|Rake account +0.60 balance 140 (NLHE 01A)
+2017-05-02 18:58:58|Rake|Rake account +0.20 balance 140.20 (NLHE 01A)
+2017-05-02 18:59:26|Rake|Rake account +0.10 balance 140.30 (NLHE 01A)
+2017-05-02 18:59:56|Rake|Rake account +0.10 balance 140.40 (NLHE 01A)
+2017-05-02 19:00:08|Table|sajuuk joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 19:00:08|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 19:00:08|Table|bestlooser joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 19:00:08|Table|Blackbettle joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 19:00:08|Table|bspus joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 19:00:08|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 2
+2017-05-02 19:00:08|Table|alf joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 19:00:34|Account|Jessica -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 19:00:34|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 19:00:51|Rake|Rake account +0.20 balance 140.60 (NLHE 01A)
+2017-05-02 19:01:43|Account|bspus -0 balance 1033.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 19:01:43|Table|bspus registers for Hourly NLHE 200 Freeroll
+2017-05-02 19:01:45|Connect|Jessica disconnects session 00000038, PC 9950266D
+2017-05-02 19:01:51|Rake|Rake account +0.10 balance 140.70 (NLHE 01A)
+2017-05-02 19:02:18|Connect|Jessica reconnects session 00000038
+2017-05-02 19:02:21|Connect|Jessica disconnects session 00000038, PC 9950266D
+2017-05-02 19:02:59|Rake|Rake account +0.20 balance 140.90 (NLHE 01A)
+2017-05-02 19:03:08|System|Traffic - Seconds: 600, Bytes in: 25637, Bytes out: 668969, Total: 694606
+2017-05-02 19:03:09|Connect|alf disconnects session 0000005B, PC 8B555D0D
+2017-05-02 19:03:37|Connect|Connection 0000005C accepted from IP 91.210.192.194, PC 9950266D
+2017-05-02 19:03:52|Logout|Jessica logged out session 00000038, PC 9950266D
+2017-05-02 19:03:52|Login|Jessica logged into session 0000005C from IP 91.210.192.194, PC 9950266D
+2017-05-02 19:03:59|Rake|Rake account +0.20 balance 141.10 (NLHE 01A)
+2017-05-02 19:04:30|Connect|Jessica disconnects session 0000005C, PC 9950266D
+2017-05-02 19:04:46|Connect|Jessica reconnects session 0000005C
+2017-05-02 19:04:47|Rake|Rake account +0.30 balance 141.40 (NLHE 01A)
+2017-05-02 19:05:19|Connect|pokertron disconnects session 0000002B, PC A9BCCFBF
+2017-05-02 19:05:26|Connect|Connection 0000005D accepted from IP 181.229.231.4, PC A9BCCFBF
+2017-05-02 19:05:33|Logout|pokertron logged out session 0000002B, PC A9BCCFBF
+2017-05-02 19:05:33|Login|pokertron logged into session 0000005D from IP 181.229.231.4, PC A9BCCFBF
+2017-05-02 19:05:41|Account|sajuuk +0 balance 2000 (Hourly NLHE 200 Freeroll)
+2017-05-02 19:06:07|Rake|Rake account +0.10 balance 141.50 (NLHE 01A)
+2017-05-02 19:06:08|Connect|Connection 0000005B expired for alf, PC 8B555D0D
+2017-05-02 19:06:44|Account|pokertron +166.75 balance 2118.43 (NLHE 01A)
+2017-05-02 19:06:44|Table|pokertron leaves NLHE 01A
+2017-05-02 19:07:20|Account|bestlooser +282.75 balance 382.75 (NLHE 01A)
+2017-05-02 19:07:20|Table|bestlooser leaves NLHE 01A
+2017-05-02 19:07:40|Account|bestlooser -0 balance 382.75 (Hourly NLHE 200 Freeroll)
+2017-05-02 19:07:40|Table|bestlooser registers for Hourly NLHE 200 Freeroll
+2017-05-02 19:08:59|Connect|Blackbettle disconnects session 00000057, PC 97FB5484
+2017-05-02 19:10:36|Account|bestlooser +200 balance 582.75 (Hourly NLHE 200 Freeroll)
+2017-05-02 19:10:43|Connect|Jessica disconnects session 0000005C, PC 9950266D
+2017-05-02 19:11:08|Connect|Connection 00000057 expired for Blackbettle, PC 97FB5484
+2017-05-02 19:13:08|Connect|Connection 0000005C expired for Jessica, PC 9950266D
+2017-05-02 19:13:08|System|Traffic - Seconds: 600, Bytes in: 22403, Bytes out: 592822, Total: 615225
+2017-05-02 19:20:28|Connect|Connection 0000005E accepted from IP 91.210.192.194, PC 9950266D
+2017-05-02 19:21:01|Connect|IP 91.210.192.194 disconnects session 0000005E, PC 9950266D
+2017-05-02 19:21:18|Connect|Connection 0000005F accepted from IP 91.210.192.194, PC 9950266D
+2017-05-02 19:21:42|Login|Jessica logged into session 0000005F from IP 91.210.192.194, PC 9950266D
+2017-05-02 19:23:08|Connect|Connection 0000005E expired for IP 91.210.192.194, PC 9950266D
+2017-05-02 19:23:08|System|Traffic - Seconds: 600, Bytes in: 4940, Bytes out: 22542, Total: 27482
+2017-05-02 19:25:41|Connect|Connection 00000060 accepted from IP 73.232.212.143, PC 97FB5484
+2017-05-02 19:25:46|Login|Blackbettle logged into session 00000060 from IP 73.232.212.143, PC 97FB5484
+2017-05-02 19:25:53|Account|Blackbettle -0 balance 33.33 (Hourly PLO 200 Freeroll)
+2017-05-02 19:25:53|Table|Blackbettle registers for Hourly PLO 200 Freeroll
+2017-05-02 19:30:08|Table|bestlooser joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 19:30:08|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 19:30:08|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 19:30:08|Table|bspus joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 19:30:08|Table|Blackbettle joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 19:30:43|Account|Jessica -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 19:30:43|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 19:33:08|System|Traffic - Seconds: 600, Bytes in: 7579, Bytes out: 284367, Total: 291946
+2017-05-02 19:35:10|Account|bestlooser -0 balance 582.75 (Hourly PLO 200 Freeroll)
+2017-05-02 19:35:10|Table|bestlooser registers for Hourly PLO 200 Freeroll
+2017-05-02 19:38:38|Connect|Blackbettle disconnects session 00000060, PC 97FB5484
+2017-05-02 19:40:16|Account|pokertron +200 balance 2318.43 (Hourly PLO 200 Freeroll)
+2017-05-02 19:41:08|Connect|Connection 00000060 expired for Blackbettle, PC 97FB5484
+2017-05-02 19:43:08|System|Traffic - Seconds: 600, Bytes in: 12341, Bytes out: 641218, Total: 653559
+2017-05-02 19:53:08|System|Traffic - Seconds: 600, Bytes in: 641, Bytes out: 5261, Total: 5902
+2017-05-02 20:00:08|Table|bestlooser joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 20:00:08|Table|bspus joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 20:00:08|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 20:00:22|Account|bestlooser -0 balance 582.75 (Hourly NLHE 200 Freeroll)
+2017-05-02 20:00:22|Table|bestlooser registers for Hourly NLHE 200 Freeroll
+2017-05-02 20:00:37|Account|Jessica -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 20:00:37|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 20:01:40|Account|pokertron -0 balance 2318.43 (Hourly NLHE 200 Freeroll)
+2017-05-02 20:01:40|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 20:01:46|Account|pokertron -0 balance 2318.43 (Hourly PLO 200 Freeroll)
+2017-05-02 20:01:46|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 20:03:08|System|Traffic - Seconds: 600, Bytes in: 7275, Bytes out: 198466, Total: 205741
+2017-05-02 20:05:14|Account|bspus +200 balance 1233.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 20:05:35|Connect|bspus disconnects session 0000005A, PC AE588A8A
+2017-05-02 20:08:08|Connect|Connection 0000005A expired for bspus, PC AE588A8A
+2017-05-02 20:13:08|System|Traffic - Seconds: 600, Bytes in: 3992, Bytes out: 167353, Total: 171345
+2017-05-02 20:23:08|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 3550, Total: 3550
+2017-05-02 20:30:08|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 20:30:08|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 20:30:08|Table|bestlooser joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 20:30:11|Connect|Connection 00000061 accepted from IP 104.32.111.87, PC 089E0DBE
+2017-05-02 20:30:39|Login|lordsilver logged into session 00000061 from IP 104.32.111.87, PC 089E0DBE
+2017-05-02 20:30:44|Account|lordsilver -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 20:30:44|Table|lordsilver registers for Hourly PLO 200 Freeroll
+2017-05-02 20:30:50|Account|lordsilver -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 20:30:50|Table|lordsilver registers for Hourly NLHE 200 Freeroll
+2017-05-02 20:31:05|Account|pokertron -0 balance 2318.43 (Hourly PLO 200 Freeroll)
+2017-05-02 20:31:05|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 20:31:31|Connect|Connection 00000062 accepted from IP 178.118.176.13, PC 56845D86
+2017-05-02 20:31:37|Account|Jessica -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 20:31:37|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 20:31:45|Connect|IP 178.118.176.13 disconnects session 00000062, PC 56845D86
+2017-05-02 20:33:02|Account|bestlooser +200 balance 782.75 (Hourly PLO 200 Freeroll)
+2017-05-02 20:33:08|System|Traffic - Seconds: 600, Bytes in: 24299, Bytes out: 1132503, Total: 1156802
+2017-05-02 20:33:47|Account|bestlooser -0 balance 782.75 (Hourly PLO 200 Freeroll)
+2017-05-02 20:33:47|Table|bestlooser registers for Hourly PLO 200 Freeroll
+2017-05-02 20:34:08|Connect|Connection 00000062 expired for IP 178.118.176.13, PC 56845D86
+2017-05-02 20:34:31|Account|bestlooser -100 balance 682.75 (NLHE 01A)
+2017-05-02 20:34:31|Table|bestlooser joins NLHE 01A
+2017-05-02 20:43:08|System|Traffic - Seconds: 600, Bytes in: 3605, Bytes out: 31883, Total: 35488
+2017-05-02 20:46:24|Account|bestlooser +100 balance 782.75 (NLHE 01A)
+2017-05-02 20:46:24|Table|bestlooser removed from NLHE 01A via sitout timer
+2017-05-02 20:49:22|Connect|lordsilver disconnects session 00000061, PC 089E0DBE
+2017-05-02 20:51:24|Connect|Connection 00000063 accepted from IP 151.182.169.25, PC 5F0F18F3
+2017-05-02 20:52:00|Login|Tokutaro logged into session 00000063 from IP 151.182.169.25, PC 5F0F18F3
+2017-05-02 20:52:07|Connect|Connection 00000061 expired for lordsilver, PC 089E0DBE
+2017-05-02 20:52:11|Account|Tokutaro -0 balance 1600 (Hourly NLHE 200 Freeroll)
+2017-05-02 20:52:11|Table|Tokutaro registers for Hourly NLHE 200 Freeroll
+2017-05-02 20:52:15|Account|Tokutaro -0 balance 1600 (Hourly PLO 200 Freeroll)
+2017-05-02 20:52:15|Table|Tokutaro registers for Hourly PLO 200 Freeroll
+2017-05-02 20:53:07|System|Traffic - Seconds: 600, Bytes in: 2053, Bytes out: 22248, Total: 24301
+2017-05-02 20:55:55|Connect|Connection 00000064 accepted from IP 5.86.78.64, PC 80C85CCD
+2017-05-02 20:56:02|Login|banderas logged into session 00000064 from IP 5.86.78.64, PC 80C85CCD
+2017-05-02 20:56:11|Account|banderas -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 20:56:11|Table|banderas registers for Hourly NLHE 200 Freeroll
+2017-05-02 20:56:15|Account|banderas -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 20:56:15|Table|banderas registers for Hourly PLO 200 Freeroll
+2017-05-02 21:00:08|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 21:00:08|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 21:00:08|Table|banderas joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 21:00:08|Table|bestlooser joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 21:00:08|Table|Tokutaro joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 21:00:08|Table|lordsilver joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 21:03:08|System|Traffic - Seconds: 600, Bytes in: 8156, Bytes out: 330277, Total: 338433
+2017-05-02 21:06:12|Account|lordsilver +0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 21:08:23|Account|Jessica -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 21:08:23|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 21:08:38|Account|bestlooser +200 balance 982.75 (Hourly NLHE 200 Freeroll)
+2017-05-02 21:08:39|Account|pokertron -0 balance 2318.43 (Hourly NLHE 200 Freeroll)
+2017-05-02 21:08:39|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 21:08:56|Account|banderas -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 21:08:56|Table|banderas registers for Hourly NLHE 200 Freeroll
+2017-05-02 21:09:03|Account|bestlooser -0 balance 982.75 (Hourly NLHE 200 Freeroll)
+2017-05-02 21:09:03|Table|bestlooser registers for Hourly NLHE 200 Freeroll
+2017-05-02 21:09:29|Account|bestlooser -100 balance 882.75 (NLHE 01A)
+2017-05-02 21:09:29|Table|bestlooser joins NLHE 01A
+2017-05-02 21:13:08|System|Traffic - Seconds: 600, Bytes in: 9676, Bytes out: 430397, Total: 440073
+2017-05-02 21:23:08|System|Traffic - Seconds: 600, Bytes in: 589, Bytes out: 13941, Total: 14530
+2017-05-02 21:29:41|Connect|Connection 00000065 accepted from IP 73.232.212.143, PC 97FB5484
+2017-05-02 21:29:45|Login|Blackbettle logged into session 00000065 from IP 73.232.212.143, PC 97FB5484
+2017-05-02 21:29:51|Account|Blackbettle -0 balance 33.33 (Hourly PLO 200 Freeroll)
+2017-05-02 21:29:51|Table|Blackbettle registers for Hourly PLO 200 Freeroll
+2017-05-02 21:30:08|Table|Blackbettle joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 21:30:08|Table|banderas joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 21:30:08|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 21:30:08|Table|Tokutaro joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 21:30:08|Table|bestlooser joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 21:30:08|Table|pokertron joins Hourly PLO 200 Freeroll - Table 2
+2017-05-02 21:30:08|Table|lordsilver joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 21:30:48|Account|bestlooser +100 balance 982.75 (NLHE 01A)
+2017-05-02 21:30:48|Table|bestlooser leaves NLHE 01A
+2017-05-02 21:33:08|System|Traffic - Seconds: 600, Bytes in: 10815, Bytes out: 391029, Total: 401844
+2017-05-02 21:35:20|Account|banderas -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 21:35:20|Table|banderas registers for Hourly PLO 200 Freeroll
+2017-05-02 21:35:59|Account|lordsilver +0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 21:36:03|Connect|Blackbettle disconnects session 00000065, PC 97FB5484
+2017-05-02 21:36:12|Connect|Connection 00000066 accepted from IP 73.232.212.143, PC 97FB5484
+2017-05-02 21:36:15|Logout|Blackbettle logged out session 00000065, PC 97FB5484
+2017-05-02 21:36:15|Login|Blackbettle logged into session 00000066 from IP 73.232.212.143, PC 97FB5484
+2017-05-02 21:36:21|Account|Blackbettle -0 balance 33.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 21:36:21|Table|Blackbettle registers for Hourly NLHE 200 Freeroll
+2017-05-02 21:37:25|Account|Jessica +200 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 21:37:29|Connect|Tokutaro disconnects session 00000063, PC 5F0F18F3
+2017-05-02 21:37:34|Account|pokertron -0 balance 2318.43 (Hourly PLO 200 Freeroll)
+2017-05-02 21:37:34|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 21:38:03|Account|Jessica -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 21:38:03|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 21:40:03|Account|pokertron -200 balance 2118.43 (NLHE 01A)
+2017-05-02 21:40:03|Table|pokertron joins NLHE 01A
+2017-05-02 21:40:08|Connect|Connection 00000063 expired for Tokutaro, PC 5F0F18F3
+2017-05-02 21:41:35|Connect|Connection 00000067 accepted from IP 176.124.116.225, PC BD0EFB4A
+2017-05-02 21:41:50|Account|bestlooser -0 balance 982.75 (Hourly PLO 200 Freeroll)
+2017-05-02 21:41:50|Table|bestlooser registers for Hourly PLO 200 Freeroll
+2017-05-02 21:42:55|Account|bestlooser -100 balance 882.75 (NLHE 01A)
+2017-05-02 21:42:55|Table|bestlooser joins NLHE 01A
+2017-05-02 21:43:08|System|Traffic - Seconds: 600, Bytes in: 27161, Bytes out: 1337423, Total: 1364584
+2017-05-02 21:44:11|Rake|Rake account +0.10 balance 141.60 (NLHE 01A)
+2017-05-02 21:44:48|Account|New account created for AlexMay
+2017-05-02 21:44:58|Rake|Rake account +0.10 balance 141.70 (NLHE 01A)
+2017-05-02 21:44:58|Login|AlexMay logged into session 00000067 from IP 176.124.116.225, PC BD0EFB4A
+2017-05-02 21:45:38|Rake|Rake account +0.40 balance 142.10 (NLHE 01A)
+2017-05-02 21:46:20|Rake|Rake account +0.30 balance 142.40 (NLHE 01A)
+2017-05-02 21:46:45|Rake|Rake account +0.10 balance 142.50 (NLHE 01A)
+2017-05-02 21:47:38|Rake|Rake account +0.10 balance 142.60 (NLHE 01A)
+2017-05-02 21:48:40|Rake|Rake account +2.10 balance 144.70 (NLHE 01A)
+2017-05-02 21:49:21|Rake|Rake account +0.30 balance 145 (NLHE 01A)
+2017-05-02 21:50:07|Logout|AlexMay logged out session 00000067, PC BD0EFB4A
+2017-05-02 21:50:12|Rake|Rake account +0.30 balance 145.30 (NLHE 01A)
+2017-05-02 21:50:13|Connect|Connection 00000068 accepted from IP 176.124.116.225, PC BD0EFB4A
+2017-05-02 21:50:21|Login|AlexMay logged into session 00000068 from IP 176.124.116.225, PC BD0EFB4A
+2017-05-02 21:50:45|Rake|Rake account +0.10 balance 145.40 (NLHE 01A)
+2017-05-02 21:50:53|Connect|AlexMay disconnects session 00000068, PC BD0EFB4A
+2017-05-02 21:51:01|Connect|Connection 00000069 accepted from IP 176.124.116.225, PC BD0EFB4A
+2017-05-02 21:51:15|Rake|Rake account +0.20 balance 145.60 (NLHE 01A)
+2017-05-02 21:52:10|Rake|Rake account +0.10 balance 145.70 (NLHE 01A)
+2017-05-02 21:52:50|Rake|Rake account +0.30 balance 146 (NLHE 01A)
+2017-05-02 21:53:08|Connect|Connection 00000068 expired for AlexMay, PC BD0EFB4A
+2017-05-02 21:53:08|System|Traffic - Seconds: 600, Bytes in: 20186, Bytes out: 493252, Total: 513438
+2017-05-02 21:54:09|Rake|Rake account +0.70 balance 146.70 (NLHE 01A)
+2017-05-02 21:54:29|Connect|Jessica disconnects session 0000005F, PC 9950266D
+2017-05-02 21:54:50|Rake|Rake account +0.10 balance 146.80 (NLHE 01A)
+2017-05-02 21:54:52|Login|AlexMay logged into session 00000069 from IP 176.124.116.225, PC BD0EFB4A
+2017-05-02 21:55:28|Rake|Rake account +0.10 balance 146.90 (NLHE 01A)
+2017-05-02 21:55:53|Rake|Rake account +0.10 balance 147 (NLHE 01A)
+2017-05-02 21:56:36|Rake|Rake account +0.20 balance 147.20 (NLHE 01A)
+2017-05-02 21:57:08|Connect|Connection 0000005F expired for Jessica, PC 9950266D
+2017-05-02 21:57:14|Rake|Rake account +0.20 balance 147.40 (NLHE 01A)
+2017-05-02 21:58:03|Rake|Rake account +0.20 balance 147.60 (NLHE 01A)
+2017-05-02 21:58:38|Rake|Rake account +0.10 balance 147.70 (NLHE 01A)
+2017-05-02 21:59:12|Connect|AlexMay disconnects session 00000069, PC BD0EFB4A
+2017-05-02 21:59:23|Rake|Rake account +0.30 balance 148 (NLHE 01A)
+2017-05-02 22:00:08|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 22:00:08|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 22:00:08|Table|banderas joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 22:00:08|Table|Blackbettle joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 22:00:08|Table|bestlooser joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 22:00:17|Rake|Rake account +0.40 balance 148.40 (NLHE 01A)
+2017-05-02 22:01:01|Rake|Rake account +0.10 balance 148.50 (NLHE 01A)
+2017-05-02 22:02:08|Connect|Connection 00000069 expired for AlexMay, PC BD0EFB4A
+2017-05-02 22:03:08|System|Traffic - Seconds: 600, Bytes in: 16221, Bytes out: 572615, Total: 588836
+2017-05-02 22:04:20|Account|pokertron -0 balance 2118.43 (Hourly NLHE 200 Freeroll)
+2017-05-02 22:04:20|Table|pokertron registers for Hourly NLHE 200 Freeroll
+2017-05-02 22:04:59|Rake|Rake account +0.20 balance 148.70 (NLHE 01A)
+2017-05-02 22:05:08|Account|banderas +200 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 22:05:30|Account|banderas -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 22:05:30|Table|banderas registers for Hourly NLHE 200 Freeroll
+2017-05-02 22:05:40|Account|banderas -200 balance 0 (NLHE 01A)
+2017-05-02 22:05:40|Table|banderas joins NLHE 01A
+2017-05-02 22:05:40|Rake|Rake account +0.30 balance 149 (NLHE 01A)
+2017-05-02 22:06:33|Rake|Rake account +2.70 balance 151.70 (NLHE 01A)
+2017-05-02 22:06:34|Account|bestlooser -0 balance 882.75 (Hourly NLHE 200 Freeroll)
+2017-05-02 22:06:34|Table|bestlooser registers for Hourly NLHE 200 Freeroll
+2017-05-02 22:07:36|Rake|Rake account +0.60 balance 152.30 (NLHE 01A)
+2017-05-02 22:08:07|Rake|Rake account +1.90 balance 154.20 (NLHE 01A)
+2017-05-02 22:08:38|Rake|Rake account +0.30 balance 154.50 (NLHE 01A)
+2017-05-02 22:09:40|Rake|Rake account +0.25 balance 154.75 (NLHE 01A)
+2017-05-02 22:10:52|Rake|Rake account +0.10 balance 154.85 (NLHE 01A)
+2017-05-02 22:11:24|Rake|Rake account +0.15 balance 155 (NLHE 01A)
+2017-05-02 22:11:57|Rake|Rake account +0.20 balance 155.20 (NLHE 01A)
+2017-05-02 22:12:23|Rake|Rake account +0.15 balance 155.35 (NLHE 01A)
+2017-05-02 22:13:08|System|Traffic - Seconds: 600, Bytes in: 17907, Bytes out: 761495, Total: 779402
+2017-05-02 22:13:31|Rake|Rake account +0.55 balance 155.90 (NLHE 01A)
+2017-05-02 22:14:14|Rake|Rake account +0.20 balance 156.10 (NLHE 01A)
+2017-05-02 22:15:30|Rake|Rake account +0.40 balance 156.50 (NLHE 01A)
+2017-05-02 22:16:19|Rake|Rake account +0.15 balance 156.65 (NLHE 01A)
+2017-05-02 22:17:20|Rake|Rake account +0.10 balance 156.75 (NLHE 01A)
+2017-05-02 22:17:43|Connect|Connection 0000006A accepted from IP 178.215.150.44, PC 9950266D
+2017-05-02 22:18:01|Login|Jessica logged into session 0000006A from IP 178.215.150.44, PC 9950266D
+2017-05-02 22:18:09|Rake|Rake account +0.20 balance 156.95 (NLHE 01A)
+2017-05-02 22:18:15|Account|Jessica -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 22:18:15|Table|Jessica registers for Hourly NLHE 200 Freeroll
+2017-05-02 22:19:09|Rake|Rake account +0.70 balance 157.65 (NLHE 01A)
+2017-05-02 22:19:55|Rake|Rake account +0.40 balance 158.05 (NLHE 01A)
+2017-05-02 22:20:36|Rake|Rake account +0.95 balance 159 (NLHE 01A)
+2017-05-02 22:21:04|Rake|Rake account +0.30 balance 159.30 (NLHE 01A)
+2017-05-02 22:21:48|Rake|Rake account +0.55 balance 159.85 (NLHE 01A)
+2017-05-02 22:22:39|Rake|Rake account +3.40 balance 163.25 (NLHE 01A)
+2017-05-02 22:23:08|System|Traffic - Seconds: 600, Bytes in: 15997, Bytes out: 437709, Total: 453706
+2017-05-02 22:23:55|Rake|Rake account +0.60 balance 163.85 (NLHE 01A)
+2017-05-02 22:24:57|Connect|Connection 0000006B accepted from IP 104.32.111.87, PC EA7B2171
+2017-05-02 22:25:06|Rake|Rake account +0.85 balance 164.70 (NLHE 01A)
+2017-05-02 22:25:07|Login|lordsilver logged into session 0000006B from IP 104.32.111.87, PC EA7B2171
+2017-05-02 22:25:15|Account|lordsilver -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 22:25:15|Table|lordsilver registers for Hourly NLHE 200 Freeroll
+2017-05-02 22:25:19|Account|lordsilver -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 22:25:19|Table|lordsilver registers for Hourly PLO 200 Freeroll
+2017-05-02 22:25:32|Rake|Rake account +0.45 balance 165.15 (NLHE 01A)
+2017-05-02 22:26:03|Rake|Rake account +2.85 balance 168 (NLHE 01A)
+2017-05-02 22:26:42|Account|bestlooser -100 balance 782.75 (NLHE 01A)
+2017-05-02 22:27:32|Rake|Rake account +1.05 balance 169.05 (NLHE 01A)
+2017-05-02 22:27:47|Connect|lordsilver disconnects session 0000006B, PC EA7B2171
+2017-05-02 22:27:48|Connect|lordsilver reconnects session 0000006B
+2017-05-02 22:28:49|Rake|Rake account +0.85 balance 169.90 (NLHE 01A)
+2017-05-02 22:29:18|Rake|Rake account +0.30 balance 170.20 (NLHE 01A)
+2017-05-02 22:30:02|Rake|Rake account +0.15 balance 170.35 (NLHE 01A)
+2017-05-02 22:30:08|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 22:30:08|Table|lordsilver joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 22:30:08|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 22:30:08|Table|banderas joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 22:30:08|Table|bestlooser joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 22:30:26|Account|bestlooser -0 balance 782.75 (Hourly PLO 200 Freeroll)
+2017-05-02 22:30:26|Table|bestlooser registers for Hourly PLO 200 Freeroll
+2017-05-02 22:30:41|Rake|Rake account +0.20 balance 170.55 (NLHE 01A)
+2017-05-02 22:31:23|Account|Jessica -0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 22:31:23|Table|Jessica registers for Hourly PLO 200 Freeroll
+2017-05-02 22:31:45|Rake|Rake account +0.10 balance 170.65 (NLHE 01A)
+2017-05-02 22:32:12|Rake|Rake account +0.10 balance 170.75 (NLHE 01A)
+2017-05-02 22:33:03|Account|lordsilver -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 22:33:03|Table|lordsilver registers for Hourly PLO 200 Freeroll
+2017-05-02 22:33:08|System|Traffic - Seconds: 600, Bytes in: 20359, Bytes out: 674494, Total: 694853
+2017-05-02 22:33:24|Rake|Rake account +0.30 balance 171.05 (NLHE 01A)
+2017-05-02 22:34:31|Rake|Rake account +0.40 balance 171.45 (NLHE 01A)
+2017-05-02 22:35:31|Rake|Rake account +0.45 balance 171.90 (NLHE 01A)
+2017-05-02 22:36:05|Rake|Rake account +0.20 balance 172.10 (NLHE 01A)
+2017-05-02 22:36:53|Rake|Rake account +0.40 balance 172.50 (NLHE 01A)
+2017-05-02 22:37:06|Connect|Jessica disconnects session 0000006A, PC 9950266D
+2017-05-02 22:37:57|Rake|Rake account +0.60 balance 173.10 (NLHE 01A)
+2017-05-02 22:38:48|Rake|Rake account +0.15 balance 173.25 (NLHE 01A)
+2017-05-02 22:39:08|Connect|Connection 0000006A expired for Jessica, PC 9950266D
+2017-05-02 22:39:31|Rake|Rake account +0.10 balance 173.35 (NLHE 01A)
+2017-05-02 22:40:25|Rake|Rake account +0.25 balance 173.60 (NLHE 01A)
+2017-05-02 22:40:52|Account|pokertron -0 balance 2118.43 (Hourly PLO 200 Freeroll)
+2017-05-02 22:40:52|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 22:41:17|Rake|Rake account +2.95 balance 176.55 (NLHE 01A)
+2017-05-02 22:42:42|Rake|Rake account +0.25 balance 176.80 (NLHE 01A)
+2017-05-02 22:43:08|System|Traffic - Seconds: 600, Bytes in: 20262, Bytes out: 753106, Total: 773368
+2017-05-02 22:43:41|Account|bestlooser +200 balance 982.75 (Hourly PLO 200 Freeroll)
+2017-05-02 22:44:36|Account|banderas -0 balance 0 (Hourly PLO 200 Freeroll)
+2017-05-02 22:44:36|Table|banderas registers for Hourly PLO 200 Freeroll
+2017-05-02 22:45:37|Rake|Rake account +4.05 balance 180.85 (NLHE 01A)
+2017-05-02 22:46:32|Rake|Rake account +0.65 balance 181.50 (NLHE 01A)
+2017-05-02 22:47:22|Rake|Rake account +0.95 balance 182.45 (NLHE 01A)
+2017-05-02 22:48:30|Rake|Rake account +0.60 balance 183.05 (NLHE 01A)
+2017-05-02 22:49:10|Account|bestlooser +120.58 balance 1103.33 (NLHE 01A)
+2017-05-02 22:49:10|Table|bestlooser leaves NLHE 01A
+2017-05-02 22:49:20|Rake|Rake account +0.75 balance 183.80 (NLHE 01A)
+2017-05-02 22:49:54|Rake|Rake account +0.10 balance 183.90 (NLHE 01A)
+2017-05-02 22:50:00|Account|bestlooser -200 balance 903.33 (NLHE 02A)
+2017-05-02 22:50:00|Table|bestlooser joins NLHE 02A
+2017-05-02 22:50:04|Account|bestlooser +200 balance 1103.33 (NLHE 02A)
+2017-05-02 22:50:04|Table|bestlooser leaves NLHE 02A
+2017-05-02 22:50:22|Account|bestlooser -120.58 balance 982.75 (NLHE 01A)
+2017-05-02 22:50:22|Table|bestlooser joins NLHE 01A
+2017-05-02 22:50:30|Rake|Rake account +0.55 balance 184.45 (NLHE 01A)
+2017-05-02 22:51:31|Rake|Rake account +0.15 balance 184.60 (NLHE 01A)
+2017-05-02 22:51:56|Rake|Rake account +0.30 balance 184.90 (NLHE 01A)
+2017-05-02 22:52:58|Rake|Rake account +0.50 balance 185.40 (NLHE 01A)
+2017-05-02 22:53:08|System|Traffic - Seconds: 600, Bytes in: 16075, Bytes out: 461919, Total: 477994
+2017-05-02 22:53:41|Rake|Rake account +0.75 balance 186.15 (NLHE 01A)
+2017-05-02 22:54:44|Rake|Rake account +0.60 balance 186.75 (NLHE 01A)
+2017-05-02 22:55:10|Rake|Rake account +0.30 balance 187.05 (NLHE 01A)
+2017-05-02 22:56:21|Rake|Rake account +0.55 balance 187.60 (NLHE 01A)
+2017-05-02 22:56:57|Rake|Rake account +0.40 balance 188 (NLHE 01A)
+2017-05-02 22:58:14|Rake|Rake account +0.10 balance 188.10 (NLHE 01A)
+2017-05-02 22:58:46|Rake|Rake account +0.15 balance 188.25 (NLHE 01A)
+2017-05-02 22:59:17|Rake|Rake account +0.15 balance 188.40 (NLHE 01A)
+2017-05-02 23:00:08|Table|Jessica joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 23:00:08|Table|banderas joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 23:00:08|Table|lordsilver joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 23:00:08|Table|pokertron joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 23:00:08|Table|bestlooser joins Hourly NLHE 200 Freeroll - Table 1
+2017-05-02 23:00:14|Rake|Rake account +0.10 balance 188.50 (NLHE 01A)
+2017-05-02 23:00:59|Rake|Rake account +0.15 balance 188.65 (NLHE 01A)
+2017-05-02 23:01:32|Rake|Rake account +0.10 balance 188.75 (NLHE 01A)
+2017-05-02 23:02:20|Rake|Rake account +0.15 balance 188.90 (NLHE 01A)
+2017-05-02 23:03:08|System|Traffic - Seconds: 600, Bytes in: 18968, Bytes out: 739368, Total: 758336
+2017-05-02 23:03:26|Account|lordsilver -0 balance 1200 (Hourly NLHE 200 Freeroll)
+2017-05-02 23:03:26|Table|lordsilver registers for Hourly NLHE 200 Freeroll
+2017-05-02 23:03:29|Rake|Rake account +0.45 balance 189.35 (NLHE 01A)
+2017-05-02 23:04:44|Rake|Rake account +0.30 balance 189.65 (NLHE 01A)
+2017-05-02 23:04:57|Account|banderas +200 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 23:05:11|Rake|Rake account +0.10 balance 189.75 (NLHE 01A)
+2017-05-02 23:05:17|Account|bestlooser -0 balance 982.75 (Hourly NLHE 200 Freeroll)
+2017-05-02 23:05:17|Table|bestlooser registers for Hourly NLHE 200 Freeroll
+2017-05-02 23:05:32|Account|banderas -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 23:05:32|Table|banderas registers for Hourly NLHE 200 Freeroll
+2017-05-02 23:05:49|Account|banderas -83.66 balance 116.34 (NLHE 01A)
+2017-05-02 23:05:52|Rake|Rake account +0.20 balance 189.95 (NLHE 01A)
+2017-05-02 23:06:31|Rake|Rake account +0.30 balance 190.25 (NLHE 01A)
+2017-05-02 23:07:05|Account|banderas -8 balance 108.34 (NLHE 01A)
+2017-05-02 23:07:13|Rake|Rake account +0.30 balance 190.55 (NLHE 01A)
+2017-05-02 23:07:52|Account|banderas -6 balance 102.34 (NLHE 01A)
+2017-05-02 23:07:55|Rake|Rake account +0.45 balance 191 (NLHE 01A)
+2017-05-02 23:08:24|Rake|Rake account +0.30 balance 191.30 (NLHE 01A)
+2017-05-02 23:08:57|Rake|Rake account +0.15 balance 191.45 (NLHE 01A)
+2017-05-02 23:09:55|Connect|Mat disconnects session 00000014, PC 17A6F9F4
+2017-05-02 23:10:14|Rake|Rake account +0.75 balance 192.20 (NLHE 01A)
+2017-05-02 23:11:14|Rake|Rake account +1.25 balance 193.45 (NLHE 01A)
+2017-05-02 23:12:03|Rake|Rake account +0.45 balance 193.90 (NLHE 01A)
+2017-05-02 23:12:08|Connect|Connection 00000014 expired for Mat, PC 17A6F9F4
+2017-05-02 23:12:59|Rake|Rake account +0.15 balance 194.05 (NLHE 01A)
+2017-05-02 23:13:08|System|Traffic - Seconds: 600, Bytes in: 18665, Bytes out: 710627, Total: 729292
+2017-05-02 23:13:28|Rake|Rake account +0.30 balance 194.35 (NLHE 01A)
+2017-05-02 23:14:31|Rake|Rake account +11.05 balance 205.40 (NLHE 01A)
+2017-05-02 23:15:00|Rake|Rake account +0.95 balance 206.35 (NLHE 01A)
+2017-05-02 23:15:40|Rake|Rake account +1.15 balance 207.50 (NLHE 01A)
+2017-05-02 23:15:59|Account|banderas -22.88 balance 79.46 (NLHE 01A)
+2017-05-02 23:17:12|Rake|Rake account +2.50 balance 210 (NLHE 01A)
+2017-05-02 23:17:30|Account|banderas -43.97 balance 35.49 (NLHE 01A)
+2017-05-02 23:19:11|Account|banderas -20 balance 15.49 (NLHE 01A)
+2017-05-02 23:19:14|Rake|Rake account +1.15 balance 211.15 (NLHE 01A)
+2017-05-02 23:20:02|Rake|Rake account +0.40 balance 211.55 (NLHE 01A)
+2017-05-02 23:21:12|Rake|Rake account +0.20 balance 211.75 (NLHE 01A)
+2017-05-02 23:21:33|Connect|Connection 0000006C accepted from IP 188.163.32.145, PC 8B555D0D
+2017-05-02 23:22:24|Rake|Rake account +0.45 balance 212.20 (NLHE 01A)
+2017-05-02 23:22:34|Connect|IP 188.163.32.145 disconnects session 0000006C, PC 8B555D0D
+2017-05-02 23:23:08|System|Traffic - Seconds: 600, Bytes in: 16379, Bytes out: 479252, Total: 495631
+2017-05-02 23:23:10|Rake|Rake account +0.30 balance 212.50 (NLHE 01A)
+2017-05-02 23:24:09|Rake|Rake account +0.85 balance 213.35 (NLHE 01A)
+2017-05-02 23:24:45|Rake|Rake account +0.30 balance 213.65 (NLHE 01A)
+2017-05-02 23:25:08|Connect|Connection 0000006C expired for IP 188.163.32.145, PC 8B555D0D
+2017-05-02 23:25:34|Rake|Rake account +0.20 balance 213.85 (NLHE 01A)
+2017-05-02 23:26:36|Rake|Rake account +0.65 balance 214.50 (NLHE 01A)
+2017-05-02 23:27:23|Rake|Rake account +0.10 balance 214.60 (NLHE 01A)
+2017-05-02 23:28:00|Rake|Rake account +0.30 balance 214.90 (NLHE 01A)
+2017-05-02 23:29:00|Rake|Rake account +1.35 balance 216.25 (NLHE 01A)
+2017-05-02 23:29:25|Account|banderas -5.15 balance 10.34 (NLHE 01A)
+2017-05-02 23:30:08|Table|lordsilver joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 23:30:08|Table|banderas joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 23:30:08|Table|pokertron joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 23:30:08|Table|bestlooser joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 23:30:08|Table|Jessica joins Hourly PLO 200 Freeroll - Table 1
+2017-05-02 23:30:36|Rake|Rake account +0.20 balance 216.45 (NLHE 01A)
+2017-05-02 23:31:14|Rake|Rake account +0.10 balance 216.55 (NLHE 01A)
+2017-05-02 23:31:15|Account|pokertron +344.01 balance 2462.44 (NLHE 01A)
+2017-05-02 23:31:15|Table|pokertron removed from NLHE 01A via sitout timer
+2017-05-02 23:31:24|Connect|Connection 0000006D accepted from IP 188.163.32.145, PC 8B555D0D
+2017-05-02 23:32:01|Connect|Connection 0000006E accepted from IP 216.227.112.205, PC B7C65C7C
+2017-05-02 23:32:17|Connect|IP 216.227.112.205 disconnects session 0000006E, PC B7C65C7C
+2017-05-02 23:32:37|Account|banderas +211.80 balance 222.14 (NLHE 01A)
+2017-05-02 23:32:37|Table|banderas leaves NLHE 01A
+2017-05-02 23:32:40|Logout|banderas logged out session 00000064, PC 80C85CCD
+2017-05-02 23:32:55|Connect|Connection 0000006F accepted from IP 216.227.112.205, PC B7C65C7C
+2017-05-02 23:33:08|Connect|Packet port sweeps: 1
+2017-05-02 23:33:08|System|Traffic - Seconds: 600, Bytes in: 32927, Bytes out: 1553993, Total: 1586920
+2017-05-02 23:33:21|Account|lordsilver -0 balance 1200 (Hourly PLO 200 Freeroll)
+2017-05-02 23:33:21|Table|lordsilver registers for Hourly PLO 200 Freeroll
+2017-05-02 23:33:22|Account|bestlooser +158.80 balance 1141.55 (NLHE 01A)
+2017-05-02 23:33:22|Table|bestlooser leaves NLHE 01A
+2017-05-02 23:34:00|Account|New account created for smith777
+2017-05-02 23:34:05|Login|smith777 logged into session 0000006F from IP 216.227.112.205, PC B7C65C7C
+2017-05-02 23:34:59|Account|smith777 -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-05-02 23:34:59|Table|smith777 registers for Hourly NLHE 200 Freeroll
+2017-05-02 23:35:08|Connect|Connection 0000006E expired for IP 216.227.112.205, PC B7C65C7C
+2017-05-02 23:35:42|Account|Jessica +0 balance 200 (Hourly PLO 200 Freeroll)
+2017-05-02 23:36:29|Account|bestlooser +200 balance 1341.55 (Hourly PLO 200 Freeroll)
+2017-05-02 23:36:44|Account|pokertron -0 balance 2462.44 (Hourly PLO 200 Freeroll)
+2017-05-02 23:36:44|Table|pokertron registers for Hourly PLO 200 Freeroll
+2017-05-02 23:36:51|Account|bestlooser -158.80 balance 1182.75 (NLHE 01A)
+2017-05-02 23:36:51|Table|bestlooser joins NLHE 01A
+2017-05-02 23:37:15|Account|bestlooser -0 balance 1182.75 (Hourly PLO 200 Freeroll)
+2017-05-02 23:37:15|Table|bestlooser registers for Hourly PLO 200 Freeroll
+2017-05-02 23:43:08|System|Traffic - Seconds: 600, Bytes in: 14985, Bytes out: 328522, Total: 343507
+2017-05-02 23:44:43|Account|bestlooser +158.80 balance 1341.55 (NLHE 01A)
+2017-05-02 23:44:43|Table|bestlooser leaves NLHE 01A
+2017-05-02 23:47:35|Connect|Connection 00000070 accepted from IP 169.0.18.196, PC 15DDC1DE
+2017-05-02 23:48:52|Connect|IP 169.0.18.196 disconnects session 00000070, PC 15DDC1DE
+2017-05-02 23:51:08|Connect|Connection 00000070 expired for IP 169.0.18.196, PC 15DDC1DE
+2017-05-02 23:53:08|System|Traffic - Seconds: 600, Bytes in: 11870, Bytes out: 475085, Total: 486955
+2017-05-02 23:54:13|Connect|Connection 00000071 accepted from IP 172.56.30.131, PC C9BA1A97
+2017-05-02 23:54:35|Login|magicmike logged into session 00000071 from IP 172.56.30.131, PC C9BA1A97
+2017-05-02 23:55:01|Account|magicmike -0 balance 233.33 (Hourly NLHE 200 Freeroll)
+2017-05-02 23:55:01|Table|magicmike registers for Hourly NLHE 200 Freeroll
+2017-05-02 23:55:06|Account|magicmike -0 balance 233.33 (Hourly PLO 200 Freeroll)
+2017-05-02 23:55:06|Table|magicmike registers for Hourly PLO 200 Freeroll
+2017-05-02 23:56:17|Login|alf logged into session 0000006D from IP 188.163.32.145, PC 8B555D0D
+2017-05-02 23:56:33|Account|alf -0 balance 200 (Hourly NLHE 200 Freeroll)
+2017-05-02 23:56:33|Table|alf registers for Hourly NLHE 200 Freeroll
+2017-05-02 23:58:13|Connect|Connection 00000072 accepted from IP 49.147.158.177, PC 2AB2B0C3
+2017-05-02 23:58:24|Login|causestud logged into session 00000072 from IP 49.147.158.177, PC 2AB2B0C3
