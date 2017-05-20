@@ -1,0 +1,1037 @@
+﻿Starting tournament 212
+
+Hand #6194-1 - 2017-05-05 15:30:36
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: Ssh (500)
+Seat 2: Lollero (500)
+Seat 3: Tokutaro (500) - sitting out
+Seat 5: CoinDoctor (500) - sitting out
+Seat 6: cri79pop (500) - sitting out
+Ssh has the dealer button
+Lollero posts small blind 25
+Tokutaro posts big blind 50
+** Hole Cards ** [5 players]
+CoinDoctor folds
+cri79pop folds
+Ssh raises to 100
+Lollero calls 75
+Tokutaro folds
+** Flop ** [9c Jd 3c]
+Lollero checks
+Ssh bets 83
+Lollero calls 83
+** Turn ** [6s]
+Lollero bets 317 (All-in)
+Ssh calls 317 (All-in)
+** River ** [2c]
+** Pot Show Down ** [9c Jd 3c 6s 2c]
+Ssh shows [Th 2s As Jh] (Hi: Two Pair, Jacks and Deuces +9  Lo: None)
+Lollero shows [5c 6d Qd Ts] (Hi: a Pair of Sixes +QJ9  Lo: None)
+Ssh wins Pot (1050) with Two Pair
+No low hand qualified
+Lollero finishes tournament in place #10
+** Deck ** [5c 8d 7s 5d Th 6d 2d 3d Kc 2s Qd 3s Ad Jc As Ts 4h 8c Ah Jh 9c Jd 3c 6s 2c]
+
+Hand #6195-2 - 2017-05-05 15:31:29
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: Ssh (1050)
+Seat 3: Tokutaro (450) - sitting out
+Seat 5: CoinDoctor (500)
+Seat 6: cri79pop (500) - sitting out
+Tokutaro has the dealer button
+CoinDoctor posts small blind 25
+cri79pop posts big blind 50
+** Hole Cards ** [4 players]
+Ssh raises to 150
+Tokutaro folds
+CoinDoctor folds
+cri79pop folds
+Ssh refunded 100
+Ssh wins Pot (125)
+** Deck ** [3c 9h 2c 7d Td 3s Qd Ad 8c 7h Qc 8h Jh 3d Ac Qh]
+
+Hand #6196-3 - 2017-05-05 15:31:46
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: Ssh (1125)
+Seat 3: Tokutaro (450) - sitting out
+Seat 5: CoinDoctor (475)
+Seat 6: cri79pop (450) - sitting out
+CoinDoctor has the dealer button
+cri79pop posts small blind 25
+Ssh posts big blind 50
+** Hole Cards ** [4 players]
+Tokutaro folds
+CoinDoctor calls 50
+cri79pop folds
+Ssh raises to 150
+CoinDoctor calls 100
+** Flop ** [4d As 4c]
+Ssh bets 108
+CoinDoctor calls 108
+** Turn ** [Th]
+Ssh bets 541
+CoinDoctor folds
+Ssh refunded 541
+Ssh wins Pot (541)
+** Deck ** [Ac 9c 7d 6c Ts Jd Ks 2s Kc Jh Qh 7s 5c 9s 4s 6d 4d As 4c Th]
+
+Hand #6198-4 - 2017-05-05 15:32:33
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: Ssh (1408)
+Seat 3: Tokutaro (450) - sitting out
+Seat 5: CoinDoctor (217)
+Seat 6: cri79pop (425)
+cri79pop has the dealer button
+Ssh posts small blind 25
+Tokutaro posts big blind 50
+** Hole Cards ** [4 players]
+CoinDoctor calls 50
+cri79pop raises to 225
+Ssh raises to 400
+Tokutaro folds
+CoinDoctor calls 167 (All-in)
+cri79pop raises to 425 (All-in)
+Ssh calls 25
+** Flop ** [8d 3s Kd]
+** Turn ** [4s]
+** River ** [3d]
+** Side Pot 1 Show Down ** [8d 3s Kd 4s 3d]
+Ssh shows [Ah Ac 6s 4d] (Hi: Two Pair, Aces and Threes +K  Lo: 8643A)
+cri79pop shows [7s 5h 4c Kh] (Hi: Two Pair, Kings and Fours +8  Lo: 87543)
+Ssh wins Hi Side Pot 1 (208) with Two Pair
+Ssh wins Lo Side Pot 1 (208) with 8643A
+** Main Pot Show Down ** [8d 3s Kd 4s 3d]
+CoinDoctor shows [8s 7d Js 5s] (Hi: Two Pair, Eights and Threes +J  Lo: 87543)
+Ssh wins Hi Main Pot (351) with Two Pair
+Ssh wins Lo Main Pot (350) with 8643A
+CoinDoctor finishes tournament in place #9
+cri79pop finishes tournament in place #8
+** Deck ** [Ah 9c 8s 7s Ac 7h 7d 5h 6s Td Js 4c 4d As 5s Kh 8d 3s Kd 4s 3d]
+
+Hand #6200-5 - 2017-05-05 15:33:17
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: Ssh (2100)
+Seat 3: Tokutaro (400) - sitting out
+Ssh has the dealer button
+Ssh posts small blind 25
+Tokutaro posts big blind 50
+** Hole Cards ** [2 players]
+Ssh raises to 100
+Tokutaro folds
+Ssh refunded 50
+Ssh wins Pot (100)
+** Deck ** [Tc 4h Qd Qh 7h 2c 2d 5d]
+
+Hand #6201-6 - 2017-05-05 15:33:27
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: Ssh (2150)
+Seat 3: Tokutaro (350) - sitting out
+Tokutaro has the dealer button
+Tokutaro posts small blind 25
+Ssh posts big blind 50
+** Hole Cards ** [2 players]
+Tokutaro folds
+Ssh refunded 25
+Ssh wins Pot (50)
+** Deck ** [2c 7h 6d 5s 8h Ks 4s Jc]
+
+Hand #6202-7 - 2017-05-05 15:33:35
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: Ssh (2175)
+Seat 3: Tokutaro (325) - sitting out
+Ssh has the dealer button
+Ssh posts small blind 25
+Tokutaro posts big blind 50
+** Hole Cards ** [2 players]
+Ssh raises to 100
+Tokutaro folds
+Ssh refunded 50
+Ssh wins Pot (100)
+** Deck ** [4s 8c Jd 7c Qs Th 6c Jh]
+
+Ssh moved to Table 1
+
+Tokutaro moved to Table 1
+
+Starting tournament 216
+
+Hand #6390-1 - 2017-05-05 16:30:36
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: CoinDoctor (500)
+Seat 2: haruchankoy (500) - sitting out
+Seat 5: causestud (500)
+Seat 6: crazyjack (500) - sitting out
+CoinDoctor has the dealer button
+haruchankoy posts small blind 25
+causestud posts big blind 50
+** Hole Cards ** [4 players]
+crazyjack folds
+CoinDoctor has timed out
+CoinDoctor folds
+haruchankoy folds
+causestud refunded 25
+causestud wins Pot (50)
+causestud shows [5d 4h 9c Th]
+** Deck ** [9h 5d 8s 7c 6h 4h 5s 2d 6s 9c Kh Td 7d Th Jc 2s]
+
+Hand #6392-2 - 2017-05-05 16:31:00
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: CoinDoctor (500)
+Seat 2: haruchankoy (475) - sitting out
+Seat 5: causestud (525)
+Seat 6: crazyjack (500)
+haruchankoy has the dealer button
+causestud posts small blind 25
+crazyjack posts big blind 50
+** Hole Cards ** [4 players]
+CoinDoctor has timed out
+CoinDoctor folds
+haruchankoy folds
+causestud calls 25
+crazyjack checks
+** Flop ** [Qc Td Jc]
+causestud checks
+crazyjack checks
+** Turn ** [Ks]
+causestud bets 50
+crazyjack calls 50
+** River ** [5s]
+causestud bets 66
+crazyjack calls 66
+** Pot Show Down ** [Qc Td Jc Ks 5s]
+causestud shows [Ad 6s 7h 4c] (Hi: High Card Ace +KQJ7  Lo: None)
+crazyjack shows [2h 2s Jd Ah] (Hi: a Straight, Ten to Ace  Lo: None)
+crazyjack wins Pot (332) with a Straight
+No low hand qualified
+** Deck ** [Ad 2h 9s 8c 6s 2s 5d Kh 7h Jd Kc 8s 4c Ah 8d 6c Qc Td Jc Ks 5s]
+
+Hand #6396-3 - 2017-05-05 16:32:04
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: CoinDoctor (500)
+Seat 2: haruchankoy (475) - sitting out
+Seat 5: causestud (359)
+Seat 6: crazyjack (666)
+causestud has the dealer button
+crazyjack posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [4 players]
+haruchankoy folds
+causestud folds
+crazyjack calls 25
+CoinDoctor raises to 100
+crazyjack calls 50
+** Flop ** [6c 4c 6d]
+crazyjack bets 50
+CoinDoctor raises to 100
+crazyjack raises to 500
+CoinDoctor calls 300 (All-in)
+crazyjack refunded 100
+** Turn ** [8c]
+** River ** [Tc]
+** Pot Show Down ** [6c 4c 6d 8c Tc]
+CoinDoctor shows [8s As Qc 2c] (Hi: a Flush, Queen high +T862  Lo: 8642A)
+crazyjack shows [6h 7d 7h Jd] (Hi: Three of a Kind, Sixes +JT  Lo: None)
+CoinDoctor wins Hi Pot (500) with a Flush
+CoinDoctor wins Lo Pot (500) with 8642A
+** Deck ** [6h 8s Qd 8d 7d As Ac 2h 7h Qc 5h Qs Jd 2c 3c Jc 6c 4c 6d 8c Tc]
+
+Hand #6401-4 - 2017-05-05 16:33:07
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: CoinDoctor (1000)
+Seat 2: haruchankoy (475) - sitting out
+Seat 5: causestud (359)
+Seat 6: crazyjack (166)
+crazyjack has the dealer button
+CoinDoctor posts small blind 25
+haruchankoy posts big blind 50
+** Hole Cards ** [4 players]
+causestud has timed out
+causestud folds
+crazyjack raises to 166 (All-in)
+CoinDoctor raises to 282
+haruchankoy folds
+CoinDoctor refunded 116
+** Flop ** [Ac 8d 2s]
+** Turn ** [Kh]
+** River ** [5d]
+** Pot Show Down ** [Ac 8d 2s Kh 5d]
+CoinDoctor shows [3h 7h 4s Qh] (Hi: a Straight, Ace to Five  Lo: 5432A)
+crazyjack shows [Td Ad 6s Ah] (Hi: Three of a Kind, Aces +K8  Lo: 8652A)
+CoinDoctor wins Hi Pot (191) with a Straight
+CoinDoctor wins Lo Pot (191) with 5432A
+crazyjack finishes tournament in place #8
+** Deck ** [3h Qd 3s Td 7h As 8c Ad 4s Kd 8s 6s Qh 3d 9h Ah Ac 8d 2s Kh 5d]
+
+Hand #6404-5 - 2017-05-05 16:33:37
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: CoinDoctor (1216)
+Seat 2: haruchankoy (425) - sitting out
+Seat 5: causestud (359)
+CoinDoctor has the dealer button
+haruchankoy posts small blind 50
+causestud posts big blind 100
+** Hole Cards ** [3 players]
+crazyjack: "great"
+CoinDoctor raises to 200
+haruchankoy folds
+crazyjack: "nh"
+causestud raises to 359 (All-in)
+CoinDoctor calls 159
+** Flop ** [5c 2c 9c]
+** Turn ** [Ts]
+** River ** [5d]
+** Pot Show Down ** [5c 2c 9c Ts 5d]
+CoinDoctor shows [Kh 2s Qh Js] (Hi: Two Pair, Fives and Deuces +K  Lo: None)
+causestud shows [Qd Ac Ad 8s] (Hi: Two Pair, Aces and Fives +T  Lo: None)
+causestud wins Pot (768) with Two Pair
+No low hand qualified
+** Deck ** [Th Qd Kh Qc Ac 2s 4s Ad Qh 4d 8s Js 5c 2c 9c Ts 5d]
+
+Hand #6408-6 - 2017-05-05 16:34:05
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: CoinDoctor (857)
+Seat 2: haruchankoy (375) - sitting out
+Seat 5: causestud (768)
+haruchankoy has the dealer button
+causestud posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [3 players]
+haruchankoy folds
+causestud calls 50
+CoinDoctor checks
+** Flop ** [7h 7d 5c]
+causestud bets 100
+CoinDoctor calls 100
+** Turn ** [9s]
+causestud checks
+CoinDoctor checks
+** River ** [7c]
+causestud bets 100
+CoinDoctor folds
+causestud refunded 100
+causestud wins Pot (400)
+** Deck ** [2c 8h 5s 2h Jd As Th Qh Ac Tc 3c 9d 7h 7d 5c 9s 7c]
+
+Hand #6411-7 - 2017-05-05 16:35:01
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: CoinDoctor (657)
+Seat 2: haruchankoy (375) - sitting out
+Seat 5: causestud (968)
+causestud has the dealer button
+CoinDoctor posts small blind 50
+haruchankoy posts big blind 100
+** Hole Cards ** [3 players]
+causestud raises to 350
+CoinDoctor folds
+haruchankoy folds
+causestud refunded 250
+causestud wins Pot (250)
+causestud shows [3s 4c Qc As]
+** Deck ** [8h 7c 3s Qs 4h 4c Kd Qh Qc 2d 9d As]
+
+Hand #6414-8 - 2017-05-05 16:35:28
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: CoinDoctor (607)
+Seat 2: haruchankoy (275) - sitting out
+Seat 5: causestud (1118)
+CoinDoctor has the dealer button
+haruchankoy posts small blind 50
+causestud posts big blind 100
+** Hole Cards ** [3 players]
+CoinDoctor calls 100
+haruchankoy folds
+causestud checks
+** Flop ** [4h 3h Ah]
+causestud checks
+CoinDoctor bets 200
+causestud folds
+CoinDoctor refunded 200
+CoinDoctor wins Pot (250)
+Absent player haruchankoy removed from tournament
+** Deck ** [Ks 8d 7d 3s Kd 6h 2c 7h 5d Js Tc Jd 4h 3h Ah]
+
+CoinDoctor moved to Table 1
+
+causestud moved to Table 1
+
+Starting tournament 220
+
+Hand #6494-1 - 2017-05-05 17:30:36
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: causestud (500) - sitting out
+Seat 2: Ssh (500)
+Seat 6: bestlooser (500)
+causestud has the dealer button
+Ssh posts small blind 25
+bestlooser posts big blind 50
+** Hole Cards ** [3 players]
+causestud folds
+Ssh folds
+bestlooser refunded 25
+bestlooser wins Pot (50)
+** Deck ** [8d Ac Jd Kc 9h Qs 9c Td Qc 2h 6h Qd]
+
+Hand #6496-2 - 2017-05-05 17:30:47
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: causestud (500) - sitting out
+Seat 2: Ssh (475)
+Seat 6: bestlooser (525)
+Ssh has the dealer button
+bestlooser posts small blind 25
+causestud posts big blind 50
+** Hole Cards ** [3 players]
+Ssh folds
+bestlooser calls 25
+causestud folds
+bestlooser wins Pot (100)
+** Deck ** [Ah 7c 3h 7s 3c 6c 7h 3s Kd 6h 2d 8h]
+
+Hand #6498-3 - 2017-05-05 17:31:03
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: causestud (450) - sitting out
+Seat 2: Ssh (475)
+Seat 6: bestlooser (575)
+bestlooser has the dealer button
+causestud posts small blind 25
+Ssh posts big blind 50
+** Hole Cards ** [3 players]
+bestlooser folds
+causestud folds
+Ssh refunded 25
+Ssh wins Pot (50)
+** Deck ** [8s 7d 5d 9c 3s 3d Ac Qs 9h Kh Ts 3c]
+
+Hand #6499-4 - 2017-05-05 17:31:15
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: causestud (425) - sitting out
+Seat 2: Ssh (500)
+Seat 6: bestlooser (575)
+causestud has the dealer button
+Ssh posts small blind 25
+bestlooser posts big blind 50
+** Hole Cards ** [3 players]
+causestud folds
+Ssh raises to 100
+bestlooser calls 50
+** Flop ** [3d 9d Kd]
+Ssh checks
+bestlooser checks
+** Turn ** [2s]
+Ssh checks
+bestlooser bets 200
+Ssh calls 200
+** River ** [6c]
+Ssh checks
+bestlooser bets 200
+Ssh calls 200 (All-in)
+** Pot Show Down ** [3d 9d Kd 2s 6c]
+Ssh shows [6h 3c 7c 9c] (Hi: Two Pair, Nines and Sixes +K  Lo: None)
+bestlooser shows [4d Tc Js Td] (Hi: a Flush, King high +T943  Lo: None)
+bestlooser wins Pot (1000) with a Flush
+No low hand qualified
+Ssh finishes tournament in place #6
+** Deck ** [6h 4d 2c 3c Tc Ah 7c Js 7h 9c Td Th 3d 9d Kd 2s 6c]
+
+causestud moved to Table 1
+
+bestlooser moved to Table 1
+
+Starting tournament 224
+
+Hand #6674-1 - 2017-05-05 18:30:36
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: pokertron (500)
+Seat 3: bestlooser (500)
+Seat 5: causestud (500)
+Seat 6: sajuuk (500) - sitting out
+pokertron has the dealer button
+bestlooser posts small blind 25
+causestud posts big blind 50
+** Hole Cards ** [4 players]
+sajuuk folds
+pokertron has timed out
+pokertron folds
+bestlooser calls 25
+causestud raises to 150
+bestlooser calls 100
+** Flop ** [5c Js Jh]
+bestlooser checks
+causestud bets 300
+bestlooser calls 300
+** Turn ** [6d]
+bestlooser bets 50 (All-in)
+causestud calls 50 (All-in)
+** River ** [Ad]
+** Pot Show Down ** [5c Js Jh 6d Ad]
+bestlooser shows [Ac 5s Qs 9h] (Hi: Two Pair, Aces and Jacks +Q  Lo: None)
+causestud shows [6h 6c 9s 2d] (Hi: a Full House, Sixes full of Jacks  Lo: None)
+causestud wins Pot (1000) with a Full House
+No low hand qualified
+bestlooser finishes tournament in place #9
+** Deck ** [Ac 6h Ks 2s 5s 6c 9c 5h Qs 9s Qd 3h 9h 2d 2c 7s 5c Js Jh 6d Ad]
+
+Hand #6678-2 - 2017-05-05 18:31:36
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: pokertron (500)
+Seat 5: causestud (1000)
+Seat 6: sajuuk (500) - sitting out
+causestud has the dealer button
+sajuuk posts small blind 25
+pokertron posts big blind 50
+** Hole Cards ** [3 players]
+causestud folds
+sajuuk folds
+pokertron refunded 25
+pokertron wins Pot (50)
+** Deck ** [Qs Ks 7h 3d Td 8h Ad Tc 4c 3h 9d 4d]
+
+Hand #6680-3 - 2017-05-05 18:31:57
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: pokertron (525)
+Seat 5: causestud (1000)
+Seat 6: sajuuk (475) - sitting out
+sajuuk has the dealer button
+pokertron posts small blind 25
+causestud posts big blind 50
+** Hole Cards ** [3 players]
+sajuuk folds
+pokertron raises to 150
+causestud raises to 450
+pokertron raises to 525 (All-in)
+causestud calls 75
+** Flop ** [8h Jc Qs]
+** Turn ** [5c]
+** River ** [Ts]
+** Pot Show Down ** [8h Jc Qs 5c Ts]
+pokertron shows [5h Ah Tc 4c] (Hi: Two Pair, Tens and Fives +Q  Lo: None)
+causestud shows [8s As 3c 2h] (Hi: a Pair of Eights +AQJ  Lo: None)
+pokertron wins Pot (1050) with Two Pair
+No low hand qualified
+** Deck ** [5h 8s Qd Ah As Td Tc 3c Ac 4c 2h Js 8h Jc Qs 5c Ts]
+
+Hand #6683-4 - 2017-05-05 18:32:34
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: pokertron (1050)
+Seat 5: causestud (475)
+Seat 6: sajuuk (475) - sitting out
+pokertron has the dealer button
+causestud posts small blind 25
+sajuuk posts big blind 50
+** Hole Cards ** [3 players]
+pokertron raises to 175
+causestud raises to 475 (All-in)
+sajuuk folds
+pokertron calls 300
+** Flop ** [6c 3h Th]
+** Turn ** [Td]
+** River ** [4h]
+** Pot Show Down ** [6c 3h Th Td 4h]
+pokertron shows [Ah 8h 9d 8c] (Hi: a Flush, Ace high +T843  Lo: 8643A)
+causestud shows [4c 5c 8s 6h] (Hi: Two Pair, Tens and Sixes +8  Lo: 86543)
+pokertron wins Hi Pot (500) with a Flush
+pokertron wins Lo Pot (500) with 8643A
+causestud finishes tournament in place #6
+** Deck ** [4c 5d Ah 5c Kd 8h 8s 6s 9d 6h Ts 8c 6c 3h Th Td 4h]
+
+pokertron moved to Table 1
+
+sajuuk moved to Table 1
+
+Starting tournament 228
+
+Hand #6856-1 - 2017-05-05 19:30:36
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: dmanicus (500)
+Seat 3: davide72 (500)
+Seat 5: bestlooser (500)
+dmanicus has the dealer button
+davide72 posts small blind 25
+bestlooser posts big blind 50
+** Hole Cards ** [3 players]
+dmanicus calls 50
+davide72 raises to 200
+bestlooser calls 150
+dmanicus calls 150
+** Flop ** [5d 8c Ah]
+davide72 bets 300 (All-in)
+bestlooser calls 300 (All-in)
+dmanicus calls 300 (All-in)
+causestud moved from Table 1
+Jessica moved from Table 1
+** Turn ** [Ks]
+** River ** [9s]
+** Pot Show Down ** [5d 8c Ah Ks 9s]
+dmanicus shows [2c 9d 3h Qc] (Hi: a Pair of Nines +AKQ  Lo: 8532A)
+davide72 shows [Kd Js 4h Tc] (Hi: a Pair of Kings +AJ9  Lo: None)
+bestlooser shows [Th Jd 3c 6s] (Hi: High Card Ace +KJT9  Lo: 8653A)
+davide72 wins Hi Pot (750) with a Pair
+dmanicus wins Lo Pot (750) with 8532A
+bestlooser finishes tournament in place #5
+** Deck ** [Kd Th 2c Js Jd 9d 4h 3c 3h Tc 6s Qc 5d 8c Ah Ks 9s]
+
+Hand #6858-2 - 2017-05-05 19:31:18
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: dmanicus (750)
+Seat 2: causestud (475) - sitting out
+Seat 3: davide72 (750)
+Seat 4: Jessica (1525)
+davide72 has the dealer button
+Jessica plays after the button
+dmanicus posts small blind 25
+causestud posts big blind 50
+** Hole Cards ** [3 players]
+davide72 raises to 175
+dmanicus calls 150
+causestud folds
+** Flop ** [7d Ts 7s]
+dmanicus bets 400
+davide72 raises to 575 (All-in)
+dmanicus calls 175 (All-in)
+** Turn ** [Jh]
+** River ** [Qs]
+** Pot Show Down ** [7d Ts 7s Jh Qs]
+dmanicus shows [5s 4d 2s Ah] (Hi: a Flush, Queen high +T752  Lo: None)
+davide72 shows [3h Qc 3c 7c] (Hi: a Full House, Sevens full of Queens  Lo: None)
+davide72 wins Pot (1550) with a Full House
+No low hand qualified
+dmanicus finishes tournament in place #4
+** Deck ** [5s 8h 3h 4d 9s Qc 2s 2h 3c Ah 2c 7c 7d Ts 7s Jh Qs]
+
+Hand #6859-3 - 2017-05-05 19:31:51
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: causestud (425) - sitting out
+Seat 3: davide72 (1550)
+Seat 4: Jessica (1525)
+causestud has the dealer button
+davide72 posts small blind 25
+Jessica posts big blind 50
+** Hole Cards ** [3 players]
+causestud folds
+davide72 raises to 150
+Jessica raises to 450
+davide72 raises to 1350
+Jessica raises to 1525 (All-in)
+davide72 calls 175
+** Flop ** [4h 8s Jh]
+** Turn ** [Ts]
+** River ** [6c]
+** Pot Show Down ** [4h 8s Jh Ts 6c]
+davide72 shows [Ac 8c 6h 8h] (Hi: Three of a Kind, Eights +JT  Lo: None)
+Jessica shows [Js 9d Qh Jc] (Hi: a Straight, Eight to Queen  Lo: None)
+Jessica wins Pot (3050) with a Straight
+No low hand qualified
+** Deck ** [Ac Js 7h 8c 9d 9c 6h Qh 5s 8h Jc 3c 4h 8s Jh Ts 6c]
+
+Hand #6861-4 - 2017-05-05 19:32:21
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: causestud (425) - sitting out
+Seat 3: davide72 (25)
+Seat 4: Jessica (3050)
+davide72 has the dealer button
+Jessica posts small blind 25
+causestud posts big blind 50
+** Hole Cards ** [3 players]
+davide72 calls 25 (All-in)
+Jessica raises to 100
+causestud folds
+Jessica refunded 50
+** Flop ** [9c 7c Jh]
+** Turn ** [9s]
+** River ** [Kc]
+Jessica wins Side Pot 1 (50)
+** Main Pot Show Down ** [9c 7c Jh 9s Kc]
+davide72 shows [2h 6h Ad 9h] (Hi: Three of a Kind, Nines +AK  Lo: None)
+Jessica shows [Qd Kh Jd 8h] (Hi: Two Pair, Kings and Jacks +9  Lo: None)
+davide72 wins Main Pot (75) with Three of a Kind
+No low hand qualified
+** Deck ** [Qd 3s 2h Kh Jc 6h Jd 5s Ad 8h 3c 9h 9c 7c Jh 9s Kc]
+
+Hand #6863-5 - 2017-05-05 19:32:43
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: causestud (375) - sitting out
+Seat 3: davide72 (75)
+Seat 4: Jessica (3050)
+Jessica has the dealer button
+causestud posts small blind 25
+davide72 posts big blind 50
+** Hole Cards ** [3 players]
+Jessica raises to 100
+causestud folds
+davide72 calls 25 (All-in)
+Jessica refunded 25
+** Flop ** [6d Tc Kc]
+** Turn ** [4c]
+** River ** [Jc]
+** Pot Show Down ** [6d Tc Kc 4c Jc]
+davide72 shows [Qc 7c 3h 2s] (Hi: a Flush, King high +QJT7  Lo: None)
+Jessica shows [8h 4d As 9c] (Hi: a Pair of Fours +AKJ  Lo: None)
+davide72 wins Pot (175) with a Flush
+No low hand qualified
+** Deck ** [Qd Qc 8h 4h 7c 4d Qs 3h As Ac 2s 9c 6d Tc Kc 4c Jc]
+
+Hand #6864-6 - 2017-05-05 19:33:02
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: causestud (350) - sitting out
+Seat 3: davide72 (175)
+Seat 4: Jessica (2975)
+causestud has the dealer button
+davide72 posts small blind 25
+Jessica posts big blind 50
+** Hole Cards ** [3 players]
+causestud folds
+davide72 raises to 150
+Jessica raises to 250
+davide72 calls 25 (All-in)
+Jessica refunded 75
+** Flop ** [Jh 9h 7h]
+** Turn ** [Kc]
+** River ** [7d]
+** Pot Show Down ** [Jh 9h 7h Kc 7d]
+davide72 shows [7c Th As 8s] (Hi: a Straight, Seven to Jack  Lo: None)
+Jessica shows [4s Qh 9d 4d] (Hi: Two Pair, Nines and Sevens +Q  Lo: None)
+davide72 wins Pot (350) with a Straight
+No low hand qualified
+** Deck ** [7c 4s 5d Th Qh Tc As 9d Ad 8s 4d Ks Jh 9h 7h Kc 7d]
+
+Hand #6866-7 - 2017-05-05 19:33:26
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: causestud (350) - sitting out
+Seat 3: davide72 (350)
+Seat 4: Jessica (2800)
+davide72 has the dealer button
+Jessica posts small blind 25
+causestud posts big blind 50
+** Hole Cards ** [3 players]
+davide72 folds
+Jessica raises to 100
+causestud folds
+Jessica refunded 50
+Jessica wins Pot (100)
+** Deck ** [7d 9h 7h 8d Kh Qd Jh 5s Js 8s 4s 6d]
+
+Hand #6868-8 - 2017-05-05 19:33:40
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: causestud (300) - sitting out
+Seat 3: davide72 (350)
+Seat 4: Jessica (2850)
+Jessica has the dealer button
+causestud posts small blind 50
+davide72 posts big blind 100
+** Hole Cards ** [3 players]
+Jessica raises to 350
+causestud folds
+davide72 calls 250 (All-in)
+** Flop ** [9s Th 5d]
+** Turn ** [8d]
+** River ** [Jc]
+** Pot Show Down ** [9s Th 5d 8d Jc]
+davide72 shows [Kc Jd Ah Td] (Hi: Two Pair, Jacks and Tens +9  Lo: None)
+Jessica shows [4c Jh Qc 2c] (Hi: a Straight, Eight to Queen  Lo: None)
+Jessica wins Pot (750) with a Straight
+No low hand qualified
+davide72 finishes tournament in place #3
+** Deck ** [5h Kc 4c Kd Jd Jh Qs Ah Qc Kh Td 2c 9s Th 5d 8d Jc]
+
+Hand #6870-9 - 2017-05-05 19:34:01
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: causestud (250) - sitting out
+Seat 4: Jessica (3250)
+causestud has the dealer button
+causestud posts small blind 50
+Jessica posts big blind 100
+** Hole Cards ** [2 players]
+causestud folds
+Jessica refunded 50
+Jessica wins Pot (100)
+** Deck ** [8d 3s 7c 5s 2d Jd 3c 9d]
+
+Hand #6871-10 - 2017-05-05 19:34:10
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: causestud (200) - sitting out
+Seat 4: Jessica (3300)
+Jessica has the dealer button
+Jessica posts small blind 50
+causestud posts big blind 100
+** Hole Cards ** [2 players]
+Jessica raises to 200
+causestud folds
+Jessica refunded 100
+Jessica wins Pot (200)
+** Deck ** [Tc Jh Qc Ah Th 9d 9s Js]
+
+Hand #6872-11 - 2017-05-05 19:34:21
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: causestud (100) - sitting out
+Seat 4: Jessica (3400)
+causestud has the dealer button
+causestud posts small blind 50
+Jessica posts big blind 100
+** Hole Cards ** [2 players]
+causestud folds
+Jessica refunded 50
+Jessica wins Pot (100)
+** Deck ** [Td 5c Jh 9d Jd Js 5s Ac]
+
+Hand #6874-12 - 2017-05-05 19:34:30
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 2: causestud (50) - sitting out
+Seat 4: Jessica (3450)
+Jessica has the dealer button
+Jessica posts small blind 50
+causestud posts big blind 50 (All-in)
+** Hole Cards ** [2 players]
+causestud folds
+Jessica wins Pot (100)
+causestud finishes tournament in place #2
+Jessica finishes tournament in place #1 and wins 100 chips
+** Deck ** [Jh 4s Jc 4h Kh Jd 6h Tc]
+
+Starting tournament 236
+
+Hand #7156-1 - 2017-05-05 21:30:36
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: bestlooser (500)
+Seat 3: davide72 (500)
+Seat 5: Jessica (500)
+bestlooser has the dealer button
+davide72 posts small blind 25
+Jessica posts big blind 50
+** Hole Cards ** [3 players]
+bestlooser calls 50
+davide72 has timed out
+davide72 folds
+Jessica checks
+** Flop ** [7h 4h As]
+Jessica checks
+bestlooser checks
+** Turn ** [Jh]
+Jessica bets 50
+bestlooser folds
+Jessica refunded 50
+Jessica wins Pot (125)
+** Deck ** [Qs 3h 6s 5h 5s 6c Th 2s 4d Tc Jc 9s 7h 4h As Jh]
+
+Hand #7160-2 - 2017-05-05 21:31:27
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 1: bestlooser (450)
+Seat 3: davide72 (475)
+Seat 5: Jessica (575)
+davide72 has the dealer button
+Jessica posts small blind 25
+bestlooser posts big blind 50
+** Hole Cards ** [3 players]
+davide72 raises to 175
+Jessica raises to 575 (All-in)
+bestlooser folds
+davide72 calls 300 (All-in)
+Jessica refunded 100
+** Flop ** [Jh 6d Kh]
+** Turn ** [3d]
+** River ** [9s]
+** Pot Show Down ** [Jh 6d Kh 3d 9s]
+davide72 shows [4h Jc 4d 7s] (Hi: a Pair of Jacks +K97  Lo: None)
+Jessica shows [Th Ah Kd 2d] (Hi: a Pair of Kings +AJ9  Lo: None)
+Jessica wins Pot (1000) with a Pair
+No low hand qualified
+davide72 finishes tournament in place #6
+** Deck ** [Th 8s 4h Ah 5s Jc Kd 5h 4d 2d Ts 7s Jh 6d Kh 3d 9s]
+
+Jessica moved to Table 1
+
+bestlooser moved to Table 1
+
+Starting tournament 244
+
+Hand #7347-1 - 2017-05-05 23:30:36
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 3: pokertron (500) - sitting out
+Seat 5: Arpetuos (500) - sitting out
+Seat 6: dmanicus (500)
+pokertron has the dealer button
+Arpetuos posts small blind 25
+dmanicus posts big blind 50
+** Hole Cards ** [3 players]
+pokertron folds
+Arpetuos folds
+dmanicus refunded 25
+dmanicus wins Pot (50)
+** Deck ** [Qs 3h 3s 5c 8d 2d Jd Tc Kc Qd 8c 2s]
+
+Hand #7348-2 - 2017-05-05 23:30:45
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 3: pokertron (500) - sitting out
+Seat 5: Arpetuos (475) - sitting out
+Seat 6: dmanicus (525)
+Arpetuos has the dealer button
+dmanicus posts small blind 25
+pokertron posts big blind 50
+** Hole Cards ** [3 players]
+Arpetuos folds
+dmanicus raises to 100
+pokertron folds
+dmanicus refunded 50
+dmanicus wins Pot (100)
+** Deck ** [Ad Kd Qh Js 4s 5h 8c Qs 4d 3h 2h Qc]
+
+Hand #7349-3 - 2017-05-05 23:30:55
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 3: pokertron (450)
+Seat 5: Arpetuos (475) - sitting out
+Seat 6: dmanicus (575)
+dmanicus has the dealer button
+pokertron posts small blind 25
+Arpetuos posts big blind 50
+** Hole Cards ** [3 players]
+dmanicus raises to 100
+pokertron calls 75
+Arpetuos folds
+** Flop ** [2d 8d 8s]
+pokertron bets 250
+dmanicus raises to 475 (All-in)
+pokertron calls 100 (All-in)
+dmanicus refunded 125
+** Turn ** [Ks]
+** River ** [4d]
+** Pot Show Down ** [2d 8d 8s Ks 4d]
+pokertron shows [Kd Qd 3h Tc] (Hi: a Flush, King high +Q842  Lo: None)
+dmanicus shows [Qc As 5d Th] (Hi: a Pair of Eights +AKQ  Lo: 8542A)
+pokertron wins Hi Pot (475) with a Flush
+dmanicus wins Lo Pot (475) with 8542A
+** Deck ** [Kd 3c Qc Qd Qs As 3h 7c 5d Tc 6d Th 2d 8d 8s Ks 4d]
+
+Hand #7351-4 - 2017-05-05 23:31:32
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 3: pokertron (475)
+Seat 5: Arpetuos (425) - sitting out
+Seat 6: dmanicus (600)
+pokertron has the dealer button
+Arpetuos posts small blind 25
+dmanicus posts big blind 50
+** Hole Cards ** [3 players]
+pokertron raises to 175
+Arpetuos folds
+dmanicus calls 125
+** Flop ** [6c 3d 8s]
+dmanicus bets 375
+pokertron calls 300 (All-in)
+dmanicus refunded 75
+** Turn ** [5h]
+** River ** [Ts]
+** Pot Show Down ** [6c 3d 8s 5h Ts]
+pokertron shows [Tc 7c 8d Qd] (Hi: Two Pair, Tens and Eights +6  Lo: 87653)
+dmanicus shows [Qh 4h 9s 9c] (Hi: a Pair of Nines +T86  Lo: None)
+pokertron wins Hi Pot (488) with Two Pair
+pokertron wins Lo Pot (487) with 87653
+** Deck ** [6h Qh Tc Ac 4h 7c 8h 9s 8d 2s 9c Qd 6c 3d 8s 5h Ts]
+
+Hand #7353-5 - 2017-05-05 23:31:59
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Hyper Freeroll 100 C - Table 2
+Seat 3: pokertron (975)
+Seat 5: Arpetuos (400) - sitting out
+Seat 6: dmanicus (125)
+Arpetuos has the dealer button
+dmanicus posts small blind 25
+pokertron posts big blind 50
+** Hole Cards ** [3 players]
+Arpetuos folds
+dmanicus raises to 125 (All-in)
+pokertron calls 75
+** Flop ** [5d 9s 3s]
+** Turn ** [4c]
+** River ** [Ks]
+** Pot Show Down ** [5d 9s 3s 4c Ks]
+pokertron shows [4s 8h 2s Kh] (Hi: a Flush, King high +9432  Lo: 85432)
+dmanicus shows [Tc Jd 5c 9c] (Hi: Two Pair, Nines and Fives +K  Lo: None)
+pokertron wins Hi Pot (125) with a Flush
+pokertron wins Lo Pot (125) with 85432
+dmanicus finishes tournament in place #6
+** Deck ** [Tc 4s 8c Jd 8h Td 5c 2s 3c 9c Kh 7c 5d 9s 3s 4c Ks]
+
+Arpetuos moved to Table 1
+
+pokertron moved to Table 1
+
