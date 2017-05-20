@@ -1,0 +1,244 @@
+﻿2017-04-30 10:43:18|System|Game server stopped
+2017-04-30 10:45:13|System|Game server started
+2017-04-30 10:51:48|System|Game server stopped
+2017-04-30 10:51:56|System|Game server started
+2017-04-30 11:01:19|Connect|Connection 00000001 accepted from IP 49.146.210.179, PC ED8E4D86
+2017-04-30 11:01:57|System|Traffic - Seconds: 600, Bytes in: 10185, Bytes out: 650686, Total: 660871
+2017-04-30 11:02:24|Connect|IP 49.146.210.179 disconnects session 00000001, PC ED8E4D86
+2017-04-30 11:04:12|Connect|Connection 00000002 accepted from IP 49.146.210.179, PC F0F89DBF
+2017-04-30 11:04:17|Connect|IP 49.146.210.179 disconnects session 00000002, PC F0F89DBF
+2017-04-30 11:04:22|Logout|49.146.210.179 logged out session 00000001, PC ED8E4D86
+2017-04-30 11:04:22|Logout|49.146.210.179 logged out session 00000002, PC F0F89DBF
+2017-04-30 11:04:23|System|Game server stopped
+2017-04-30 11:05:32|System|Game server started
+2017-04-30 11:05:57|Connect|Connection 00000001 accepted from IP 49.146.210.179, PC 91D2F380
+2017-04-30 11:06:10|Connect|IP 49.146.210.179 disconnects session 00000001, PC 91D2F380
+2017-04-30 11:07:17|Logout|49.146.210.179 logged out session 00000001, PC 91D2F380
+2017-04-30 11:07:18|System|Game server stopped
+2017-04-30 11:07:24|System|Game server started
+2017-04-30 11:07:32|Connect|Connection 00000001 accepted from IP 49.146.210.179, PC 07D0ACD3
+2017-04-30 11:07:48|Connect|IP 49.146.210.179 disconnects session 00000001, PC 07D0ACD3
+2017-04-30 11:09:24|Connect|Connection 00000002 accepted from IP 49.146.210.179, PC 07D0ACD3
+2017-04-30 11:10:09|Account|New account created for admin
+2017-04-30 11:10:13|Login|admin logged into session 00000002 from IP 49.146.210.179, PC 07D0ACD3
+2017-04-30 11:10:24|Connect|Connection 00000001 expired for IP 49.146.210.179, PC 07D0ACD3
+2017-04-30 11:13:09|Table|Free Hourly NLHE opened
+2017-04-30 11:13:35|Account|admin -0 balance 0 (Free Hourly NLHE)
+2017-04-30 11:13:35|Table|admin registers for Free Hourly NLHE
+2017-04-30 11:15:16|Connect|admin disconnects session 00000002, PC 07D0ACD3
+2017-04-30 11:15:18|Connect|Connection 00000003 accepted from IP 49.146.210.179, PC 07D0ACD3
+2017-04-30 11:15:23|Logout|admin logged out session 00000002, PC 07D0ACD3
+2017-04-30 11:15:23|Login|admin logged into session 00000003 from IP 49.146.210.179, PC 07D0ACD3
+2017-04-30 11:17:25|System|Traffic - Seconds: 600, Bytes in: 18258, Bytes out: 860497, Total: 878755
+2017-04-30 11:18:24|Table|NLHE 01A opened
+2017-04-30 11:18:36|Account|admin +10000 balance 10000 (Console)
+2017-04-30 11:18:46|Account|admin -100 balance 9900 (NLHE 01A)
+2017-04-30 11:18:46|Table|admin joins NLHE 01A
+2017-04-30 11:18:53|Account|admin +100 balance 10000 (NLHE 01A)
+2017-04-30 11:18:53|Table|admin leaves NLHE 01A
+2017-04-30 11:19:17|Table|NLHE 01A closed
+2017-04-30 11:20:03|Table|NLHE 01A opened
+2017-04-30 11:23:15|Account|admin +0 balance 10000 (Free Hourly NLHE)
+2017-04-30 11:23:15|Table|admin unregisters from Free Hourly NLHE
+2017-04-30 11:23:15|Table|Free Hourly NLHE closed
+2017-04-30 11:23:29|Table|Free 100 Hourly NLHE opened
+2017-04-30 11:24:17|Table|100 GTD Hourly NLHE opened
+2017-04-30 11:24:47|Table|Free 100 Hourly NLHE closed
+2017-04-30 11:25:03|Table|Hourly NLHE 100 Freeroll opened
+2017-04-30 11:25:07|Table|100 GTD Hourly NLHE closed
+2017-04-30 11:25:20|Table|Hourly NLHE 100 GTD opened
+2017-04-30 11:27:24|System|Traffic - Seconds: 600, Bytes in: 6193, Bytes out: 34237, Total: 40430
+2017-04-30 11:28:28|Table|Hourly NLHE 100 GTD closed
+2017-04-30 11:28:39|Table|Hourly NLHE 100 GTD opened
+2017-04-30 11:34:47|Table|Hourly NLHE 100 GTD closed
+2017-04-30 11:35:04|Table|Hourly NLHE 200 GTD opened
+2017-04-30 11:35:07|Table|Hourly NLHE 100 Freeroll closed
+2017-04-30 11:35:24|Table|Hourly NLHE 200 Freeroll opened
+2017-04-30 11:35:30|Table|NLHE 01A closed
+2017-04-30 11:36:22|Table|NLHE 01A opened
+2017-04-30 11:37:25|System|Traffic - Seconds: 600, Bytes in: 7383, Bytes out: 29831, Total: 37214
+2017-04-30 11:39:48|Table|NLHE 02A opened
+2017-04-30 11:40:41|Table|NLHE 03A opened
+2017-04-30 11:47:24|System|Traffic - Seconds: 600, Bytes in: 8643, Bytes out: 23321, Total: 31964
+2017-04-30 11:57:22|Table|Hourly NLHE 200 GTD closed
+2017-04-30 11:57:25|System|Traffic - Seconds: 600, Bytes in: 5947, Bytes out: 14892, Total: 20839
+2017-04-30 11:58:11|Table|Hourly PLO 200 Freeroll opened
+2017-04-30 12:00:09|Table|Hourly NLHE 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 12:06:15|Table|NLHE 04A opened
+2017-04-30 12:07:03|Table|NLHE 05A opened
+2017-04-30 12:07:24|System|Traffic - Seconds: 600, Bytes in: 7205, Bytes out: 20394, Total: 27599
+2017-04-30 12:07:54|Table|PLO 01A opened
+2017-04-30 12:08:16|Table|PLO 02A opened
+2017-04-30 12:08:34|Table|PLO 03A opened
+2017-04-30 12:08:50|Table|PLO 04A opened
+2017-04-30 12:09:09|Table|PLO 05A opened
+2017-04-30 12:17:24|System|Traffic - Seconds: 600, Bytes in: 3317, Bytes out: 13509, Total: 16826
+2017-04-30 12:27:24|System|Traffic - Seconds: 600, Bytes in: 1950, Bytes out: 5611, Total: 7561
+2017-04-30 12:30:09|Table|Hourly PLO 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 12:37:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1615, Total: 1615
+2017-04-30 12:47:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1194, Total: 1194
+2017-04-30 12:57:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1290, Total: 1290
+2017-04-30 13:00:09|Table|Hourly NLHE 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 13:07:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1701, Total: 1701
+2017-04-30 13:10:49|Connect|Connection 00000004 accepted from IP 49.146.210.179, PC 07D0ACD3
+2017-04-30 13:10:55|Connect|IP 49.146.210.179 disconnects session 00000004, PC 07D0ACD3
+2017-04-30 13:13:24|Connect|Connection 00000004 expired for IP 49.146.210.179, PC 07D0ACD3
+2017-04-30 13:17:24|System|Traffic - Seconds: 600, Bytes in: 1633, Bytes out: 6668, Total: 8301
+2017-04-30 13:27:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1300, Total: 1300
+2017-04-30 13:30:09|Table|Hourly PLO 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 13:33:06|Connect|Connection 00000005 accepted from IP 199.244.119.163, PC C681EB84
+2017-04-30 13:33:18|Connect|IP 199.244.119.163 disconnects session 00000005, PC C681EB84
+2017-04-30 13:35:24|Connect|Connection 00000005 expired for IP 199.244.119.163, PC C681EB84
+2017-04-30 13:37:24|System|Traffic - Seconds: 600, Bytes in: 9944, Bytes out: 462846, Total: 472790
+2017-04-30 13:40:11|Connect|admin disconnects session 00000003, PC 07D0ACD3
+2017-04-30 13:40:14|Connect|Connection 00000006 accepted from IP 49.146.210.179, PC 07D0ACD3
+2017-04-30 13:40:17|Logout|admin logged out session 00000003, PC 07D0ACD3
+2017-04-30 13:40:17|Login|admin logged into session 00000006 from IP 49.146.210.179, PC 07D0ACD3
+2017-04-30 13:47:24|System|Traffic - Seconds: 600, Bytes in: 2115, Bytes out: 8542, Total: 10657
+2017-04-30 13:57:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 320, Total: 320
+2017-04-30 14:00:09|Table|Hourly NLHE 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 14:07:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 680, Total: 680
+2017-04-30 14:17:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 320, Total: 320
+2017-04-30 14:23:56|Connect|admin disconnects session 00000006, PC 07D0ACD3
+2017-04-30 14:26:24|Connect|Connection 00000006 expired for admin, PC 07D0ACD3
+2017-04-30 14:27:24|System|Traffic - Seconds: 600, Bytes in: 8, Bytes out: 192, Total: 200
+2017-04-30 14:30:09|Table|Hourly PLO 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 14:37:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 0, Total: 0
+2017-04-30 14:47:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 0, Total: 0
+2017-04-30 14:57:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 0, Total: 0
+2017-04-30 15:00:09|Table|Hourly NLHE 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 15:07:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 0, Total: 0
+2017-04-30 15:17:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 0, Total: 0
+2017-04-30 15:26:53|Connect|Connection 00000007 accepted from IP 49.146.210.179, PC 07D0ACD3
+2017-04-30 15:26:55|Login|admin logged into session 00000007 from IP 49.146.210.179, PC 07D0ACD3
+2017-04-30 15:27:24|System|Traffic - Seconds: 600, Bytes in: 1650, Bytes out: 6220, Total: 7870
+2017-04-30 15:30:09|Table|Hourly PLO 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 15:37:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 677, Total: 677
+2017-04-30 15:38:17|Connect|Connection 00000008 accepted from IP 107.184.222.247, PC 183FA623
+2017-04-30 15:40:24|Account|New account created for Kushed
+2017-04-30 15:40:40|Login|Kushed logged into session 00000008 from IP 107.184.222.247, PC 183FA623
+2017-04-30 15:41:44|Connect|Kushed disconnects session 00000008, PC 183FA623
+2017-04-30 15:44:24|Connect|Connection 00000008 expired for Kushed, PC 183FA623
+2017-04-30 15:47:24|System|Traffic - Seconds: 600, Bytes in: 12453, Bytes out: 657188, Total: 669641
+2017-04-30 15:48:24|Connect|File port sweeps: 4
+2017-04-30 15:49:24|Connect|File port sweeps: 2
+2017-04-30 15:57:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 320, Total: 320
+2017-04-30 16:00:09|Table|Hourly NLHE 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 16:03:28|Connect|Connection 00000009 accepted from IP 112.215.153.252, PC DE094C67
+2017-04-30 16:04:36|Connect|Connection 0000000A accepted from IP 31.24.231.215, PC 76B3A49C
+2017-04-30 16:04:43|Connect|IP 31.24.231.215 disconnects session 0000000A, PC 76B3A49C
+2017-04-30 16:04:48|Account|New account created for Pekokmen
+2017-04-30 16:04:56|Login|Pekokmen logged into session 00000009 from IP 112.215.153.252, PC DE094C67
+2017-04-30 16:07:24|Connect|Connection 0000000A expired for IP 31.24.231.215, PC 76B3A49C
+2017-04-30 16:07:24|System|Traffic - Seconds: 600, Bytes in: 22537, Bytes out: 1114522, Total: 1137059
+2017-04-30 16:11:12|Connect|Pekokmen disconnects session 00000009, PC DE094C67
+2017-04-30 16:13:24|Connect|Connection 00000009 expired for Pekokmen, PC DE094C67
+2017-04-30 16:14:24|Connect|File port sweeps: 5
+2017-04-30 16:15:24|Connect|File port sweeps: 1
+2017-04-30 16:17:24|System|Traffic - Seconds: 600, Bytes in: 1044, Bytes out: 6095, Total: 7139
+2017-04-30 16:22:24|Connect|File port sweeps: 1
+2017-04-30 16:22:56|Connect|Connection 0000000B accepted from IP 45.55.32.122, PC D2A633C0
+2017-04-30 16:23:26|Account|New account created for Ayers
+2017-04-30 16:23:29|Login|Ayers logged into session 0000000B from IP 45.55.32.122, PC D2A633C0
+2017-04-30 16:23:36|Connect|Ayers disconnects session 0000000B, PC D2A633C0
+2017-04-30 16:26:24|Connect|Connection 0000000B expired for Ayers, PC D2A633C0
+2017-04-30 16:27:24|System|Traffic - Seconds: 600, Bytes in: 15051, Bytes out: 1081063, Total: 1096114
+2017-04-30 16:30:09|Table|Hourly PLO 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 16:37:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 791, Total: 791
+2017-04-30 16:39:09|Connect|Connection 0000000C accepted from IP 50.110.125.249, PC AB4342DD
+2017-04-30 16:44:35|Connect|IP 50.110.125.249 disconnects session 0000000C, PC AB4342DD
+2017-04-30 16:47:24|Connect|Connection 0000000C expired for IP 50.110.125.249, PC AB4342DD
+2017-04-30 16:47:24|System|Traffic - Seconds: 600, Bytes in: 9125, Bytes out: 437215, Total: 446340
+2017-04-30 16:57:24|System|Traffic - Seconds: 600, Bytes in: 182, Bytes out: 2589, Total: 2771
+2017-04-30 17:00:09|Table|Hourly NLHE 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 17:07:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 648, Total: 648
+2017-04-30 17:14:27|Connect|Connection 0000000D accepted from IP 212.42.200.125, PC 74364D1D
+2017-04-30 17:16:49|Connect|Connection 0000000E accepted from IP 212.42.200.125, PC 74364D1D
+2017-04-30 17:17:24|System|Traffic - Seconds: 600, Bytes in: 11653, Bytes out: 462274, Total: 473927
+2017-04-30 17:18:02|Connect|IP 212.42.200.125 disconnects session 0000000D, PC 74364D1D
+2017-04-30 17:20:25|Connect|Connection 0000000D expired for IP 212.42.200.125, PC 74364D1D
+2017-04-30 17:27:24|System|Traffic - Seconds: 600, Bytes in: 406, Bytes out: 1182, Total: 1588
+2017-04-30 17:30:09|Table|Hourly PLO 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 17:37:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1436, Total: 1436
+2017-04-30 17:47:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 640, Total: 640
+2017-04-30 17:57:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 640, Total: 640
+2017-04-30 18:00:09|Table|Hourly NLHE 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 18:03:52|Connect|Connection 0000000F accepted from IP 95.90.251.137, PC 42F5205B
+2017-04-30 18:04:43|Connect|IP 95.90.251.137 disconnects session 0000000F, PC 42F5205B
+2017-04-30 18:07:24|Connect|Connection 0000000F expired for IP 95.90.251.137, PC 42F5205B
+2017-04-30 18:07:24|System|Traffic - Seconds: 600, Bytes in: 9711, Bytes out: 458867, Total: 468578
+2017-04-30 18:13:53|Connect|IP 212.42.200.125 disconnects session 0000000E, PC 74364D1D
+2017-04-30 18:14:08|Connect|Connection 00000010 accepted from IP 212.42.200.125, PC 74364D1D
+2017-04-30 18:16:24|Connect|Connection 0000000E expired for IP 212.42.200.125, PC 74364D1D
+2017-04-30 18:17:24|System|Traffic - Seconds: 600, Bytes in: 618, Bytes out: 2807, Total: 3425
+2017-04-30 18:27:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 640, Total: 640
+2017-04-30 18:30:09|Table|Hourly PLO 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 18:37:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1436, Total: 1436
+2017-04-30 18:47:24|System|Traffic - Seconds: 600, Bytes in: 401, Bytes out: 2914, Total: 3315
+2017-04-30 18:57:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 640, Total: 640
+2017-04-30 19:00:09|Table|Hourly NLHE 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 19:07:24|System|Traffic - Seconds: 600, Bytes in: 1248, Bytes out: 46711, Total: 47959
+2017-04-30 19:10:24|Connect|File port sweeps: 2
+2017-04-30 19:17:24|System|Traffic - Seconds: 600, Bytes in: 343, Bytes out: 811, Total: 1154
+2017-04-30 19:23:26|Connect|Connection 00000011 accepted from IP 121.54.39.138, PC 98A65B92
+2017-04-30 19:24:53|Connect|IP 121.54.39.138 disconnects session 00000011, PC 98A65B92
+2017-04-30 19:27:24|Connect|Connection 00000011 expired for IP 121.54.39.138, PC 98A65B92
+2017-04-30 19:27:24|System|Traffic - Seconds: 600, Bytes in: 11295, Bytes out: 441955, Total: 453250
+2017-04-30 19:30:09|Table|Hourly PLO 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 19:37:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1404, Total: 1404
+2017-04-30 19:41:33|Connect|admin disconnects session 00000007, PC 07D0ACD3
+2017-04-30 19:44:24|Connect|Connection 00000007 expired for admin, PC 07D0ACD3
+2017-04-30 19:47:24|System|Traffic - Seconds: 600, Bytes in: 8, Bytes out: 514, Total: 522
+2017-04-30 19:57:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 320, Total: 320
+2017-04-30 20:00:09|Table|Hourly NLHE 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 20:07:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 680, Total: 680
+2017-04-30 20:17:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 320, Total: 320
+2017-04-30 20:26:12|Connect|Connection 00000012 accepted from IP 112.198.68.199, PC D4485F89
+2017-04-30 20:26:17|Connect|IP 112.198.68.199 disconnects session 00000012, PC D4485F89
+2017-04-30 20:27:24|System|Traffic - Seconds: 600, Bytes in: 10089, Bytes out: 457690, Total: 467779
+2017-04-30 20:28:24|Connect|Connection 00000012 expired for IP 112.198.68.199, PC D4485F89
+2017-04-30 20:30:09|Table|Hourly PLO 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 20:37:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 645, Total: 645
+2017-04-30 20:47:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 320, Total: 320
+2017-04-30 20:57:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 320, Total: 320
+2017-04-30 21:00:09|Table|Hourly NLHE 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 21:02:01|Connect|Connection 00000013 accepted from IP 79.112.226.18, PC AC4FA835
+2017-04-30 21:02:44|Connect|IP 79.112.226.18 disconnects session 00000013, PC AC4FA835
+2017-04-30 21:05:24|Connect|Connection 00000013 expired for IP 79.112.226.18, PC AC4FA835
+2017-04-30 21:07:24|System|Traffic - Seconds: 600, Bytes in: 9527, Bytes out: 672497, Total: 682024
+2017-04-30 21:17:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 320, Total: 320
+2017-04-30 21:27:24|System|Traffic - Seconds: 600, Bytes in: 225, Bytes out: 515, Total: 740
+2017-04-30 21:30:09|Table|Hourly PLO 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 21:35:03|Connect|IP 212.42.200.125 disconnects session 00000010, PC 74364D1D
+2017-04-30 21:37:24|Connect|Connection 00000010 expired for IP 212.42.200.125, PC 74364D1D
+2017-04-30 21:37:24|System|Traffic - Seconds: 600, Bytes in: 8, Bytes out: 549, Total: 557
+2017-04-30 21:46:24|Connect|Connection 00000014 accepted from IP 79.53.233.53, PC C5ECBF63
+2017-04-30 21:47:08|Account|New account created for davmor81
+2017-04-30 21:47:12|Login|davmor81 logged into session 00000014 from IP 79.53.233.53, PC C5ECBF63
+2017-04-30 21:47:24|System|Traffic - Seconds: 600, Bytes in: 11367, Bytes out: 653599, Total: 664966
+2017-04-30 21:47:33|Account|davmor81 -0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-04-30 21:47:33|Table|davmor81 registers for Hourly NLHE 200 Freeroll
+2017-04-30 21:57:24|System|Traffic - Seconds: 600, Bytes in: 3944, Bytes out: 180051, Total: 183995
+2017-04-30 22:00:09|Account|davmor81 +0 balance 0 (Hourly NLHE 200 Freeroll)
+2017-04-30 22:00:09|Table|davmor81 unregisters from Hourly NLHE 200 Freeroll
+2017-04-30 22:00:09|Table|Hourly NLHE 200 Freeroll did not meet min player requirement (1/2)
+2017-04-30 22:07:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1784, Total: 1784
+2017-04-30 22:17:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1300, Total: 1300
+2017-04-30 22:27:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1300, Total: 1300
+2017-04-30 22:30:09|Table|Hourly PLO 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 22:37:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1625, Total: 1625
+2017-04-30 22:46:14|Connect|davmor81 disconnects session 00000014, PC C5ECBF63
+2017-04-30 22:47:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 1170, Total: 1170
+2017-04-30 22:48:24|Connect|Connection 00000014 expired for davmor81, PC C5ECBF63
+2017-04-30 22:57:24|System|Traffic - Seconds: 600, Bytes in: 708, Bytes out: 240, Total: 948
+2017-04-30 23:00:09|Table|Hourly NLHE 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 23:07:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 0, Total: 0
+2017-04-30 23:17:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 0, Total: 0
+2017-04-30 23:25:27|Connect|Connection 00000015 accepted from IP 45.49.5.24, PC 709F01CA
+2017-04-30 23:25:34|Connect|IP 45.49.5.24 disconnects session 00000015, PC 709F01CA
+2017-04-30 23:27:24|System|Traffic - Seconds: 600, Bytes in: 11134, Bytes out: 457880, Total: 469014
+2017-04-30 23:28:24|Connect|Connection 00000015 expired for IP 45.49.5.24, PC 709F01CA
+2017-04-30 23:30:09|Table|Hourly PLO 200 Freeroll did not meet min player requirement (0/2)
+2017-04-30 23:37:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 0, Total: 0
+2017-04-30 23:47:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 0, Total: 0
+2017-04-30 23:57:24|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 0, Total: 0
