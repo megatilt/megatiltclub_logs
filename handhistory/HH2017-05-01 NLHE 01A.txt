@@ -1,0 +1,438 @@
+﻿Hand #123-1 - 2017-05-01 09:15:06
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 4: Chicken (100)
+Seat 5: playa (200)
+Chicken has the dealer button
+Chicken posts small blind 1
+playa posts big blind 2
+** Hole Cards ** [2 players]
+Chicken raises to 4
+playa calls 2
+** Flop ** [Tc 8s 7h]
+playa checks
+Chicken bets 8
+playa calls 8
+** Turn ** [5h]
+playa checks
+Chicken bets 14
+playa calls 14
+** River ** [3s]
+playa checks
+Chicken checks
+** Pot Show Down ** [Tc 8s 7h 5h 3s]
+Chicken shows [Th Kd] (a Pair of Tens +K87)
+playa shows [5s 6d] (a Pair of Fives +T87)
+Chicken wins Pot (50.70) with a Pair
+Rake (1.30) Pot (52) Players (Chicken: 26, playa: 26)
+** Deck ** [5s Th 6d Kd Tc 8s 7h 5h 3s]
+
+Hand #124-2 - 2017-05-01 09:15:48
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 4: Chicken (124.70)
+Seat 5: playa (174)
+playa has the dealer button
+playa posts small blind 1
+Chicken posts big blind 2
+** Hole Cards ** [2 players]
+playa raises to 24
+Chicken folds
+playa refunded 22
+playa wins Pot (4)
+Rake (0) Pot (4) Players (Chicken: 2, playa: 2)
+** Deck ** [2c 9h 4s 9d]
+
+Hand #125-3 - 2017-05-01 09:16:06
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 4: Chicken (122.70)
+Seat 5: playa (176)
+Chicken has the dealer button
+Chicken posts small blind 1
+playa posts big blind 2
+** Hole Cards ** [2 players]
+Chicken calls 1
+playa checks
+** Flop ** [8s Qh As]
+playa checks
+Chicken checks
+** Turn ** [8d]
+playa checks
+Chicken bets 2
+playa raises to 4
+Chicken folds
+playa refunded 2
+playa wins Pot (7.80)
+Rake (0.20) Pot (8) Players (Chicken: 4, playa: 4)
+** Deck ** [Tc 4d 3d Th 8s Qh As 8d]
+
+Hand #126-4 - 2017-05-01 09:16:32
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 4: Chicken (118.70)
+Seat 5: playa (179.80)
+playa has the dealer button
+playa posts small blind 1
+Chicken posts big blind 2
+** Hole Cards ** [2 players]
+playa raises to 18
+Chicken calls 16
+** Flop ** [9h 8d 8s]
+Chicken checks
+playa bets 161.80 (All-in)
+Chicken calls 100.70 (All-in)
+playa refunded 61.10
+** Turn ** [7h]
+** River ** [5d]
+** Pot Show Down ** [9h 8d 8s 7h 5d]
+Chicken shows [9c Th] (Two Pair, Nines and Eights +T)
+playa shows [Ks As] (a Pair of Eights +AK9)
+Chicken wins Pot (231.50) with Two Pair
+Rake (5.90) Pot (237.40) Players (Chicken: 118.70, playa: 118.70)
+** Deck ** [9c Ks Th As 9h 8d 8s 7h 5d]
+
+Hand #127-5 - 2017-05-01 09:17:03
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 4: Chicken (231.50)
+Seat 5: playa (61.10)
+Chicken has the dealer button
+Chicken posts small blind 1
+playa posts big blind 2
+** Hole Cards ** [2 players]
+Chicken raises to 4
+playa calls 2
+** Flop ** [7s 4s As]
+playa checks
+Chicken bets 2
+playa raises to 57.10 (All-in)
+Chicken calls 55.10
+** Turn ** [5h]
+** River ** [7c]
+** Pot Show Down ** [7s 4s As 5h 7c]
+Chicken shows [Ts Th] (Two Pair, Tens and Sevens +A)
+playa shows [2d 7d] (Three of a Kind, Sevens +A5)
+playa wins Pot (119.15) with Three of a Kind
+Rake (3.05) Pot (122.20) Players (Chicken: 61.10, playa: 61.10)
+** Deck ** [2d Ts 7d Th 7s 4s As 5h 7c]
+
+Hand #128-6 - 2017-05-01 09:17:31
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 4: Chicken (170.40)
+Seat 5: playa (119.15)
+playa has the dealer button
+playa posts small blind 1
+Chicken posts big blind 2
+** Hole Cards ** [2 players]
+playa calls 1
+Chicken checks
+** Flop ** [7d 8h 9s]
+Chicken bets 2
+playa raises to 117.15 (All-in)
+Chicken folds
+playa refunded 115.15
+playa wins Pot (7.80)
+Rake (0.20) Pot (8) Players (Chicken: 4, playa: 4)
+** Deck ** [3h 2s 8s 9d 7d 8h 9s]
+
+Hand #129-7 - 2017-05-01 09:17:55
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 4: Chicken (166.40)
+Seat 5: playa (122.95)
+Chicken has the dealer button
+Chicken posts small blind 1
+playa posts big blind 2
+** Hole Cards ** [2 players]
+Chicken calls 1
+playa raises to 14
+Chicken calls 12
+** Flop ** [Qd 7h Jc]
+playa bets 12
+Chicken calls 12
+** Turn ** [3h]
+playa bets 18
+Chicken calls 18
+** River ** [6h]
+playa bets 10
+Chicken calls 10
+** Pot Show Down ** [Qd 7h Jc 3h 6h]
+Chicken shows [5c 7c] (a Pair of Sevens +QJ6)
+playa shows [8d 6d] (a Pair of Sixes +QJ8)
+Chicken wins Pot (105.30) with a Pair
+Rake (2.70) Pot (108) Players (Chicken: 54, playa: 54)
+** Deck ** [8d 5c 6d 7c Qd 7h Jc 3h 6h]
+
+Hand #130-8 - 2017-05-01 09:18:36
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 4: Chicken (217.70)
+Seat 5: playa (68.95)
+playa has the dealer button
+playa posts small blind 1
+Chicken posts big blind 2
+** Hole Cards ** [2 players]
+playa raises to 26
+Chicken folds
+playa refunded 24
+playa wins Pot (4)
+Rake (0) Pot (4) Players (Chicken: 2, playa: 2)
+** Deck ** [2s 9s Qd 6s]
+
+Hand #131-9 - 2017-05-01 09:18:52
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 4: Chicken (215.70)
+Seat 5: playa (70.95)
+Chicken has the dealer button
+Chicken posts small blind 1
+playa posts big blind 2
+** Hole Cards ** [2 players]
+Chicken calls 1
+playa raises to 56
+Chicken folds
+playa refunded 54
+playa wins Pot (4)
+Rake (0) Pot (4) Players (Chicken: 2, playa: 2)
+** Deck ** [5h 4c Ac Ts]
+
+Hand #132-10 - 2017-05-01 09:19:10
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 4: Chicken (213.70)
+Seat 5: playa (72.95)
+playa has the dealer button
+playa posts small blind 1
+Chicken posts big blind 2
+** Hole Cards ** [2 players]
+playa raises to 26
+Chicken calls 24
+** Flop ** [Kh 7d 8s]
+Chicken checks
+playa bets 46.95 (All-in)
+Chicken calls 46.95
+** Turn ** [8d]
+** River ** [Th]
+** Pot Show Down ** [Kh 7d 8s 8d Th]
+Chicken shows [Td Jh] (Two Pair, Tens and Eights +K)
+playa shows [As 5d] (a Pair of Eights +AKT)
+Chicken wins Pot (142.30) with Two Pair
+Rake (3.60) Pot (145.90) Players (Chicken: 72.95, playa: 72.95)
+** Deck ** [Td As Jh 5d Kh 7d 8s 8d Th]
+
+Hand #133-1 - 2017-05-01 09:19:48
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 3: playa (200)
+Seat 4: Chicken (283.05)
+playa has the dealer button
+playa posts small blind 1
+Chicken posts big blind 2
+** Hole Cards ** [2 players]
+playa raises to 26
+Chicken calls 24
+** Flop ** [9h 6c 5h]
+Chicken checks
+playa checks
+** Turn ** [Td]
+Chicken checks
+playa checks
+** River ** [4c]
+Chicken checks
+playa checks
+** Pot Show Down ** [9h 6c 5h Td 4c]
+playa shows [Kh 4s] (a Pair of Fours +KT9)
+Chicken shows [Jc Qc] (High Card Queen +JT96)
+playa wins Pot (50.70) with a Pair
+Rake (1.30) Pot (52) Players (playa: 26, Chicken: 26)
+** Deck ** [Jc Kh Qc 4s 9h 6c 5h Td 4c]
+
+Hand #134-2 - 2017-05-01 09:20:57
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 3: playa (224.70)
+Seat 4: Chicken (257.05)
+Chicken has the dealer button
+Chicken posts small blind 1
+playa posts big blind 2
+** Hole Cards ** [2 players]
+Chicken calls 1
+playa raises to 48
+Chicken folds
+playa refunded 46
+playa wins Pot (4)
+Rake (0) Pot (4) Players (playa: 2, Chicken: 2)
+** Deck ** [7c Kd 9s 5c]
+
+Hand #135-3 - 2017-05-01 09:21:15
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 3: playa (226.70)
+Seat 4: Chicken (255.05)
+playa has the dealer button
+playa posts small blind 1
+Chicken posts big blind 2
+** Hole Cards ** [2 players]
+playa calls 1
+Chicken checks
+** Flop ** [Ks 4h 5h]
+Chicken checks
+playa bets 2
+Chicken calls 2
+** Turn ** [6c]
+Chicken checks
+playa bets 2
+Chicken calls 2
+** River ** [7c]
+Chicken bets 20
+playa raises to 98
+Chicken raises to 249.05 (All-in)
+playa calls 122.70 (All-in)
+Chicken refunded 28.35
+** Pot Show Down ** [Ks 4h 5h 6c 7c]
+playa shows [5c 8d] (a Straight, Four to Eight)
+Chicken shows [8h Jd] (a Straight, Four to Eight)
+playa splits Pot (221.05) with a Straight
+Chicken splits Pot (221.05) with a Straight
+Rake (11.30) Pot (453.40) Players (playa: 226.70, Chicken: 226.70)
+** Deck ** [8h 5c Jd 8d Ks 4h 5h 6c 7c]
+
+Hand #136-4 - 2017-05-01 09:22:07
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 3: playa (221.05)
+Seat 4: Chicken (249.40)
+Chicken has the dealer button
+Chicken posts small blind 1
+playa posts big blind 2
+** Hole Cards ** [2 players]
+Chicken calls 1
+playa raises to 4
+Chicken calls 2
+** Flop ** [Qh Td Kc]
+playa bets 2
+Chicken calls 2
+** Turn ** [8h]
+playa bets 2
+Chicken raises to 4
+playa calls 2
+** River ** [9s]
+playa checks
+Chicken bets 20
+playa folds
+Chicken refunded 20
+Chicken wins Pot (19.50)
+Rake (0.50) Pot (20) Players (playa: 10, Chicken: 10)
+** Deck ** [8s 8d 3h Ts Qh Td Kc 8h 9s]
+
+Hand #137-5 - 2017-05-01 09:22:45
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 3: playa (211.05)
+Seat 4: Chicken (258.90)
+playa has the dealer button
+playa posts small blind 1
+Chicken posts big blind 2
+** Hole Cards ** [2 players]
+playa raises to 74
+Chicken folds
+playa refunded 72
+playa wins Pot (4)
+Rake (0) Pot (4) Players (playa: 2, Chicken: 2)
+** Deck ** [2h 9d 6c 8s]
+
+Hand #138-6 - 2017-05-01 09:23:00
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 3: playa (213.05)
+Seat 4: Chicken (256.90)
+Chicken has the dealer button
+Chicken posts small blind 1
+playa posts big blind 2
+** Hole Cards ** [2 players]
+Chicken calls 1
+playa raises to 56
+Chicken folds
+playa refunded 54
+playa wins Pot (4)
+Rake (0) Pot (4) Players (playa: 2, Chicken: 2)
+** Deck ** [Th 5c Tc 3c]
+
+Hand #139-7 - 2017-05-01 09:23:18
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 3: playa (215.05)
+Seat 4: Chicken (254.90)
+playa has the dealer button
+playa posts small blind 1
+Chicken posts big blind 2
+** Hole Cards ** [2 players]
+playa folds
+Chicken refunded 1
+Chicken wins Pot (2)
+Rake (0) Pot (2) Players (playa: 1, Chicken: 1)
+** Deck ** [6h Tc 4h 4d]
+
+Hand #140-8 - 2017-05-01 09:23:29
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 3: playa (214.05)
+Seat 4: Chicken (255.90)
+Chicken has the dealer button
+Chicken posts small blind 1
+playa posts big blind 2
+** Hole Cards ** [2 players]
+Chicken calls 1
+playa raises to 40
+Chicken raises to 255.90 (All-in)
+playa calls 174.05 (All-in)
+Chicken refunded 41.85
+** Flop ** [2s 8d 4c]
+** Turn ** [Td]
+** River ** [6h]
+** Pot Show Down ** [2s 8d 4c Td 6h]
+playa shows [8h 8s] (Three of a Kind, Eights +T6)
+Chicken shows [Kc Ts] (a Pair of Tens +K86)
+playa wins Pot (417.40) with Three of a Kind
+Rake (10.70) Pot (428.10) Players (playa: 214.05, Chicken: 214.05)
+** Deck ** [8h Kc 8s Ts 2s 8d 4c Td 6h]
+
+playa: "ty"
+Hand #141-9 - 2017-05-01 09:23:54
+Game: NL Hold'em (100 - 200) - Blinds 1/2
+Site: MegaTilt Club
+Table: NLHE 01A
+Seat 3: playa (417.40)
+Seat 4: Chicken (41.85)
+playa has the dealer button
+playa posts small blind 1
+playa: "lol"
+Chicken posts big blind 2
+** Hole Cards ** [2 players]
+Chicken: "YW"
+playa folds
+Chicken refunded 1
+Chicken wins Pot (2)
+Rake (0) Pot (2) Players (playa: 1, Chicken: 1)
+** Deck ** [3d 2h 8h Js]
+
