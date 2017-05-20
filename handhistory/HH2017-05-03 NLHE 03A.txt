@@ -1,0 +1,95 @@
+﻿Hand #2373-1 - 2017-05-03 12:38:16
+Game: NL Hold'em (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: NLHE 03A
+Seat 3: bestlooser (500)
+Seat 4: playa (1000)
+bestlooser has the dealer button
+bestlooser posts small blind 5
+playa posts big blind 10
+** Hole Cards ** [2 players]
+bestlooser calls 5
+bestlooser: "hello"
+playa checks
+** Flop ** [5d 3c 9h]
+playa checks
+bestlooser checks
+** Turn ** [Qc]
+playa checks
+bestlooser checks
+** River ** [Js]
+playa bets 10
+bestlooser calls 10
+** Pot Show Down ** [5d 3c 9h Qc Js]
+bestlooser shows [Jd 7c] (a Pair of Jacks +Q97)
+playa shows [Jh 4h] (a Pair of Jacks +Q95)
+bestlooser wins Pot (39) with a Pair
+Rake (1) Pot (40) Players (bestlooser: 20, playa: 20)
+** Deck ** [Jh Jd 4h 7c 5d 3c 9h Qc Js]
+
+Hand #2376-2 - 2017-05-03 12:39:20
+Game: NL Hold'em (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: NLHE 03A
+Seat 3: bestlooser (519)
+Seat 4: playa (980)
+playa has the dealer button
+playa posts small blind 5
+bestlooser posts big blind 10
+** Hole Cards ** [2 players]
+playa raises to 80
+bestlooser raises to 519 (All-in)
+playa calls 439
+** Flop ** [8c 4d Ad]
+** Turn ** [6d]
+** River ** [Js]
+** Pot Show Down ** [8c 4d Ad 6d Js]
+bestlooser shows [Ac 5h] (a Pair of Aces +J86)
+playa shows [Ks Jc] (a Pair of Jacks +AK8)
+bestlooser wins Pot (1012.05) with a Pair
+Rake (25.95) Pot (1038) Players (bestlooser: 519, playa: 519)
+** Deck ** [Ac Ks 5h Jc 8c 4d Ad 6d Js]
+
+Hand #2379-3 - 2017-05-03 12:39:47
+Game: NL Hold'em (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: NLHE 03A
+Seat 3: bestlooser (1012.05)
+Seat 4: playa (461)
+bestlooser has the dealer button
+bestlooser posts small blind 5
+playa posts big blind 10
+** Hole Cards ** [2 players]
+bestlooser calls 5
+playa checks
+** Flop ** [Th 8h 6d]
+playa checks
+bestlooser bets 10
+playa folds
+bestlooser refunded 10
+bestlooser wins Pot (19.50)
+Rake (0.50) Pot (20) Players (bestlooser: 10, playa: 10)
+** Deck ** [4c 5s 3d 6c Th 8h 6d]
+
+Hand #2380-4 - 2017-05-03 12:40:08
+Game: NL Hold'em (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: NLHE 03A
+Seat 3: bestlooser (1021.55)
+Seat 4: playa (451)
+playa has the dealer button
+playa posts small blind 5
+bestlooser posts big blind 10
+** Hole Cards ** [2 players]
+playa raises to 451 (All-in)
+bestlooser calls 441
+** Flop ** [Ks 6s 5h]
+** Turn ** [2d]
+** River ** [2h]
+** Pot Show Down ** [Ks 6s 5h 2d 2h]
+bestlooser shows [Kh 4h] (Two Pair, Kings and Deuces +6)
+playa shows [Ts Jd] (a Pair of Deuces +KJT)
+bestlooser wins Pot (879.45) with Two Pair
+Rake (22.55) Pot (902) Players (bestlooser: 451, playa: 451)
+** Deck ** [Kh Ts 4h Jd Ks 6s 5h 2d 2h]
+
