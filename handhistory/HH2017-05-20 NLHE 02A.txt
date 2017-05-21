@@ -1,0 +1,1181 @@
+﻿Hand #48408-1 - 2017-05-20 13:50:29
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 3: fAAntastic (200)
+Seat 4: Chicken (200)
+fAAntastic has the dealer button
+fAAntastic posts small blind 2
+Chicken posts big blind 4
+** Hole Cards ** [2 players]
+fAAntastic raises to 8
+Chicken calls 4
+** Flop ** [Qs 3d Th]
+Chicken checks
+fAAntastic bets 12
+Chicken folds
+fAAntastic refunded 12
+fAAntastic wins Pot (15.60)
+Rake (0.40) Pot (16) Players (fAAntastic: 8, Chicken: 8)
+fAAntastic shows [4c Kd]
+** Deck ** [9s 4c 5c Kd Qs 3d Th]
+
+Hand #48409-2 - 2017-05-20 13:51:01
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: bestlooser (200)
+Seat 3: fAAntastic (207.60)
+Seat 4: Chicken (192)
+Chicken has the dealer button
+Chicken posts small blind 2
+fAAntastic posts big blind 4
+** Hole Cards ** [2 players]
+Chicken calls 2
+fAAntastic checks
+** Flop ** [Qs 7s 2s]
+fAAntastic checks
+Chicken checks
+** Turn ** [4c]
+fAAntastic bets 4
+Chicken folds
+fAAntastic refunded 4
+fAAntastic wins Pot (7.80)
+Rake (0.20) Pot (8) Players (fAAntastic: 4, Chicken: 4)
+fAAntastic shows [4s 9s]
+** Deck ** [4s Kh 9s 3d Qs 7s 2s 4c]
+
+Hand #48410-3 - 2017-05-20 13:51:30
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: bestlooser (200)
+Seat 3: fAAntastic (211.40)
+Seat 4: Chicken (188)
+fAAntastic has the dealer button
+Chicken posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [3 players]
+fAAntastic folds
+Chicken calls 2
+bestlooser checks
+** Flop ** [6h 9s 2s]
+Chicken checks
+CoinDoctor: "Hello all"
+bestlooser checks
+** Turn ** [4d]
+Chicken checks
+bestlooser: "hello doc"
+Chicken: "hello doc coin"
+bestlooser checks
+** River ** [As]
+Chicken checks
+bestlooser checks
+** Pot Show Down ** [6h 9s 2s 4d As]
+bestlooser shows [Tc 3h] (High Card Ace +T964)
+Chicken shows [5c Qh] (High Card Ace +Q965)
+Chicken wins Pot (7.80) with High Card
+Rake (0.20) Pot (8) Players (bestlooser: 4, fAAntastic: 0, Chicken: 4)
+** Deck ** [5c Tc Jd Qh 3h 2d 6h 9s 2s 4d As]
+
+Hand #48411-4 - 2017-05-20 13:52:46
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (200)
+Seat 2: bestlooser (196)
+Seat 3: fAAntastic (211.40)
+Seat 4: Chicken (191.80)
+Chicken has the dealer button
+bestlooser posts small blind 2
+fAAntastic posts big blind 4
+** Hole Cards ** [3 players]
+Chicken folds
+bestlooser raises to 12
+fAAntastic calls 8
+** Flop ** [Qs Kh 7d]
+bestlooser bets 12
+fAAntastic folds
+bestlooser refunded 12
+bestlooser wins Pot (23.40)
+Rake (0.60) Pot (24) Players (bestlooser: 12, fAAntastic: 12, Chicken: 0)
+** Deck ** [7c 7h 9d 4d 5d 8s Qs Kh 7d]
+
+Hand #48413-5 - 2017-05-20 13:53:20
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (200)
+Seat 2: bestlooser (207.40)
+Seat 3: fAAntastic (199.40)
+Seat 4: Chicken (191.80)
+bestlooser has the dealer button
+fAAntastic posts small blind 2
+Chicken posts big blind 4
+CoinDoctor posts big blind 4
+** Hole Cards ** [4 players]
+CoinDoctor raises to 16
+bestlooser folds
+fAAntastic folds
+Chicken folds
+CoinDoctor refunded 12
+CoinDoctor wins Pot (10)
+Rake (0) Pot (10) Players (CoinDoctor: 4, bestlooser: 0, fAAntastic: 2, Chicken: 4)
+** Deck ** [6c 8c Jd 8d 7d 4s As Ts]
+
+Hand #48415-6 - 2017-05-20 13:53:52
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (206)
+Seat 2: bestlooser (207.40)
+Seat 3: fAAntastic (197.40)
+Seat 4: Chicken (187.80)
+fAAntastic has the dealer button
+Chicken posts small blind 2
+CoinDoctor posts big blind 4
+** Hole Cards ** [4 players]
+bestlooser folds
+fAAntastic raises to 12
+Chicken calls 10
+CoinDoctor folds
+** Flop ** [Ad 3s Jc]
+Chicken checks
+fAAntastic checks
+** Turn ** [Kc]
+Chicken bets 4
+fAAntastic calls 4
+** River ** [7d]
+Chicken bets 10
+fAAntastic calls 10
+** Pot Show Down ** [Ad 3s Jc Kc 7d]
+fAAntastic shows [Js 8c] (a Pair of Jacks +AK8)
+Chicken shows [Ah Qd] (a Pair of Aces +KQJ)
+Chicken wins Pot (54.60) with a Pair
+Rake (1.40) Pot (56) Players (CoinDoctor: 4, bestlooser: 0, fAAntastic: 26, Chicken: 26)
+** Deck ** [Ah 4d 8s Js Qd 7s 5s 8c Ad 3s Jc Kc 7d]
+
+Hand #48416-7 - 2017-05-20 13:54:50
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (202)
+Seat 2: bestlooser (207.40)
+Seat 3: fAAntastic (171.40)
+Seat 4: Chicken (216.40)
+Seat 5: PhoenixSuns (200) - waiting for big blind
+Chicken has the dealer button
+CoinDoctor posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [4 players]
+fAAntastic calls 4
+Chicken calls 4
+CoinDoctor calls 2
+bestlooser checks
+** Flop ** [7d 6d 9d]
+CoinDoctor bets 36
+bestlooser folds
+fAAntastic folds
+Chicken folds
+CoinDoctor refunded 36
+CoinDoctor wins Pot (15.60)
+Rake (0.40) Pot (16) Players (CoinDoctor: 4, bestlooser: 4, fAAntastic: 4, Chicken: 4)
+** Deck ** [8c 6c Tc 3s 9s 5h 7s 3h 7d 6d 9d]
+
+Hand #48419-8 - 2017-05-20 13:55:36
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (213.60)
+Seat 2: bestlooser (203.40)
+Seat 3: fAAntastic (167.40)
+Seat 4: Chicken (212.40)
+Seat 5: PhoenixSuns (200) - waiting for big blind
+CoinDoctor has the dealer button
+bestlooser posts small blind 2
+fAAntastic posts big blind 4
+** Hole Cards ** [4 players]
+Chicken calls 4
+CoinDoctor folds
+bestlooser calls 2
+fAAntastic raises to 16
+Chicken raises to 212.40 (All-in)
+bestlooser folds
+fAAntastic calls 151.40 (All-in)
+Chicken refunded 45
+** Flop ** [Jd 9h 5c]
+** Turn ** [7h]
+** River ** [Jh]
+** Pot Show Down ** [Jd 9h 5c 7h Jh]
+fAAntastic shows [Jc Ac] (Three of a Kind, Jacks +A9)
+Chicken shows [8s 8c] (Two Pair, Jacks and Eights +9)
+fAAntastic wins Pot (330.35) with Three of a Kind
+Rake (8.45) Pot (338.80) Players (CoinDoctor: 0, bestlooser: 4, fAAntastic: 167.40, Chicken: 167.40)
+** Deck ** [2d Jc 8s 3c 3s Ac 8c 7s Jd 9h 5c 7h Jh]
+
+Hand #48420-9 - 2017-05-20 13:56:21
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (213.60)
+Seat 2: bestlooser (199.40)
+Seat 3: fAAntastic (330.35)
+Seat 4: Chicken (45)
+Seat 5: PhoenixSuns (200) - waiting for big blind
+bestlooser has the dealer button
+Chicken: "nh"
+fAAntastic posts small blind 2
+Chicken posts big blind 4
+fAAntastic: "wew"
+** Hole Cards ** [4 players]
+fAAntastic: "thx"
+CoinDoctor folds
+bestlooser folds
+fAAntastic raises to 308
+Chicken folds
+fAAntastic refunded 304
+fAAntastic wins Pot (8)
+Rake (0) Pot (8) Players (CoinDoctor: 0, bestlooser: 0, fAAntastic: 4, Chicken: 4)
+fAAntastic shows [Ac Th]
+** Deck ** [Ac 3c 6c Qs Th 9d Qd 2d]
+
+Hand #48422-10 - 2017-05-20 13:56:57
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (213.60)
+Seat 2: bestlooser (199.40)
+Seat 3: fAAntastic (334.35)
+Seat 4: Chicken (41)
+Seat 5: PhoenixSuns (200)
+fAAntastic has the dealer button
+Chicken posts small blind 2
+PhoenixSuns posts big blind 4
+** Hole Cards ** [5 players]
+CoinDoctor folds
+bestlooser folds
+fAAntastic raises to 12
+Chicken folds
+PhoenixSuns folds
+fAAntastic refunded 8
+fAAntastic wins Pot (10)
+Rake (0) Pot (10) Players (CoinDoctor: 0, bestlooser: 0, fAAntastic: 4, Chicken: 2, PhoenixSuns: 4)
+fAAntastic shows [9c Jc]
+** Deck ** [8h 6s Tc 5s 9c 6c Qc 3d 7h Jc]
+
+Hand #48424-11 - 2017-05-20 13:57:44
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (213.60)
+Seat 2: bestlooser (199.40)
+Seat 3: fAAntastic (340.35)
+Seat 4: Chicken (39)
+Seat 5: PhoenixSuns (196)
+Chicken has the dealer button
+PhoenixSuns posts small blind 2
+CoinDoctor posts big blind 4
+** Hole Cards ** [5 players]
+bestlooser raises to 12
+fAAntastic folds
+Chicken folds
+PhoenixSuns folds
+CoinDoctor calls 8
+** Flop ** [Td 8s 7c]
+CoinDoctor bets 20
+bestlooser has timed out
+bestlooser folds
+CoinDoctor refunded 20
+CoinDoctor wins Pot (25.35)
+Rake (0.65) Pot (26) Players (CoinDoctor: 12, bestlooser: 12, Chicken: 0, PhoenixSuns: 2)
+** Deck ** [3h Qc Kh 4d 5c 6c 9c 8h Ts Jh Td 8s 7c]
+
+Hand #48426-12 - 2017-05-20 13:58:57
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (226.95)
+Seat 2: bestlooser (187.40)
+Seat 4: Chicken (39)
+Seat 5: PhoenixSuns (194)
+PhoenixSuns has the dealer button
+CoinDoctor posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [4 players]
+Chicken folds
+Chicken: "wew"
+PhoenixSuns calls 4
+CoinDoctor calls 2
+bestlooser checks
+** Flop ** [Ah 8c 5h]
+CoinDoctor bets 4
+bestlooser folds
+PhoenixSuns calls 4
+** Turn ** [Qc]
+CoinDoctor checks
+PhoenixSuns bets 9.75
+CoinDoctor folds
+PhoenixSuns refunded 9.75
+PhoenixSuns wins Pot (19.50)
+Rake (0.50) Pot (16) Players (CoinDoctor: 8, Chicken: 0, PhoenixSuns: 8)
+** Deck ** [6s Jh 2c 5d 8d 6d 4h 2d Ah 8c 5h Qc]
+
+Hand #48429-13 - 2017-05-20 14:00:10
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (218.95)
+Seat 4: Chicken (39)
+Seat 5: PhoenixSuns (205.50) - sitting out
+Seat 6: bestlooser (200)
+CoinDoctor has the dealer button
+Chicken posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [3 players]
+CoinDoctor calls 4
+Chicken calls 2
+bestlooser raises to 12
+CoinDoctor calls 8
+Chicken folds
+** Flop ** [3d Ah Qh]
+bestlooser checks
+CoinDoctor bets 36
+bestlooser raises to 72
+CoinDoctor raises to 206.95 (All-in)
+bestlooser calls 116 (All-in)
+CoinDoctor refunded 18.95
+** Turn ** [8d]
+** River ** [4c]
+** Pot Show Down ** [3d Ah Qh 8d 4c]
+CoinDoctor shows [5h 7h] (High Card Ace +Q875)
+bestlooser shows [As Ad] (Three of a Kind, Aces +Q8)
+bestlooser wins Pot (393.90) with Three of a Kind
+Rake (10.10) Pot (404) Players (CoinDoctor: 200, Chicken: 4, bestlooser: 200)
+** Deck ** [3s As 5h Ts Ad 7h 3d Ah Qh 8d 4c]
+
+Hand #48436-14 - 2017-05-20 14:01:34
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (18.95)
+Seat 4: Chicken (35)
+Seat 6: bestlooser (393.90)
+Chicken has the dealer button
+bestlooser posts small blind 2
+CoinDoctor posts big blind 4
+CoinDoctor: "oops"
+** Hole Cards ** [3 players]
+Chicken calls 4
+CoinDoctor: "nh"
+bestlooser calls 2
+bestlooser: "ty"
+CoinDoctor raises to 18.95 (All-in)
+Chicken raises to 35 (All-in)
+CoinDoctor: "a heart would have been nice"
+bestlooser calls 31
+** Flop ** [Qs 6d Ks]
+** Turn ** [Th]
+** River ** [6h]
+** Side Pot 1 Show Down ** [Qs 6d Ks Th 6h]
+Chicken shows [3s Ac] (a Pair of Sixes +AKQ)
+bestlooser shows [Qc 9h] (Two Pair, Queens and Sixes +K)
+bestlooser wins Side Pot 1 (31.30) with Two Pair
+Rake (0.80) Pot (32.10) Players (CoinDoctor: 0, Chicken: 16.05, bestlooser: 16.05)
+** Main Pot Show Down ** [Qs 6d Ks Th 6h]
+CoinDoctor shows [Tc 6c] (a Full House, Sixes full of Tens)
+CoinDoctor wins Main Pot (55.45) with a Full House
+Rake (1.40) Pot (56.85) Players (CoinDoctor: 18.95, Chicken: 18.95, bestlooser: 18.95)
+** Deck ** [Qc Tc 3s 9h 6c Ac Qs 6d Ks Th 6h]
+
+Hand #48441-15 - 2017-05-20 14:02:36
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (55.45)
+Seat 4: Chicken (0) - sitting out
+Seat 6: bestlooser (390.20)
+bestlooser has the dealer button
+bestlooser posts small blind 2
+CoinDoctor posts big blind 4
+** Hole Cards ** [2 players]
+bestlooser raises to 12
+CoinDoctor calls 8
+** Flop ** [Jd Qd Ad]
+CoinDoctor checks
+bestlooser checks
+** Turn ** [8c]
+CoinDoctor checks
+bestlooser checks
+** River ** [Qc]
+CoinDoctor checks
+bestlooser checks
+** Pot Show Down ** [Jd Qd Ad 8c Qc]
+CoinDoctor shows [5d 6c] (a Pair of Queens +AJ8)
+bestlooser shows [5c Jc] (Two Pair, Queens and Jacks +A)
+bestlooser wins Pot (23.40) with Two Pair
+Rake (0.60) Pot (24) Players (CoinDoctor: 12, bestlooser: 12)
+** Deck ** [5d 5c 6c Jc Jd Qd Ad 8c Qc]
+
+Hand #48444-16 - 2017-05-20 14:03:39
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (43.45)
+Seat 6: bestlooser (401.60)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [2 players]
+CoinDoctor folds
+bestlooser refunded 2
+bestlooser wins Pot (4)
+Rake (0) Pot (4) Players (CoinDoctor: 2, bestlooser: 2)
+** Deck ** [3h 7s 8c Qc]
+
+Hand #48445-17 - 2017-05-20 14:03:54
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 1: CoinDoctor (41.45)
+Seat 6: bestlooser (403.60)
+bestlooser has the dealer button
+bestlooser posts small blind 2
+CoinDoctor posts big blind 4
+** Hole Cards ** [2 players]
+bestlooser raises to 12
+CoinDoctor calls 8
+** Flop ** [5h 8d Jd]
+CoinDoctor bets 29.45 (All-in)
+bestlooser calls 29.45
+** Turn ** [Ah]
+** River ** [Td]
+** Pot Show Down ** [5h 8d Jd Ah Td]
+CoinDoctor shows [8h 9c] (a Pair of Eights +AJT)
+bestlooser shows [8s As] (Two Pair, Aces and Eights +J)
+bestlooser wins Pot (80.85) with Two Pair
+Rake (2.05) Pot (82.90) Players (CoinDoctor: 41.45, bestlooser: 41.45)
+** Deck ** [8h 8s 9c As 5h 8d Jd Ah Td]
+
+CoinDoctor: "you win"
+Hand #48971-1 - 2017-05-20 23:26:07
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (200)
+Seat 3: bestlooser (200)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [2 players]
+bestlooser: "hello doc :)"
+CoinDoctor raises to 12
+CoinDoctor: "howdy"
+bestlooser: "how are you today?"
+bestlooser calls 8
+** Flop ** [Th 8h 3d]
+CoinDoctor: "just got back from work"
+bestlooser checks
+CoinDoctor checks
+** Turn ** [Ts]
+CoinDoctor: "all is well"
+bestlooser: "I speak with your son about 2 hour ago"
+bestlooser checks
+CoinDoctor: "did they give us our chips yet"
+CoinDoctor checks
+** River ** [9d]
+bestlooser: "no"
+bestlooser checks
+CoinDoctor checks
+** Pot Show Down ** [Th 8h 3d Ts 9d]
+CoinDoctor shows [7s Ah] (a Pair of Tens +A98)
+bestlooser shows [Kd Qs] (a Pair of Tens +KQ9)
+CoinDoctor wins Pot (23.40) with a Pair
+Rake (0.60) Pot (24) Players (CoinDoctor: 12, bestlooser: 12)
+** Deck ** [Kd 7s Qs Ah Th 8h 3d Ts 9d]
+
+Hand #48972-2 - 2017-05-20 23:27:37
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (211.40)
+Seat 3: bestlooser (188)
+bestlooser has the dealer button
+bestlooser posts small blind 2
+CoinDoctor posts big blind 4
+** Hole Cards ** [2 players]
+bestlooser raises to 12
+CoinDoctor folds
+bestlooser refunded 8
+bestlooser wins Pot (8)
+Rake (0) Pot (8) Players (CoinDoctor: 4, bestlooser: 4)
+** Deck ** [Td 9d 6s Jc]
+
+Hand #48973-3 - 2017-05-20 23:28:01
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (207.40)
+Seat 3: bestlooser (192)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [2 players]
+CoinDoctor raises to 12
+CoinDoctor: "your kicking my ass today"
+CoinDoctor: "my sons the one who got me on this site"
+bestlooser calls 8
+** Flop ** [Kd 7s 5c]
+bestlooser checks
+CoinDoctor bets 20
+bestlooser folds
+CoinDoctor refunded 20
+CoinDoctor wins Pot (23.40)
+Rake (0.60) Pot (24) Players (CoinDoctor: 12, bestlooser: 12)
+** Deck ** [Ah 4d Ts 8h Kd 7s 5c]
+
+Hand #48974-4 - 2017-05-20 23:29:58
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (218.80)
+Seat 3: bestlooser (180)
+bestlooser has the dealer button
+bestlooser posts small blind 2
+CoinDoctor: "he only plays here very infrequently"
+CoinDoctor posts big blind 4
+** Hole Cards ** [2 players]
+bestlooser raises to 12
+CoinDoctor: "hes only got 1400 coins"
+CoinDoctor calls 8
+** Flop ** [Jh 6d Ad]
+CoinDoctor checks
+bestlooser: "you are rich here :)"
+bestlooser checks
+** Turn ** [5d]
+CoinDoctor: "well have to be careful we never olay at the same table or toutney"
+CoinDoctor: "play"
+CoinDoctor checks
+bestlooser checks
+** River ** [Kc]
+CoinDoctor: "tourney"
+CoinDoctor checks
+bestlooser checks
+** Pot Show Down ** [Jh 6d Ad 5d Kc]
+CoinDoctor shows [Qs 9d] (High Card Ace +KQJ9)
+bestlooser shows [8d 8s] (a Pair of Eights +AKJ)
+bestlooser wins Pot (23.40) with a Pair
+Rake (0.60) Pot (24) Players (CoinDoctor: 12, bestlooser: 12)
+** Deck ** [Qs 8d 9d 8s Jh 6d Ad 5d Kc]
+
+Hand #48975-5 - 2017-05-20 23:31:24
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (206.80)
+Seat 3: bestlooser (191.40)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [2 players]
+CoinDoctor: "he plays more at betcoin"
+CoinDoctor calls 2
+bestlooser checks
+** Flop ** [Tc Ks As]
+bestlooser: "why you told me that? tou think I thinking you play against rules?"
+bestlooser checks
+CoinDoctor: "well ive been wooried the last couple days someone might think that"
+CoinDoctor checks
+** Turn ** [Qc]
+bestlooser checks
+CoinDoctor: "if you knew how competitive he is youd know he would never help me"
+CoinDoctor checks
+** River ** [Ts]
+CoinDoctor: "he want to beat me"
+bestlooser checks
+CoinDoctor checks
+** Pot Show Down ** [Tc Ks As Qc Ts]
+CoinDoctor shows [5d 7h] (a Pair of Tens +AKQ)
+bestlooser shows [2h Ah] (Two Pair, Aces and Tens +K)
+bestlooser wins Pot (7.80) with Two Pair
+Rake (0.20) Pot (8) Players (CoinDoctor: 4, bestlooser: 4)
+** Deck ** [2h 5d Ah 7h Tc Ks As Qc Ts]
+
+Hand #48976-6 - 2017-05-20 23:33:29
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (202.80)
+Seat 3: bestlooser (195.20)
+Seat 6: trixter (200) - waiting for big blind
+bestlooser has the dealer button
+bestlooser posts small blind 2
+CoinDoctor posts big blind 4
+** Hole Cards ** [2 players]
+bestlooser: "a good guy"
+bestlooser raises to 12
+CoinDoctor calls 8
+** Flop ** [3h Ks 4s]
+CoinDoctor checks
+bestlooser checks
+** Turn ** [9s]
+CoinDoctor: "hes a great guy"
+CoinDoctor checks
+bestlooser checks
+** River ** [6s]
+CoinDoctor bets 4
+CoinDoctor: "hes serenadeing me on the quitar right now"
+bestlooser raises to 36
+CoinDoctor: "should i call?"
+CoinDoctor has timed out
+CoinDoctor folds
+bestlooser refunded 32
+bestlooser: "i don't know"
+bestlooser wins Pot (31.20)
+Rake (0.80) Pot (32) Players (CoinDoctor: 16, bestlooser: 16)
+bestlooser shows [2h As]
+** Deck ** [7s 2h Jd As 3h Ks 4s 9s 6s]
+
+Hand #48977-7 - 2017-05-20 23:35:07
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (186.80)
+Seat 3: bestlooser (210.40)
+Seat 6: trixter (200)
+CoinDoctor has the dealer button
+bestlooser posts small blind 2
+trixter posts big blind 4
+** Hole Cards ** [3 players]
+CoinDoctor: "oh ouch"
+CoinDoctor calls 4
+bestlooser calls 2
+CoinDoctor: "should have known"
+trixter checks
+** Flop ** [4c 2s 8c]
+bestlooser: "hello trixter"
+bestlooser checks
+trixter checks
+CoinDoctor: "no trix today ok"
+CoinDoctor bets 12
+bestlooser folds
+trixter: "hello guys"
+trixter folds
+CoinDoctor refunded 12
+CoinDoctor wins Pot (11.70)
+Rake (0.30) Pot (12) Players (CoinDoctor: 4, bestlooser: 4, trixter: 4)
+CoinDoctor: "heidy ho"
+** Deck ** [5s Jc 8d Qh Ts Jd 4c 2s 8c]
+
+Hand #48978-8 - 2017-05-20 23:36:41
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (194.50)
+Seat 3: bestlooser (206.40)
+Seat 6: trixter (196)
+bestlooser has the dealer button
+trixter posts small blind 2
+CoinDoctor posts big blind 4
+** Hole Cards ** [3 players]
+bestlooser calls 4
+CoinDoctor: "never gonna get rich this way"
+trixter calls 2
+CoinDoctor checks
+** Flop ** [Qh 8s 5d]
+CoinDoctor: "we should start shoving every hand"
+trixter checks
+CoinDoctor bets 12
+bestlooser: "how do you want get rich?"
+trixter: "quit boring trading so lets play poker!"
+bestlooser folds
+trixter folds
+CoinDoctor refunded 12
+CoinDoctor wins Pot (11.70)
+Rake (0.30) Pot (12) Players (CoinDoctor: 4, bestlooser: 4, trixter: 4)
+** Deck ** [2s 8h Ad Ks Td 2d Qh 8s 5d]
+
+Hand #48979-9 - 2017-05-20 23:37:45
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (202.20)
+Seat 3: bestlooser (202.40)
+Seat 6: trixter (192)
+trixter has the dealer button
+CoinDoctor posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [3 players]
+CoinDoctor: "back to even"
+trixter calls 4
+CoinDoctor folds
+bestlooser checks
+** Flop ** [Qh As 2s]
+bestlooser: "btc ATH today :)"
+bestlooser checks
+CoinDoctor: "what time is it where the site is located"
+CoinDoctor: "i know isn't that awesome"
+CoinDoctor: "i cant beleive this month"
+trixter checks
+** Turn ** [2d]
+bestlooser: "the admin is from philippines"
+bestlooser checks
+trixter checks
+** River ** [Kc]
+bestlooser checks
+trixter: "almost all green but have some red"
+trixter checks
+** Pot Show Down ** [Qh As 2s 2d Kc]
+bestlooser shows [8c Jc] (a Pair of Deuces +AKQ)
+trixter shows [7d Jd] (a Pair of Deuces +AKQ)
+bestlooser splits Pot (4.88) with a Pair
+trixter splits Pot (4.87) with a Pair
+Rake (0.25) Pot (10) Players (CoinDoctor: 2, bestlooser: 4, trixter: 4)
+** Deck ** [Td 8c 7d 5s Jc Jd Qh As 2s 2d Kc]
+
+CoinDoctor: "so its early morning sunday now there"
+Hand #48980-10 - 2017-05-20 23:39:48
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (200.20)
+Seat 3: bestlooser (203.28)
+Seat 6: trixter (192.87)
+CoinDoctor has the dealer button
+bestlooser posts small blind 2
+trixter posts big blind 4
+** Hole Cards ** [3 players]
+CoinDoctor raises to 12
+bestlooser: "I think yes"
+bestlooser folds
+trixter folds
+CoinDoctor refunded 8
+CoinDoctor wins Pot (10)
+Rake (0) Pot (10) Players (CoinDoctor: 4, bestlooser: 2, trixter: 4)
+** Deck ** [3h 5s Jc 7s 8d Js]
+
+Hand #48981-11 - 2017-05-20 23:40:24
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (206.20)
+Seat 3: bestlooser (201.28)
+Seat 6: trixter (188.87)
+bestlooser has the dealer button
+trixter posts small blind 2
+CoinDoctor posts big blind 4
+** Hole Cards ** [3 players]
+CoinDoctor: "its 6:40 sat evening where i am"
+bestlooser folds
+trixter raises to 12
+CoinDoctor folds
+trixter refunded 8
+trixter wins Pot (8)
+Rake (0) Pot (8) Players (CoinDoctor: 4, bestlooser: 0, trixter: 4)
+** Deck ** [Td 3s Kh Ah 9s 5d]
+
+Hand #48982-12 - 2017-05-20 23:41:24
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (202.20)
+Seat 3: bestlooser (201.28)
+Seat 6: trixter (192.87)
+trixter has the dealer button
+CoinDoctor posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [3 players]
+trixter folds
+CoinDoctor folds
+bestlooser refunded 2
+bestlooser wins Pot (4)
+Rake (0) Pot (4) Players (CoinDoctor: 2, bestlooser: 2, trixter: 0)
+** Deck ** [Td 3c 6c 4h 8s Jd]
+
+Hand #48983-13 - 2017-05-20 23:41:48
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (200.20)
+Seat 3: bestlooser (203.28)
+Seat 6: trixter (192.87)
+CoinDoctor has the dealer button
+bestlooser posts small blind 2
+trixter posts big blind 4
+** Hole Cards ** [3 players]
+bestlooser: "its 23:40 sat in Internet where I am live :)"
+CoinDoctor raises to 12
+bestlooser folds
+trixter folds
+CoinDoctor refunded 8
+CoinDoctor wins Pot (10)
+Rake (0) Pot (10) Players (CoinDoctor: 4, bestlooser: 2, trixter: 4)
+** Deck ** [8h 4c 6d 9c 8s 6c]
+
+Hand #48984-14 - 2017-05-20 23:42:17
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (206.20)
+Seat 3: bestlooser (201.28)
+Seat 6: trixter (188.87)
+bestlooser has the dealer button
+trixter posts small blind 2
+CoinDoctor posts big blind 4
+** Hole Cards ** [3 players]
+bestlooser raises to 8
+trixter calls 6
+CoinDoctor calls 4
+** Flop ** [2d Th Kc]
+CoinDoctor: "are you in england"
+trixter checks
+CoinDoctor checks
+bestlooser: "Internet"
+bestlooser checks
+** Turn ** [Ks]
+trixter checks
+CoinDoctor checks
+bestlooser checks
+** River ** [Kd]
+trixter bets 23.40
+bestlooser: "UTC time"
+CoinDoctor folds
+bestlooser folds
+trixter refunded 23.40
+trixter wins Pot (23.40)
+Rake (0.60) Pot (24) Players (CoinDoctor: 8, bestlooser: 8, trixter: 8)
+** Deck ** [Kh 6s 9s Qh 3h As 2d Th Kc Ks Kd]
+
+Hand #48985-15 - 2017-05-20 23:43:52
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (198.20)
+Seat 3: bestlooser (193.28)
+Seat 6: trixter (204.27)
+trixter has the dealer button
+CoinDoctor posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [3 players]
+trixter folds
+CoinDoctor folds
+bestlooser refunded 2
+bestlooser wins Pot (4)
+Rake (0) Pot (4) Players (CoinDoctor: 2, bestlooser: 2, trixter: 0)
+** Deck ** [2s Jc 8d 9d 6s 6c]
+
+Hand #48986-16 - 2017-05-20 23:44:15
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (196.20)
+Seat 3: bestlooser (195.28)
+Seat 6: trixter (204.27)
+CoinDoctor has the dealer button
+bestlooser posts small blind 2
+trixter posts big blind 4
+** Hole Cards ** [3 players]
+CoinDoctor calls 4
+bestlooser calls 2
+trixter checks
+** Flop ** [8s 6s Kh]
+bestlooser checks
+trixter checks
+CoinDoctor checks
+** Turn ** [4s]
+bestlooser checks
+trixter checks
+CoinDoctor checks
+** River ** [6h]
+bestlooser bets 8
+trixter folds
+CoinDoctor folds
+bestlooser refunded 8
+bestlooser wins Pot (11.70)
+Rake (0.30) Pot (12) Players (CoinDoctor: 4, bestlooser: 4, trixter: 4)
+** Deck ** [6d 7d 9c Qh 3s Qd 8s 6s Kh 4s 6h]
+
+Hand #48987-17 - 2017-05-20 23:46:07
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (192.20)
+Seat 3: bestlooser (202.98)
+Seat 6: trixter (200.27)
+bestlooser has the dealer button
+trixter posts small blind 2
+CoinDoctor posts big blind 4
+** Hole Cards ** [3 players]
+bestlooser calls 4
+trixter calls 2
+CoinDoctor checks
+** Flop ** [Tc 2h 9s]
+trixter checks
+CoinDoctor checks
+bestlooser checks
+** Turn ** [7h]
+trixter checks
+CoinDoctor bets 12
+bestlooser folds
+trixter calls 12
+** River ** [7c]
+trixter bets 17.55
+CoinDoctor calls 17.55
+** Pot Show Down ** [Tc 2h 9s 7h 7c]
+CoinDoctor shows [6s Ts] (Two Pair, Tens and Sevens +9)
+trixter shows [Ac 7d] (Three of a Kind, Sevens +AT)
+trixter wins Pot (69.35) with Three of a Kind
+Rake (1.75) Pot (71.10) Players (CoinDoctor: 33.55, bestlooser: 4, trixter: 33.55)
+** Deck ** [Ac 6s 5c 7d Ts 5s Tc 2h 9s 7h 7c]
+
+Hand #48988-18 - 2017-05-20 23:48:00
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (158.65)
+Seat 3: bestlooser (198.98)
+Seat 6: trixter (236.07)
+trixter has the dealer button
+CoinDoctor posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [3 players]
+trixter folds
+CoinDoctor: "im such a donk"
+CoinDoctor calls 2
+bestlooser raises to 12
+CoinDoctor calls 8
+** Flop ** [8h 4h 9c]
+bestlooser: "lol"
+CoinDoctor bets 20
+bestlooser folds
+CoinDoctor refunded 20
+CoinDoctor wins Pot (23.40)
+Rake (0.60) Pot (24) Players (CoinDoctor: 12, bestlooser: 12, trixter: 0)
+** Deck ** [8s Ts 8d 6h Ad 3s 8h 4h 9c]
+
+Hand #48989-19 - 2017-05-20 23:48:40
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (170.05)
+Seat 3: bestlooser (186.98)
+Seat 6: trixter (236.07)
+CoinDoctor has the dealer button
+bestlooser posts small blind 2
+trixter posts big blind 4
+** Hole Cards ** [3 players]
+CoinDoctor raises to 8
+bestlooser calls 6
+trixter calls 4
+** Flop ** [Js 4d Td]
+bestlooser checks
+trixter checks
+CoinDoctor checks
+** Turn ** [3d]
+bestlooser checks
+trixter checks
+CoinDoctor checks
+** River ** [Qd]
+bestlooser checks
+trixter checks
+CoinDoctor checks
+** Pot Show Down ** [Js 4d Td 3d Qd]
+CoinDoctor shows [Ac 2h] (High Card Ace +QJT4)
+bestlooser shows [6h Ah] (High Card Ace +QJT6)
+trixter shows [9c 9s] (a Pair of Nines +QJT)
+trixter wins Pot (23.40) with a Pair
+Rake (0.60) Pot (24) Players (CoinDoctor: 8, bestlooser: 8, trixter: 8)
+** Deck ** [6h 9c Ac Ah 9s 2h Js 4d Td 3d Qd]
+
+Hand #48990-20 - 2017-05-20 23:50:50
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (162.05)
+Seat 3: bestlooser (178.98)
+Seat 6: trixter (251.47)
+bestlooser has the dealer button
+trixter posts small blind 2
+CoinDoctor posts big blind 4
+** Hole Cards ** [3 players]
+bestlooser raises to 12
+trixter calls 10
+CoinDoctor folds
+** Flop ** [7h 4d 5c]
+trixter checks
+bestlooser checks
+** Turn ** [9h]
+trixter checks
+bestlooser checks
+** River ** [6s]
+trixter checks
+bestlooser checks
+** Pot Show Down ** [7h 4d 5c 9h 6s]
+bestlooser shows [Jd Th] (High Card Jack +T976)
+trixter shows [Qh Ah] (High Card Ace +Q976)
+trixter wins Pot (27.30) with High Card
+Rake (0.70) Pot (28) Players (CoinDoctor: 4, bestlooser: 12, trixter: 12)
+** Deck ** [Qh 2h Jd Ah Kd Th 7h 4d 5c 9h 6s]
+
+Hand #48991-21 - 2017-05-20 23:52:33
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (158.05)
+Seat 3: bestlooser (166.98)
+Seat 6: trixter (266.77)
+trixter has the dealer button
+CoinDoctor posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [3 players]
+trixter folds
+CoinDoctor folds
+bestlooser refunded 2
+bestlooser wins Pot (4)
+Rake (0) Pot (4) Players (CoinDoctor: 2, bestlooser: 2, trixter: 0)
+** Deck ** [3d 3h 5h Jh 8h Ks]
+
+Hand #48992-22 - 2017-05-20 23:52:54
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (156.05)
+Seat 3: bestlooser (168.98)
+Seat 6: trixter (266.77)
+CoinDoctor has the dealer button
+bestlooser posts small blind 2
+trixter posts big blind 4
+** Hole Cards ** [3 players]
+CoinDoctor folds
+bestlooser raises to 12
+trixter folds
+bestlooser refunded 8
+bestlooser wins Pot (8)
+Rake (0) Pot (8) Players (CoinDoctor: 0, bestlooser: 4, trixter: 4)
+** Deck ** [2d 8c 3c 4c 2c 7s]
+
+Hand #48993-23 - 2017-05-20 23:53:35
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (156.05)
+Seat 3: bestlooser (172.98)
+Seat 6: trixter (262.77)
+bestlooser has the dealer button
+trixter posts small blind 2
+CoinDoctor posts big blind 4
+** Hole Cards ** [3 players]
+bestlooser raises to 12
+trixter folds
+CoinDoctor calls 8
+** Flop ** [Qs Ah 4h]
+CoinDoctor checks
+bestlooser checks
+** Turn ** [Qd]
+CoinDoctor checks
+bestlooser checks
+** River ** [Qh]
+CoinDoctor checks
+bestlooser bets 8
+CoinDoctor calls 8
+** Pot Show Down ** [Qs Ah 4h Qd Qh]
+CoinDoctor shows [Kc Jc] (Three of a Kind, Queens +AK)
+bestlooser shows [3h 9h] (a Flush, Ace high +Q943)
+bestlooser wins Pot (40.95) with a Flush
+Rake (1.05) Pot (42) Players (CoinDoctor: 20, bestlooser: 20, trixter: 2)
+** Deck ** [8c Kc 3h Jd Jc 9h Qs Ah 4h Qd Qh]
+
+Hand #48994-24 - 2017-05-20 23:55:15
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (136.05)
+Seat 3: bestlooser (193.93)
+Seat 6: trixter (260.77)
+trixter has the dealer button
+CoinDoctor posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [3 players]
+trixter folds
+CoinDoctor calls 2
+bestlooser checks
+** Flop ** [Td Kc Jh]
+CoinDoctor checks
+bestlooser checks
+** Turn ** [Ks]
+CoinDoctor checks
+bestlooser checks
+** River ** [8d]
+CoinDoctor checks
+bestlooser bets 4
+CoinDoctor folds
+bestlooser refunded 4
+bestlooser wins Pot (7.80)
+Rake (0.20) Pot (8) Players (CoinDoctor: 4, bestlooser: 4, trixter: 0)
+** Deck ** [6s 7d 2s 7c 8s Qd Td Kc Jh Ks 8d]
+
+Hand #48995-25 - 2017-05-20 23:56:02
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (132.05)
+Seat 3: bestlooser (197.73)
+Seat 6: trixter (260.77)
+CoinDoctor has the dealer button
+bestlooser posts small blind 2
+trixter posts big blind 4
+** Hole Cards ** [3 players]
+CoinDoctor folds
+bestlooser calls 2
+trixter checks
+** Flop ** [4c 8s Jd]
+bestlooser bets 4
+trixter calls 4
+** Turn ** [Qh]
+bestlooser checks
+trixter bets 7.80
+bestlooser raises to 15.60
+trixter calls 7.80
+** River ** [Jh]
+bestlooser bets 24
+trixter folds
+bestlooser refunded 24
+bestlooser wins Pot (46.05)
+Rake (1.15) Pot (47.20) Players (CoinDoctor: 0, bestlooser: 23.60, trixter: 23.60)
+** Deck ** [9c 4s 2d Ts Td 4h 4c 8s Jd Qh Jh]
+
+Hand #48996-26 - 2017-05-20 23:57:57
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (132.05) - sitting out
+Seat 3: bestlooser (220.18)
+Seat 6: trixter (237.17)
+bestlooser has the dealer button
+bestlooser posts small blind 2
+trixter posts big blind 4
+** Hole Cards ** [2 players]
+bestlooser folds
+trixter refunded 2
+trixter wins Pot (4)
+Rake (0) Pot (4) Players (bestlooser: 2, trixter: 2)
+** Deck ** [4s 2s 3s 4d]
+
+Hand #48997-27 - 2017-05-20 23:58:09
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: CoinDoctor (132.05) - sitting out
+Seat 3: bestlooser (218.18)
+Seat 6: trixter (239.17)
+trixter has the dealer button
+trixter posts small blind 2
+bestlooser posts big blind 4
+** Hole Cards ** [2 players]
+trixter raises to 12
+bestlooser has timed out
+bestlooser folds
+trixter refunded 8
+trixter wins Pot (8)
+Rake (0) Pot (8) Players (bestlooser: 4, trixter: 4)
+** Deck ** [5h 2h 4c Ac]
+

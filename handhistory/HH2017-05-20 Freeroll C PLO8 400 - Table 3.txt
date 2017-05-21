@@ -1,0 +1,257 @@
+﻿Starting tournament 1253
+
+Hand #47869-1 - 2017-05-20 05:00:42
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 400 - Table 3
+Seat 1: CLS (500) - sitting out
+Seat 3: bspus (500)
+Seat 4: betong (500)
+Seat 6: pokertron (500)
+CLS has the dealer button
+bspus posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [4 players]
+pokertron raises to 175
+CLS folds
+bspus folds
+betong folds
+pokertron refunded 125
+pokertron wins Pot (125)
+** Deck ** [6c 3s Ts 8d 8c Qd 3h Kh 9h 5s Qh Kd Qc 4h Qs 5d]
+
+Hand #47870-2 - 2017-05-20 05:01:19
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 400 - Table 3
+Seat 1: CLS (500) - sitting out
+Seat 3: bspus (475)
+Seat 4: betong (450)
+Seat 6: pokertron (575)
+bspus has the dealer button
+betong posts small blind 25
+pokertron posts big blind 50
+** Hole Cards ** [4 players]
+CLS folds
+hotpot moved from Table 1
+whynot moved from Table 1
+bspus folds
+betong folds
+pokertron refunded 25
+pokertron wins Pot (50)
+** Deck ** [8c 4h 6s Td 2c Kh As 7d 5h 8d Qd Js 7s 7c 9h 7h]
+
+Hand #47873-3 - 2017-05-20 05:01:40
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 400 - Table 3
+Seat 1: CLS (500) - sitting out
+Seat 2: hotpot (500) - sitting out
+Seat 3: bspus (475)
+Seat 4: betong (425)
+Seat 5: whynot (1500)
+Seat 6: pokertron (600)
+betong has the dealer button
+whynot plays after the button
+pokertron posts small blind 25
+CLS posts big blind 50
+** Hole Cards ** [5 players]
+hotpot folds
+bspus raises to 100
+betong raises to 375
+pokertron folds
+CLS folds
+bspus raises to 475 (All-in)
+betong calls 50 (All-in)
+bspus refunded 50
+** Flop ** [3d 9s Tc]
+** Turn ** [Qh]
+** River ** [Jc]
+** Pot Show Down ** [3d 9s Tc Qh Jc]
+bspus shows [5h 3c Th 5c] (Hi: Two Pair, Tens and Threes +Q  Lo: None)
+betong shows [2s 4s 4d Ks] (Hi: a Pair of Fours +QJT  Lo: None)
+bspus wins Pot (925) with Two Pair
+No low hand qualified
+betong finishes tournament in place #11
+** Deck ** [Qc Ad 8s 5h 2s 2c 6s Ah 3c 4s 5s Kh Kc Th 4d 8c 8h 2h 5c Ks 3d 9s Tc Qh Jc]
+
+Hand #47875-4 - 2017-05-20 05:02:19
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 400 - Table 3
+Seat 1: CLS (450) - sitting out
+Seat 2: hotpot (500) - sitting out
+Seat 3: bspus (975)
+Seat 5: whynot (1500)
+Seat 6: pokertron (575)
+pokertron has the dealer button
+CLS posts small blind 25
+hotpot posts big blind 50
+** Hole Cards ** [5 players]
+bspus calls 50
+whynot folds
+pokertron calls 50
+CLS folds
+hotpot folds
+** Flop ** [3s Tc 2h]
+bspus checks
+pokertron checks
+** Turn ** [Th]
+bspus checks
+pokertron checks
+** River ** [6s]
+bspus bets 100
+pokertron calls 100
+** Pot Show Down ** [3s Tc 2h Th 6s]
+bspus shows [6c 4h 5s Ah] (Hi: a Straight, Deuce to Six  Lo: 6432A)
+pokertron shows [3h 6h 8h 7d] (Hi: Two Pair, Tens and Sixes +8  Lo: 87632)
+bspus wins Hi Pot (188) with a Straight
+bspus wins Lo Pot (187) with 6432A
+** Deck ** [Qh 9s 6c 6d 3h Kd 5h 4h 8c 6h 8s Ad 5s Kh 8h Ks 9c Ah 4c 7d 3s Tc 2h Th 6s]
+
+Hand #47877-5 - 2017-05-20 05:03:06
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 400 - Table 3
+Seat 1: CLS (425) - sitting out
+Seat 2: hotpot (450) - sitting out
+Seat 3: bspus (1200)
+Seat 5: whynot (1500)
+Seat 6: pokertron (425)
+CLS has the dealer button
+hotpot posts small blind 25
+bspus posts big blind 50
+** Hole Cards ** [5 players]
+whynot folds
+pokertron calls 50
+CLS folds
+hotpot folds
+bspus checks
+** Flop ** [5s Ad Jh]
+bspus checks
+pokertron checks
+** Turn ** [4c]
+bspus checks
+pokertron bets 50
+bspus calls 50
+** River ** [2h]
+bspus checks
+pokertron checks
+** Pot Show Down ** [5s Ad Jh 4c 2h]
+bspus shows [Qc 7d As Qs] (Hi: a Pair of Aces +QJ5  Lo: 7542A)
+pokertron shows [Ks 6c 4h 4d] (Hi: Three of a Kind, Fours +AJ  Lo: 6542A)
+pokertron wins Hi Pot (113) with Three of a Kind
+pokertron wins Lo Pot (112) with 6542A
+** Deck ** [8h Qc 3s Ks 8c Kc 7d 6d 6c Th 3d As 9c 4h Tc Ah Qs 6s 4d Td 5s Ad Jh 4c 2h]
+
+Hand #47878-6 - 2017-05-20 05:03:59
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 400 - Table 3
+Seat 1: CLS (425) - sitting out
+Seat 2: hotpot (425) - sitting out
+Seat 3: bspus (1100)
+Seat 5: whynot (1500)
+Seat 6: pokertron (550)
+hotpot has the dealer button
+bspus posts small blind 50
+whynot posts big blind 100
+** Hole Cards ** [5 players]
+pokertron calls 100
+CLS folds
+hotpot folds
+bspus calls 50
+whynot checks
+** Flop ** [3s 5s 2d]
+bspus checks
+whynot checks
+pokertron bets 100
+bspus calls 100
+whynot calls 100
+** Turn ** [5h]
+bspus checks
+whynot checks
+pokertron bets 350 (All-in)
+bspus calls 350
+whynot raises to 1300 (All-in)
+bspus calls 550 (All-in)
+whynot refunded 400
+** River ** [Th]
+** Side Pot 1 Show Down ** [3s 5s 2d 5h Th]
+bspus shows [2s 8h Kh 6c] (Hi: Two Pair, Fives and Deuces +K  Lo: 86532)
+whynot shows [Jd 5c 2h Tc] (Hi: a Full House, Fives full of Tens  Lo: None)
+whynot wins Hi Side Pot 1 (550) with a Full House
+bspus wins Lo Side Pot 1 (550) with 86532
+** Main Pot Show Down ** [3s 5s 2d 5h Th]
+pokertron shows [6s 4s As 9d] (Hi: a Straight, Deuce to Six  Lo: 5432A)
+whynot wins Hi Main Pot (825) with a Full House
+pokertron wins Lo Main Pot (825) with 5432A
+** Deck ** [2s Jd 6s Ad Js 8h 5c 4s Ks 6d Kh 2h As 9h 3c 6c Tc 9d Kd 2c 3s 5s 2d 5h Th]
+
+Hand #47881-7 - 2017-05-20 05:05:15
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 400 - Table 3
+Seat 1: CLS (425) - sitting out
+Seat 2: hotpot (425) - sitting out
+Seat 3: bspus (550)
+Seat 5: whynot (1775)
+Seat 6: pokertron (825)
+bspus has the dealer button
+whynot posts small blind 50
+pokertron posts big blind 100
+** Hole Cards ** [5 players]
+CLS folds
+hotpot folds
+bspus raises to 200
+whynot folds
+pokertron calls 100
+** Flop ** [8h Js Qc]
+pokertron bets 450
+bspus calls 350 (All-in)
+pokertron refunded 100
+** Turn ** [Ts]
+** River ** [9d]
+** Pot Show Down ** [8h Js Qc Ts 9d]
+bspus shows [3h 5c Ac Th] (Hi: a Pair of Tens +AQJ  Lo: None)
+pokertron shows [7s Qh 6c 2c] (Hi: a Straight, Six to Ten  Lo: None)
+pokertron wins Pot (1150) with a Straight
+No low hand qualified
+Absent player CLS removed from tournament
+Absent player hotpot removed from tournament
+bspus finishes tournament in place #8
+** Deck ** [Jh 7s Td Qd 3h 6s Qh Ad Kd 5c 3s 6c 4d 7h Ac 2d 2c Jd 2h Th 8h Js Qc Ts 9d]
+
+Hand #47882-8 - 2017-05-20 05:05:50
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 400 - Table 3
+Seat 5: whynot (1725)
+Seat 6: pokertron (1425)
+whynot has the dealer button
+whynot posts small blind 50
+pokertron posts big blind 100
+** Hole Cards ** [2 players]
+whynot calls 50
+pokertron checks
+** Flop ** [2h 9d Qs]
+pokertron checks
+whynot checks
+** Turn ** [Qh]
+pokertron checks
+whynot bets 100
+pokertron calls 100
+** River ** [Kh]
+pokertron checks
+whynot checks
+** Pot Show Down ** [2h 9d Qs Qh Kh]
+whynot shows [4h 7c 5s 2s] (Hi: Two Pair, Queens and Deuces +7  Lo: None)
+pokertron shows [Th 6s As 7d] (Hi: a Pair of Queens +AKT  Lo: None)
+whynot wins Pot (400) with Two Pair
+No low hand qualified
+** Deck ** [Th 4h 6s 7c As 5s 7d 2s 2h 9d Qs Qh Kh]
+
+whynot moved to Table 2
+
+pokertron moved to Table 2
+

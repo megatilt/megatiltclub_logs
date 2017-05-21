@@ -1,0 +1,1511 @@
+﻿Starting tournament 1179
+
+Hand #41732-1 - 2017-05-17 00:00:43
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (500) - sitting out
+Seat 3: trixter (500)
+Seat 4: Byteball (500) - sitting out
+Seat 5: causestud (500) - sitting out
+Seat 6: Jessica (500)
+CLS has the dealer button
+trixter posts small blind 25
+Byteball posts big blind 50
+** Hole Cards ** [5 players]
+causestud folds
+Jessica folds
+CLS folds
+trixter calls 25
+Byteball folds
+trixter wins Pot (100)
+** Deck ** [7s 6c 2c 9s Tc Th Ah Td 6d 5c 4d 9c 3s Jd 7d 8d Jh Ad Kc 8c]
+
+Hand #41736-2 - 2017-05-17 00:01:02
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (500) - sitting out
+Seat 3: trixter (550)
+Seat 4: Byteball (450)
+Seat 5: causestud (500)
+Seat 6: Jessica (500)
+trixter has the dealer button
+Byteball posts small blind 25
+causestud posts big blind 50
+** Hole Cards ** [5 players]
+Jessica calls 50
+CLS folds
+trixter calls 50
+Byteball calls 25
+causestud raises to 250
+Jessica folds
+trixter calls 200
+Byteball calls 200
+** Flop ** [6c 9c Ks]
+Byteball checks
+causestud bets 250 (All-in)
+trixter folds
+Byteball calls 200 (All-in)
+causestud refunded 50
+** Turn ** [8h]
+** River ** [Jd]
+** Pot Show Down ** [6c 9c Ks 8h Jd]
+Byteball shows [Qd 6s Ts Ah] (a Straight, Nine to King)
+causestud shows [Jh 3c 5s 5h] (a Pair of Jacks +K95)
+Byteball wins Pot (1200) with a Straight
+** Deck ** [Qd Jh 3d 5d 6d 6s 3c Th Kc 4d Ts 5s 6h 8c As Ah 5h 3s 4h 7s 6c 9c Ks 8h Jd]
+
+Hand #41739-3 - 2017-05-17 00:02:06
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (500) - sitting out
+Seat 3: trixter (300)
+Seat 4: Byteball (1200)
+Seat 5: causestud (50)
+Seat 6: Jessica (450)
+Byteball has the dealer button
+causestud posts small blind 25
+Jessica posts big blind 50
+** Hole Cards ** [5 players]
+Jessica: "nh"
+CLS folds
+trixter folds
+Byteball raises to 175
+causestud has timed out
+causestud folds
+Jessica calls 125
+** Flop ** [2d Ac Qc]
+Jessica checks
+Byteball bets 375
+Jessica folds
+Byteball refunded 375
+Byteball wins Pot (375)
+** Deck ** [4d 7h Jh 6h Kc 9h Jd 3h 5d 2h Ad 7c 5h 7s 3c 4s 3d 2c Td Kd 2d Ac Qc]
+
+Hand #41742-4 - 2017-05-17 00:03:06
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (500)
+Seat 3: trixter (300)
+Seat 4: Byteball (1400)
+Seat 5: causestud (25) - sitting out
+Seat 6: Jessica (275)
+causestud has the dealer button
+Jessica posts small blind 25
+CLS posts big blind 50
+** Hole Cards ** [5 players]
+trixter calls 50
+Byteball folds
+causestud folds
+Jessica raises to 200
+CLS folds
+trixter raises to 300 (All-in)
+Jessica calls 75 (All-in)
+trixter refunded 25
+** Flop ** [7d Qh 5d]
+** Turn ** [Ad]
+** River ** [2d]
+** Pot Show Down ** [7d Qh 5d Ad 2d]
+trixter shows [Jd Jc Kh 5h] (a Pair of Jacks +AQ7)
+Jessica shows [3s Kc 4c Ac] (a Straight, Ace to Five)
+Jessica wins Pot (600) with a Straight
+** Deck ** [3s 4h Jd 8d 3c Kc 9d Jc Ks Js 4c 2s Kh 6s 8h Ac Qd 5h 4s 8s 7d Qh 5d Ad 2d]
+
+Hand #41744-5 - 2017-05-17 00:03:45
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (450)
+Seat 3: trixter (25)
+Seat 4: Byteball (1400)
+Seat 5: causestud (25) - sitting out
+Seat 6: Jessica (600)
+Jessica has the dealer button
+CLS posts small blind 50
+trixter posts big blind 25 (All-in)
+** Hole Cards ** [5 players]
+Byteball folds
+causestud folds
+Jessica calls 100
+CLS calls 50
+** Flop ** [Ah 2s 6h]
+CLS checks
+Jessica checks
+** Turn ** [9h]
+CLS checks
+Jessica checks
+** River ** [Ac]
+CLS bets 225
+Jessica folds
+CLS refunded 225
+CLS wins Side Pot 1 (150)
+** Main Pot Show Down ** [Ah 2s 6h 9h Ac]
+CLS shows [Tc Jd 3s Qh] (a Pair of Aces +QJ9)
+trixter shows [Js 3c 5c 8h] (a Pair of Aces +J98)
+CLS wins Main Pot (75) with a Pair
+trixter finishes tournament in place #15
+** Deck ** [Tc Js 2h 5h 4c Jd 3c Jc 7c 4h 3s 5c 7s 8c Ts Qh 8h Td 9d 9c Ah 2s 6h 9h Ac]
+
+Hand #41750-6 - 2017-05-17 00:04:42
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (575)
+Seat 4: Byteball (1400)
+Seat 5: causestud (25) - sitting out
+Seat 6: Jessica (500)
+CLS has the dealer button
+Byteball posts small blind 50
+causestud posts big blind 25 (All-in)
+** Hole Cards ** [4 players]
+Jessica folds
+CLS folds
+causestud folds
+Byteball refunded 25
+Byteball wins Pot (50)
+causestud finishes tournament in place #14
+** Deck ** [Tc 9h Ks 4h 8h Kc 5d Kh Qs 8d Ts 6c 7c 7s 9d Td]
+
+Hand #41753-7 - 2017-05-17 00:05:32
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (575)
+Seat 4: Byteball (1425)
+Seat 6: Jessica (500)
+Byteball has the dealer button
+Jessica posts small blind 50
+CLS posts big blind 100
+** Hole Cards ** [3 players]
+Byteball folds
+Jessica calls 50
+whynot moved from Table 1
+CoinDoctor moved from Table 1
+CLS checks
+** Flop ** [Tc 5s 6s]
+Jessica checks
+CLS bets 200
+Jessica folds
+CLS refunded 200
+CLS wins Pot (200)
+** Deck ** [6c Ah 2s 3c 9s 3s Qh 8c 9d 8d 7h 2c Tc 5s 6s]
+
+Byteball moved to Table 2
+
+Hand #41755-8 - 2017-05-17 00:06:17
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: CoinDoctor (1375)
+Seat 2: CLS (675)
+Seat 5: whynot (1025)
+Seat 6: Jessica (400)
+Jessica has the dealer button
+CoinDoctor plays after the button
+CLS posts small blind 50
+whynot posts big blind 100
+** Hole Cards ** [3 players]
+Jessica raises to 350
+CLS folds
+whynot calls 250
+** Flop ** [7h Ah 6h]
+whynot checks
+Jessica bets 50 (All-in)
+whynot calls 50
+** Turn ** [2d]
+** River ** [Qs]
+** Pot Show Down ** [7h Ah 6h 2d Qs]
+whynot shows [9s 3s Kh Ad] (a Pair of Aces +KQ7)
+Jessica shows [4h Qd Td Qc] (Three of a Kind, Queens +A7)
+Jessica wins Pot (850) with Three of a Kind
+** Deck ** [8h 9s 4h Ts 3s Qd Jc Kh Td Js Ad Qc 7h Ah 6h 2d Qs]
+
+Hand #41757-9 - 2017-05-17 00:06:57
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: CoinDoctor (1375)
+Seat 2: CLS (625)
+Seat 5: whynot (625)
+Seat 6: Jessica (850)
+CLS has the dealer button
+whynot posts small blind 75
+Jessica posts big blind 150
+** Hole Cards ** [4 players]
+CoinDoctor folds
+CLS calls 150
+whynot raises to 600
+Jessica folds
+CLS raises to 625 (All-in)
+whynot calls 25 (All-in)
+** Flop ** [Jh 9d 3h]
+** Turn ** [Tc]
+** River ** [Ad]
+** Pot Show Down ** [Jh 9d 3h Tc Ad]
+CLS shows [5s Qs 9s Qh] (a Pair of Queens +AJT)
+whynot shows [6d Kh Jd 4c] (a Pair of Jacks +AKT)
+CLS wins Pot (1400) with a Pair
+whynot finishes tournament in place #7
+** Deck ** [6d 6c 6s 5s Kh 9c 2c Qs Jd 4h Jc 9s 4c 2d 5d Qh Jh 9d 3h Tc Ad]
+
+CoinDoctor moved to Table 2
+
+CLS moved to Table 2
+
+Jessica moved to Table 2
+
+Starting tournament 1183
+
+Hand #42132-1 - 2017-05-17 04:00:43
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (500)
+Seat 2: Byteball (500) - sitting out
+Seat 3: andante (500) - sitting out
+Seat 5: Protek (500) - sitting out
+Seat 6: Ruphus (500)
+pokertron has the dealer button
+Byteball posts small blind 25
+andante posts big blind 50
+** Hole Cards ** [5 players]
+Protek folds
+Ruphus calls 50
+pokertron calls 50
+Byteball folds
+andante folds
+** Flop ** [9h 4d 4s]
+Ruphus bets 100
+pokertron folds
+Ruphus refunded 100
+Ruphus wins Pot (175)
+** Deck ** [Qd 2c Tc Kd Qh 3d 4c 9c 9d 5c Jc 9s 7d 7s 3c Th Jh 8s 5s 8h 9h 4d 4s]
+
+Hand #42138-2 - 2017-05-17 04:01:42
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (450)
+Seat 2: Byteball (475) - sitting out
+Seat 3: andante (450) - sitting out
+Seat 5: Protek (500) - sitting out
+Seat 6: Ruphus (625)
+Byteball has the dealer button
+andante posts small blind 25
+Protek posts big blind 50
+** Hole Cards ** [5 players]
+Ruphus folds
+pokertron calls 50
+Byteball folds
+andante folds
+Protek folds
+pokertron wins Pot (125)
+** Deck ** [5h 7h As Ts 3h Qc Kc 8d 6d 5s 4d Td Qh Ad 5c 4c Js 8c 7s Jh]
+
+Hand #42140-3 - 2017-05-17 04:01:58
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (525)
+Seat 2: Byteball (475) - sitting out
+Seat 3: andante (425) - sitting out
+Seat 5: Protek (450) - sitting out
+Seat 6: Ruphus (625)
+andante has the dealer button
+Protek posts small blind 25
+Ruphus posts big blind 50
+** Hole Cards ** [5 players]
+pokertron raises to 175
+Byteball folds
+andante folds
+Protek folds
+Ruphus calls 125
+** Flop ** [9s 5h Ac]
+Ruphus checks
+pokertron bets 350 (All-in)
+Ruphus folds
+pokertron refunded 350
+pokertron wins Pot (375)
+** Deck ** [Jh 5s Ts 6c Qd 3h 3c Jc 6s Jd 3d 3s Ah 9d 8c 2s Kd Th 5c 6h 9s 5h Ac]
+
+Hand #42145-4 - 2017-05-17 04:02:31
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (725)
+Seat 2: Byteball (475) - sitting out
+Seat 3: andante (425) - sitting out
+Seat 5: Protek (425) - sitting out
+Seat 6: Ruphus (450)
+Protek has the dealer button
+Ruphus posts small blind 25
+pokertron posts big blind 50
+** Hole Cards ** [5 players]
+Byteball folds
+andante folds
+Protek folds
+causestud moved from Table 1
+Ruphus calls 25
+pokertron checks
+** Flop ** [6s Ts 5h]
+Ruphus bets 50
+pokertron raises to 250
+Ruphus calls 200
+** Turn ** [Ks]
+Ruphus bets 150 (All-in)
+pokertron calls 150
+** River ** [2s]
+** Pot Show Down ** [6s Ts 5h Ks 2s]
+pokertron shows [6d Ad Kd 5c] (Two Pair, Kings and Sixes +T)
+Ruphus shows [8h 9h Jc 8s] (a Pair of Eights +KT6)
+pokertron wins Pot (900) with Two Pair
+Ruphus finishes tournament in place #12
+** Deck ** [8h 6d 7h Kh 8d 9h Ad 4s Td 6c Jc Kd 3h Th Qc 8s 5c 6h 2c 9c 6s Ts 5h Ks 2s]
+
+Hand #42148-5 - 2017-05-17 04:03:32
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (1175)
+Seat 2: Byteball (475) - sitting out
+Seat 3: andante (425) - sitting out
+Seat 4: causestud (425) - sitting out
+Seat 5: Protek (425) - sitting out
+pokertron has the dealer button
+Byteball posts small blind 25
+andante posts big blind 50
+** Hole Cards ** [5 players]
+causestud folds
+Protek folds
+pokertron raises to 100
+Byteball folds
+andante folds
+pokertron refunded 50
+pokertron wins Pot (125)
+** Deck ** [7s 7d 4d 2h 5d Qc 8d Qh Kh 8c Jh 2s 3s 6h Qs 4h 4c 6d Js 7h]
+
+Hand #42149-6 - 2017-05-17 04:03:44
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (1250)
+Seat 2: Byteball (450) - sitting out
+Seat 3: andante (375) - sitting out
+Seat 4: causestud (425) - sitting out
+Seat 5: Protek (425) - sitting out
+Byteball has the dealer button
+andante posts small blind 50
+causestud posts big blind 100
+** Hole Cards ** [5 players]
+Protek folds
+pokertron calls 100
+Byteball folds
+andante folds
+causestud folds
+pokertron wins Pot (250)
+** Deck ** [Jd Qs 9d 5h 2d 4c 8c 6s 2h Qh Jc Ah 5c 2s 5d 4d Th Jh 3h 6h]
+
+Hand #42150-7 - 2017-05-17 04:03:55
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (1400)
+Seat 2: Byteball (450) - sitting out
+Seat 3: andante (325) - sitting out
+Seat 4: causestud (325) - sitting out
+Seat 5: Protek (425) - sitting out
+andante has the dealer button
+causestud posts small blind 50
+Protek posts big blind 100
+** Hole Cards ** [5 players]
+pokertron calls 100
+Byteball folds
+andante folds
+causestud folds
+Protek folds
+pokertron wins Pot (250)
+** Deck ** [7h 2c 4c 5c 7s Jd 7c 7d Ad 8h Qs Qh 9d As Th 2d 6s 3d 2s 3h]
+
+Hand #42152-8 - 2017-05-17 04:04:04
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (1550)
+Seat 2: Byteball (450) - sitting out
+Seat 3: andante (325) - sitting out
+Seat 4: causestud (275) - sitting out
+Seat 5: Protek (325) - sitting out
+causestud has the dealer button
+Protek posts small blind 50
+pokertron posts big blind 100
+** Hole Cards ** [5 players]
+Byteball folds
+andante folds
+causestud folds
+Protek folds
+pokertron refunded 50
+pokertron wins Pot (100)
+** Deck ** [Kh 4h 4d 5s 2c 9h Js 5c Tc Td 3d As 8c Ks Ah 3c 7d Ac 3s 2h]
+
+Hand #42153-9 - 2017-05-17 04:04:12
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (1600)
+Seat 2: Byteball (450) - sitting out
+Seat 3: andante (325) - sitting out
+Seat 4: causestud (275) - sitting out
+Seat 5: Protek (275) - sitting out
+Protek has the dealer button
+pokertron posts small blind 50
+Byteball posts big blind 100
+** Hole Cards ** [5 players]
+andante folds
+causestud folds
+Protek folds
+pokertron calls 50
+Byteball folds
+pokertron wins Pot (200)
+** Deck ** [3s 7c 2d Ah 3c Qh Qd 7s Js 4d 7d 5c 4h 2h 8s 4s 7h As Ts Td]
+
+Hand #42154-10 - 2017-05-17 04:04:22
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (1700)
+Seat 2: Byteball (350) - sitting out
+Seat 3: andante (325) - sitting out
+Seat 4: causestud (275) - sitting out
+Seat 5: Protek (275) - sitting out
+pokertron has the dealer button
+Byteball posts small blind 50
+andante posts big blind 100
+** Hole Cards ** [5 players]
+causestud folds
+Protek folds
+pokertron calls 100
+Byteball folds
+andante folds
+pokertron wins Pot (250)
+** Deck ** [3d 5s 7d 5d 8c 3c 8s 2s Qd Ks Kh Jd Td 7s 9d Qc 2h Ad Qs 6h]
+
+Hand #42155-11 - 2017-05-17 04:04:32
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (1850)
+Seat 2: Byteball (300) - sitting out
+Seat 3: andante (225) - sitting out
+Seat 4: causestud (275) - sitting out
+Seat 5: Protek (275) - sitting out
+Byteball has the dealer button
+andante posts small blind 50
+causestud posts big blind 100
+** Hole Cards ** [5 players]
+Protek folds
+pokertron calls 100
+Byteball folds
+andante folds
+causestud folds
+pokertron wins Pot (250)
+** Deck ** [Qs 2s Ts 5s 2c 8h 4s Qh 3c 2h Qc Ks Kd Ad 8s 2d Kh 3s Th Js]
+
+Hand #42156-12 - 2017-05-17 04:04:44
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (2000)
+Seat 2: Byteball (300) - sitting out
+Seat 3: andante (175) - sitting out
+Seat 4: causestud (175) - sitting out
+Seat 5: Protek (275) - sitting out
+andante has the dealer button
+causestud posts small blind 50
+Protek posts big blind 100
+** Hole Cards ** [5 players]
+pokertron calls 100
+Byteball folds
+andante folds
+causestud folds
+Protek folds
+pokertron wins Pot (250)
+** Deck ** [9s 3h 3d Kc Qh Qc 2c 4d 7s 6d 7d 6h Jd 9h 9c Qs 2s 3c Js 9d]
+
+Hand #42157-13 - 2017-05-17 04:04:54
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (2150)
+Seat 2: Byteball (300) - sitting out
+Seat 3: andante (175) - sitting out
+Seat 4: causestud (125) - sitting out
+Seat 5: Protek (175) - sitting out
+causestud has the dealer button
+Protek posts small blind 50
+pokertron posts big blind 100
+** Hole Cards ** [5 players]
+Byteball folds
+andante folds
+causestud folds
+Protek folds
+pokertron refunded 50
+pokertron wins Pot (100)
+** Deck ** [3h 8d 4d Qc 3s Kh 2c Ac As Kc Ks Jh Jd 6d 2h 5h 7d Ts Qs 3d]
+
+Hand #42158-14 - 2017-05-17 04:05:02
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (2200)
+Seat 2: Byteball (300) - sitting out
+Seat 3: andante (175) - sitting out
+Seat 4: causestud (125) - sitting out
+Seat 5: Protek (125) - sitting out
+Protek has the dealer button
+pokertron posts small blind 50
+Byteball posts big blind 100
+** Hole Cards ** [5 players]
+andante folds
+causestud folds
+Protek folds
+pokertron raises to 200
+Byteball folds
+pokertron refunded 100
+pokertron wins Pot (200)
+** Deck ** [3c 9h Kh 3d 6d Jd Qh 7d 9c 4h Ks Qd 3s Ts 6s 4c 2d 4d 8c 6h]
+
+Hand #42160-15 - 2017-05-17 04:05:13
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (2300)
+Seat 2: Byteball (200) - sitting out
+Seat 3: andante (175) - sitting out
+Seat 4: causestud (125) - sitting out
+Seat 5: Protek (125) - sitting out
+pokertron has the dealer button
+Byteball posts small blind 50
+andante posts big blind 100
+** Hole Cards ** [5 players]
+causestud folds
+Protek folds
+pokertron raises to 200
+Byteball folds
+andante folds
+pokertron refunded 100
+pokertron wins Pot (250)
+** Deck ** [Js Td Ac Ts Kc Ah 7h 6d 4d 6c 3d 9c 8d 2c Qc 5c Qh 8h Jd 9s]
+
+Hand #42161-16 - 2017-05-17 04:05:22
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (2450)
+Seat 2: Byteball (150) - sitting out
+Seat 3: andante (75) - sitting out
+Seat 4: causestud (125) - sitting out
+Seat 5: Protek (125) - sitting out
+Byteball has the dealer button
+andante posts small blind 50
+causestud posts big blind 100
+** Hole Cards ** [5 players]
+Protek folds
+pokertron raises to 200
+Byteball folds
+andante folds
+causestud folds
+pokertron refunded 100
+pokertron wins Pot (250)
+** Deck ** [9h 4h Ac 4c 4d 5h 8c Qd 3c 6s Ts 3s 6d 3h Kd Ad Kc 9d 7s 9s]
+
+Hand #42163-17 - 2017-05-17 04:05:32
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (2600)
+Seat 2: Byteball (150) - sitting out
+Seat 3: andante (25) - sitting out
+Seat 4: causestud (25) - sitting out
+Seat 5: Protek (125) - sitting out
+andante has the dealer button
+causestud posts small blind 25 (All-in)
+Protek posts big blind 100
+** Hole Cards ** [5 players]
+pokertron raises to 200
+Byteball folds
+andante folds
+causestud folds
+Protek folds
+pokertron refunded 100
+pokertron wins Pot (225)
+causestud finishes tournament in place #11
+** Deck ** [Jd Js 4h 6h 8d 2d Qs 8c Tc 3d Qc Ts 7s Qd 8s Kc 6c 7c 2s Ah]
+
+Hand #42164-18 - 2017-05-17 04:05:42
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: pokertron (2725)
+Seat 2: Byteball (150) - sitting out
+Seat 3: andante (25) - sitting out
+Seat 5: Protek (25) - sitting out
+Protek has the dealer button
+pokertron posts small blind 50
+Byteball posts big blind 100
+** Hole Cards ** [4 players]
+andante folds
+Protek folds
+pokertron raises to 200
+Byteball folds
+pokertron refunded 100
+pokertron wins Pot (200)
+Absent player Byteball removed from tournament
+Absent player andante removed from tournament
+Absent player Protek removed from tournament
+** Deck ** [Js 4h 4d Jd 2c 9c 5c Ks 5h Td 4s 3d 7s 3h 4c 2h]
+
+pokertron moved to Table 2
+
+Starting tournament 1187
+
+Hand #42432-1 - 2017-05-17 08:00:42
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: trixter (500) - sitting out
+Seat 2: Jessica (500)
+Seat 3: triat (500)
+Seat 4: betong (500) - sitting out
+Seat 6: CoinDoctor (500)
+trixter has the dealer button
+Jessica posts small blind 25
+triat posts big blind 50
+** Hole Cards ** [5 players]
+betong folds
+CoinDoctor folds
+trixter folds
+Jessica calls 25
+triat checks
+** Flop ** [7s Jh 6h]
+Jessica checks
+triat checks
+** Turn ** [7d]
+Jessica checks
+triat bets 50
+Jessica folds
+triat refunded 50
+triat wins Pot (100)
+** Deck ** [Qh 7h Kh 3s 8s Ts 3d Kd 2c 9c 3h 5s 5h 3c 2d 8d Qs 8c Js Td 7s Jh 6h 7d]
+
+Hand #42435-2 - 2017-05-17 08:01:34
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: trixter (500) - sitting out
+Seat 2: Jessica (450)
+Seat 3: triat (550)
+Seat 4: betong (500)
+Seat 6: CoinDoctor (500)
+Jessica has the dealer button
+triat posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [5 players]
+CoinDoctor folds
+trixter folds
+Jessica raises to 175
+triat folds
+betong folds
+Jessica refunded 125
+Jessica wins Pot (125)
+** Deck ** [4c 3h 8d 2d 2s Ts Qc Kd Jh Kc 4d Jd 5c 9d Js 5d 3c 5h 6c Kh]
+
+Hand #42437-3 - 2017-05-17 08:02:23
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: trixter (500) - sitting out
+Seat 2: Jessica (525)
+Seat 3: triat (525)
+Seat 4: betong (450)
+Seat 6: CoinDoctor (500)
+triat has the dealer button
+betong posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [5 players]
+trixter folds
+Jessica calls 50
+triat folds
+betong folds
+CoinDoctor checks
+** Flop ** [Ac Qh 5c]
+CoinDoctor checks
+Jessica checks
+** Turn ** [6h]
+CoinDoctor checks
+Jessica checks
+** River ** [6s]
+CoinDoctor checks
+Jessica checks
+** Pot Show Down ** [Ac Qh 5c 6h 6s]
+Jessica shows [9s 4c 8c As] (Two Pair, Aces and Sixes +9)
+CoinDoctor shows [Jh 2s Kh 7c] (a Pair of Sixes +AKJ)
+Jessica wins Pot (125) with Two Pair
+** Deck ** [9d Jh Jd 9s 2h 3d 2s Ks 4c 9c 3s Kh 4s 8c Js 4d 7c 8h As Kc Ac Qh 5c 6h 6s]
+
+Hand #42444-4 - 2017-05-17 08:03:10
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: trixter (500) - sitting out
+Seat 2: Jessica (600)
+Seat 3: triat (525)
+Seat 4: betong (425)
+Seat 6: CoinDoctor (450)
+betong has the dealer button
+CoinDoctor posts small blind 25
+trixter posts big blind 50
+** Hole Cards ** [5 players]
+Jessica folds
+triat calls 50
+betong raises to 225
+CoinDoctor folds
+trixter folds
+triat calls 175
+** Flop ** [6s 4d Th]
+triat checks
+betong bets 200 (All-in)
+triat calls 200
+** Turn ** [Ks]
+** River ** [Ts]
+** Pot Show Down ** [6s 4d Th Ks Ts]
+triat shows [Td 5s 8h Qh] (Three of a Kind, Tens +KQ)
+betong shows [2d 9s Kc Kd] (a Full House, Kings full of Tens)
+betong wins Pot (925) with a Full House
+** Deck ** [Ac 7d 6c Td 2d 9c 2h 5c 5s 9s Jh Qs Js 8h Kc 6h Jd Qd Qh Kd 6s 4d Th Ks Ts]
+
+Hand #42451-5 - 2017-05-17 08:04:02
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: trixter (450) - sitting out
+Seat 2: Jessica (600)
+Seat 3: triat (100)
+Seat 4: betong (925)
+Seat 6: CoinDoctor (425)
+CoinDoctor has the dealer button
+trixter posts small blind 50
+Jessica posts big blind 100
+** Hole Cards ** [5 players]
+triat calls 100 (All-in)
+betong calls 100
+CoinDoctor folds
+trixter folds
+Jessica checks
+** Flop ** [4h Jh Td]
+Jessica checks
+betong bets 100
+Jessica calls 100
+** Turn ** [8s]
+Jessica bets 400 (All-in)
+betong calls 400
+** River ** [Kd]
+** Side Pot 1 Show Down ** [4h Jh Td 8s Kd]
+Jessica shows [2d 7s 9c Qc] (a Straight, Nine to King)
+betong shows [Ts 5s 8c 8d] (Three of a Kind, Eights +KJ)
+Jessica wins Side Pot 1 (1000) with a Straight
+** Main Pot Show Down ** [4h Jh Td 8s Kd]
+triat shows [4s 3s 7h 6d] (a Pair of Fours +KJ7)
+Jessica wins Main Pot (350) with a Straight
+triat finishes tournament in place #14
+** Deck ** [Ks 2d 4s Ts 5h Jd 7s 3s 5s 4c Js 9c 7h 8c Qh 3c Qc 6d 8d 3h 4h Jh Td 8s Kd]
+
+Hand #42462-6 - 2017-05-17 08:05:09
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: trixter (400)
+Seat 2: Jessica (1350)
+Seat 4: betong (325)
+Seat 6: CoinDoctor (425)
+trixter has the dealer button
+Jessica posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [4 players]
+gimmemoney moved from Table 2
+Drawingdead moved from Table 2
+CoinDoctor folds
+trixter folds
+Jessica calls 50
+betong raises to 300
+Jessica calls 200
+** Flop ** [Jh 5d 9h]
+Jessica checks
+betong bets 25 (All-in)
+Jessica calls 25
+** Turn ** [5h]
+** River ** [Qs]
+** Pot Show Down ** [Jh 5d 9h 5h Qs]
+Jessica shows [7c Ts 9d Tc] (Two Pair, Tens and Fives +Q)
+betong shows [Td 2c 4s 6c] (a Pair of Fives +QT6)
+Jessica wins Pot (650) with Two Pair
+Absent player gimmemoney removed from tournament
+Absent player Drawingdead removed from tournament
+betong finishes tournament in place #8
+** Deck ** [7c Td 2h 8c Ts 2c 6h Ah 9d 4s 8s Js Tc 6c Qd 4c Jh 5d 9h 5h Qs]
+
+Hand #42464-7 - 2017-05-17 08:06:21
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: trixter (400)
+Seat 2: Jessica (1675)
+Seat 6: CoinDoctor (425)
+Jessica has the dealer button
+CoinDoctor posts small blind 50
+trixter posts big blind 100
+** Hole Cards ** [3 players]
+Jessica folds
+CoinDoctor calls 50
+trixter raises to 300
+CoinDoctor calls 200
+** Flop ** [4d Ks 8c]
+CoinDoctor checks
+trixter bets 100 (All-in)
+CoinDoctor folds
+trixter refunded 100
+trixter wins Pot (600)
+** Deck ** [6d 9s 2c 6h Ad Td 5c 5d 7d 9h As 8h 4d Ks 8c]
+
+Hand #42465-8 - 2017-05-17 08:07:13
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: trixter (700)
+Seat 2: Jessica (1675)
+Seat 6: CoinDoctor (125)
+CoinDoctor has the dealer button
+trixter posts small blind 75
+Jessica posts big blind 150
+** Hole Cards ** [3 players]
+CoinDoctor calls 125 (All-in)
+trixter calls 75
+Jessica checks
+** Flop ** [Tc 9d 8h]
+trixter checks
+Jessica checks
+** Turn ** [Ac]
+trixter checks
+Jessica checks
+** River ** [5s]
+trixter checks
+Jessica checks
+** Side Pot 1 Show Down ** [Tc 9d 8h Ac 5s]
+trixter shows [Ks Qs 3s Th] (a Pair of Tens +AK9)
+Jessica shows [2s 3d Ts 7s] (a Pair of Tens +A97)
+trixter wins Side Pot 1 (50) with a Pair
+** Main Pot Show Down ** [Tc 9d 8h Ac 5s]
+CoinDoctor shows [5c As 5h 6d] (Three of a Kind, Fives +AT)
+CoinDoctor wins Main Pot (375) with Three of a Kind
+** Deck ** [Ks 2s 5c Qs 3d As 3s Ts 5h Th 7s 6d Tc 9d 8h Ac 5s]
+
+Hand #42468-9 - 2017-05-17 08:08:16
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: trixter (600)
+Seat 2: Jessica (1525)
+Seat 6: CoinDoctor (375)
+trixter has the dealer button
+Jessica posts small blind 75
+CoinDoctor posts big blind 150
+** Hole Cards ** [3 players]
+trixter folds
+Jessica folds
+CoinDoctor refunded 75
+CoinDoctor wins Pot (150)
+** Deck ** [8h 7d 4h 4c 9s 4d Qc 7s Ts 6d 6s Jc]
+
+Hand #42469-10 - 2017-05-17 08:08:31
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: trixter (600)
+Seat 2: Jessica (1450)
+Seat 6: CoinDoctor (450)
+Jessica has the dealer button
+CoinDoctor posts small blind 75
+trixter posts big blind 150
+** Hole Cards ** [3 players]
+Jessica folds
+CoinDoctor calls 75
+trixter checks
+** Flop ** [4d 6d Js]
+CoinDoctor checks
+trixter checks
+** Turn ** [Th]
+CoinDoctor checks
+trixter checks
+** River ** [Qs]
+CoinDoctor checks
+trixter checks
+** Pot Show Down ** [4d 6d Js Th Qs]
+trixter shows [2s 4h 3d 9h] (a Pair of Fours +QJ9)
+CoinDoctor shows [Ah Qh 7s 5c] (a Pair of Queens +AJT)
+CoinDoctor wins Pot (300) with a Pair
+** Deck ** [Ah 2s Kd Qh 4h 8s 7s 3d 3c 5c 9h 5s 4d 6d Js Th Qs]
+
+Hand #42472-11 - 2017-05-17 08:10:08
+Game: PL Omaha (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: trixter (450)
+Seat 2: Jessica (1450)
+Seat 6: CoinDoctor (600)
+CoinDoctor has the dealer button
+trixter posts small blind 100
+Jessica posts big blind 200
+** Hole Cards ** [3 players]
+CoinDoctor folds
+trixter raises to 450 (All-in)
+Jessica folds
+trixter refunded 250
+trixter wins Pot (400)
+** Deck ** [3s 3c 7d 8c 8s 6c 3d 4s Ts Qh As 5c]
+
+CoinDoctor moved to Table 1
+
+trixter moved to Table 1
+
+Jessica moved to Table 1
+
+Starting tournament 1191
+
+Hand #42866-1 - 2017-05-17 12:00:42
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: PhoenixSuns (500) - sitting out
+Seat 2: bspus (500)
+Seat 5: causestud (500) - sitting out
+Seat 6: alf (500) - sitting out
+PhoenixSuns has the dealer button
+bspus posts small blind 25
+causestud posts big blind 50
+** Hole Cards ** [4 players]
+alf folds
+PhoenixSuns folds
+bspus calls 25
+causestud folds
+bspus wins Pot (100)
+** Deck ** [3d Kc 9s 7s 5d Qc 2h 2c Qs Jd 9c 5c 7h 6h 6s 5h]
+
+Hand #42869-2 - 2017-05-17 12:00:52
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: PhoenixSuns (500) - sitting out
+Seat 2: bspus (550)
+Seat 5: causestud (450) - sitting out
+Seat 6: alf (500) - sitting out
+bspus has the dealer button
+causestud posts small blind 25
+alf posts big blind 50
+** Hole Cards ** [4 players]
+PhoenixSuns folds
+bspus calls 50
+causestud folds
+alf folds
+bspus wins Pot (125)
+** Deck ** [Kd 7d 4h 3d 8d 6d 2d 8c 9s 5c 7c 5s Ah 6h Kc 4d]
+
+Hand #42871-3 - 2017-05-17 12:01:01
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: PhoenixSuns (500) - sitting out
+Seat 2: bspus (625)
+Seat 5: causestud (425)
+Seat 6: alf (450) - sitting out
+causestud has the dealer button
+alf posts small blind 25
+PhoenixSuns posts big blind 50
+** Hole Cards ** [4 players]
+bspus calls 50
+causestud raises to 100
+alf folds
+PhoenixSuns raises to 150
+bspus folds
+causestud calls 50
+** Flop ** [3d 8c 7h]
+PhoenixSuns checks
+causestud bets 100
+PhoenixSuns folds
+causestud refunded 100
+causestud wins Pot (375)
+PINGOT moved from Table 2
+IIIOOOIII moved from Table 2
+** Deck ** [Kh 4d 2s 7d As 5h Qd 5d 4c 4h 3h 8s 9c 2c Jc 9s 3d 8c 7h]
+
+Hand #42875-4 - 2017-05-17 12:02:48
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: PhoenixSuns (350)
+Seat 2: bspus (575)
+Seat 3: PINGOT (1625)
+Seat 4: IIIOOOIII (450) - sitting out
+Seat 5: causestud (650)
+Seat 6: alf (425)
+alf has the dealer button
+PhoenixSuns posts small blind 25
+bspus posts big blind 50
+** Hole Cards ** [6 players]
+PINGOT calls 50
+IIIOOOIII folds
+pokertron: "escrow?"
+causestud raises to 150
+alf folds
+PhoenixSuns folds
+bspus calls 100
+PINGOT folds
+** Flop ** [8h 7h Js]
+bspus checks
+causestud bets 250
+bspus raises to 425 (All-in)
+causestud calls 175
+** Turn ** [4d]
+** River ** [5h]
+** Pot Show Down ** [8h 7h Js 4d 5h]
+bspus shows [7d Qh Ts Kh] (a Flush, King high +Q875)
+causestud shows [2d 8d Th Jh] (a Flush, Jack high +T875)
+bspus wins Pot (1225) with a Flush
+** Deck ** [5c 7d 6s 6d 2d 2c Jc Qh Qc Ks 8d 4s 8s Ts 4h Td Th Kd 7s Kh 9c 2s Jh 5d 8h 7h Js 4d 5h]
+
+Hand #42878-5 - 2017-05-17 12:04:44
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: PhoenixSuns (325)
+Seat 2: bspus (1225)
+Seat 3: PINGOT (1575)
+Seat 4: IIIOOOIII (450) - sitting out
+Seat 5: causestud (75)
+Seat 6: alf (425)
+PhoenixSuns has the dealer button
+bspus posts small blind 50
+PINGOT posts big blind 100
+** Hole Cards ** [6 players]
+IIIOOOIII folds
+pokertron: "causestud, cheater, scammer and bad player"
+causestud calls 75 (All-in)
+alf folds
+PhoenixSuns raises to 325 (All-in)
+bspus folds
+PINGOT folds
+PhoenixSuns refunded 225
+** Flop ** [9c Ah 6s]
+** Turn ** [Kd]
+** River ** [2d]
+PhoenixSuns wins Side Pot 1 (50)
+** Main Pot Show Down ** [9c Ah 6s Kd 2d]
+PhoenixSuns shows [5c 5d Ad 4s] (a Pair of Aces +K95)
+causestud shows [Ts 3c 8h As] (a Pair of Aces +KT9)
+causestud wins Main Pot (275) with a Pair
+Absent player IIIOOOIII removed from tournament
+** Deck ** [4d Qs 5s Ts Qh 5c 7h 8d Jh 3c 9h 5d Kh 3s Ac 8h 4h Ad 9s Js 7d As Kc 4s 9c Ah 6s Kd 2d]
+
+Hand #42880-6 - 2017-05-17 12:05:44
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: PhoenixSuns (275)
+Seat 2: bspus (1175)
+Seat 3: PINGOT (1475)
+Seat 5: causestud (275)
+Seat 6: alf (425)
+bspus has the dealer button
+PINGOT posts small blind 50
+causestud posts big blind 100
+** Hole Cards ** [5 players]
+alf raises to 350
+PhoenixSuns folds
+bspus folds
+PINGOT raises to 1150
+causestud calls 175 (All-in)
+alf calls 75 (All-in)
+PINGOT refunded 725
+** Flop ** [3d Qc Tc]
+** Turn ** [Qs]
+** River ** [Td]
+** Side Pot 1 Show Down ** [3d Qc Tc Qs Td]
+PINGOT shows [Ac Ah 6d 4c] (Two Pair, Aces and Queens +T)
+alf shows [5d Ks 8c 8d] (Two Pair, Queens and Eights +T)
+PINGOT wins Side Pot 1 (300) with Two Pair
+** Main Pot Show Down ** [3d Qc Tc Qs Td]
+causestud shows [Kd As Kh 6h] (Two Pair, Kings and Queens +T)
+PINGOT wins Main Pot (825) with Two Pair
+causestud finishes tournament in place #8
+alf finishes tournament in place #7
+** Deck ** [Ac Kd 5d 6s 2d Ah As Ks 7c 6c 6d Kh 8c 2c Th 4c 6h 8d Js 4d 3d Qc Tc Qs Td]
+
+PhoenixSuns moved to Table 1
+
+bspus moved to Table 1
+
+PINGOT moved to Table 1
+
+Starting tournament 1195
+
+Hand #43495-1 - 2017-05-17 16:00:42
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (500)
+Seat 2: CoinDoctor (500) - sitting out
+Seat 3: Efyang (500) - sitting out
+Seat 4: Buenaobra (500) - sitting out
+Seat 5: JimmyBingo (500)
+Seat 6: banderas (500) - sitting out
+gimmemoney has the dealer button
+CoinDoctor posts small blind 25
+Efyang posts big blind 50
+** Hole Cards ** [6 players]
+Buenaobra folds
+JimmyBingo folds
+banderas folds
+gimmemoney folds
+CoinDoctor folds
+Efyang refunded 25
+Efyang wins Pot (50)
+** Deck ** [8s 2d As 5d Td 5c Ad 2c 5s 4c 3s 6h Js 6s 9s 5h 6c Ts 3h Jc Qs 9h 8h 2h]
+
+Hand #43498-2 - 2017-05-17 16:00:55
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (500)
+Seat 2: CoinDoctor (475) - sitting out
+Seat 3: Efyang (525) - sitting out
+Seat 4: Buenaobra (500) - sitting out
+Seat 5: JimmyBingo (500)
+Seat 6: banderas (500) - sitting out
+CoinDoctor has the dealer button
+Efyang posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [6 players]
+JimmyBingo folds
+banderas folds
+gimmemoney calls 50
+CoinDoctor folds
+Efyang folds
+Buenaobra folds
+gimmemoney wins Pot (125)
+** Deck ** [2c Qh 6s 4h 5s 8h As 2s Ac Kd 9s 7c Jc Qd 7s 7d 4d 7h Jh Ad 3h 4s Qs Jd]
+
+Hand #43504-3 - 2017-05-17 16:01:33
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (575)
+Seat 2: CoinDoctor (475) - sitting out
+Seat 3: Efyang (500) - sitting out
+Seat 4: Buenaobra (450) - sitting out
+Seat 5: JimmyBingo (500)
+Seat 6: banderas (500) - sitting out
+Efyang has the dealer button
+Buenaobra posts small blind 25
+JimmyBingo posts big blind 50
+** Hole Cards ** [6 players]
+banderas folds
+gimmemoney calls 50
+CoinDoctor folds
+Efyang folds
+Buenaobra folds
+JimmyBingo checks
+** Flop ** [3d Kc Qh]
+JimmyBingo checks
+gimmemoney bets 50
+JimmyBingo folds
+gimmemoney refunded 50
+gimmemoney wins Pot (125)
+** Deck ** [Ah Jh Td Tc 6d 3h 8s 5d 2h As 5h Ks 7d Jd Kd 7s Qd 3c 5c 8h 9c Qc 4h Ts 3d Kc Qh]
+
+Hand #43507-4 - 2017-05-17 16:01:56
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (650)
+Seat 2: CoinDoctor (475) - sitting out
+Seat 3: Efyang (500) - sitting out
+Seat 4: Buenaobra (425) - sitting out
+Seat 5: JimmyBingo (450)
+Seat 6: banderas (500) - sitting out
+Buenaobra has the dealer button
+JimmyBingo posts small blind 25
+banderas posts big blind 50
+** Hole Cards ** [6 players]
+gimmemoney calls 50
+CoinDoctor folds
+Efyang folds
+Buenaobra folds
+JimmyBingo calls 25
+banderas folds
+** Flop ** [4d 3c 8h]
+JimmyBingo checks
+gimmemoney checks
+** Turn ** [Ts]
+JimmyBingo bets 100
+gimmemoney calls 100
+** River ** [Ah]
+JimmyBingo checks
+gimmemoney bets 50
+JimmyBingo calls 50
+** Pot Show Down ** [4d 3c 8h Ts Ah]
+gimmemoney shows [4c 6s Qc 3h] (Two Pair, Fours and Threes +A)
+JimmyBingo shows [4s Jh Jc Ac] (Two Pair, Aces and Fours +T)
+JimmyBingo wins Pot (450) with Two Pair
+** Deck ** [4s 4h 4c 2d 8d 3d Jh 8c 6s Tc 7d 9d Jc 9c Qc 3s Kd Th Ac Qh 3h 2c 5h 9s 4d 3c 8h Ts Ah]
+
+Hand #43518-5 - 2017-05-17 16:02:59
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (450)
+Seat 2: CoinDoctor (475) - sitting out
+Seat 3: Efyang (500) - sitting out
+Seat 4: Buenaobra (425) - sitting out
+Seat 5: JimmyBingo (700)
+Seat 6: banderas (450) - sitting out
+JimmyBingo has the dealer button
+banderas posts small blind 25
+gimmemoney posts big blind 50
+** Hole Cards ** [6 players]
+CoinDoctor folds
+Efyang folds
+Buenaobra folds
+JimmyBingo folds
+banderas folds
+gimmemoney refunded 25
+gimmemoney wins Pot (50)
+** Deck ** [7c Ts 4h 7d Qh 5h 4d 5s 7h Qd 9c 2c 3s Kd Ac Js As 6c Jc 8d 4c 3h Qc 3c]
+
+Hand #43521-6 - 2017-05-17 16:03:10
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (475)
+Seat 2: CoinDoctor (475) - sitting out
+Seat 3: Efyang (500) - sitting out
+Seat 4: Buenaobra (425) - sitting out
+Seat 5: JimmyBingo (700)
+Seat 6: banderas (425) - sitting out
+banderas has the dealer button
+gimmemoney posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [6 players]
+Efyang folds
+Buenaobra folds
+JimmyBingo raises to 100
+banderas folds
+gimmemoney calls 75
+CoinDoctor folds
+** Flop ** [2s 6c 5h]
+gimmemoney checks
+JimmyBingo bets 166
+gimmemoney folds
+JimmyBingo refunded 166
+JimmyBingo wins Pot (250)
+** Deck ** [9h 9d 6s 7d Ac 8c Jc 9c Qd Js 7c 5c 8s Kc As Ts 5s 4s 6h 2h Tc Qc Ah Ad 2s 6c 5h]
+
+Hand #43525-7 - 2017-05-17 16:03:38
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (375)
+Seat 2: CoinDoctor (425) - sitting out
+Seat 3: Efyang (500) - sitting out
+Seat 4: Buenaobra (425) - sitting out
+Seat 5: JimmyBingo (850)
+Seat 6: banderas (425) - sitting out
+gimmemoney has the dealer button
+CoinDoctor posts small blind 25
+Efyang posts big blind 50
+** Hole Cards ** [6 players]
+Buenaobra folds
+JimmyBingo raises to 100
+banderas folds
+gimmemoney calls 100
+CoinDoctor folds
+Efyang folds
+** Flop ** [Kd 4c 4h]
+JimmyBingo bets 275
+gimmemoney calls 275 (All-in)
+** Turn ** [6d]
+** River ** [9d]
+** Pot Show Down ** [Kd 4c 4h 6d 9d]
+gimmemoney shows [Ks 3h 2s Ad] (Two Pair, Kings and Fours +A)
+JimmyBingo shows [3s 8c Td Kh] (Two Pair, Kings and Fours +T)
+gimmemoney wins Pot (825) with Two Pair
+** Deck ** [3d Jh As 3s Kc Ks 2d 5c 7s 8c 8s 3h Ah Qh 5d Td Th 2s 4s Ac Qc Kh Tc Ad Kd 4c 4h 6d 9d]
+
+Hand #43530-8 - 2017-05-17 16:04:04
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (825)
+Seat 2: CoinDoctor (400) - sitting out
+Seat 3: Efyang (450) - sitting out
+Seat 4: Buenaobra (425) - sitting out
+Seat 5: JimmyBingo (475)
+Seat 6: banderas (425) - sitting out
+CoinDoctor has the dealer button
+Efyang posts small blind 50
+Buenaobra posts big blind 100
+** Hole Cards ** [6 players]
+JimmyBingo folds
+banderas folds
+gimmemoney calls 100
+CoinDoctor folds
+Efyang folds
+Buenaobra folds
+gimmemoney wins Pot (250)
+** Deck ** [7h 9d Jc Kd 4h Ah 5h 2c 9c Td Kc Ac Ad 6c 5d As 9h 3s 3c Qc 7c 7d Qs 5c]
+
+Hand #43534-9 - 2017-05-17 16:04:17
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (975)
+Seat 2: CoinDoctor (400) - sitting out
+Seat 3: Efyang (400) - sitting out
+Seat 4: Buenaobra (325) - sitting out
+Seat 5: JimmyBingo (475)
+Seat 6: banderas (425) - sitting out
+Efyang has the dealer button
+Buenaobra posts small blind 50
+JimmyBingo posts big blind 100
+** Hole Cards ** [6 players]
+banderas folds
+gimmemoney folds
+CoinDoctor folds
+Efyang folds
+Buenaobra folds
+JimmyBingo refunded 50
+JimmyBingo wins Pot (100)
+** Deck ** [6h Ks 6c 4s 8h 9c Kh Th 5s 2h 3h 7s Jc 7d 6d Ac 2d 8d As Qc 4h 9s Qd Ah]
+
+Hand #43541-10 - 2017-05-17 16:04:45
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (975)
+Seat 2: CoinDoctor (400) - sitting out
+Seat 3: Efyang (400) - sitting out
+Seat 4: Buenaobra (275) - sitting out
+Seat 5: JimmyBingo (525)
+Seat 6: banderas (425) - sitting out
+Buenaobra has the dealer button
+JimmyBingo posts small blind 50
+banderas posts big blind 100
+** Hole Cards ** [6 players]
+gimmemoney calls 100
+CoinDoctor folds
+Efyang folds
+Buenaobra folds
+JimmyBingo calls 50
+banderas folds
+** Flop ** [Kd As 8s]
+JimmyBingo checks
+gimmemoney checks
+** Turn ** [4d]
+JimmyBingo bets 100
+gimmemoney calls 100
+** River ** [3h]
+JimmyBingo checks
+gimmemoney bets 100
+JimmyBingo calls 100
+** Pot Show Down ** [Kd As 8s 4d 3h]
+gimmemoney shows [Qc 9h Qh Td] (a Pair of Queens +AK8)
+JimmyBingo shows [2s 2c 9c Ac] (a Pair of Aces +K98)
+JimmyBingo wins Pot (700) with a Pair
+** Deck ** [2s 9s Qc Ah 7s Jc 2c 5c 9h Th Jh 4s 9c 7c Qh 9d 6h Js Ac Kh Td 7h 3d 8h Kd As 8s 4d 3h]
+
+Hand #43546-11 - 2017-05-17 16:05:27
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (675)
+Seat 2: CoinDoctor (400) - sitting out
+Seat 3: Efyang (400) - sitting out
+Seat 4: Buenaobra (275) - sitting out
+Seat 5: JimmyBingo (925)
+Seat 6: banderas (325) - sitting out
+JimmyBingo has the dealer button
+banderas posts small blind 50
+gimmemoney posts big blind 100
+** Hole Cards ** [6 players]
+CoinDoctor folds
+Efyang folds
+Buenaobra folds
+JimmyBingo raises to 200
+banderas folds
+gimmemoney calls 100
+** Flop ** [7d 5d Qs]
+gimmemoney checks
+JimmyBingo bets 450
+gimmemoney folds
+JimmyBingo refunded 450
+JimmyBingo wins Pot (450)
+Absent player CoinDoctor removed from tournament
+Absent player Efyang removed from tournament
+Absent player Buenaobra removed from tournament
+Absent player banderas removed from tournament
+** Deck ** [6d 4c 4s 7s 9d Qd Ts Jh Ks 5c 7h Kd Ah Kh 9c 9h Jc Ad Th 8d 8c 5s Qc Js 7d 5d Qs]
+
+Hand #43552-12 - 2017-05-17 16:06:02
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (475)
+Seat 5: JimmyBingo (1175)
+gimmemoney has the dealer button
+gimmemoney posts small blind 50
+JimmyBingo posts big blind 100
+** Hole Cards ** [2 players]
+gimmemoney folds
+JimmyBingo refunded 50
+JimmyBingo wins Pot (100)
+** Deck ** [8c 6s 4s 8h 6d Jh 9d 3s]
+
+Hand #43553-13 - 2017-05-17 16:06:17
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: gimmemoney (425)
+Seat 5: JimmyBingo (1225)
+JimmyBingo has the dealer button
+JimmyBingo posts small blind 50
+gimmemoney posts big blind 100
+** Hole Cards ** [2 players]
+JimmyBingo calls 50
+gimmemoney checks
+** Flop ** [Qc 3d 4d]
+gimmemoney bets 100
+JimmyBingo calls 100
+** Turn ** [Js]
+gimmemoney bets 225 (All-in)
+JimmyBingo calls 225
+** River ** [Ac]
+** Pot Show Down ** [Qc 3d 4d Js Ac]
+gimmemoney shows [Td 3c 4h 3s] (Three of a Kind, Threes +AQ)
+JimmyBingo shows [8d 9h 6d 7h] (High Card Ace +QJ98)
+gimmemoney wins Pot (850) with Three of a Kind
+** Deck ** [Td 8d 3c 9h 4h 6d 3s 7h Qc 3d 4d Js Ac]
+
+JimmyBingo moved to Table 1
+
+gimmemoney moved to Table 1
+
