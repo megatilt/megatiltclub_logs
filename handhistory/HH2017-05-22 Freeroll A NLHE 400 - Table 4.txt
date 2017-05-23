@@ -1,0 +1,698 @@
+﻿Starting tournament 1303
+
+Hand #51945-1 - 2017-05-22 07:00:41
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: Ruphus (1500)
+Seat 3: AlphaWolf (1500)
+Seat 4: Jessica (1500) - sitting out
+Seat 5: Efyang (1500) - sitting out
+Seat 6: betong (1500)
+Ruphus has the dealer button
+AlphaWolf posts small blind 25
+Jessica posts big blind 50
+** Hole Cards ** [5 players]
+Efyang folds
+betong folds
+Ruphus folds
+AlphaWolf calls 25
+Jessica checks
+** Flop ** [Kd 8h Ts]
+AlphaWolf checks
+Jessica checks
+** Turn ** [5s]
+AlphaWolf bets 50
+Jessica folds
+AlphaWolf refunded 50
+AlphaWolf wins Pot (100)
+** Deck ** [8d Qd 4c 5h 2s 5c 7c 3h 3d 4d Kd 8h Ts 5s]
+
+Hand #51954-2 - 2017-05-22 07:01:24
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: Ruphus (1500)
+Seat 3: AlphaWolf (1550)
+Seat 4: Jessica (1450)
+Seat 5: Efyang (1500)
+Seat 6: betong (1500)
+AlphaWolf has the dealer button
+Jessica posts small blind 25
+Efyang posts big blind 50
+** Hole Cards ** [5 players]
+betong folds
+Ruphus raises to 100
+AlphaWolf calls 100
+Jessica calls 75
+Efyang folds
+** Flop ** [5c Ad Tc]
+Jessica checks
+Ruphus checks
+AlphaWolf checks
+** Turn ** [Js]
+Jessica checks
+Ruphus checks
+AlphaWolf checks
+** River ** [Ts]
+Jessica checks
+Ruphus checks
+AlphaWolf checks
+** Pot Show Down ** [5c Ad Tc Js Ts]
+Ruphus shows [Qh Jd] (Two Pair, Jacks and Tens +A)
+AlphaWolf shows [7c Kd] (a Pair of Tens +AKJ)
+Jessica shows [4s 7s] (a Pair of Tens +AJ7)
+Ruphus wins Pot (350) with Two Pair
+** Deck ** [4s 6c 9h Qh 7c 7s 4c 2s Jd Kd 5c Ad Tc Js Ts]
+
+Hand #51967-3 - 2017-05-22 07:03:01
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: Ruphus (1750)
+Seat 3: AlphaWolf (1450)
+Seat 4: Jessica (1350)
+Seat 5: Efyang (1450)
+Seat 6: betong (1500)
+Jessica has the dealer button
+Efyang posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [5 players]
+Ruphus folds
+AlphaWolf calls 50
+Jessica folds
+Efyang raises to 1450 (All-in)
+betong folds
+AlphaWolf folds
+Efyang refunded 1400
+Efyang wins Pot (150)
+** Deck ** [Qd Ts 3s 6d 6h 7s 5d 2d 5c 4s]
+
+Hand #51979-4 - 2017-05-22 07:03:48
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: Ruphus (1750)
+Seat 3: AlphaWolf (1400)
+Seat 4: Jessica (1350)
+Seat 5: Efyang (1550)
+Seat 6: betong (1450)
+Efyang has the dealer button
+betong posts small blind 50
+Ruphus posts big blind 100
+** Hole Cards ** [5 players]
+AlphaWolf calls 100
+Jessica calls 100
+Efyang folds
+betong calls 50
+Ruphus checks
+** Flop ** [5d 2s 3s]
+betong bets 400
+Ruphus folds
+AlphaWolf folds
+Jessica folds
+betong refunded 400
+betong wins Pot (400)
+** Deck ** [2d 6s 8h Ad 7c 6h Jc Ts 3h 4d 5d 2s 3s]
+
+Hand #51990-5 - 2017-05-22 07:04:51
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: Ruphus (1650)
+Seat 3: AlphaWolf (1300)
+Seat 4: Jessica (1250)
+Seat 5: Efyang (1550)
+Seat 6: betong (1750)
+betong has the dealer button
+Ruphus posts small blind 50
+AlphaWolf posts big blind 100
+** Hole Cards ** [5 players]
+Jessica raises to 500
+Efyang folds
+betong raises to 1750 (All-in)
+Ruphus folds
+AlphaWolf folds
+Jessica calls 750 (All-in)
+betong refunded 500
+** Flop ** [6d 7c 5c]
+** Turn ** [2d]
+** River ** [Jh]
+** Pot Show Down ** [6d 7c 5c 2d Jh]
+Jessica shows [8c As] (High Card Ace +J876)
+betong shows [Ac 3s] (High Card Ace +J765)
+Jessica wins Pot (2650) with High Card
+** Deck ** [Ts 6h 8c 4s Ac 9d Tc As Qc 3s 6d 7c 5c 2d Jh]
+
+Hand #51999-6 - 2017-05-22 07:05:33
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: Ruphus (1600)
+Seat 3: AlphaWolf (1200)
+Seat 4: Jessica (2650)
+Seat 5: Efyang (1550)
+Seat 6: betong (500)
+Ruphus has the dealer button
+AlphaWolf posts small blind 50
+Jessica posts big blind 100
+** Hole Cards ** [5 players]
+hotpot moved from Table 1
+Efyang folds
+betong raises to 500 (All-in)
+Ruphus calls 500
+AlphaWolf folds
+Jessica folds
+** Flop ** [7d 5c 7h]
+** Turn ** [Td]
+** River ** [9d]
+** Pot Show Down ** [7d 5c 7h Td 9d]
+Ruphus shows [Ks Qs] (a Pair of Sevens +KQT)
+betong shows [Ad Qd] (a Flush, Ace high +QT97)
+betong wins Pot (1150) with a Flush
+** Deck ** [Qh Kc 5d Ad Ks Tc 7s 2c Qd Qs 7d 5c 7h Td 9d]
+
+Efyang moved to Table 2
+
+Hand #52003-7 - 2017-05-22 07:06:14
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: Ruphus (1100)
+Seat 2: hotpot (5050)
+Seat 3: AlphaWolf (1150)
+Seat 4: Jessica (2550)
+Seat 6: betong (1150)
+AlphaWolf has the dealer button
+Jessica posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [5 players]
+Ruphus calls 100
+hotpot raises to 400
+AlphaWolf folds
+Jessica folds
+betong folds
+JanzVill moved from Table 3
+Ruphus calls 300
+** Flop ** [5s 5d Jh]
+Ruphus checks
+hotpot checks
+** Turn ** [Qh]
+Ruphus checks
+hotpot checks
+** River ** [8c]
+Ruphus checks
+hotpot bets 900
+Ruphus folds
+hotpot refunded 900
+hotpot wins Pot (950)
+** Deck ** [8h 9h 4c Js Td 6s 8d 6c Jd Ah 5s 5d Jh Qh 8c]
+
+Hand #52005-8 - 2017-05-22 07:07:22
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: Ruphus (700)
+Seat 2: hotpot (5600)
+Seat 3: AlphaWolf (1150)
+Seat 4: Jessica (2500)
+Seat 5: JanzVill (1500)
+Seat 6: betong (1050)
+Jessica has the dealer button
+JanzVill plays after the button
+betong posts small blind 75
+Ruphus posts big blind 150
+** Hole Cards ** [5 players]
+hotpot raises to 300
+AlphaWolf folds
+Jessica folds
+betong folds
+Ruphus folds
+hotpot refunded 150
+hotpot wins Pot (375)
+** Deck ** [4s 7d Ac 9s 7c Kh 2c Qs 7s Js]
+
+hotpot moved to Table 2
+
+Hand #52010-9 - 2017-05-22 07:08:01
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: Ruphus (550)
+Seat 3: AlphaWolf (1150)
+Seat 4: Jessica (2500)
+Seat 5: JanzVill (1500)
+Seat 6: betong (975)
+betong has the dealer button
+Ruphus posts small blind 75
+AlphaWolf posts big blind 150
+** Hole Cards ** [5 players]
+Jessica folds
+JanzVill raises to 1500 (All-in)
+betong calls 975 (All-in)
+Ruphus folds
+AlphaWolf folds
+JanzVill refunded 525
+** Flop ** [2h 6s Ad]
+** Turn ** [2c]
+** River ** [7h]
+** Pot Show Down ** [2h 6s Ad 2c 7h]
+JanzVill shows [Qd Kd] (a Pair of Deuces +AKQ)
+betong shows [3h Ah] (Two Pair, Aces and Deuces +7)
+betong wins Pot (2175) with Two Pair
+** Deck ** [5h Qc 2d Qd 3h Jc 4h 9s Kd Ah 2h 6s Ad 2c 7h]
+
+Hand #52013-10 - 2017-05-22 07:08:40
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: Ruphus (475)
+Seat 3: AlphaWolf (1000)
+Seat 4: Jessica (2500)
+Seat 5: JanzVill (525)
+Seat 6: betong (2175)
+Ruphus has the dealer button
+AlphaWolf posts small blind 75
+Jessica posts big blind 150
+** Hole Cards ** [5 players]
+JanzVill raises to 525 (All-in)
+betong folds
+Ruphus folds
+AlphaWolf folds
+Jessica folds
+JanzVill refunded 375
+JanzVill wins Pot (375)
+** Deck ** [5d Td 8c Th 6s Qh 4c Ac 8s 7h]
+
+Hand #52016-11 - 2017-05-22 07:09:38
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: Ruphus (475)
+Seat 3: AlphaWolf (925)
+Seat 4: Jessica (2350)
+Seat 5: JanzVill (750)
+Seat 6: betong (2175)
+AlphaWolf has the dealer button
+Jessica posts small blind 75
+JanzVill posts big blind 150
+** Hole Cards ** [5 players]
+betong folds
+Ruphus raises to 475 (All-in)
+AlphaWolf folds
+Jessica folds
+JanzVill folds
+Ruphus refunded 325
+Ruphus wins Pot (375)
+** Deck ** [2h Ks 3c Th 9d Jc 2c Js Kh 4d]
+
+Hand #52018-12 - 2017-05-22 07:10:21
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: Ruphus (700)
+Seat 3: AlphaWolf (925)
+Seat 4: Jessica (2275)
+Seat 5: JanzVill (600)
+Seat 6: betong (2175)
+Jessica has the dealer button
+JanzVill posts small blind 100
+betong posts big blind 200
+** Hole Cards ** [5 players]
+Ruphus raises to 700 (All-in)
+AlphaWolf calls 700
+Jessica folds
+JanzVill folds
+betong raises to 2175 (All-in)
+AlphaWolf calls 225 (All-in)
+betong refunded 1250
+** Flop ** [4h Kc 7s]
+** Turn ** [5h]
+** River ** [6c]
+** Side Pot 1 Show Down ** [4h Kc 7s 5h 6c]
+AlphaWolf shows [Ks 2s] (a Pair of Kings +765)
+betong shows [4d Ad] (a Pair of Fours +AK7)
+AlphaWolf wins Side Pot 1 (450) with a Pair
+** Main Pot Show Down ** [4h Kc 7s 5h 6c]
+Ruphus shows [7h 9s] (a Pair of Sevens +K96)
+AlphaWolf wins Main Pot (2200) with a Pair
+Ruphus finishes tournament in place #10
+** Deck ** [Tc 4d 7h Ks Qd 4s Ad 9s 2s 7c 4h Kc 7s 5h 6c]
+
+Hand #52022-13 - 2017-05-22 07:11:06
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 3: AlphaWolf (2650)
+Seat 4: Jessica (2275)
+Seat 5: JanzVill (500)
+Seat 6: betong (1250)
+JanzVill has the dealer button
+betong posts small blind 100
+AlphaWolf posts big blind 200
+** Hole Cards ** [4 players]
+Jessica folds
+JanzVill raises to 500 (All-in)
+betong raises to 1250 (All-in)
+AlphaWolf folds
+betong refunded 750
+** Flop ** [Td Js 9d]
+** Turn ** [Tc]
+** River ** [Qc]
+** Pot Show Down ** [Td Js 9d Tc Qc]
+JanzVill shows [7d 5d] (a Pair of Tens +QJ9)
+betong shows [Kc Jh] (a Straight, Nine to King)
+betong wins Pot (1200) with a Straight
+JanzVill finishes tournament in place #9
+** Deck ** [Kc 6c Kd 7d Jh 6s 3c 5d Td Js 9d Tc Qc]
+
+Hand #52024-14 - 2017-05-22 07:11:40
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 3: AlphaWolf (2450)
+Seat 4: Jessica (2275)
+Seat 6: betong (1950)
+betong has the dealer button
+AlphaWolf posts small blind 100
+Jessica posts big blind 200
+** Hole Cards ** [3 players]
+zypher moved from Table 2
+betong raises to 1950 (All-in)
+AlphaWolf calls 1850
+Jessica folds
+** Flop ** [3d 4d 6s]
+** Turn ** [8d]
+** River ** [9c]
+** Pot Show Down ** [3d 4d 6s 8d 9c]
+AlphaWolf shows [Ad Jd] (a Flush, Ace high +J843)
+betong shows [Kh Kd] (a Pair of Kings +986)
+AlphaWolf wins Pot (4100) with a Flush
+betong finishes tournament in place #8
+** Deck ** [Ad Kc Kh Jd 7d Kd 3d 4d 6s 8d 9c]
+
+Hand #52027-15 - 2017-05-22 07:12:03
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: zypher (4650) - sitting out
+Seat 3: AlphaWolf (4600)
+Seat 4: Jessica (2075)
+AlphaWolf has the dealer button
+Jessica posts small blind 100
+zypher posts big blind 200
+** Hole Cards ** [3 players]
+AlphaWolf calls 200
+Jessica calls 100
+zypher folds
+** Flop ** [9h Js 7s]
+Jessica checks
+AlphaWolf bets 200
+Jessica folds
+AlphaWolf refunded 200
+AlphaWolf wins Pot (600)
+** Deck ** [Qd 9s Ac 6h 4c Jc 9h Js 7s]
+
+Hand #52029-16 - 2017-05-22 07:12:27
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: zypher (4450) - sitting out
+Seat 3: AlphaWolf (5000)
+Seat 4: Jessica (1875)
+Jessica has the dealer button
+zypher posts small blind 100
+AlphaWolf posts big blind 200
+** Hole Cards ** [3 players]
+Jessica folds
+zypher folds
+AlphaWolf refunded 100
+AlphaWolf wins Pot (200)
+** Deck ** [9s 5c 5d Kh 3c Qh]
+
+Hand #52032-17 - 2017-05-22 07:12:41
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: zypher (4350) - sitting out
+Seat 3: AlphaWolf (5100)
+Seat 4: Jessica (1875)
+zypher has the dealer button
+AlphaWolf posts small blind 100
+Jessica posts big blind 200
+** Hole Cards ** [3 players]
+zypher folds
+AlphaWolf calls 100
+Jessica checks
+** Flop ** [4s Th 4h]
+AlphaWolf checks
+Jessica checks
+** Turn ** [5s]
+AlphaWolf checks
+Jessica checks
+** River ** [8c]
+AlphaWolf checks
+Jessica checks
+** Pot Show Down ** [4s Th 4h 5s 8c]
+AlphaWolf shows [Ac 7d] (a Pair of Fours +AT8)
+Jessica shows [Kd 6c] (a Pair of Fours +KT8)
+AlphaWolf wins Pot (400) with a Pair
+** Deck ** [Ac Kd 2c 7d 6c Js 4s Th 4h 5s 8c]
+
+Hand #52035-18 - 2017-05-22 07:13:17
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: zypher (4350)
+Seat 3: AlphaWolf (5300)
+Seat 4: Jessica (1675)
+AlphaWolf has the dealer button
+zypher posts ante 25
+AlphaWolf posts ante 25
+Jessica posts ante 25
+Jessica posts small blind 100
+zypher posts big blind 200
+** Hole Cards ** [3 players]
+AlphaWolf calls 200
+Jessica calls 100
+zypher raises to 1000
+AlphaWolf calls 800
+Jessica folds
+** Flop ** [As 6c 7d]
+zypher bets 3325 (All-in)
+AlphaWolf calls 3325
+** Turn ** [Ac]
+** River ** [Ad]
+** Pot Show Down ** [As 6c 7d Ac Ad]
+zypher shows [9d Th] (Three of a Kind, Aces +T9)
+AlphaWolf shows [Ah Kc] (Four of a Kind, Aces +K)
+AlphaWolf wins Pot (8925) with Four of a Kind
+zypher finishes tournament in place #7
+** Deck ** [5c 9d Ah 3s Th Kc As 6c 7d Ac Ad]
+
+AlphaWolf moved to Table 2
+
+Jessica moved to Table 2
+
+Starting tournament 1311
+
+Hand #53199-1 - 2017-05-22 15:00:41
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: CoinDoctor (1500) - sitting out
+Seat 3: Chicken (1500) - sitting out
+Seat 4: Ruphus (1500) - sitting out
+Seat 5: patval (1500) - sitting out
+Seat 6: jayn_182 (1500)
+CoinDoctor has the dealer button
+Chicken posts small blind 25
+Ruphus posts big blind 50
+** Hole Cards ** [5 players]
+patval folds
+jayn_182 calls 50
+CoinDoctor folds
+Chicken folds
+Ruphus folds
+jayn_182 wins Pot (125)
+** Deck ** [2d 4h Td 7s Jc 6d 9c Qc Qd 8s]
+
+Hand #53201-2 - 2017-05-22 15:00:51
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: CoinDoctor (1500) - sitting out
+Seat 3: Chicken (1475) - sitting out
+Seat 4: Ruphus (1450) - sitting out
+Seat 5: patval (1500) - sitting out
+Seat 6: jayn_182 (1575)
+Chicken has the dealer button
+Ruphus posts small blind 25
+patval posts big blind 50
+** Hole Cards ** [5 players]
+jayn_182 calls 50
+CoinDoctor folds
+Chicken folds
+Ruphus folds
+patval folds
+jayn_182 wins Pot (125)
+** Deck ** [9d Th 9h Ac 4c Tc 8s 6h Qc Js]
+
+Hand #53204-3 - 2017-05-22 15:01:05
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: CoinDoctor (1500) - sitting out
+Seat 3: Chicken (1475)
+Seat 4: Ruphus (1425) - sitting out
+Seat 5: patval (1450) - sitting out
+Seat 6: jayn_182 (1650)
+Ruphus has the dealer button
+patval posts small blind 25
+jayn_182 posts big blind 50
+** Hole Cards ** [5 players]
+CoinDoctor folds
+Chicken calls 50
+Ruphus folds
+patval folds
+jayn_182 raises to 100
+Chicken calls 50
+** Flop ** [2h 7h 6c]
+jayn_182 checks
+Chicken bets 50
+jayn_182 calls 50
+** Turn ** [5h]
+jayn_182 checks
+Chicken bets 50
+jayn_182 calls 50
+** River ** [5c]
+jayn_182 checks
+Chicken checks
+** Pot Show Down ** [2h 7h 6c 5h 5c]
+Chicken shows [7d Ks] (Two Pair, Sevens and Fives +K)
+jayn_182 shows [9d Kh] (a Pair of Fives +K97)
+Chicken wins Pot (425) with Two Pair
+** Deck ** [Jh 9d 8c 7d 2s 2c Kh Ts Ks Ad 2h 7h 6c 5h 5c]
+
+Hand #53222-4 - 2017-05-22 15:02:20
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: CoinDoctor (1500) - sitting out
+Seat 3: Chicken (1700)
+Seat 4: Ruphus (1425) - sitting out
+Seat 5: patval (1425) - sitting out
+Seat 6: jayn_182 (1450)
+patval has the dealer button
+jayn_182 posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [5 players]
+Chicken raises to 100
+Ruphus folds
+patval folds
+JanzVill moved from Table 3
+jayn_182 calls 75
+CoinDoctor folds
+** Flop ** [Ks Qd 8c]
+jayn_182 checks
+Chicken checks
+** Turn ** [Th]
+jayn_182 checks
+Chicken checks
+** River ** [2s]
+jayn_182 checks
+Chicken checks
+** Pot Show Down ** [Ks Qd 8c Th 2s]
+Chicken shows [2d 4s] (a Pair of Deuces +KQT)
+jayn_182 shows [5d 2h] (a Pair of Deuces +KQT)
+Chicken splits Pot (125) with a Pair
+jayn_182 splits Pot (125) with a Pair
+** Deck ** [5d 5c 2d Qs 6h 2h 9s 4s Ts 7s Ks Qd 8c Th 2s]
+
+Hand #53242-5 - 2017-05-22 15:04:37
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: CoinDoctor (1450) - sitting out
+Seat 2: JanzVill (1475)
+Seat 3: Chicken (1725)
+Seat 4: Ruphus (1425) - sitting out
+Seat 5: patval (1425) - sitting out
+Seat 6: jayn_182 (1475)
+jayn_182 has the dealer button
+CoinDoctor posts small blind 50
+JanzVill posts big blind 100
+** Hole Cards ** [6 players]
+Chicken folds
+Ruphus folds
+patval folds
+jayn_182 raises to 1475 (All-in)
+CoinDoctor folds
+JanzVill folds
+jayn_182 refunded 1375
+jayn_182 wins Pot (250)
+** Deck ** [2h 5d Th Js Jd 5c 6d Ac 4c 2d 8h Ks]
+
+Hand #53245-6 - 2017-05-22 15:04:59
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 1: CoinDoctor (1400) - sitting out
+Seat 2: JanzVill (1375)
+Seat 3: Chicken (1725)
+Seat 4: Ruphus (1425) - sitting out
+Seat 5: patval (1425) - sitting out
+Seat 6: jayn_182 (1625)
+CoinDoctor has the dealer button
+JanzVill posts small blind 50
+Chicken posts big blind 100
+** Hole Cards ** [6 players]
+Ruphus folds
+patval folds
+jayn_182 calls 100
+CoinDoctor folds
+JanzVill raises to 1375 (All-in)
+Chicken folds
+jayn_182 folds
+JanzVill refunded 1275
+JanzVill wins Pot (300)
+Absent player CoinDoctor removed from tournament
+Absent player Ruphus removed from tournament
+Absent player patval removed from tournament
+** Deck ** [Jc 8s Ts 4d 5d 3d Qs 6d Kc 9c 6h 7c]
+
+hotpot moved from Table 2
+Hand #53250-7 - 2017-05-22 15:05:51
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 400 - Table 4
+Seat 2: JanzVill (1575)
+Seat 3: Chicken (1625)
+Seat 4: hotpot (4475)
+Seat 6: jayn_182 (1525)
+JanzVill has the dealer button
+Chicken posts small blind 50
+hotpot posts big blind 100
+** Hole Cards ** [4 players]
+jayn_182 calls 100
+JanzVill folds
+Chicken raises to 1625 (All-in)
+hotpot folds
+jayn_182 calls 1425 (All-in)
+Chicken refunded 100
+** Flop ** [Ad 7d Tc]
+** Turn ** [Ac]
+** River ** [3c]
+** Pot Show Down ** [Ad 7d Tc Ac 3c]
+Chicken shows [4d 4h] (Two Pair, Aces and Fours +T)
+jayn_182 shows [4s 2s] (a Pair of Aces +T74)
+Chicken wins Pot (3150) with Two Pair
+jayn_182 finishes tournament in place #7
+** Deck ** [4d As 4s 8h 4h 3d 2s Jd Ad 7d Tc Ac 3c]
+
+JanzVill moved to Table 1
+
+Chicken moved to Table 1
+
+hotpot moved to Table 1
+
