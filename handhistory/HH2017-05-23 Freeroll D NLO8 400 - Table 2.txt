@@ -1,0 +1,2666 @@
+﻿Starting tournament 1322
+
+Hand #54372-1 - 2017-05-23 02:00:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1500)
+Seat 2: Defecator (1500) - sitting out
+Seat 3: betong (1500) - sitting out
+Seat 4: chinkyeyes (1500)
+Seat 5: JanzVill (1500)
+Seat 6: CoinDoctor (1500) - sitting out
+Jessica has the dealer button
+Defecator posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [6 players]
+chinkyeyes calls 50
+JanzVill raises to 1500 (All-in)
+CoinDoctor folds
+Jessica folds
+Defecator folds
+betong folds
+chinkyeyes folds
+JanzVill refunded 1450
+JanzVill wins Pot (175)
+** Deck ** [9s 9d Qs 4d Ts Jd 3c Ah As Ac 8h 7c 9c Jc Kh 9h 6h Kd Qd 4c 3h Th 2s 2c]
+
+Hand #54377-2 - 2017-05-23 02:01:22
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1500)
+Seat 2: Defecator (1475)
+Seat 3: betong (1450) - sitting out
+Seat 4: chinkyeyes (1450)
+Seat 5: JanzVill (1625)
+Seat 6: CoinDoctor (1500) - sitting out
+Defecator has the dealer button
+betong posts small blind 25
+chinkyeyes posts big blind 50
+** Hole Cards ** [6 players]
+JanzVill folds
+CoinDoctor folds
+Jessica folds
+Defecator calls 50
+betong folds
+chinkyeyes checks
+** Flop ** [Qc Jd 9d]
+chinkyeyes checks
+Defecator checks
+** Turn ** [As]
+chinkyeyes bets 50
+Defecator folds
+chinkyeyes refunded 50
+chinkyeyes wins Pot (125)
+** Deck ** [4c Ts Kc Qs 4s 5d Jc Ad 6d 5s Th Ks Qd 4h Tc 7h Kh 6h Js 9c 8s 8c 7d 2s Qc Jd 9d As]
+
+Hand #54382-3 - 2017-05-23 02:02:00
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1500)
+Seat 2: Defecator (1425)
+Seat 3: betong (1425) - sitting out
+Seat 4: chinkyeyes (1525)
+Seat 5: JanzVill (1625)
+Seat 6: CoinDoctor (1500) - sitting out
+betong has the dealer button
+chinkyeyes posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [6 players]
+CoinDoctor folds
+Jessica folds
+Defecator raises to 100
+betong folds
+chinkyeyes calls 75
+JanzVill calls 50
+** Flop ** [9d Ac 7d]
+chinkyeyes checks
+JanzVill checks
+Defecator bets 250
+chinkyeyes folds
+JanzVill raises to 1525 (All-in)
+Defecator calls 1075 (All-in)
+JanzVill refunded 200
+** Turn ** [5d]
+** River ** [Qd]
+** Pot Show Down ** [9d Ac 7d 5d Qd]
+Defecator shows [Tc 5c Ad 5s] (Hi: Three of a Kind, Fives +AQ  Lo: None)
+JanzVill shows [9s 8c Qh 7c] (Hi: Two Pair, Queens and Nines +A  Lo: None)
+Defecator wins Pot (2950) with Three of a Kind
+No low hand qualified
+** Deck ** [Qs 9s 4d 6c Tc 3s Td 8c 4c 4s 5c Kh Kc Qh 6s Ah Ad Jh 3c 7c 3d 4h 5s 2h 9d Ac 7d 5d Qd]
+
+Hand #54394-4 - 2017-05-23 02:03:26
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1500)
+Seat 2: Defecator (2950)
+Seat 3: betong (1425)
+Seat 4: chinkyeyes (1425)
+Seat 5: JanzVill (200)
+Seat 6: CoinDoctor (1500)
+chinkyeyes has the dealer button
+JanzVill posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [6 players]
+Jessica folds
+Defecator raises to 200
+betong raises to 675
+chinkyeyes folds
+JanzVill calls 175 (All-in)
+CoinDoctor calls 625
+Defecator raises to 1500
+betong calls 750 (All-in)
+CoinDoctor calls 825 (All-in)
+** Flop ** [5c 8c 3c]
+** Turn ** [4s]
+** River ** [9s]
+** Side Pot 2 Show Down ** [5c 8c 3c 4s 9s]
+Defecator shows [6h Ah 7d As] (Hi: a Straight, Five to Nine  Lo: 6543A)
+CoinDoctor shows [Jd Kc 9d 2c] (Hi: a Flush, King high +8532  Lo: None)
+CoinDoctor wins Hi Side Pot 2 (75) with a Flush
+Defecator wins Lo Side Pot 2 (75) with 6543A
+** Side Pot 1 Show Down ** [5c 8c 3c 4s 9s]
+betong shows [3h Th Ts 2h] (Hi: a Pair of Tens +985  Lo: 85432)
+CoinDoctor wins Hi Side Pot 1 (1838) with a Flush
+Defecator wins Lo Side Pot 1 (1837) with 6543A
+** Main Pot Show Down ** [5c 8c 3c 4s 9s]
+JanzVill shows [6s Ks 6d 8d] (Hi: a Pair of Eights +K95  Lo: 86543)
+CoinDoctor wins Hi Main Pot (400) with a Flush
+Defecator wins Lo Main Pot (400) with 6543A
+JanzVill finishes tournament in place #15
+betong finishes tournament in place #14
+** Deck ** [6s Jd Ac 6h 3h 2d Ks Kc 4d Ah Th Jc 6d 9d 8h 7d Ts 7h 8d 2c Td As 2h Kh 5c 8c 3c 4s 9s]
+
+Hand #54411-5 - 2017-05-23 02:05:22
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1500)
+Seat 2: Defecator (3762)
+Seat 4: chinkyeyes (1425)
+Seat 6: CoinDoctor (2313)
+CoinDoctor has the dealer button
+Jessica posts small blind 50
+Defecator posts big blind 100
+** Hole Cards ** [4 players]
+chinkyeyes calls 100
+CoinDoctor calls 100
+Jessica calls 50
+Defecator checks
+** Flop ** [4c 9c 8h]
+Jessica checks
+Defecator checks
+chinkyeyes checks
+CoinDoctor checks
+** Turn ** [Qh]
+Jessica checks
+Defecator bets 100
+chinkyeyes folds
+CoinDoctor calls 100
+Jessica calls 100
+** River ** [7h]
+Jessica checks
+Defecator bets 105
+CoinDoctor raises to 900
+Jessica folds
+Defecator folds
+CoinDoctor refunded 795
+CoinDoctor wins Pot (910)
+** Deck ** [As 3h 5h 2s 8c 8d Kc Ah Qc Qd 2d Kh 6s 3d 4d 7d 4c 9c 8h Qh 7h]
+
+Hand #54417-6 - 2017-05-23 02:06:44
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1300)
+Seat 2: Defecator (3457)
+Seat 4: chinkyeyes (1325)
+Seat 6: CoinDoctor (2918)
+Jessica has the dealer button
+Defecator posts small blind 75
+chinkyeyes posts big blind 150
+** Hole Cards ** [4 players]
+CoinDoctor folds
+Jessica raises to 1300 (All-in)
+Defecator folds
+chinkyeyes calls 1150
+** Flop ** [2h 4h 3s]
+** Turn ** [As]
+** River ** [2d]
+** Pot Show Down ** [2h 4h 3s As 2d]
+Jessica shows [Qs Jc Ad Tc] (Hi: Two Pair, Aces and Deuces +Q  Lo: None)
+chinkyeyes shows [8s 6c Kc 8c] (Hi: Two Pair, Eights and Deuces +A  Lo: 8632A)
+Jessica wins Hi Pot (1338) with Two Pair
+chinkyeyes wins Lo Pot (1337) with 8632A
+** Deck ** [Qh 8s 6s Qs 7s 6c Qc Jc 2s Kc Kh Ad 7c 8c 9d Tc 2h 4h 3s As 2d]
+
+Hand #54419-7 - 2017-05-23 02:07:24
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1338)
+Seat 2: Defecator (3382)
+Seat 4: chinkyeyes (1362)
+Seat 6: CoinDoctor (2918)
+Defecator has the dealer button
+chinkyeyes posts small blind 75
+CoinDoctor posts big blind 150
+** Hole Cards ** [4 players]
+Jessica folds
+Defecator raises to 300
+chinkyeyes raises to 450
+CoinDoctor calls 300
+Defecator calls 150
+** Flop ** [2c Qs 4h]
+chinkyeyes checks
+CoinDoctor checks
+Defecator checks
+** Turn ** [6c]
+chinkyeyes bets 150
+CoinDoctor raises to 2468 (All-in)
+Defecator folds
+chinkyeyes calls 762 (All-in)
+CoinDoctor refunded 1556
+** River ** [2d]
+** Pot Show Down ** [2c Qs 4h 6c 2d]
+chinkyeyes shows [Qc 7h 4c Qh] (Hi: a Full House, Queens full of Deuces  Lo: None)
+CoinDoctor shows [9c 3d As 5s] (Hi: a Straight, Deuce to Six  Lo: 6432A)
+chinkyeyes wins Hi Pot (1587) with a Full House
+CoinDoctor wins Lo Pot (1587) with 6432A
+** Deck ** [Qc 9c Th 7s 7h 3d 9h 7d 4c As 3s 8s Qh 5s 6d Tc 2c Qs 4h 6c 2d]
+
+Hand #54421-8 - 2017-05-23 02:08:26
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1338)
+Seat 2: Defecator (2932)
+Seat 4: chinkyeyes (1587)
+Seat 6: CoinDoctor (3143)
+chinkyeyes has the dealer button
+CoinDoctor posts small blind 75
+Jessica posts big blind 150
+** Hole Cards ** [4 players]
+Defecator folds
+chinkyeyes calls 150
+CoinDoctor folds
+Jessica checks
+** Flop ** [Ts Tc 5s]
+Jessica checks
+chinkyeyes checks
+** Turn ** [Qc]
+Jessica checks
+chinkyeyes checks
+** River ** [2d]
+Jessica checks
+chinkyeyes bets 1437 (All-in)
+Jessica folds
+chinkyeyes refunded 1437
+chinkyeyes wins Pot (375)
+** Deck ** [2c Jh Td 5h 2h 6s 7s 6d 5d 9s Ks 5c Th Kd 4d Jc Ts Tc 5s Qc 2d]
+
+Hand #54424-9 - 2017-05-23 02:09:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1188)
+Seat 2: Defecator (2932)
+Seat 4: chinkyeyes (1812)
+Seat 6: CoinDoctor (3068)
+CoinDoctor has the dealer button
+Jessica posts small blind 75
+Defecator posts big blind 150
+** Hole Cards ** [4 players]
+chinkyeyes folds
+CoinDoctor folds
+Jessica folds
+Defecator refunded 75
+Defecator wins Pot (150)
+** Deck ** [4d Ac 6c Kd 9h 5d Kc 8d Qd Ah 8h 7d 3c 8c Qh 3s]
+
+Hand #54425-10 - 2017-05-23 02:10:01
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1113)
+Seat 2: Defecator (3007)
+Seat 4: chinkyeyes (1812)
+Seat 6: CoinDoctor (3068)
+Jessica has the dealer button
+Defecator posts small blind 100
+chinkyeyes posts big blind 200
+** Hole Cards ** [4 players]
+CoinDoctor calls 200
+Jessica folds
+CLS moved from Table 3
+whynot moved from Table 3
+Defecator calls 100
+chinkyeyes checks
+** Flop ** [Tc 4s 3s]
+Defecator checks
+chinkyeyes checks
+CoinDoctor checks
+** Turn ** [Ah]
+Defecator checks
+chinkyeyes checks
+CoinDoctor bets 2868 (All-in)
+Defecator folds
+chinkyeyes folds
+CoinDoctor refunded 2868
+CoinDoctor wins Pot (600)
+** Deck ** [9d Qh 5s 2c Jh Jd As Ts Ks 4d 2h Kc 7s Kd 9c 8d Tc 4s 3s Ah]
+
+Hand #54426-11 - 2017-05-23 02:11:10
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1113)
+Seat 2: Defecator (2807)
+Seat 3: CLS (1100)
+Seat 4: chinkyeyes (1612)
+Seat 5: whynot (9375)
+Seat 6: CoinDoctor (3468)
+Defecator has the dealer button
+CLS plays after the button
+chinkyeyes posts small blind 100
+whynot posts big blind 200
+** Hole Cards ** [5 players]
+CoinDoctor folds
+Jessica folds
+Defecator calls 200
+chinkyeyes calls 100
+whynot checks
+** Flop ** [Ad 4d Qh]
+chinkyeyes checks
+whynot bets 400
+Defecator raises to 1200
+chinkyeyes folds
+whynot raises to 2000
+Defecator raises to 2607 (All-in)
+whynot calls 607
+** Turn ** [4s]
+** River ** [Js]
+** Pot Show Down ** [Ad 4d Qh 4s Js]
+Defecator shows [3c 4c 9c Ah] (Hi: a Full House, Fours full of Aces  Lo: None)
+whynot shows [6h Jd Ac Kc] (Hi: Two Pair, Aces and Jacks +Q  Lo: None)
+Defecator wins Pot (5814) with a Full House
+No low hand qualified
+** Deck ** [Th 6h 8d 7h 3c Qc Jd 2c 4h 4c 5h Ac 8h Kd 9c 5c Kc Qd As Ah Ad 4d Qh 4s Js]
+
+Hand #54427-12 - 2017-05-23 02:12:25
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1113)
+Seat 2: Defecator (5814)
+Seat 3: CLS (1100)
+Seat 4: chinkyeyes (1412)
+Seat 5: whynot (6568)
+Seat 6: CoinDoctor (3468)
+chinkyeyes has the dealer button
+whynot posts small blind 100
+CoinDoctor posts big blind 200
+** Hole Cards ** [6 players]
+Jessica folds
+Defecator calls 200
+CLS calls 200
+chinkyeyes folds
+whynot folds
+CoinDoctor checks
+** Flop ** [3h 2h 5h]
+CoinDoctor checks
+Defecator checks
+CLS checks
+** Turn ** [7h]
+CoinDoctor checks
+Defecator bets 200
+CLS folds
+CoinDoctor calls 200
+** River ** [7s]
+CoinDoctor checks
+Defecator checks
+** Pot Show Down ** [3h 2h 5h 7h 7s]
+Defecator shows [8h Ks 9d 6s] (Hi: a Pair of Sevens +K95  Lo: 86532)
+CoinDoctor shows [3s Kh 2s 8s] (Hi: Two Pair, Sevens and Threes +K  Lo: 87532)
+CoinDoctor wins Hi Pot (550) with Two Pair
+Defecator wins Lo Pot (550) with 86532
+** Deck ** [Qd 3s 2c 8h 9s 8d Jd Kh 4h Ks Ts Ac 6d 2s Tc 9d Kd 5d 9c 8s 7d 6s 8c 2d 3h 2h 5h 7h 7s]
+
+Hand #54428-13 - 2017-05-23 02:13:48
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1113)
+Seat 2: Defecator (5964)
+Seat 3: CLS (900)
+Seat 4: chinkyeyes (1412)
+Seat 5: whynot (6468)
+Seat 6: CoinDoctor (3618)
+whynot has the dealer button
+Jessica posts ante 25
+Defecator posts ante 25
+CLS posts ante 25
+chinkyeyes posts ante 25
+whynot posts ante 25
+CoinDoctor posts ante 25
+CoinDoctor posts small blind 100
+Jessica posts big blind 200
+** Hole Cards ** [6 players]
+Defecator folds
+CLS calls 200
+chinkyeyes calls 200
+whynot calls 200
+CoinDoctor calls 100
+Jessica checks
+** Flop ** [Qh 6h 4h]
+CoinDoctor checks
+Jessica checks
+CLS checks
+chinkyeyes checks
+whynot checks
+** Turn ** [Ac]
+CoinDoctor checks
+Jessica checks
+CLS checks
+chinkyeyes checks
+whynot bets 400
+CoinDoctor folds
+Jessica folds
+CLS folds
+chinkyeyes calls 400
+** River ** [4c]
+chinkyeyes checks
+whynot bets 787
+chinkyeyes calls 787 (All-in)
+** Pot Show Down ** [Qh 6h 4h Ac 4c]
+chinkyeyes shows [7h 5h 7d 9s] (Hi: a Flush, Queen high +7654  Lo: 7654A)
+whynot shows [Jd 4d Ad 3c] (Hi: a Full House, Fours full of Aces  Lo: None)
+whynot wins Hi Pot (1762) with a Full House
+chinkyeyes wins Lo Pot (1762) with 7654A
+** Deck ** [Js 6d 2s 7s 7h Jd 3h 9h 6s 6c 5h 4d Qd 5c Ks 9c 7d Ad Tc 3s 8c 5d 9s 3c Qh 6h 4h Ac 4c]
+
+Hand #54429-14 - 2017-05-23 02:15:26
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (888)
+Seat 2: Defecator (5939)
+Seat 3: CLS (675)
+Seat 4: chinkyeyes (1762)
+Seat 5: whynot (6818)
+Seat 6: CoinDoctor (3393)
+CoinDoctor has the dealer button
+Jessica posts ante 25
+Defecator posts ante 25
+CLS posts ante 25
+chinkyeyes posts ante 25
+whynot posts ante 25
+CoinDoctor posts ante 25
+Jessica posts small blind 100
+Defecator posts big blind 200
+** Hole Cards ** [6 players]
+CLS folds
+chinkyeyes calls 200
+whynot folds
+CoinDoctor calls 200
+Jessica calls 100
+Defecator checks
+** Flop ** [Qh Ac Kd]
+Jessica bets 663 (All-in)
+Defecator calls 663
+chinkyeyes calls 663
+CoinDoctor calls 663
+** Turn ** [6s]
+Defecator checks
+chinkyeyes checks
+CoinDoctor checks
+** River ** [Tc]
+Defecator bets 200
+chinkyeyes calls 200
+CoinDoctor calls 200
+** Side Pot 1 Show Down ** [Qh Ac Kd 6s Tc]
+Defecator shows [Qd 3d 2c Jh] (Hi: a Straight, Ten to Ace  Lo: None)
+chinkyeyes shows [Kh 2d 8h 5s] (Hi: a Pair of Kings +AQ8  Lo: None)
+CoinDoctor shows [8c Td Ks Ad] (Hi: Two Pair, Aces and Kings +Q  Lo: None)
+Defecator wins Side Pot 1 (600) with a Straight
+No low hand qualified
+** Main Pot Show Down ** [Qh Ac Kd 6s Tc]
+Jessica shows [5d 4d Js Qc] (Hi: a Straight, Ten to Ace  Lo: None)
+Jessica splits Main Pot (1801) with a Straight
+Defecator splits Main Pot (1801) with a Straight
+No low hand qualified
+** Deck ** [5d Qd 2s Kh 6h 8c 4d 3d Qs 2d Th Td Js 2c 3h 8h 3s Ks Qc Jh 7s 5s As Ad Qh Ac Kd 6s Tc]
+
+Hand #54430-15 - 2017-05-23 02:16:36
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (1801)
+Seat 2: Defecator (7252)
+Seat 3: CLS (650)
+Seat 4: chinkyeyes (674)
+Seat 5: whynot (6793)
+Seat 6: CoinDoctor (2305)
+Jessica has the dealer button
+Jessica posts ante 25
+Defecator posts ante 25
+CLS posts ante 25
+chinkyeyes posts ante 25
+whynot posts ante 25
+CoinDoctor posts ante 25
+Defecator posts small blind 200
+CLS posts big blind 400
+** Hole Cards ** [6 players]
+chinkyeyes folds
+whynot folds
+CoinDoctor folds
+Jessica raises to 1776 (All-in)
+Defecator folds
+CLS calls 225 (All-in)
+Jessica refunded 1151
+** Flop ** [5d 9s 5h]
+** Turn ** [7s]
+** River ** [9c]
+** Pot Show Down ** [5d 9s 5h 7s 9c]
+Jessica shows [Ks Ac Ad Qd] (Hi: Two Pair, Aces and Nines +7  Lo: None)
+CLS shows [Th 6d Qs Kc] (Hi: a Pair of Nines +KQ7  Lo: None)
+Jessica wins Pot (1600) with Two Pair
+No low hand qualified
+CLS finishes tournament in place #6
+** Deck ** [3s Th Qh 7d 6c Ks 7c 6d 2h 3h 9d Ac 2d Qs 9h Js Td Ad 6s Kc 3d 5s 8h Qd 5d 9s 5h 7s 9c]
+
+Hand #54431-16 - 2017-05-23 02:17:19
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (2751)
+Seat 2: Defecator (7027)
+Seat 4: chinkyeyes (649)
+Seat 5: whynot (6768)
+Seat 6: CoinDoctor (2280)
+Defecator has the dealer button
+Jessica posts ante 25
+Defecator posts ante 25
+chinkyeyes posts ante 25
+whynot posts ante 25
+CoinDoctor posts ante 25
+chinkyeyes posts small blind 200
+whynot posts big blind 400
+** Hole Cards ** [5 players]
+CoinDoctor folds
+Jessica calls 400
+Defecator folds
+chinkyeyes calls 200
+whynot checks
+** Flop ** [Tc Ks 7d]
+chinkyeyes checks
+whynot checks
+Jessica checks
+** Turn ** [Jc]
+chinkyeyes bets 224 (All-in)
+whynot folds
+Jessica calls 224
+** River ** [2h]
+** Pot Show Down ** [Tc Ks 7d Jc 2h]
+Jessica shows [As Ah 6c 2d] (Hi: a Pair of Aces +KJT  Lo: None)
+chinkyeyes shows [Qd 4s Jh 8d] (Hi: a Pair of Jacks +KQT  Lo: None)
+Jessica wins Pot (1773) with a Pair
+No low hand qualified
+chinkyeyes finishes tournament in place #5
+** Deck ** [Qd 7h 4h As Jd 4s Ad Td Ah 3c Jh 6s 4d 6c 3h 8d 5d 9h 2d Ts Tc Ks 7d Jc 2h]
+
+Hand #54432-17 - 2017-05-23 02:18:32
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (3875)
+Seat 2: Defecator (7002)
+Seat 5: whynot (6343)
+Seat 6: CoinDoctor (2255)
+whynot has the dealer button
+Jessica posts ante 25
+Defecator posts ante 25
+whynot posts ante 25
+CoinDoctor posts ante 25
+CoinDoctor posts small blind 200
+Jessica posts big blind 400
+** Hole Cards ** [4 players]
+Defecator folds
+whynot folds
+CoinDoctor calls 200
+Jessica checks
+** Flop ** [Th Js Tc]
+CoinDoctor bets 1200
+Jessica folds
+CoinDoctor refunded 1200
+CoinDoctor wins Pot (900)
+** Deck ** [6c 3h 8h 9d 9s Jc Td 5c 4c 5d 3s 7s Ts 2d Qh 9h Th Js Tc]
+
+Hand #54433-18 - 2017-05-23 02:19:21
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (3450)
+Seat 2: Defecator (6977)
+Seat 5: whynot (6318)
+Seat 6: CoinDoctor (2730)
+CoinDoctor has the dealer button
+Jessica posts ante 50
+Defecator posts ante 50
+whynot posts ante 50
+CoinDoctor posts ante 50
+Jessica posts small blind 300
+Defecator posts big blind 600
+** Hole Cards ** [4 players]
+whynot folds
+CoinDoctor calls 600
+Jessica folds
+Defecator checks
+** Flop ** [7h Qs Kd]
+Defecator checks
+CoinDoctor checks
+** Turn ** [Qd]
+Defecator bets 600
+CoinDoctor folds
+Defecator refunded 600
+Defecator wins Pot (1700)
+** Deck ** [9d Qc Td 5s 2s 8s Ks Ac 7c 4d 2c 8c Jc 3h 6d 9s 7h Qs Kd Qd]
+
+Hand #54434-19 - 2017-05-23 02:20:13
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (3100)
+Seat 2: Defecator (8027)
+Seat 5: whynot (6268)
+Seat 6: CoinDoctor (2080)
+Jessica has the dealer button
+Jessica posts ante 50
+Defecator posts ante 50
+whynot posts ante 50
+CoinDoctor posts ante 50
+Defecator posts small blind 300
+whynot posts big blind 600
+** Hole Cards ** [4 players]
+CoinDoctor folds
+Jessica folds
+Defecator calls 300
+whynot checks
+** Flop ** [7d 6h 9c]
+Defecator checks
+whynot bets 1200
+Defecator folds
+whynot refunded 1200
+whynot wins Pot (1400)
+** Deck ** [4h 8c Ts 3c Ac 9h Ad 8s 9d Tc 6c 8h Jc 6s Js 9s 7d 6h 9c]
+
+Hand #54435-20 - 2017-05-23 02:20:56
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (3050)
+Seat 2: Defecator (7377)
+Seat 5: whynot (7018)
+Seat 6: CoinDoctor (2030)
+Defecator has the dealer button
+Jessica posts ante 50
+Defecator posts ante 50
+whynot posts ante 50
+CoinDoctor posts ante 50
+whynot posts small blind 300
+CoinDoctor posts big blind 600
+** Hole Cards ** [4 players]
+Jessica folds
+Defecator calls 600
+whynot calls 300
+CoinDoctor raises to 1200
+Defecator calls 600
+whynot calls 600
+** Flop ** [Td 4s 6d]
+whynot checks
+CoinDoctor bets 780 (All-in)
+Defecator calls 780
+whynot folds
+** Turn ** [Qh]
+** River ** [8h]
+** Pot Show Down ** [Td 4s 6d Qh 8h]
+Defecator shows [Jc 5c 4h 5d] (Hi: a Pair of Fives +QT8  Lo: None)
+CoinDoctor shows [Jd Ac Kd Th] (Hi: a Pair of Tens +AQ8  Lo: None)
+CoinDoctor wins Pot (5360) with a Pair
+No low hand qualified
+** Deck ** [Jh Jd 9h Jc 8s Ac 3d 5c Ad Kd Ts 4h Qc Th 9s 5d Td 4s 6d Qh 8h]
+
+Hand #54436-21 - 2017-05-23 02:21:52
+Game: NL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (3000)
+Seat 2: Defecator (5347)
+Seat 5: whynot (5768)
+Seat 6: CoinDoctor (5360)
+whynot has the dealer button
+Jessica posts ante 50
+Defecator posts ante 50
+whynot posts ante 50
+CoinDoctor posts ante 50
+CoinDoctor posts small blind 400
+Jessica posts big blind 800
+** Hole Cards ** [4 players]
+Defecator folds
+whynot calls 800
+CoinDoctor calls 400
+Jessica checks
+** Flop ** [3d 9s 8h]
+CoinDoctor checks
+Jessica bets 2150 (All-in)
+whynot folds
+CoinDoctor calls 2150
+** Turn ** [6h]
+** River ** [6c]
+** Pot Show Down ** [3d 9s 8h 6h 6c]
+Jessica shows [Jh 8d Qc 8s] (Hi: a Full House, Eights full of Sixes  Lo: None)
+CoinDoctor shows [Jc Kc Jd Kh] (Hi: Two Pair, Kings and Sixes +9  Lo: None)
+Jessica wins Pot (6900) with a Full House
+No low hand qualified
+** Deck ** [Jc Jh Td 7h Kc 8d 4d 2d Jd Qc 2c Ah Kh 8s 7c Qs 3d 9s 8h 6h 6c]
+
+Hand #54437-22 - 2017-05-23 02:22:57
+Game: NL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (6900)
+Seat 2: Defecator (5297)
+Seat 5: whynot (4918)
+Seat 6: CoinDoctor (2360)
+CoinDoctor has the dealer button
+Jessica posts ante 50
+Defecator posts ante 50
+whynot posts ante 50
+CoinDoctor posts ante 50
+Jessica posts small blind 400
+Defecator posts big blind 800
+** Hole Cards ** [4 players]
+whynot folds
+CoinDoctor raises to 2310 (All-in)
+Jessica folds
+Defecator folds
+CoinDoctor refunded 1510
+CoinDoctor wins Pot (2200)
+** Deck ** [6c Th 4s Qh Ts 4d 7h Ks 6s As 3h Ad Js 8s 9h Jh]
+
+Hand #54438-23 - 2017-05-23 02:23:36
+Game: NL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (6450)
+Seat 2: Defecator (4447)
+Seat 5: whynot (4868)
+Seat 6: CoinDoctor (3710)
+Jessica has the dealer button
+Jessica posts ante 50
+Defecator posts ante 50
+whynot posts ante 50
+CoinDoctor posts ante 50
+Defecator posts small blind 400
+whynot posts big blind 800
+** Hole Cards ** [4 players]
+CoinDoctor folds
+Jessica folds
+Defecator raises to 2600
+whynot raises to 4818 (All-in)
+Defecator calls 1797 (All-in)
+whynot refunded 421
+** Flop ** [2c Kd Ts]
+** Turn ** [2d]
+** River ** [Jh]
+** Pot Show Down ** [2c Kd Ts 2d Jh]
+Defecator shows [5c 5d 5h 4s] (Hi: Two Pair, Fives and Deuces +K  Lo: None)
+whynot shows [4h Qh Kc Jd] (Hi: Two Pair, Kings and Jacks +T  Lo: None)
+whynot wins Pot (8994) with Two Pair
+No low hand qualified
+Defecator finishes tournament in place #4 and wins 40 chips
+** Deck ** [5c 4h 2s 8c 5d Qh Th Js 5h Kc 7d Ks 4s Jd Td Jc 2c Kd Ts 2d Jh]
+
+Hand #54439-24 - 2017-05-23 02:24:09
+Game: NL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (6400)
+Seat 5: whynot (9415)
+Seat 6: CoinDoctor (3660)
+whynot has the dealer button
+Jessica posts ante 50
+whynot posts ante 50
+CoinDoctor posts ante 50
+CoinDoctor posts small blind 400
+Jessica posts big blind 800
+** Hole Cards ** [3 players]
+whynot folds
+CoinDoctor calls 400
+Jessica checks
+** Flop ** [5h Qc Jd]
+CoinDoctor checks
+Jessica checks
+** Turn ** [7s]
+CoinDoctor checks
+Jessica checks
+** River ** [7d]
+CoinDoctor checks
+Jessica checks
+** Pot Show Down ** [5h Qc Jd 7s 7d]
+Jessica shows [Th Ts 4d Ac] (Hi: Two Pair, Tens and Sevens +Q  Lo: None)
+CoinDoctor shows [2h Td 4c As] (Hi: a Pair of Sevens +AQT  Lo: None)
+Jessica wins Pot (1750) with Two Pair
+No low hand qualified
+** Deck ** [2h Th 6d Td Ts Kd 4c 4d 3h As Ac Jc 5h Qc Jd 7s 7d]
+
+Hand #54440-25 - 2017-05-23 02:24:59
+Game: NL Omaha Hi-Lo (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (7300)
+Seat 5: whynot (9365)
+Seat 6: CoinDoctor (2810)
+CoinDoctor has the dealer button
+Jessica posts ante 75
+whynot posts ante 75
+CoinDoctor posts ante 75
+Jessica posts small blind 600
+whynot posts big blind 1200
+** Hole Cards ** [3 players]
+CoinDoctor folds
+Jessica calls 600
+whynot checks
+** Flop ** [4d 5s 6s]
+Jessica checks
+whynot bets 8090 (All-in)
+Jessica folds
+whynot refunded 8090
+whynot wins Pot (2625)
+** Deck ** [5c 3s 6d Qd 4s 6h Tc Kc 7s Qh Qs Kh 4d 5s 6s]
+
+Hand #54441-26 - 2017-05-23 02:25:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (6025)
+Seat 5: whynot (10715)
+Seat 6: CoinDoctor (2735)
+Jessica has the dealer button
+Jessica posts ante 75
+whynot posts ante 75
+CoinDoctor posts ante 75
+whynot posts small blind 600
+CoinDoctor posts big blind 1200
+** Hole Cards ** [3 players]
+Jessica folds
+whynot raises to 4800
+CoinDoctor calls 1460 (All-in)
+whynot refunded 2140
+** Flop ** [6c 8h Qd]
+** Turn ** [Kh]
+** River ** [8s]
+** Pot Show Down ** [6c 8h Qd Kh 8s]
+whynot shows [9d Qh Ah Ts] (Hi: Two Pair, Queens and Eights +A  Lo: None)
+CoinDoctor shows [3c Ac 5d 4d] (Hi: a Pair of Eights +AK5  Lo: None)
+whynot wins Pot (5545) with Two Pair
+No low hand qualified
+CoinDoctor finishes tournament in place #3 and wins 80 chips
+** Deck ** [9d 3c 4c Qh Ac 9h Ah 5d Js Ts 4d 4h 6c 8h Qd Kh 8s]
+
+Hand #54442-27 - 2017-05-23 02:26:06
+Game: NL Omaha Hi-Lo (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (5950)
+Seat 5: whynot (13525)
+whynot has the dealer button
+Jessica posts ante 75
+whynot posts ante 75
+whynot posts small blind 600
+Jessica posts big blind 1200
+** Hole Cards ** [2 players]
+whynot calls 600
+Jessica checks
+** Flop ** [4h 7s 2d]
+Jessica checks
+whynot checks
+** Turn ** [Jd]
+Jessica checks
+whynot checks
+** River ** [2h]
+Jessica checks
+whynot checks
+** Pot Show Down ** [4h 7s 2d Jd 2h]
+Jessica shows [Kc 9h 4s 8c] (Hi: Two Pair, Fours and Deuces +K  Lo: None)
+whynot shows [Qd 5s Kd 9d] (Hi: a Pair of Deuces +KQJ  Lo: None)
+Jessica wins Pot (2550) with Two Pair
+No low hand qualified
+** Deck ** [Kc Qd 9h 5s 4s Kd 8c 9d 4h 7s 2d Jd 2h]
+
+Hand #54443-28 - 2017-05-23 02:26:48
+Game: NL Omaha Hi-Lo (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (7225)
+Seat 5: whynot (12250)
+Jessica has the dealer button
+Jessica posts ante 75
+whynot posts ante 75
+Jessica posts small blind 600
+whynot posts big blind 1200
+** Hole Cards ** [2 players]
+Jessica calls 600
+whynot checks
+** Flop ** [7c Kd 6h]
+whynot checks
+Jessica checks
+** Turn ** [Qd]
+whynot checks
+Jessica checks
+** River ** [5d]
+whynot bets 1200
+Jessica calls 1200
+** Pot Show Down ** [7c Kd 6h Qd 5d]
+Jessica shows [Ad Jd 2s 8h] (Hi: a Flush, Ace high +KQJ5  Lo: 7652A)
+whynot shows [6c Td 8d 2h] (Hi: a Flush, King high +QT85  Lo: 87652)
+Jessica wins Hi Pot (2475) with a Flush
+Jessica wins Lo Pot (2475) with 7652A
+** Deck ** [6c Ad Td Jd 8d 2s 2h 8h 7c Kd 6h Qd 5d]
+
+Hand #54444-29 - 2017-05-23 02:27:33
+Game: NL Omaha Hi-Lo (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (9700)
+Seat 5: whynot (9775)
+whynot has the dealer button
+Jessica posts ante 75
+whynot posts ante 75
+whynot posts small blind 600
+Jessica posts big blind 1200
+** Hole Cards ** [2 players]
+whynot raises to 9700 (All-in)
+Jessica folds
+whynot refunded 8500
+whynot wins Pot (2550)
+** Deck ** [7d 7c 2c Kh Qd Jd 3d Ks]
+
+Hand #54445-30 - 2017-05-23 02:27:50
+Game: NL Omaha Hi-Lo (0+0) - Blinds 800/1600 Ante 75
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (8425)
+Seat 5: whynot (11050)
+Jessica has the dealer button
+Jessica posts ante 75
+whynot posts ante 75
+Jessica posts small blind 800
+whynot posts big blind 1600
+** Hole Cards ** [2 players]
+Jessica folds
+whynot refunded 800
+whynot wins Pot (1750)
+** Deck ** [Jc 2d 5h Qd 9s 5c 8h 9h]
+
+Hand #54446-31 - 2017-05-23 02:28:04
+Game: NL Omaha Hi-Lo (0+0) - Blinds 800/1600 Ante 75
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (7550)
+Seat 5: whynot (11925)
+whynot has the dealer button
+Jessica posts ante 75
+whynot posts ante 75
+whynot posts small blind 800
+Jessica posts big blind 1600
+** Hole Cards ** [2 players]
+whynot raises to 11850 (All-in)
+Jessica folds
+whynot refunded 10250
+whynot wins Pot (3350)
+** Deck ** [3s Ad 8s 4d Tc Kc 2s 9c]
+
+Hand #54447-32 - 2017-05-23 02:28:20
+Game: NL Omaha Hi-Lo (0+0) - Blinds 800/1600 Ante 75
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (5875)
+Seat 5: whynot (13600)
+Jessica has the dealer button
+Jessica posts ante 75
+whynot posts ante 75
+Jessica posts small blind 800
+whynot posts big blind 1600
+** Hole Cards ** [2 players]
+Jessica raises to 5800 (All-in)
+whynot calls 4200
+** Flop ** [2s 8d Kc]
+** Turn ** [5h]
+** River ** [Ts]
+** Pot Show Down ** [2s 8d Kc 5h Ts]
+Jessica shows [8h 3s 4d 5c] (Hi: Two Pair, Eights and Fives +K  Lo: 85432)
+whynot shows [6d Tc Jc 9d] (Hi: a Pair of Tens +KJ8  Lo: None)
+Jessica wins Hi Pot (5875) with Two Pair
+Jessica wins Lo Pot (5875) with 85432
+** Deck ** [6d 8h Tc 3s Jc 4d 9d 5c 2s 8d Kc 5h Ts]
+
+Hand #54448-33 - 2017-05-23 02:28:46
+Game: NL Omaha Hi-Lo (0+0) - Blinds 800/1600 Ante 75
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (11750)
+Seat 5: whynot (7725)
+whynot has the dealer button
+Jessica posts ante 75
+whynot posts ante 75
+whynot posts small blind 800
+Jessica posts big blind 1600
+** Hole Cards ** [2 players]
+whynot raises to 7650 (All-in)
+Jessica calls 6050
+** Flop ** [5h 7s Ad]
+** Turn ** [7d]
+** River ** [9h]
+** Pot Show Down ** [5h 7s Ad 7d 9h]
+Jessica shows [Th Td 7h Js] (Hi: Three of a Kind, Sevens +AJ  Lo: None)
+whynot shows [8c 3d Jc Qd] (Hi: a Pair of Sevens +AQJ  Lo: 8753A)
+Jessica wins Hi Pot (7725) with Three of a Kind
+whynot wins Lo Pot (7725) with 8753A
+** Deck ** [Th 8c Td 3d 7h Jc Js Qd 5h 7s Ad 7d 9h]
+
+Hand #54449-34 - 2017-05-23 02:29:09
+Game: NL Omaha Hi-Lo (0+0) - Blinds 800/1600 Ante 75
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: Jessica (11750)
+Seat 5: whynot (7725)
+Jessica has the dealer button
+Jessica posts ante 75
+whynot posts ante 75
+Jessica posts small blind 800
+whynot posts big blind 1600
+** Hole Cards ** [2 players]
+Jessica raises to 6400
+whynot raises to 7650 (All-in)
+Jessica calls 1250
+** Flop ** [Ks 8d 2h]
+** Turn ** [5c]
+** River ** [9s]
+** Pot Show Down ** [Ks 8d 2h 5c 9s]
+Jessica shows [Qc 9d Ac 3h] (Hi: a Pair of Nines +AK8  Lo: 8532A)
+whynot shows [Jd 4s 5s Ad] (Hi: a Pair of Fives +AK9  Lo: 8542A)
+Jessica wins Hi Pot (7725) with a Pair
+Jessica wins Lo Pot (7725) with 8532A
+whynot finishes tournament in place #2 and wins 120 chips
+Jessica finishes tournament in place #1 and wins 160 chips
+** Deck ** [Jd Qc 4s 9d 5s Ac Ad 3h Ks 8d 2h 5c 9s]
+
+Starting tournament 1326
+
+Hand #54831-1 - 2017-05-23 06:00:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: dynalyn0504 (1500) - sitting out
+Seat 2: novcom (1500) - sitting out
+Seat 3: diamond (1500)
+Seat 4: pokertron (1500) - sitting out
+Seat 6: bspus (1500)
+dynalyn0504 has the dealer button
+novcom posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [5 players]
+pokertron folds
+bspus folds
+dynalyn0504 folds
+novcom folds
+diamond refunded 25
+diamond wins Pot (50)
+** Deck ** [9c 8s 6s Qs 8d 2d Tc 7s 5h 5s 4s Kd 3h 9s Qc Ad 5d 4c Jc 2c]
+
+Hand #54834-2 - 2017-05-23 06:00:52
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: dynalyn0504 (1500) - sitting out
+Seat 2: novcom (1475) - sitting out
+Seat 3: diamond (1525)
+Seat 4: pokertron (1500) - sitting out
+Seat 6: bspus (1500)
+novcom has the dealer button
+diamond posts small blind 25
+pokertron posts big blind 50
+** Hole Cards ** [5 players]
+bspus calls 50
+dynalyn0504 folds
+novcom folds
+diamond calls 25
+pokertron raises to 1500 (All-in)
+bspus calls 1450 (All-in)
+diamond folds
+** Flop ** [Th Ac 7c]
+** Turn ** [Qs]
+** River ** [Jh]
+** Pot Show Down ** [Th Ac 7c Qs Jh]
+pokertron shows [9s 6d 2h 7s] (Hi: a Pair of Sevens +AQ9  Lo: None)
+bspus shows [3h 4c 7h 3c] (Hi: a Pair of Sevens +AQ4  Lo: None)
+pokertron wins Pot (3050) with a Pair
+No low hand qualified
+bspus finishes tournament in place #14
+** Deck ** [5c 9s 3h Kc 8d 6c 6d 4c Qd 2c 5h 2h 7h 4d 9h 3s 7s 3c Jc 2d Th Ac 7c Qs Jh]
+
+Hand #54836-3 - 2017-05-23 06:01:23
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: dynalyn0504 (1500) - sitting out
+Seat 2: novcom (1475) - sitting out
+Seat 3: diamond (1475)
+Seat 4: pokertron (3050)
+diamond has the dealer button
+pokertron posts small blind 25
+dynalyn0504 posts big blind 50
+** Hole Cards ** [4 players]
+novcom folds
+diamond calls 50
+pokertron raises to 150
+dynalyn0504 folds
+diamond folds
+pokertron refunded 100
+pokertron wins Pot (150)
+** Deck ** [Kd 8s 2s Js 5c Qc Ts 6c 3h 4d 8c Tc 2c 8h Ah 2d]
+
+Hand #54838-4 - 2017-05-23 06:01:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: dynalyn0504 (1450) - sitting out
+Seat 2: novcom (1475) - sitting out
+Seat 3: diamond (1425)
+Seat 4: pokertron (3150)
+pokertron has the dealer button
+dynalyn0504 posts small blind 25
+novcom posts big blind 50
+** Hole Cards ** [4 players]
+diamond calls 50
+pokertron calls 50
+dynalyn0504 folds
+novcom folds
+** Flop ** [Kd 2h As]
+diamond checks
+pokertron bets 150
+diamond folds
+pokertron refunded 150
+pokertron wins Pot (175)
+** Deck ** [2s 6d 9s 8h Qc Jc 9d Tc Qh 3h 8d 4c Jd 5c 7c 3s Kd 2h As]
+
+Hand #54840-5 - 2017-05-23 06:02:06
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: dynalyn0504 (1425) - sitting out
+Seat 2: novcom (1425) - sitting out
+Seat 3: diamond (1375)
+Seat 4: pokertron (3275)
+dynalyn0504 has the dealer button
+novcom posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [4 players]
+pokertron raises to 3275 (All-in)
+dynalyn0504 folds
+novcom folds
+diamond folds
+pokertron refunded 3225
+pokertron wins Pot (125)
+** Deck ** [6h 2s 2d Kh 3d 7h 8s 4s 2h Td 3h Ks 7d 3s 4d 9d]
+
+Hand #54841-6 - 2017-05-23 06:02:18
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: dynalyn0504 (1425) - sitting out
+Seat 2: novcom (1400) - sitting out
+Seat 3: diamond (1325)
+Seat 4: pokertron (3350)
+novcom has the dealer button
+diamond posts small blind 25
+pokertron posts big blind 50
+** Hole Cards ** [4 players]
+dynalyn0504 folds
+novcom folds
+diamond raises to 1325 (All-in)
+pokertron calls 1275
+** Flop ** [8s Td 5s]
+** Turn ** [8c]
+** River ** [9s]
+** Pot Show Down ** [8s Td 5s 8c 9s]
+diamond shows [Ks 6d As Th] (Hi: a Flush, Ace high +K985  Lo: None)
+pokertron shows [4c Ts 9c 2c] (Hi: Two Pair, Tens and Nines +8  Lo: None)
+diamond wins Pot (2650) with a Flush
+No low hand qualified
+** Deck ** [Ks 4c 2s 7h 6d Ts 4d Js As 9c 5c 7d Th 2c 6s Kc 8s Td 5s 8c 9s]
+
+Hand #54844-7 - 2017-05-23 06:02:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: dynalyn0504 (1425) - sitting out
+Seat 2: novcom (1400) - sitting out
+Seat 3: diamond (2650)
+Seat 4: pokertron (2025)
+diamond has the dealer button
+pokertron posts small blind 25
+dynalyn0504 posts big blind 50
+** Hole Cards ** [4 players]
+novcom folds
+diamond calls 50
+pokertron calls 25
+dynalyn0504 folds
+** Flop ** [Js 7c Jc]
+pokertron bets 50
+diamond calls 50
+** Turn ** [7h]
+pokertron checks
+diamond checks
+** River ** [4d]
+pokertron checks
+diamond checks
+** Pot Show Down ** [Js 7c Jc 7h 4d]
+diamond shows [Qc 9h 8s 2d] (Hi: a Pair of Jacks +Q97  Lo: None)
+pokertron shows [5c 8c 5s Qh] (Hi: Two Pair, Jacks and Fives +7  Lo: None)
+pokertron wins Pot (250) with Two Pair
+No low hand qualified
+** Deck ** [5c Qs 5h Qc 8c 4s 7s 9h 5s Kc 3c 8s Qh 9c Kd 2d Js 7c Jc 7h 4d]
+
+Hand #54846-8 - 2017-05-23 06:03:16
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: dynalyn0504 (1375) - sitting out
+Seat 2: novcom (1400) - sitting out
+Seat 3: diamond (2550)
+Seat 4: pokertron (2175)
+pokertron has the dealer button
+dynalyn0504 posts small blind 25
+novcom posts big blind 50
+** Hole Cards ** [4 players]
+diamond calls 50
+pokertron calls 50
+dynalyn0504 folds
+novcom folds
+** Flop ** [7c Tc 4c]
+diamond checks
+pokertron checks
+** Turn ** [3d]
+diamond bets 50
+pokertron calls 50
+** River ** [6c]
+diamond bets 50
+pokertron calls 50
+** Pot Show Down ** [7c Tc 4c 3d 6c]
+diamond shows [3s Qs 4h 7h] (Hi: Two Pair, Sevens and Fours +T  Lo: None)
+pokertron shows [Jd Ah Ts 5s] (Hi: a Pair of Tens +A76  Lo: 6543A)
+diamond wins Hi Pot (188) with Two Pair
+pokertron wins Lo Pot (187) with 6543A
+** Deck ** [Th 9d 3s Jd 8s 7s Qs Ah 5d 6h 4h Ts Qh 8h 7h 5s 7c Tc 4c 3d 6c]
+
+Hand #54851-9 - 2017-05-23 06:04:19
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: dynalyn0504 (1350) - sitting out
+Seat 2: novcom (1350) - sitting out
+Seat 3: diamond (2588)
+Seat 4: pokertron (2212)
+dynalyn0504 has the dealer button
+novcom posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [4 players]
+pokertron raises to 2212 (All-in)
+dynalyn0504 folds
+novcom folds
+diamond folds
+pokertron refunded 2112
+pokertron wins Pot (250)
+** Deck ** [8c Ad 2s 5d 6s 2h 5s Qc 2d 9h 2c Ah Ac Tc Kh 4c]
+
+Hand #54852-10 - 2017-05-23 06:04:31
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: dynalyn0504 (1350) - sitting out
+Seat 2: novcom (1300) - sitting out
+Seat 3: diamond (2488)
+Seat 4: pokertron (2362)
+novcom has the dealer button
+diamond posts small blind 50
+pokertron posts big blind 100
+** Hole Cards ** [4 players]
+dynalyn0504 folds
+novcom folds
+diamond folds
+pokertron refunded 50
+pokertron wins Pot (100)
+** Deck ** [3c Jd Jc Js 5h Kh 8c 3d 9d 4h 5d 3s 7d Ad 9s 3h]
+
+Hand #54853-11 - 2017-05-23 06:04:42
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: dynalyn0504 (1350) - sitting out
+Seat 2: novcom (1300) - sitting out
+Seat 3: diamond (2438)
+Seat 4: pokertron (2412)
+diamond has the dealer button
+pokertron posts small blind 50
+dynalyn0504 posts big blind 100
+** Hole Cards ** [4 players]
+novcom folds
+diamond calls 100
+pokertron calls 50
+dynalyn0504 folds
+** Flop ** [5s 2c Td]
+pokertron checks
+diamond checks
+** Turn ** [4s]
+pokertron bets 100
+diamond calls 100
+** River ** [Ts]
+pokertron bets 100
+diamond folds
+pokertron refunded 100
+pokertron wins Pot (500)
+** Deck ** [4d 8s Ks 7c Kc 2s 9s 6s 7d Js 6c Qh 6d Th 3s 9d 5s 2c Td 4s Ts]
+
+Hand #54856-12 - 2017-05-23 06:05:31
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: dynalyn0504 (1250) - sitting out
+Seat 2: novcom (1300) - sitting out
+Seat 3: diamond (2238)
+Seat 4: pokertron (2712)
+pokertron has the dealer button
+dynalyn0504 posts small blind 50
+novcom posts big blind 100
+** Hole Cards ** [4 players]
+diamond raises to 2238 (All-in)
+pokertron calls 2238
+dynalyn0504 folds
+novcom folds
+** Flop ** [Tc 6c 2s]
+** Turn ** [3s]
+** River ** [Th]
+** Pot Show Down ** [Tc 6c 2s 3s Th]
+diamond shows [Qd Jd 5c As] (Hi: a Pair of Tens +AQ6  Lo: 6532A)
+pokertron shows [9c Ks 7c Ac] (Hi: a Pair of Tens +AK6  Lo: 7632A)
+pokertron wins Hi Pot (2313) with a Pair
+diamond wins Lo Pot (2313) with 6532A
+Absent player dynalyn0504 removed from tournament
+Absent player novcom removed from tournament
+** Deck ** [6h 2c Qd 9c Kc Ad Jd Ks Jc 2d 5c 7c Qs 4c As Ac Tc 6c 2s 3s Th]
+
+diamond moved to Table 3
+
+pokertron moved to Table 3
+
+Starting tournament 1330
+
+Hand #55108-1 - 2017-05-23 10:00:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: dynalyn0504 (1500) - sitting out
+Seat 3: Ruphus (1500) - sitting out
+Seat 4: killsaids (1500)
+Seat 5: AlphaWolf (1500)
+Seat 6: triat (1500) - sitting out
+dynalyn0504 has the dealer button
+Ruphus posts small blind 25
+killsaids posts big blind 50
+** Hole Cards ** [5 players]
+AlphaWolf calls 50
+triat folds
+dynalyn0504 folds
+Ruphus folds
+killsaids checks
+** Flop ** [9s 4d 9c]
+killsaids checks
+AlphaWolf checks
+** Turn ** [4s]
+killsaids checks
+AlphaWolf checks
+** River ** [Tc]
+killsaids checks
+AlphaWolf checks
+** Pot Show Down ** [9s 4d 9c 4s Tc]
+killsaids shows [Qs 5c 2d Jd] (Hi: a Pair of Nines +QJT  Lo: None)
+AlphaWolf shows [2h 8h 2c 3s] (Hi: Two Pair, Nines and Deuces +T  Lo: None)
+AlphaWolf wins Pot (125) with Two Pair
+No low hand qualified
+** Deck ** [9d Qs 2h Ac Qd 7d 5c 8h Jc Qc Jh 2d 2c 7h Ts 7s Jd 3s 5s 2s 9s 4d 9c 4s Tc]
+
+Hand #55110-2 - 2017-05-23 10:01:31
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: dynalyn0504 (1500) - sitting out
+Seat 3: Ruphus (1475) - sitting out
+Seat 4: killsaids (1450)
+Seat 5: AlphaWolf (1575)
+Seat 6: triat (1500) - sitting out
+Ruphus has the dealer button
+killsaids posts small blind 25
+AlphaWolf posts big blind 50
+** Hole Cards ** [5 players]
+triat folds
+dynalyn0504 folds
+Ruphus folds
+killsaids raises to 100
+AlphaWolf calls 50
+** Flop ** [Th 6s Ad]
+killsaids bets 100
+AlphaWolf calls 100
+** Turn ** [5h]
+killsaids checks
+AlphaWolf bets 50
+killsaids calls 50
+** River ** [5s]
+killsaids checks
+AlphaWolf checks
+** Pot Show Down ** [Th 6s Ad 5h 5s]
+killsaids shows [Jc 9d Ks Tc] (Hi: Two Pair, Tens and Fives +K  Lo: None)
+AlphaWolf shows [4c Ah 6h 2d] (Hi: Two Pair, Aces and Sixes +T  Lo: 6542A)
+AlphaWolf wins Hi Pot (250) with Two Pair
+AlphaWolf wins Lo Pot (250) with 6542A
+** Deck ** [Jc 4c 7c 6c 8h 9d Ah Kh 8s 4s Ks 6h 2c 2h 9h Tc 2d Js 2s 7h Th 6s Ad 5h 5s]
+
+Hand #55111-3 - 2017-05-23 10:02:21
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: dynalyn0504 (1500) - sitting out
+Seat 3: Ruphus (1475) - sitting out
+Seat 4: killsaids (1200)
+Seat 5: AlphaWolf (1825)
+Seat 6: triat (1500) - sitting out
+killsaids has the dealer button
+AlphaWolf posts small blind 25
+triat posts big blind 50
+** Hole Cards ** [5 players]
+dynalyn0504 folds
+Ruphus folds
+killsaids raises to 100
+AlphaWolf calls 75
+triat folds
+** Flop ** [Ts Jc Jh]
+AlphaWolf checks
+killsaids bets 125
+AlphaWolf calls 125
+** Turn ** [9d]
+AlphaWolf checks
+killsaids checks
+** River ** [6s]
+AlphaWolf bets 500
+killsaids folds
+AlphaWolf refunded 500
+AlphaWolf wins Pot (500)
+** Deck ** [Kc 5h Qd 3h 7d 6h Qs 8h 9h 9c Ad Qh Jd Ac 4s As Td Js 5c 7h Ts Jc Jh 9d 6s]
+
+Hand #55113-4 - 2017-05-23 10:03:14
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: dynalyn0504 (1500) - sitting out
+Seat 3: Ruphus (1475) - sitting out
+Seat 4: killsaids (975)
+Seat 5: AlphaWolf (2100)
+Seat 6: triat (1450) - sitting out
+AlphaWolf has the dealer button
+triat posts small blind 25
+dynalyn0504 posts big blind 50
+** Hole Cards ** [5 players]
+Ruphus folds
+killsaids raises to 100
+AlphaWolf calls 100
+triat folds
+dynalyn0504 folds
+** Flop ** [6s 3c Qc]
+killsaids bets 183
+AlphaWolf raises to 824
+killsaids raises to 875 (All-in)
+AlphaWolf calls 51
+** Turn ** [As]
+** River ** [8d]
+** Pot Show Down ** [6s 3c Qc As 8d]
+killsaids shows [Ks Jc 8c 4s] (Hi: a Pair of Eights +AKQ  Lo: 8643A)
+AlphaWolf shows [6d 4d 3h Qh] (Hi: Two Pair, Queens and Sixes +A  Lo: 8643A)
+AlphaWolf wins Hi Pot (1013) with Two Pair
+killsaids splits Lo Pot (506) with 8643A
+AlphaWolf splits Lo Pot (506) with 8643A
+** Deck ** [3s 9h Ah Ks 6d 7s Jh Qd Jc 4d 7d 2s 6h 8c 3h 5d Qs Th 4s Qh 6s 3c Qc As 8d]
+
+Hand #55115-5 - 2017-05-23 10:04:00
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: dynalyn0504 (1450) - sitting out
+Seat 3: Ruphus (1475) - sitting out
+Seat 4: killsaids (506)
+Seat 5: AlphaWolf (2644)
+Seat 6: triat (1425) - sitting out
+triat has the dealer button
+dynalyn0504 posts small blind 50
+Ruphus posts big blind 100
+** Hole Cards ** [5 players]
+killsaids folds
+AlphaWolf calls 100
+triat folds
+dynalyn0504 folds
+Ruphus folds
+AlphaWolf wins Pot (250)
+** Deck ** [5h 2h Js Ac As Ah 6d 4h 3h 2c Ks Jh 7h 8d 9h 8s 9d 2s Jd 4c]
+
+Hand #55116-6 - 2017-05-23 10:04:13
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: dynalyn0504 (1400) - sitting out
+Seat 3: Ruphus (1375) - sitting out
+Seat 4: killsaids (506)
+Seat 5: AlphaWolf (2794)
+Seat 6: triat (1425) - sitting out
+dynalyn0504 has the dealer button
+Ruphus posts small blind 50
+killsaids posts big blind 100
+** Hole Cards ** [5 players]
+AlphaWolf calls 100
+triat folds
+dynalyn0504 folds
+Ruphus folds
+killsaids checks
+** Flop ** [7d Tc 9h]
+killsaids checks
+AlphaWolf bets 250
+killsaids folds
+AlphaWolf refunded 250
+AlphaWolf wins Pot (250)
+** Deck ** [6h 3s Ac 3h Ah 4h 4c 9d As 2c Jc 3d Td 6s 4d Ad 8s 2d Jh Th 7d Tc 9h]
+
+Hand #55117-7 - 2017-05-23 10:04:38
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: dynalyn0504 (1400) - sitting out
+Seat 3: Ruphus (1325) - sitting out
+Seat 4: killsaids (406)
+Seat 5: AlphaWolf (2944)
+Seat 6: triat (1425) - sitting out
+Ruphus has the dealer button
+killsaids posts small blind 50
+AlphaWolf posts big blind 100
+** Hole Cards ** [5 players]
+triat folds
+dynalyn0504 folds
+Ruphus folds
+killsaids raises to 406 (All-in)
+AlphaWolf calls 306
+** Flop ** [8c Td 8d]
+** Turn ** [7h]
+** River ** [6h]
+** Pot Show Down ** [8c Td 8d 7h 6h]
+killsaids shows [7s 9d Jc 9c] (Hi: a Straight, Seven to Jack  Lo: None)
+AlphaWolf shows [3h Kd 5h Jd] (Hi: a Pair of Eights +KJT  Lo: 87653)
+killsaids wins Hi Pot (406) with a Straight
+AlphaWolf wins Lo Pot (406) with 87653
+** Deck ** [7s 3h Ac 4s 9s 9d Kd Qd Tc 7c Jc 5h 2d 3d Ad 9c Jd 4h Ts 5d 8c Td 8d 7h 6h]
+
+Hand #55118-8 - 2017-05-23 10:05:02
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: dynalyn0504 (1400) - sitting out
+Seat 3: Ruphus (1325) - sitting out
+Seat 4: killsaids (406)
+Seat 5: AlphaWolf (2944)
+Seat 6: triat (1425) - sitting out
+killsaids has the dealer button
+AlphaWolf posts small blind 50
+triat posts big blind 100
+** Hole Cards ** [5 players]
+dynalyn0504 folds
+Ruphus folds
+killsaids raises to 300
+AlphaWolf raises to 500
+triat calls 400
+killsaids calls 106 (All-in)
+** Flop ** [5c Js 3s]
+AlphaWolf checks
+triat checks
+** Turn ** [7s]
+AlphaWolf bets 100
+triat calls 100
+** River ** [Jd]
+AlphaWolf checks
+triat bets 825 (All-in)
+AlphaWolf calls 825
+** Side Pot 1 Show Down ** [5c Js 3s 7s Jd]
+AlphaWolf shows [3c Ac 9h 7h] (Hi: Two Pair, Jacks and Sevens +A  Lo: None)
+triat shows [8c 7d Jc 8s] (Hi: a Full House, Jacks full of Sevens  Lo: None)
+triat wins Side Pot 1 (2038) with a Full House
+No low hand qualified
+** Main Pot Show Down ** [5c Js 3s 7s Jd]
+killsaids shows [5s Qd Kd 3h] (Hi: Two Pair, Jacks and Fives +K  Lo: None)
+triat wins Main Pot (1218) with a Full House
+No low hand qualified
+Absent player dynalyn0504 removed from tournament
+Absent player Ruphus removed from tournament
+killsaids finishes tournament in place #9
+** Deck ** [3c 8c Kc 9d 5s Ac 7d 9s Ts Qd 9h Jc As 6c Kd 7h 8s 4c 2h 3h 5c Js 3s 7s Jd]
+
+Hand #55119-9 - 2017-05-23 10:06:04
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 5: AlphaWolf (1519)
+Seat 6: triat (3256)
+AlphaWolf has the dealer button
+AlphaWolf posts small blind 50
+triat posts big blind 100
+** Hole Cards ** [2 players]
+AlphaWolf calls 50
+triat checks
+** Flop ** [4s 6c 7h]
+triat bets 100
+AlphaWolf raises to 200
+triat calls 100
+** Turn ** [Ac]
+triat checks
+AlphaWolf bets 1219 (All-in)
+triat calls 1219
+** River ** [Ks]
+** Pot Show Down ** [4s 6c 7h Ac Ks]
+AlphaWolf shows [As Qc 5c 8h] (Hi: a Straight, Four to Eight  Lo: 7654A)
+triat shows [6s 8s 2c Ah] (Hi: Two Pair, Aces and Sixes +K  Lo: 7642A)
+AlphaWolf wins Hi Pot (1519) with a Straight
+triat wins Lo Pot (1519) with 7642A
+** Deck ** [6s As 8s Qc 2c 5c Ah 8h 4s 6c 7h Ac Ks]
+
+Hand #55120-10 - 2017-05-23 10:07:05
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 5: AlphaWolf (1519)
+Seat 6: triat (3256)
+triat has the dealer button
+triat posts small blind 75
+AlphaWolf posts big blind 150
+** Hole Cards ** [2 players]
+triat calls 75
+AlphaWolf checks
+** Flop ** [3h Qh 6h]
+AlphaWolf checks
+triat checks
+** Turn ** [As]
+sajuuk moved from Table 1
+AlphaWolf bets 300
+triat folds
+AlphaWolf refunded 300
+AlphaWolf wins Pot (300)
+** Deck ** [Jc 2s 3s Th Jh Jd 5h 9c 3h Qh 6h As]
+
+Hand #55122-11 - 2017-05-23 10:07:38
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: sajuuk (3200)
+Seat 5: AlphaWolf (1669)
+Seat 6: triat (3106)
+AlphaWolf has the dealer button
+triat posts small blind 75
+sajuuk posts big blind 150
+** Hole Cards ** [3 players]
+AlphaWolf calls 150
+triat calls 75
+sajuuk checks
+** Flop ** [8c 7c 9h]
+triat checks
+sajuuk checks
+AlphaWolf checks
+** Turn ** [Td]
+triat bets 150
+jackpot moved from Table 1
+JanzVill moved from Table 1
+sajuuk calls 150
+AlphaWolf calls 150
+** River ** [Js]
+triat bets 150
+sajuuk raises to 2900 (All-in)
+AlphaWolf folds
+triat folds
+sajuuk refunded 2750
+sajuuk wins Pot (1200)
+** Deck ** [8s Th 8d Ks 4s 9s 9d Qh Ad 7d Kd 6s 8c 7c 9h Td Js]
+
+Hand #55123-12 - 2017-05-23 10:09:28
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: sajuuk (3950)
+Seat 2: jackpot (2025)
+Seat 3: JanzVill (2375)
+Seat 5: AlphaWolf (1369)
+Seat 6: triat (2656)
+triat has the dealer button
+sajuuk posts small blind 75
+jackpot posts big blind 150
+** Hole Cards ** [5 players]
+JanzVill folds
+AlphaWolf calls 150
+triat calls 150
+sajuuk calls 75
+jackpot checks
+** Flop ** [7c Ah 2d]
+sajuuk checks
+jackpot checks
+AlphaWolf checks
+triat checks
+** Turn ** [Ts]
+sajuuk bets 150
+jackpot raises to 1875 (All-in)
+AlphaWolf calls 1219 (All-in)
+triat folds
+sajuuk calls 1725
+** River ** [2s]
+** Side Pot 1 Show Down ** [7c Ah 2d Ts 2s]
+sajuuk shows [Kh Kc 7d Ac] (Hi: Two Pair, Aces and Sevens +T  Lo: None)
+jackpot shows [6c 5s Ad As] (Hi: a Full House, Aces full of Deuces  Lo: 7652A)
+jackpot wins Hi Side Pot 1 (656) with a Full House
+jackpot wins Lo Side Pot 1 (656) with 7652A
+** Main Pot Show Down ** [7c Ah 2d Ts 2s]
+AlphaWolf shows [6s 8c 3h 8h] (Hi: Two Pair, Eights and Deuces +A  Lo: 7632A)
+jackpot wins Hi Main Pot (2129) with a Full House
+AlphaWolf wins Lo Main Pot (2128) with 7632A
+** Deck ** [Kh 6c Qc 6s Tc Kc 5s 9d 8c Qs 7d Ad 5c 3h 5d Ac As Jh 8h 3d 7c Ah 2d Ts 2s]
+
+Hand #55124-13 - 2017-05-23 10:13:12
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: sajuuk (1925)
+Seat 2: jackpot (3441)
+Seat 3: JanzVill (2375)
+Seat 5: AlphaWolf (2128)
+Seat 6: triat (2506)
+sajuuk has the dealer button
+sajuuk posts ante 25
+jackpot posts ante 25
+JanzVill posts ante 25
+AlphaWolf posts ante 25
+triat posts ante 25
+jackpot posts small blind 100
+JanzVill posts big blind 200
+** Hole Cards ** [5 players]
+AlphaWolf calls 200
+triat calls 200
+sajuuk folds
+jackpot calls 100
+JanzVill checks
+** Flop ** [5h 7s 6s]
+jackpot checks
+JanzVill checks
+AlphaWolf checks
+triat checks
+** Turn ** [8c]
+jackpot checks
+JanzVill checks
+AlphaWolf checks
+triat bets 200
+jackpot calls 200
+JanzVill folds
+AlphaWolf calls 200
+** River ** [3d]
+jackpot bets 3016 (All-in)
+AlphaWolf calls 1703 (All-in)
+triat folds
+jackpot refunded 1313
+** Pot Show Down ** [5h 7s 6s 8c 3d]
+jackpot shows [4h 2c Td 2s] (Hi: a Straight, Deuce to Six  Lo: 65432)
+AlphaWolf shows [Jc Ah 3s Kh] (Hi: a Pair of Threes +A87  Lo: 7653A)
+jackpot wins Hi Pot (2466) with a Straight
+jackpot wins Lo Pot (2465) with 65432
+AlphaWolf finishes tournament in place #5
+** Deck ** [4h Tc Jc 5d Jh 2c Kd Ah As Qs Td 6c 3s Ks 4d 2s Ts Kh 5s 7h 5h 7s 6s 8c 3d]
+
+Hand #55125-14 - 2017-05-23 10:15:37
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: sajuuk (1900)
+Seat 2: jackpot (6244)
+Seat 3: JanzVill (2150)
+Seat 6: triat (2081)
+jackpot has the dealer button
+sajuuk posts ante 25
+jackpot posts ante 25
+JanzVill posts ante 25
+triat posts ante 25
+JanzVill posts small blind 100
+triat posts big blind 200
+** Hole Cards ** [4 players]
+sajuuk folds
+jackpot raises to 2000
+JanzVill folds
+triat folds
+jackpot refunded 1800
+jackpot wins Pot (600)
+** Deck ** [9c 8d Td 2d Ks 6d Kd 2h Jd 9d 3d Tc 8h Js 6s 3s]
+
+Hand #55126-15 - 2017-05-23 10:16:24
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: sajuuk (1875)
+Seat 2: jackpot (6619)
+Seat 3: JanzVill (2025)
+Seat 6: triat (1856)
+JanzVill has the dealer button
+sajuuk posts ante 25
+jackpot posts ante 25
+JanzVill posts ante 25
+triat posts ante 25
+triat posts small blind 200
+sajuuk posts big blind 400
+** Hole Cards ** [4 players]
+jackpot calls 400
+JanzVill folds
+triat calls 200
+sajuuk checks
+** Flop ** [5d 9s 9c]
+triat checks
+sajuuk checks
+jackpot bets 800
+triat folds
+sajuuk folds
+jackpot refunded 800
+jackpot wins Pot (1300)
+** Deck ** [Jd 5h 3s 2h Qh 3h 7s Qc 3c 4s 4c Kh Ac Td Th 8d 5d 9s 9c]
+
+Hand #55127-16 - 2017-05-23 10:17:55
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: sajuuk (1450)
+Seat 2: jackpot (7494)
+Seat 3: JanzVill (2000)
+Seat 6: triat (1431)
+triat has the dealer button
+sajuuk posts ante 25
+jackpot posts ante 25
+JanzVill posts ante 25
+triat posts ante 25
+sajuuk posts small blind 200
+jackpot posts big blind 400
+** Hole Cards ** [4 players]
+JanzVill raises to 1975 (All-in)
+triat calls 1406 (All-in)
+sajuuk calls 1225 (All-in)
+jackpot has timed out
+jackpot folds
+JanzVill refunded 550
+** Flop ** [9d 3h 5c]
+** Turn ** [6c]
+** River ** [4s]
+** Side Pot 1 Show Down ** [9d 3h 5c 6c 4s]
+sajuuk shows [Ah Kc 8d Ks] (Hi: a Pair of Kings +965  Lo: 8543A)
+JanzVill shows [Ac 2h 3d 2c] (Hi: a Straight, Deuce to Six  Lo: 5432A)
+JanzVill wins Hi Side Pot 1 (19) with a Straight
+JanzVill wins Lo Side Pot 1 (19) with 5432A
+** Main Pot Show Down ** [9d 3h 5c 6c 4s]
+triat shows [7s As 9c 3s] (Hi: a Straight, Three to Seven  Lo: 6543A)
+triat wins Hi Main Pot (2359) with a Straight
+JanzVill wins Lo Main Pot (2359) with 5432A
+sajuuk finishes tournament in place #4 and wins 40 chips
+** Deck ** [Ah 9s Ac 7s Kc Js 2h As 8d Qc 3d 9c Ks Ad 2c 3s 9d 3h 5c 6c 4s]
+
+Hand #55128-17 - 2017-05-23 10:19:26
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (7069)
+Seat 3: JanzVill (2947)
+Seat 6: triat (2359)
+jackpot has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+triat posts ante 50
+JanzVill posts small blind 300
+triat posts big blind 600
+** Hole Cards ** [3 players]
+jackpot has timed out
+jackpot folds
+JanzVill raises to 2897 (All-in)
+triat folds
+JanzVill refunded 2297
+JanzVill wins Pot (1350)
+** Deck ** [4d 2s 3h Td 5c Qd Ks Kd 6d 7c Jd 9h]
+
+Hand #55129-18 - 2017-05-23 10:20:17
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (7019) - sitting out
+Seat 3: JanzVill (3647)
+Seat 6: triat (1709)
+JanzVill has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+triat posts ante 50
+triat posts small blind 300
+jackpot posts big blind 600
+** Hole Cards ** [3 players]
+JanzVill raises to 3597 (All-in)
+triat calls 1359 (All-in)
+jackpot folds
+JanzVill refunded 1938
+** Flop ** [Jh As 5h]
+** Turn ** [Qd]
+** River ** [Jc]
+** Pot Show Down ** [Jh As 5h Qd Jc]
+JanzVill shows [8s 3d Ah 5d] (Hi: Two Pair, Aces and Jacks +8  Lo: None)
+triat shows [4c 8c 9s 3c] (Hi: a Pair of Jacks +A98  Lo: None)
+JanzVill wins Pot (4068) with Two Pair
+No low hand qualified
+triat finishes tournament in place #3 and wins 80 chips
+** Deck ** [4c Jd 8s 8c Ad 3d 9s 6s Ah 3c Qh 5d Jh As 5h Qd Jc]
+
+Hand #55130-19 - 2017-05-23 10:20:44
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (6369) - sitting out
+Seat 3: JanzVill (6006)
+jackpot has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+jackpot posts small blind 300
+JanzVill posts big blind 600
+** Hole Cards ** [2 players]
+jackpot folds
+JanzVill refunded 300
+JanzVill wins Pot (700)
+** Deck ** [5s 6c 4d Kc 8d 4c Qh 4s]
+
+Hand #55131-20 - 2017-05-23 10:20:54
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (6019) - sitting out
+Seat 3: JanzVill (6356)
+JanzVill has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+JanzVill posts small blind 300
+jackpot posts big blind 600
+** Hole Cards ** [2 players]
+JanzVill calls 300
+jackpot folds
+JanzVill wins Pot (1300)
+** Deck ** [8d 2s Jh 4d Kd 7s Js Jc]
+
+Hand #55132-21 - 2017-05-23 10:21:07
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (5369) - sitting out
+Seat 3: JanzVill (7006)
+jackpot has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+jackpot posts small blind 300
+JanzVill posts big blind 600
+** Hole Cards ** [2 players]
+jackpot folds
+JanzVill refunded 300
+JanzVill wins Pot (700)
+** Deck ** [Qc 5c 6c 8h Kc 5d Jh Qh]
+
+Hand #55133-22 - 2017-05-23 10:21:20
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (5019)
+Seat 3: JanzVill (7356)
+JanzVill has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+JanzVill posts small blind 300
+jackpot posts big blind 600
+** Hole Cards ** [2 players]
+JanzVill: "0"
+JanzVill raises to 7306 (All-in)
+jackpot folds
+JanzVill refunded 6706
+JanzVill wins Pot (1300)
+** Deck ** [Kd 4s 7h 6s 8s Qh 5s 2s]
+
+Hand #55134-23 - 2017-05-23 10:21:43
+Game: NL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (4369)
+Seat 3: JanzVill (8006)
+jackpot has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+jackpot posts small blind 400
+JanzVill posts big blind 800
+** Hole Cards ** [2 players]
+jackpot raises to 4319 (All-in)
+JanzVill folds
+jackpot refunded 3519
+jackpot wins Pot (1700)
+** Deck ** [3s 7h Jd Ks 6s 9s 5c 2d]
+
+Hand #55135-24 - 2017-05-23 10:22:07
+Game: NL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (5219)
+Seat 3: JanzVill (7156)
+JanzVill has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+JanzVill posts small blind 400
+jackpot posts big blind 800
+** Hole Cards ** [2 players]
+JanzVill raises to 7106 (All-in)
+jackpot calls 4369 (All-in)
+JanzVill refunded 1937
+** Flop ** [8c 2h Qs]
+** Turn ** [4d]
+** River ** [Ad]
+** Pot Show Down ** [8c 2h Qs 4d Ad]
+jackpot shows [Js 3d Kc 7s] (Hi: High Card Ace +KQJ8  Lo: 7432A)
+JanzVill shows [Jd Qd Th 4h] (Hi: Two Pair, Queens and Fours +A  Lo: None)
+JanzVill wins Hi Pot (5219) with Two Pair
+jackpot wins Lo Pot (5219) with 7432A
+** Deck ** [Js Jd 3d Qd Kc Th 7s 4h 8c 2h Qs 4d Ad]
+
+Hand #55136-25 - 2017-05-23 10:22:30
+Game: NL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (5219)
+Seat 3: JanzVill (7156)
+jackpot has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+jackpot posts small blind 400
+JanzVill posts big blind 800
+** Hole Cards ** [2 players]
+jackpot raises to 5169 (All-in)
+JanzVill calls 4369
+** Flop ** [Qc 9h Kh]
+** Turn ** [Ac]
+** River ** [2s]
+** Pot Show Down ** [Qc 9h Kh Ac 2s]
+jackpot shows [Ks 5d 4d Ad] (Hi: Two Pair, Aces and Kings +Q  Lo: None)
+JanzVill shows [6h 6c Js 2c] (Hi: a Pair of Sixes +AKQ  Lo: None)
+jackpot wins Pot (10438) with Two Pair
+No low hand qualified
+** Deck ** [6h Ks 6c 5d Js 4d 2c Ad Qc 9h Kh Ac 2s]
+
+Hand #55137-26 - 2017-05-23 10:23:06
+Game: NL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (10438)
+Seat 3: JanzVill (1937)
+JanzVill has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+JanzVill posts small blind 400
+jackpot posts big blind 800
+** Hole Cards ** [2 players]
+JanzVill raises to 1887 (All-in)
+jackpot calls 1087
+** Flop ** [Ad 2s 3h]
+** Turn ** [As]
+** River ** [6d]
+** Pot Show Down ** [Ad 2s 3h As 6d]
+jackpot shows [Jd 3c 8s 6s] (Hi: Two Pair, Aces and Sixes +J  Lo: 8632A)
+JanzVill shows [4c 9c 5c 8d] (Hi: a Straight, Deuce to Six  Lo: 5432A)
+JanzVill wins Hi Pot (1937) with a Straight
+JanzVill wins Lo Pot (1937) with 5432A
+** Deck ** [Jd 4c 3c 9c 8s 5c 6s 8d Ad 2s 3h As 6d]
+
+Hand #55138-27 - 2017-05-23 10:23:28
+Game: NL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (8501)
+Seat 3: JanzVill (3874)
+jackpot has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+jackpot posts small blind 400
+JanzVill posts big blind 800
+** Hole Cards ** [2 players]
+jackpot calls 400
+JanzVill raises to 3824 (All-in)
+jackpot folds
+JanzVill refunded 3024
+JanzVill wins Pot (1700)
+** Deck ** [2h Qd 5c 7s 2s 5d 9d Jd]
+
+Hand #55139-28 - 2017-05-23 10:23:50
+Game: NL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (7651)
+Seat 3: JanzVill (4724)
+JanzVill has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+JanzVill posts small blind 400
+jackpot posts big blind 800
+** Hole Cards ** [2 players]
+JanzVill raises to 4674 (All-in)
+jackpot calls 3874
+** Flop ** [3s Jd 7c]
+** Turn ** [2s]
+** River ** [9c]
+** Pot Show Down ** [3s Jd 7c 2s 9c]
+jackpot shows [Qs 3d 4h 8d] (Hi: a Pair of Threes +QJ9  Lo: 87432)
+JanzVill shows [Ad Ks 2c 4s] (Hi: a Pair of Deuces +AJ9  Lo: 7432A)
+jackpot wins Hi Pot (4724) with a Pair
+JanzVill wins Lo Pot (4724) with 7432A
+** Deck ** [Qs Ad 3d Ks 4h 2c 8d 4s 3s Jd 7c 2s 9c]
+
+Hand #55140-29 - 2017-05-23 10:24:12
+Game: NL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: jackpot (7651)
+Seat 3: JanzVill (4724)
+jackpot has the dealer button
+jackpot posts ante 50
+JanzVill posts ante 50
+jackpot posts small blind 400
+JanzVill posts big blind 800
+** Hole Cards ** [2 players]
+jackpot calls 400
+JanzVill raises to 4674 (All-in)
+jackpot calls 3874
+** Flop ** [5d Qs 5h]
+** Turn ** [5s]
+** River ** [Kd]
+** Pot Show Down ** [5d Qs 5h 5s Kd]
+jackpot shows [8s 7c 8c 4c] (Hi: a Full House, Fives full of Eights  Lo: None)
+JanzVill shows [Jc 9d Tc 8d] (Hi: Three of a Kind, Fives +JT  Lo: None)
+jackpot wins Pot (9448) with a Full House
+No low hand qualified
+JanzVill finishes tournament in place #2 and wins 120 chips
+jackpot finishes tournament in place #1 and wins 160 chips
+** Deck ** [Jc 8s 9d 7c Tc 8c 8d 4c 5d Qs 5h 5s Kd]
+
+Starting tournament 1334
+
+Hand #55579-1 - 2017-05-23 14:00:39
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: PINGOT (1500)
+Seat 3: jackpot (1500)
+Seat 4: Ruphus (1500) - sitting out
+Seat 5: Buenaobra (1500) - sitting out
+Seat 6: bestlooser (1500)
+PINGOT has the dealer button
+jackpot posts small blind 25
+Ruphus posts big blind 50
+** Hole Cards ** [5 players]
+Buenaobra folds
+bestlooser calls 50
+PINGOT calls 50
+jackpot calls 25
+Ruphus folds
+** Flop ** [6c As Qd]
+jackpot bets 450
+bestlooser calls 450
+PINGOT folds
+** Turn ** [Ks]
+jackpot checks
+bestlooser checks
+** River ** [Td]
+jackpot checks
+bestlooser checks
+** Pot Show Down ** [6c As Qd Ks Td]
+jackpot shows [Th 6h Qh Kd] (Hi: Two Pair, Kings and Queens +A  Lo: None)
+bestlooser shows [6s Ad 5s 9d] (Hi: Two Pair, Aces and Sixes +K  Lo: None)
+bestlooser wins Pot (1100) with Two Pair
+No low hand qualified
+** Deck ** [Th 4d Tc 6s 3h 6h 8h 4h Ad Ts Qh 9c 3d 5s 3c Kd Ac 7d 9d Kh 6c As Qd Ks Td]
+
+Hand #55587-2 - 2017-05-23 14:02:04
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: PINGOT (1450)
+Seat 3: jackpot (1000)
+Seat 4: Ruphus (1450) - sitting out
+Seat 5: Buenaobra (1500) - sitting out
+Seat 6: bestlooser (2100)
+jackpot has the dealer button
+Ruphus posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [5 players]
+bestlooser folds
+PINGOT raises to 175
+jackpot calls 175
+Ruphus folds
+Buenaobra folds
+** Flop ** [2s 7h 6c]
+PINGOT bets 425
+jackpot folds
+PINGOT refunded 425
+PINGOT wins Pot (425)
+** Deck ** [6s 9d Th Ac Ks Qd 4h Jc 5h Qs 4d 4c 9c Ad 2c 7c Js 5c Jh 9h 2s 7h 6c]
+
+Hand #55591-3 - 2017-05-23 14:02:54
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: PINGOT (1700)
+Seat 3: jackpot (825)
+Seat 4: Ruphus (1425) - sitting out
+Seat 5: Buenaobra (1450) - sitting out
+Seat 6: bestlooser (2100)
+Ruphus has the dealer button
+Buenaobra posts small blind 25
+bestlooser posts big blind 50
+** Hole Cards ** [5 players]
+PINGOT calls 50
+jackpot folds
+Ruphus folds
+Buenaobra folds
+bestlooser checks
+** Flop ** [9s Kc 9d]
+bestlooser checks
+PINGOT checks
+** Turn ** [9c]
+bestlooser checks
+PINGOT checks
+** River ** [Ts]
+bestlooser checks
+PINGOT checks
+** Pot Show Down ** [9s Kc 9d 9c Ts]
+PINGOT shows [7h 8c Ks Jh] (Hi: Three of a Kind, Nines +KJ  Lo: None)
+bestlooser shows [Kh Jc Qd 7c] (Hi: a Straight, Nine to King  Lo: None)
+bestlooser wins Pot (125) with a Straight
+No low hand qualified
+** Deck ** [As Kh 7h 2c Qh 2h Jc 8c 7s 6d 7d Qd Ks Qc Ac 6h 7c Jh 8h 5c 9s Kc 9d 9c Ts]
+
+Hand #55599-4 - 2017-05-23 14:03:56
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: PINGOT (1650)
+Seat 3: jackpot (825)
+Seat 4: Ruphus (1425) - sitting out
+Seat 5: Buenaobra (1425) - sitting out
+Seat 6: bestlooser (2175)
+Buenaobra has the dealer button
+bestlooser posts small blind 50
+PINGOT posts big blind 100
+** Hole Cards ** [5 players]
+jackpot raises to 825 (All-in)
+Ruphus folds
+Buenaobra folds
+bestlooser calls 775
+PINGOT calls 725
+** Flop ** [8h Ks 4s]
+bestlooser checks
+PINGOT checks
+** Turn ** [2d]
+bestlooser checks
+PINGOT checks
+** River ** [Tc]
+bestlooser checks
+PINGOT checks
+** Pot Show Down ** [8h Ks 4s 2d Tc]
+PINGOT shows [Td Ad 7c 6s] (Hi: a Pair of Tens +AK8  Lo: 8642A)
+jackpot shows [5s Ac 4d 3s] (Hi: a Pair of Fours +AKT  Lo: 8432A)
+novcom moved from Table 3
+bestlooser shows [Ts Jh 2h Qc] (Hi: Two Pair, Tens and Deuces +K  Lo: None)
+bestlooser wins Hi Pot (1238) with Two Pair
+jackpot wins Lo Pot (1237) with 8432A
+** Deck ** [Ts Td 5s As 6c Jh Ad Ac Qh 3c 2h 7c 4d Ah 7s Qc 6s 3s 7h Js 8h Ks 4s 2d Tc]
+
+Hand #55603-5 - 2017-05-23 14:04:52
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: PINGOT (825)
+Seat 2: novcom (1400) - sitting out
+Seat 3: jackpot (1237)
+Seat 4: Ruphus (1425) - sitting out
+Seat 5: Buenaobra (1425) - sitting out
+Seat 6: bestlooser (2588)
+bestlooser has the dealer button
+PINGOT posts small blind 50
+novcom posts big blind 100
+** Hole Cards ** [6 players]
+jackpot calls 100
+Ruphus folds
+Buenaobra folds
+bestlooser calls 100
+PINGOT calls 50
+novcom folds
+** Flop ** [Ad 6d As]
+PINGOT checks
+jackpot checks
+bestlooser checks
+** Turn ** [Qc]
+PINGOT checks
+jackpot checks
+bestlooser checks
+** River ** [Qs]
+PINGOT checks
+jackpot checks
+bestlooser checks
+** Pot Show Down ** [Ad 6d As Qc Qs]
+PINGOT shows [2h Js 7c 2d] (Hi: Two Pair, Aces and Deuces +Q  Lo: None)
+jackpot shows [Kh 8d Qh 8c] (Hi: Three of a Kind, Queens +AK  Lo: None)
+bestlooser shows [7d Td 9c 8s] (Hi: a Pair of Aces +QT9  Lo: None)
+jackpot wins Pot (400) with Three of a Kind
+No low hand qualified
+Absent player novcom removed from tournament
+Absent player Ruphus removed from tournament
+Absent player Buenaobra removed from tournament
+** Deck ** [2h 5c Kh 5h Ks 7d Js 4d 8d 2c 5s Td 7c Qd Qh Jc Jd 9c 2d 2s 8c Kd 3h 8s Ad 6d As Qc Qs]
+
+Hand #55608-6 - 2017-05-23 14:06:07
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: PINGOT (725)
+Seat 3: jackpot (1537)
+Seat 6: bestlooser (2488)
+PINGOT has the dealer button
+jackpot posts small blind 50
+bestlooser posts big blind 100
+** Hole Cards ** [3 players]
+PINGOT calls 100
+jackpot raises to 1537 (All-in)
+bestlooser raises to 2488 (All-in)
+PINGOT calls 625 (All-in)
+bestlooser refunded 951
+** Flop ** [2c Jc 8s]
+** Turn ** [9h]
+** River ** [As]
+** Side Pot 1 Show Down ** [2c Jc 8s 9h As]
+jackpot shows [2s 7c Ac 9c] (Hi: Two Pair, Aces and Nines +J  Lo: None)
+bestlooser shows [Ks 7h Kd 9s] (Hi: a Pair of Kings +AJ9  Lo: None)
+jackpot wins Side Pot 1 (1624) with Two Pair
+No low hand qualified
+** Main Pot Show Down ** [2c Jc 8s 9h As]
+PINGOT shows [6s Js Jd 4d] (Hi: Three of a Kind, Jacks +A9  Lo: 8642A)
+PINGOT wins Hi Main Pot (1088) with Three of a Kind
+PINGOT wins Lo Main Pot (1087) with 8642A
+** Deck ** [2s Ks 6s 7c 7h Js Ac Kd Jd 9c 9s 4d 2c Jc 8s 9h As]
+
+Hand #55610-7 - 2017-05-23 14:06:54
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: PINGOT (2175)
+Seat 3: jackpot (1624)
+Seat 6: bestlooser (951)
+jackpot has the dealer button
+bestlooser posts small blind 75
+PINGOT posts big blind 150
+** Hole Cards ** [3 players]
+jackpot raises to 1624 (All-in)
+bestlooser calls 876 (All-in)
+PINGOT folds
+jackpot refunded 673
+** Flop ** [3c 5h Jc]
+** Turn ** [7s]
+** River ** [2h]
+** Pot Show Down ** [3c 5h Jc 7s 2h]
+jackpot shows [Tc Ad 3s Qd] (Hi: a Pair of Threes +AJ7  Lo: 7532A)
+bestlooser shows [9s Kd 6d 8h] (Hi: High Card King +J975  Lo: 86532)
+jackpot wins Hi Pot (1026) with a Pair
+jackpot wins Lo Pot (1026) with 7532A
+bestlooser finishes tournament in place #7
+** Deck ** [9s 6h Tc Kd 5s Ad 6d Th 3s 8h Jd Qd 3c 5h Jc 7s 2h]
+
+jackpot moved to Table 1
+
+PINGOT moved to Table 1
+
+Starting tournament 1338
+
+Hand #56076-1 - 2017-05-23 18:00:39
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: sajuuk (1500)
+Seat 2: killsaids (1500)
+Seat 3: JanzVill (1500) - sitting out
+Seat 5: triat (1500) - sitting out
+sajuuk has the dealer button
+killsaids posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [4 players]
+triat folds
+sajuuk raises to 100
+killsaids calls 75
+JanzVill folds
+** Flop ** [6s Qs Ts]
+killsaids checks
+sajuuk bets 50
+killsaids raises to 300
+sajuuk raises to 1400 (All-in)
+killsaids calls 1100 (All-in)
+** Turn ** [3s]
+** River ** [Jc]
+** Pot Show Down ** [6s Qs Ts 3s Jc]
+sajuuk shows [9s Js Jh 4d] (Hi: a Flush, Queen high +JT96  Lo: None)
+killsaids shows [Qc Qd Th 5s] (Hi: Three of a Kind, Queens +JT  Lo: None)
+sajuuk wins Pot (3050) with a Flush
+No low hand qualified
+killsaids finishes tournament in place #13
+** Deck ** [Qc 6h Jd 9s Qd 4h 3h Js Th 8s 6d Jh 5s Ks 7d 4d 6s Qs Ts 3s Jc]
+
+triat moved to Table 3
+
+sajuuk moved to Table 3
+
+JanzVill moved to Table 1
+
+Starting tournament 1342
+
+Hand #56498-1 - 2017-05-23 22:00:39
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: JanzVill (1500)
+Seat 2: Buenaobra (1500) - sitting out
+Seat 3: Jessica (1500)
+Seat 4: Protek (1500) - sitting out
+Seat 5: whynot (1500)
+JanzVill has the dealer button
+Buenaobra posts small blind 25
+Jessica posts big blind 50
+** Hole Cards ** [5 players]
+Protek folds
+whynot folds
+JanzVill calls 50
+Buenaobra folds
+Jessica checks
+** Flop ** [4h 3d Jd]
+Jessica checks
+JanzVill bets 50
+Jessica folds
+JanzVill refunded 50
+JanzVill wins Pot (125)
+** Deck ** [As 4c 2h 5d Js Ks 9d 2c 5h 7s 2d Qs Ah Jc 6h Tc 7c Jh 6s Kd 4h 3d Jd]
+
+Hand #56501-2 - 2017-05-23 22:01:20
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: JanzVill (1575)
+Seat 2: Buenaobra (1475) - sitting out
+Seat 3: Jessica (1450)
+Seat 4: Protek (1500) - sitting out
+Seat 5: whynot (1500)
+Buenaobra has the dealer button
+Jessica posts small blind 25
+Protek posts big blind 50
+** Hole Cards ** [5 players]
+whynot folds
+JanzVill calls 50
+Buenaobra folds
+Jessica calls 25
+Protek folds
+** Flop ** [8d Qd 7s]
+Jessica bets 1400 (All-in)
+JanzVill folds
+Jessica refunded 1400
+Jessica wins Pot (150)
+** Deck ** [8h 5c 3s 6s Qh Ts Td 3h Kd 5s Jc 2s 9d 9c 3c Qc 6c Js 4h 9s 8d Qd 7s]
+
+Hand #56505-3 - 2017-05-23 22:02:01
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: JanzVill (1525)
+Seat 2: Buenaobra (1475) - sitting out
+Seat 3: Jessica (1550)
+Seat 4: Protek (1450) - sitting out
+Seat 5: whynot (1500)
+Jessica has the dealer button
+Protek posts small blind 25
+whynot posts big blind 50
+** Hole Cards ** [5 players]
+JanzVill calls 50
+Buenaobra folds
+Jessica folds
+Protek folds
+whynot checks
+** Flop ** [3c 6d Kh]
+whynot bets 50
+JanzVill calls 50
+** Turn ** [Jc]
+whynot bets 50
+JanzVill calls 50
+** River ** [5d]
+whynot bets 100
+JanzVill calls 100
+** Pot Show Down ** [3c 6d Kh Jc 5d]
+JanzVill shows [Ks 8c 5c Th] (Hi: Two Pair, Kings and Fives +J  Lo: None)
+whynot shows [8s 4c 6c 4s] (Hi: a Pair of Sixes +KJ8  Lo: 86543)
+JanzVill wins Hi Pot (263) with Two Pair
+whynot wins Lo Pot (262) with 86543
+** Deck ** [Qc 8s Ks 9s As Ac 4c 8c Ad 3h Jh 6c 5c Qd Kc 2h 4s Th 4h 4d 3c 6d Kh Jc 5d]
+
+Hand #56508-4 - 2017-05-23 22:03:08
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: JanzVill (1538)
+Seat 2: Buenaobra (1475) - sitting out
+Seat 3: Jessica (1550)
+Seat 4: Protek (1425) - sitting out
+Seat 5: whynot (1512)
+Protek has the dealer button
+whynot posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [5 players]
+Buenaobra folds
+Jessica calls 50
+Protek folds
+whynot raises to 150
+JanzVill calls 100
+Jessica calls 100
+** Flop ** [3s 7d Th]
+whynot bets 150
+JanzVill folds
+Jessica folds
+whynot refunded 150
+whynot wins Pot (450)
+** Deck ** [Kd 2s 7c 5s 8s Qc 6d 7h Qs 5c Qd Jc Jh 2c 2h 5h 6c Ac Qh Kh 3s 7d Th]
+
+Hand #56510-5 - 2017-05-23 22:04:03
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 1: JanzVill (1388)
+Seat 2: Buenaobra (1475) - sitting out
+Seat 3: Jessica (1400)
+Seat 4: Protek (1425) - sitting out
+Seat 5: whynot (1812)
+whynot has the dealer button
+JanzVill posts small blind 50
+Buenaobra posts big blind 100
+** Hole Cards ** [5 players]
+Jessica raises to 600
+Protek folds
+whynot folds
+JanzVill raises to 1388 (All-in)
+Buenaobra folds
+Jessica calls 788
+** Flop ** [3d 4c Ah]
+** Turn ** [2d]
+** River ** [6c]
+** Pot Show Down ** [3d 4c Ah 2d 6c]
+JanzVill shows [Qh Ac Td 8c] (Hi: a Pair of Aces +Q64  Lo: 8432A)
+Jessica shows [Jh Jd 3c 5d] (Hi: a Straight, Deuce to Six  Lo: 5432A)
+Jessica wins Hi Pot (1438) with a Straight
+Jessica wins Lo Pot (1438) with 5432A
+JanzVill finishes tournament in place #11
+** Deck ** [Qh Ts Jh 4s 3s Ac 9s Jd Jc 8h Td 6s 3c Qc 5h 8c 5c 5d Th Js 3d 4c Ah 2d 6c]
+
+Hand #56512-6 - 2017-05-23 22:04:49
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: Buenaobra (1375) - sitting out
+Seat 3: Jessica (2888)
+Seat 4: Protek (1425) - sitting out
+Seat 5: whynot (1812)
+Buenaobra has the dealer button
+Jessica posts small blind 50
+Protek posts big blind 100
+** Hole Cards ** [4 players]
+whynot folds
+Buenaobra folds
+Jessica calls 50
+Protek folds
+Jessica wins Pot (200)
+** Deck ** [Jc 3h 3d Jd 7h 5h 9c 2c Qc Kc 8h 2d 9h Tc 2h 6s]
+
+Hand #56513-7 - 2017-05-23 22:05:03
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 2: Buenaobra (1375) - sitting out
+Seat 3: Jessica (2988)
+Seat 4: Protek (1325) - sitting out
+Seat 5: whynot (1812)
+Jessica has the dealer button
+Protek posts small blind 50
+whynot posts big blind 100
+** Hole Cards ** [4 players]
+Buenaobra folds
+Jessica calls 100
+Protek folds
+whynot checks
+** Flop ** [5c Ts 4h]
+whynot checks
+Jessica checks
+** Turn ** [7h]
+chinkyeyes moved from Table 1
+whynot bets 200
+Jessica folds
+whynot refunded 200
+whynot wins Pot (250)
+Absent player Buenaobra removed from tournament
+Absent player Protek removed from tournament
+Absent player chinkyeyes removed from tournament
+** Deck ** [Jd Kh Kd Jh 3h Js 6s Qs Jc 2c Kc 3s 9h 8s 8c Qc 5c Ts 4h 7h]
+
+Hand #56515-8 - 2017-05-23 22:05:47
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 2
+Seat 3: Jessica (2888)
+Seat 5: whynot (1962)
+whynot has the dealer button
+whynot posts small blind 50
+Jessica posts big blind 100
+** Hole Cards ** [2 players]
+whynot calls 50
+Jessica checks
+** Flop ** [2c 7d 8d]
+Jessica checks
+whynot checks
+** Turn ** [As]
+Jessica bets 100
+whynot folds
+Jessica refunded 100
+Jessica wins Pot (200)
+** Deck ** [3d Qc Ad 3s Ks 6h 5s Ts 2c 7d 8d As]
+
+whynot moved to Table 1
+
+Jessica moved to Table 1
+
