@@ -1,0 +1,293 @@
+﻿Starting tournament 1430
+
+Hand #64312-1 - 2017-05-27 14:00:42
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 3
+Seat 1: bspus (1500)
+Seat 3: AlphaWolf (1500)
+Seat 4: dynalyn0504 (1500) - sitting out
+Seat 5: Efyang (1500)
+Seat 6: Buenaobra (1500) - sitting out
+bspus has the dealer button
+AlphaWolf posts small blind 25
+dynalyn0504 posts big blind 50
+** Hole Cards ** [5 players]
+Efyang raises to 1500 (All-in)
+Buenaobra folds
+bspus folds
+AlphaWolf folds
+dynalyn0504 folds
+Efyang refunded 1450
+Efyang wins Pot (125)
+** Deck ** [2s 8d 9d 2d 4h Qd Ac 6h 3h 5d 3d 6s Qh 5c 5s Qc 7d 6d 3c 9h]
+
+Hand #64315-2 - 2017-05-27 14:01:11
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 3
+Seat 1: bspus (1500)
+Seat 3: AlphaWolf (1475)
+Seat 4: dynalyn0504 (1450) - sitting out
+Seat 5: Efyang (1575)
+Seat 6: Buenaobra (1500) - sitting out
+AlphaWolf has the dealer button
+dynalyn0504 posts small blind 25
+Efyang posts big blind 50
+** Hole Cards ** [5 players]
+Buenaobra folds
+bspus raises to 1500 (All-in)
+AlphaWolf calls 1475 (All-in)
+dynalyn0504 folds
+Efyang calls 1450
+** Flop ** [7d As Jh]
+** Turn ** [Qd]
+** River ** [2h]
+** Side Pot 1 Show Down ** [7d As Jh Qd 2h]
+bspus shows [6d Td 4s Js] (Hi: a Pair of Jacks +AQT  Lo: 7642A)
+Efyang shows [Tc Qh 7h Ah] (Hi: Two Pair, Aces and Queens +J  Lo: None)
+Efyang wins Hi Side Pot 1 (25) with Two Pair
+bspus wins Lo Side Pot 1 (25) with 7642A
+** Main Pot Show Down ** [7d As Jh Qd 2h]
+AlphaWolf shows [4c 6c 3h 5d] (Hi: High Card Ace +QJ65  Lo: 7432A)
+Efyang wins Hi Main Pot (2225) with Two Pair
+AlphaWolf wins Lo Main Pot (2225) with 7432A
+** Deck ** [8s Tc 9d 6d 4c Jc Qh 3c Td 6c Ac 7h 8d 4s 3h 8h Ah 5h Js 5d 7d As Jh Qd 2h]
+
+Hand #64318-3 - 2017-05-27 14:01:43
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 3
+Seat 1: bspus (25)
+Seat 3: AlphaWolf (2225)
+Seat 4: dynalyn0504 (1425) - sitting out
+Seat 5: Efyang (2325)
+Seat 6: Buenaobra (1500) - sitting out
+dynalyn0504 has the dealer button
+Efyang posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [5 players]
+bspus calls 25 (All-in)
+AlphaWolf calls 50
+dynalyn0504 folds
+Efyang raises to 2325 (All-in)
+Buenaobra folds
+AlphaWolf calls 2175 (All-in)
+Efyang refunded 100
+** Flop ** [Qc 4d 4s]
+** Turn ** [Ac]
+** River ** [4h]
+** Side Pot 1 Show Down ** [Qc 4d 4s Ac 4h]
+AlphaWolf shows [Kc As Ts 5s] (Hi: Three of a Kind, Fours +AK  Lo: None)
+Efyang shows [2h Ah 3c Tc] (Hi: Three of a Kind, Fours +AT  Lo: None)
+AlphaWolf wins Side Pot 1 (4425) with Three of a Kind
+No low hand qualified
+** Main Pot Show Down ** [Qc 4d 4s Ac 4h]
+bspus shows [2d 9h Kh 8h] (Hi: Three of a Kind, Fours +K9  Lo: None)
+AlphaWolf wins Main Pot (100) with Three of a Kind
+No low hand qualified
+bspus finishes tournament in place #15
+** Deck ** [2h 6c 2d Kc 8d Ah 3s 9h As 9c 3c 2s Kh Ts 6h Tc 3d 8h 5s 5h Qc 4d 4s Ac 4h]
+
+Hand #64321-4 - 2017-05-27 14:02:19
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 3
+Seat 3: AlphaWolf (4525)
+Seat 4: dynalyn0504 (1425) - sitting out
+Seat 5: Efyang (100)
+Seat 6: Buenaobra (1450) - sitting out
+Efyang has the dealer button
+Buenaobra posts small blind 25
+AlphaWolf posts big blind 50
+** Hole Cards ** [4 players]
+dynalyn0504 folds
+Efyang raises to 100 (All-in)
+Buenaobra folds
+AlphaWolf calls 50
+** Flop ** [Tc 2d Jh]
+** Turn ** [Td]
+** River ** [Ks]
+** Pot Show Down ** [Tc 2d Jh Td Ks]
+AlphaWolf shows [7s 7c Ts 7h] (Hi: Three of a Kind, Tens +K7  Lo: None)
+Efyang shows [9h 6d 3h Qh] (Hi: a Straight, Nine to King  Lo: None)
+bestlooser moved from Table 2
+Efyang wins Pot (225) with a Straight
+No low hand qualified
+** Deck ** [4c 7s 4h 9h 5c 7c Th 6d 5h Ts 3s 3h 4s 7h Kh Qh Tc 2d Jh Td Ks]
+
+Hand #64323-5 - 2017-05-27 14:02:38
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 3
+Seat 1: bestlooser (1500) - sitting out
+Seat 3: AlphaWolf (4425)
+Seat 4: dynalyn0504 (1425) - sitting out
+Seat 5: Efyang (225)
+Seat 6: Buenaobra (1425) - sitting out
+Buenaobra has the dealer button
+bestlooser plays after the button
+AlphaWolf posts small blind 25
+dynalyn0504 posts big blind 50
+** Hole Cards ** [4 players]
+Efyang folds
+Buenaobra folds
+AlphaWolf raises to 100
+dynalyn0504 folds
+AlphaWolf refunded 50
+AlphaWolf wins Pot (100)
+** Deck ** [Qs 8d 5s 2c 8s Tc 9c 5h Qc Kc 4c 7c 2h Th 3s 4s]
+
+Hand #64325-6 - 2017-05-27 14:02:50
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 3
+Seat 1: bestlooser (1500) - sitting out
+Seat 3: AlphaWolf (4475)
+Seat 4: dynalyn0504 (1375) - sitting out
+Seat 5: Efyang (225)
+Seat 6: Buenaobra (1425) - sitting out
+AlphaWolf has the dealer button
+dynalyn0504 posts small blind 25
+Efyang posts big blind 50
+** Hole Cards ** [5 players]
+Buenaobra folds
+bestlooser folds
+AlphaWolf raises to 150
+dynalyn0504 folds
+Efyang raises to 225 (All-in)
+AlphaWolf calls 75
+** Flop ** [5d Tc 9d]
+** Turn ** [Qs]
+** River ** [7d]
+** Pot Show Down ** [5d Tc 9d Qs 7d]
+AlphaWolf shows [2c Kc 3c 6d] (Hi: High Card King +QT96  Lo: None)
+Efyang shows [Ks 4s 6s 7s] (Hi: a Pair of Sevens +KQT  Lo: None)
+Efyang wins Pot (475) with a Pair
+No low hand qualified
+** Deck ** [5c Ks 2d Jc 2c Qh 4s 8d Kd Kc Ts 6s 8h As 3c 4d 7s Jh Qc 6d 5d Tc 9d Qs 7d]
+
+Hand #64328-7 - 2017-05-27 14:03:13
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 3
+Seat 1: bestlooser (1500) - sitting out
+Seat 3: AlphaWolf (4250)
+Seat 4: dynalyn0504 (1350) - sitting out
+Seat 5: Efyang (475)
+Seat 6: Buenaobra (1425) - sitting out
+dynalyn0504 has the dealer button
+Efyang posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [5 players]
+bestlooser folds
+AlphaWolf calls 50
+dynalyn0504 folds
+Efyang raises to 475 (All-in)
+Buenaobra folds
+AlphaWolf calls 425
+** Flop ** [2s Ks 2c]
+** Turn ** [Js]
+** River ** [8s]
+** Pot Show Down ** [2s Ks 2c Js 8s]
+AlphaWolf shows [3s 5c 7h 4s] (Hi: a Flush, King high +J843  Lo: None)
+Efyang shows [Ac 7d 4h 4d] (Hi: Two Pair, Fours and Deuces +K  Lo: None)
+AlphaWolf wins Pot (1000) with a Flush
+No low hand qualified
+Efyang finishes tournament in place #14
+** Deck ** [Ac Th Qs 3s 2h 7d 3c Ts 5c Jc 4h 9h 8c 7h Td 4d Kd Ad 4s 6d 2s Ks 2c Js 8s]
+
+Hand #64332-8 - 2017-05-27 14:03:36
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 3
+Seat 1: bestlooser (1500) - sitting out
+Seat 3: AlphaWolf (4775)
+Seat 4: dynalyn0504 (1350) - sitting out
+Seat 6: Buenaobra (1375) - sitting out
+Buenaobra has the dealer button
+bestlooser posts small blind 25
+AlphaWolf posts big blind 50
+** Hole Cards ** [4 players]
+dynalyn0504 folds
+Buenaobra folds
+bestlooser folds
+AlphaWolf refunded 25
+AlphaWolf wins Pot (50)
+** Deck ** [5s Jc Kc 7c Qc Kh 4s Ts 7d Kd Qs 6s 2s 2c 6h 6c]
+
+Hand #64334-9 - 2017-05-27 14:03:44
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 3
+Seat 1: bestlooser (1475) - sitting out
+Seat 3: AlphaWolf (4800)
+Seat 4: dynalyn0504 (1350) - sitting out
+Seat 6: Buenaobra (1375) - sitting out
+bestlooser has the dealer button
+AlphaWolf posts small blind 50
+dynalyn0504 posts big blind 100
+** Hole Cards ** [4 players]
+Buenaobra folds
+bestlooser folds
+AlphaWolf calls 50
+dynalyn0504 folds
+AlphaWolf wins Pot (200)
+** Deck ** [3h 2h Ad 2c 6s Ks Kh 5s Th Jd 8c Kd 5c Js 7d 7s]
+
+Hand #64336-10 - 2017-05-27 14:03:53
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 3
+Seat 1: bestlooser (1475) - sitting out
+Seat 3: AlphaWolf (4900)
+Seat 4: dynalyn0504 (1250) - sitting out
+Seat 6: Buenaobra (1375) - sitting out
+AlphaWolf has the dealer button
+dynalyn0504 posts small blind 50
+Buenaobra posts big blind 100
+** Hole Cards ** [4 players]
+bestlooser folds
+AlphaWolf calls 100
+dynalyn0504 folds
+Buenaobra folds
+AlphaWolf wins Pot (250)
+** Deck ** [8d 5d 7d 4s Ah Ts 9d 2c 2s 9h Js 2d 9s 6h 5s 8s]
+
+Hand #64338-11 - 2017-05-27 14:04:03
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 3
+Seat 1: bestlooser (1475) - sitting out
+Seat 3: AlphaWolf (5050)
+Seat 4: dynalyn0504 (1200) - sitting out
+Seat 6: Buenaobra (1275) - sitting out
+dynalyn0504 has the dealer button
+Buenaobra posts small blind 50
+bestlooser posts big blind 100
+** Hole Cards ** [4 players]
+AlphaWolf calls 100
+dynalyn0504 folds
+Buenaobra folds
+bestlooser checks
+** Flop ** [Kh 5d 6c]
+bestlooser checks
+AlphaWolf bets 100
+bestlooser raises to 1375 (All-in)
+AlphaWolf calls 1275
+** Turn ** [3s]
+** River ** [5s]
+** Pot Show Down ** [Kh 5d 6c 3s 5s]
+bestlooser shows [9s Ac 6s 3h] (Hi: Two Pair, Sixes and Fives +A  Lo: None)
+AlphaWolf shows [9h Kc Jc Qd] (Hi: Two Pair, Kings and Fives +Q  Lo: None)
+AlphaWolf wins Pot (3000) with Two Pair
+No low hand qualified
+bestlooser finishes tournament in place #13
+** Deck ** [Qs 9s 9h 4h Ts Ac Kc 5h 9d 6s Jc 7h 7s 3h Qd Ah Kh 5d 6c 3s 5s]
+
+AlphaWolf moved to Table 1
+
+dynalyn0504 moved to Table 2
+
+Buenaobra moved to Table 1
+
