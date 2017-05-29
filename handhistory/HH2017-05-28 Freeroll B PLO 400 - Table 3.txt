@@ -1,0 +1,562 @@
+﻿Starting tournament 1444
+
+Hand #65537-1 - 2017-05-28 04:00:36
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: angrybet (1500) - sitting out
+Seat 2: CLS (1500)
+Seat 3: tagailog (1500)
+Seat 4: JanzVill (1500) - sitting out
+Seat 5: diamond (1500)
+angrybet has the dealer button
+CLS posts small blind 25
+tagailog posts big blind 50
+** Hole Cards ** [5 players]
+JanzVill folds
+diamond folds
+angrybet folds
+CLS calls 25
+tagailog checks
+** Flop ** [8h Ah 2c]
+CLS bets 100
+tagailog calls 100
+** Turn ** [4s]
+CLS bets 300
+tagailog calls 300
+** River ** [3d]
+CLS bets 900
+tagailog calls 900
+** Pot Show Down ** [8h Ah 2c 4s 3d]
+CLS shows [2s 6s 4d 2d] (Three of a Kind, Deuces +A8)
+tagailog shows [3h 9c As 6h] (Two Pair, Aces and Threes +8)
+CLS wins Pot (2700) with Three of a Kind
+** Deck ** [2s 3h 8s 9h Qh 6s 9c Ad 5s Qs 4d As Td 5d Ac 2d 6h Jh 7c 7h 8h Ah 2c 4s 3d]
+
+Hand #65542-2 - 2017-05-28 04:02:06
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: angrybet (1500) - sitting out
+Seat 2: CLS (2850)
+Seat 3: tagailog (150)
+Seat 4: JanzVill (1500)
+Seat 5: diamond (1500)
+CLS has the dealer button
+tagailog posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [5 players]
+diamond folds
+angrybet folds
+CLS calls 50
+tagailog calls 25
+JanzVill checks
+** Flop ** [8c Qd Jd]
+tagailog checks
+JanzVill checks
+CLS checks
+** Turn ** [Kd]
+tagailog checks
+JanzVill checks
+CLS checks
+** River ** [8h]
+tagailog checks
+JanzVill checks
+CLS checks
+** Pot Show Down ** [8c Qd Jd Kd 8h]
+CLS shows [3c 4s 9h 2c] (a Pair of Eights +K94)
+tagailog shows [Jc 6d 2h Th] (Two Pair, Jacks and Eights +T)
+JanzVill shows [8s 9c 4d 3s] (Three of a Kind, Eights +K9)
+JanzVill wins Pot (150) with Three of a Kind
+** Deck ** [Jc 8s 5s 7h 3c 6d 9c 5d 5c 4s 2h 4d 8d 7c 9h Th 3s 7s Qh 2c 8c Qd Jd Kd 8h]
+
+Hand #65547-3 - 2017-05-28 04:03:46
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: angrybet (1500) - sitting out
+Seat 2: CLS (2800)
+Seat 3: tagailog (100)
+Seat 4: JanzVill (1600)
+Seat 5: diamond (1500)
+tagailog has the dealer button
+JanzVill posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [5 players]
+angrybet folds
+CLS folds
+tagailog calls 100 (All-in)
+JanzVill raises to 400
+diamond folds
+JanzVill refunded 300
+** Flop ** [9c 5s 6c]
+** Turn ** [Kh]
+** River ** [Qs]
+** Pot Show Down ** [9c 5s 6c Kh Qs]
+tagailog shows [2d 4d 4s Tc] (a Pair of Fours +KQ9)
+JanzVill shows [6s Ac 7c 9s] (Two Pair, Nines and Sixes +K)
+JanzVill wins Pot (300) with Two Pair
+tagailog finishes tournament in place #16
+** Deck ** [6s 7s Jh 6d 2d Ac Kd 2c Qh 4d 7c Qc 7d Th 4s 9s 2h 8d 3c Tc 9c 5s 6c Kh Qs]
+
+Hand #65551-4 - 2017-05-28 04:04:30
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: angrybet (1500) - sitting out
+Seat 2: CLS (2800)
+Seat 4: JanzVill (1800)
+Seat 5: diamond (1400)
+JanzVill has the dealer button
+diamond posts small blind 50
+angrybet posts big blind 100
+** Hole Cards ** [4 players]
+CLS folds
+JanzVill raises to 350
+diamond folds
+angrybet folds
+JanzVill refunded 250
+JanzVill wins Pot (250)
+** Deck ** [2d Kd 5c 3d 2s Ah Kh Kc Jc 7c 2h 3c Qs 9d 4d 6d]
+
+Hand #65553-5 - 2017-05-28 04:04:59
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: angrybet (1400) - sitting out
+Seat 2: CLS (2800)
+Seat 4: JanzVill (1950)
+Seat 5: diamond (1350)
+diamond has the dealer button
+angrybet posts small blind 50
+CLS posts big blind 100
+** Hole Cards ** [4 players]
+betong moved from Table 1
+JanzVill folds
+diamond folds
+angrybet folds
+CLS refunded 50
+CLS wins Pot (100)
+** Deck ** [6h Ad 2d 8h 4c 3c 5d 4s Ac Jd 7s 7h 8d 4h 2h Qc]
+
+Hand #65558-6 - 2017-05-28 04:05:19
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: angrybet (1350) - sitting out
+Seat 2: CLS (2850)
+Seat 4: JanzVill (1950)
+Seat 5: diamond (1350)
+Seat 6: betong (3075)
+angrybet has the dealer button
+CLS posts small blind 50
+JanzVill posts big blind 100
+** Hole Cards ** [5 players]
+diamond folds
+betong folds
+angrybet folds
+CLS calls 50
+JanzVill checks
+CoinDoctor moved from Table 1
+** Flop ** [Kc 6s Jc]
+CLS bets 200
+JanzVill folds
+CLS refunded 200
+CLS wins Pot (200)
+Absent player angrybet removed from tournament
+** Deck ** [Kd 8d 4c 5h 9h 3h 3c Ac Jd Qh Td 3d 2s 8h Qc 7s 2d 7c 7d Js Kc 6s Jc]
+
+Hand #65561-7 - 2017-05-28 04:06:11
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (2950)
+Seat 3: CoinDoctor (1050)
+Seat 4: JanzVill (1850)
+Seat 5: diamond (1350)
+Seat 6: betong (3075)
+CLS has the dealer button
+CoinDoctor plays after the button
+JanzVill posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [4 players]
+betong folds
+CLS calls 100
+JanzVill raises to 400
+diamond folds
+CLS calls 300
+** Flop ** [2h 5h 5d]
+JanzVill bets 900
+CLS folds
+JanzVill refunded 900
+JanzVill wins Pot (900)
+** Deck ** [Qh 4c 7s 3h Ah 2d Jh Th 2c Kc 9d 9c As 6d 8c 7c 2h 5h 5d]
+
+Hand #65564-8 - 2017-05-28 04:06:48
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (2550)
+Seat 3: CoinDoctor (1050)
+Seat 4: JanzVill (2350)
+Seat 5: diamond (1250)
+Seat 6: betong (3075)
+JanzVill has the dealer button
+diamond posts small blind 75
+betong posts big blind 150
+** Hole Cards ** [5 players]
+CLS folds
+CoinDoctor raises to 300
+JanzVill folds
+diamond calls 225
+betong calls 150
+** Flop ** [4d Qc Kd]
+diamond checks
+betong checks
+CoinDoctor bets 750 (All-in)
+diamond folds
+betong folds
+CoinDoctor refunded 750
+CoinDoctor wins Pot (900)
+** Deck ** [As 9c 6c Ks 3d 8d 8h 3s 9s 3h Tc 7d Jh Kc 6h 9d 2h Qs 5c Qd 4d Qc Kd]
+
+Hand #65569-9 - 2017-05-28 04:07:50
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (2550)
+Seat 3: CoinDoctor (1650)
+Seat 4: JanzVill (2350)
+Seat 5: diamond (950)
+Seat 6: betong (2775)
+diamond has the dealer button
+betong posts small blind 75
+CLS posts big blind 150
+** Hole Cards ** [5 players]
+CoinDoctor calls 150
+JanzVill folds
+diamond calls 150
+betong calls 75
+CLS checks
+** Flop ** [3c 5s Js]
+betong bets 600
+CLS folds
+CoinDoctor folds
+diamond folds
+betong refunded 600
+betong wins Pot (600)
+** Deck ** [Jc 9c 7d Ks 6d 3s 7h 4d Ts Qc 2c 4c 7c Td Jh 8d Qh 5h 2s As 3c 5s Js]
+
+Hand #65575-10 - 2017-05-28 04:08:38
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (2400)
+Seat 3: CoinDoctor (1500)
+Seat 4: JanzVill (2350)
+Seat 5: diamond (800)
+Seat 6: betong (3225)
+betong has the dealer button
+CLS posts small blind 75
+CoinDoctor posts big blind 150
+** Hole Cards ** [5 players]
+JanzVill folds
+diamond calls 150
+betong folds
+CLS calls 75
+CoinDoctor checks
+** Flop ** [Js Kc 2d]
+CLS checks
+CoinDoctor checks
+diamond checks
+** Turn ** [Ac]
+CLS checks
+CoinDoctor bets 300
+diamond calls 300
+CLS folds
+** River ** [Tc]
+CoinDoctor checks
+diamond bets 350 (All-in)
+CoinDoctor folds
+diamond refunded 350
+diamond wins Pot (1050)
+** Deck ** [9c 4h 6c 8d 6d Jh Ad 9d Ks Ah 6h 5h 2h 4c Jd 5d 3c 7c Qs As Js Kc 2d Ac Tc]
+
+Hand #65583-11 - 2017-05-28 04:10:23
+Game: PL Omaha (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (2250)
+Seat 3: CoinDoctor (1050)
+Seat 4: JanzVill (2350)
+Seat 5: diamond (1400)
+Seat 6: betong (3225)
+CLS has the dealer button
+CoinDoctor posts small blind 100
+JanzVill posts big blind 200
+** Hole Cards ** [5 players]
+diamond folds
+betong folds
+CLS raises to 700
+CoinDoctor raises to 1050 (All-in)
+JanzVill raises to 2350 (All-in)
+CLS calls 1550 (All-in)
+JanzVill refunded 100
+** Flop ** [5h 5c 8h]
+** Turn ** [3d]
+** River ** [2d]
+** Side Pot 1 Show Down ** [5h 5c 8h 3d 2d]
+CLS shows [4c Ad Kc As] (a Straight, Ace to Five)
+JanzVill shows [Ah 5s Kh Ac] (Three of a Kind, Fives +A8)
+CLS wins Side Pot 1 (2400) with a Straight
+** Main Pot Show Down ** [5h 5c 8h 3d 2d]
+CoinDoctor shows [Jd Jh Qc 9s] (Two Pair, Jacks and Fives +8)
+CLS wins Main Pot (3150) with a Straight
+CoinDoctor finishes tournament in place #9
+** Deck ** [Jd Ah Ks 5d 4c Jh 5s 7c Qd Ad Qc Kh 9h 3s Kc 9s Ac 3h 6h As 5h 5c 8h 3d 2d]
+
+Hand #65586-12 - 2017-05-28 04:11:02
+Game: PL Omaha (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (5550)
+Seat 4: JanzVill (100)
+Seat 5: diamond (1400)
+Seat 6: betong (3225)
+JanzVill has the dealer button
+diamond posts small blind 100
+betong posts big blind 200
+** Hole Cards ** [4 players]
+CLS calls 200
+JanzVill calls 100 (All-in)
+diamond folds
+betong checks
+** Flop ** [3d 3h 2d]
+betong checks
+CLS checks
+** Turn ** [7s]
+betong checks
+CLS checks
+** River ** [5c]
+betong checks
+CLS bets 600
+betong raises to 2400
+CLS folds
+betong refunded 1800
+betong wins Side Pot 1 (1400)
+** Main Pot Show Down ** [3d 3h 2d 7s 5c]
+JanzVill shows [2c 9h Ad 9s] (Two Pair, Nines and Threes +7)
+betong shows [Qd Kd 5s 7d] (Two Pair, Sevens and Fives +3)
+JanzVill wins Main Pot (400) with Two Pair
+** Deck ** [6h Qd 6d 2c Qh Kd 6c 9h 8s 5s 4h Ad Js 7d 9d 9s 3d 3h 2d 7s 5c]
+
+Hand #65592-13 - 2017-05-28 04:12:29
+Game: PL Omaha (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: CLS (4750)
+Seat 4: JanzVill (400)
+Seat 5: diamond (1300)
+Seat 6: betong (3825)
+diamond has the dealer button
+betong posts small blind 100
+CLS posts big blind 200
+** Hole Cards ** [4 players]
+JanzVill raises to 400 (All-in)
+diamond folds
+betong calls 300
+CLS calls 200
+** Flop ** [9h Jh 5s]
+betong checks
+CLS checks
+** Turn ** [Jd]
+betong checks
+CLS bets 1200
+betong folds
+CLS refunded 1200
+** River ** [Qd]
+** Pot Show Down ** [9h Jh 5s Jd Qd]
+CLS shows [Qs Ts 5c Kh] (a Straight, Nine to King)
+JanzVill shows [8h 8d 2c Jc] (Three of a Kind, Jacks +Q8)
+CLS wins Pot (1200) with a Straight
+JanzVill finishes tournament in place #7
+** Deck ** [Tc Qs 8h 3s 3d Ts 8d 4d 2d 5c 2c Td Ks Kh Jc 7d 9h Jh 5s Jd Qd]
+
+diamond moved to Table 2
+
+betong moved to Table 2
+
+CLS moved to Table 2
+
+Starting tournament 1448
+
+Hand #66100-1 - 2017-05-28 08:00:37
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: sajuuk (1500)
+Seat 3: diamond (1500)
+Seat 4: bestlooser (1500) - sitting out
+Seat 5: dynalyn0504 (1500) - sitting out
+Seat 6: Buenaobra (1500) - sitting out
+sajuuk has the dealer button
+diamond posts small blind 25
+bestlooser posts big blind 50
+** Hole Cards ** [5 players]
+dynalyn0504 folds
+Buenaobra folds
+sajuuk calls 50
+diamond calls 25
+bestlooser folds
+** Flop ** [Ks As Kd]
+diamond checks
+sajuuk checks
+** Turn ** [Ah]
+diamond checks
+sajuuk bets 50
+diamond folds
+sajuuk refunded 50
+sajuuk wins Pot (150)
+** Deck ** [6c 2h 5d 3h 7s 7d 6h 2c Td Ac Qc 4d 8c 2d Th 9d 4c 3c Ad 3s Ks As Kd Ah]
+
+Hand #66107-2 - 2017-05-28 08:01:28
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: sajuuk (1600)
+Seat 3: diamond (1450)
+Seat 4: bestlooser (1450)
+Seat 5: dynalyn0504 (1500) - sitting out
+Seat 6: Buenaobra (1500) - sitting out
+diamond has the dealer button
+bestlooser posts small blind 25
+dynalyn0504 posts big blind 50
+** Hole Cards ** [5 players]
+Buenaobra folds
+sajuuk folds
+diamond calls 50
+bestlooser calls 25
+dynalyn0504 folds
+** Flop ** [Js Kd Kh]
+bestlooser checks
+diamond checks
+** Turn ** [Ac]
+bestlooser checks
+diamond checks
+** River ** [Ah]
+bestlooser checks
+diamond checks
+** Pot Show Down ** [Js Kd Kh Ac Ah]
+diamond shows [2h 6s 4d 9c] (a Pair of Aces +K96)
+bestlooser shows [7s 2s 2d Td] (Two Pair, Aces and Deuces +K)
+bestlooser wins Pot (150) with Two Pair
+** Deck ** [7s Jc Ad 9d 2h 2s 6c Kc 7h 6s 2d 8c 5s Qc 4d Td 6d Qh 4s 9c Js Kd Kh Ac Ah]
+
+Hand #66110-3 - 2017-05-28 08:02:33
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: sajuuk (1600)
+Seat 3: diamond (1400)
+Seat 4: bestlooser (1550)
+Seat 5: dynalyn0504 (1450) - sitting out
+Seat 6: Buenaobra (1500) - sitting out
+bestlooser has the dealer button
+dynalyn0504 posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [5 players]
+sajuuk folds
+diamond calls 50
+bestlooser raises to 225
+dynalyn0504 folds
+Buenaobra folds
+diamond calls 175
+** Flop ** [4d 3s 6d]
+diamond checks
+bestlooser checks
+** Turn ** [3c]
+diamond checks
+bestlooser checks
+** River ** [8d]
+diamond bets 50
+bestlooser folds
+diamond refunded 50
+diamond wins Pot (525)
+** Deck ** [7h 9d 3h 2h Js Qs Td 2c Kd Ad As Tc 6s Ac Qh 2s 6h Th 8s 4h 4d 3s 6d 3c 8d]
+
+Hand #66115-4 - 2017-05-28 08:04:18
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: sajuuk (1600)
+Seat 3: diamond (1700)
+Seat 4: bestlooser (1325)
+Seat 5: dynalyn0504 (1425) - sitting out
+Seat 6: Buenaobra (1450) - sitting out
+dynalyn0504 has the dealer button
+Buenaobra posts small blind 50
+sajuuk posts big blind 100
+** Hole Cards ** [5 players]
+diamond calls 100
+bestlooser calls 100
+dynalyn0504 folds
+Buenaobra folds
+sajuuk checks
+** Flop ** [8c Kd 6s]
+sajuuk bets 100
+diamond calls 100
+bestlooser calls 100
+** Turn ** [7h]
+sajuuk bets 100
+diamond folds
+bestlooser calls 100
+** River ** [5h]
+sajuuk bets 100
+bestlooser folds
+sajuuk refunded 100
+sajuuk wins Pot (850)
+** Deck ** [8s 2d 2c Qh Ah Qd 3d Jc 3s 4h 7s Ks Kh Js 4s Ts Jd Ad Th 2s 8c Kd 6s 7h 5h]
+
+Hand #66119-5 - 2017-05-28 08:05:25
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 2: sajuuk (2150)
+Seat 3: diamond (1500)
+Seat 4: bestlooser (1025)
+Seat 5: dynalyn0504 (1425) - sitting out
+Seat 6: Buenaobra (1400) - sitting out
+Buenaobra has the dealer button
+sajuuk posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [5 players]
+bestlooser calls 100
+dynalyn0504 folds
+Buenaobra folds
+sajuuk calls 50
+diamond checks
+** Flop ** [Qd Ts 3h]
+sajuuk checks
+diamond checks
+bestlooser checks
+** Turn ** [7c]
+sajuuk checks
+diamond checks
+bestlooser checks
+** River ** [5c]
+sajuuk bets 300
+diamond folds
+bestlooser has timed out
+bestlooser folds
+sajuuk refunded 300
+sajuuk wins Pot (300)
+Absent player dynalyn0504 removed from tournament
+Absent player Buenaobra removed from tournament
+** Deck ** [9c Ks 9d 7d 8d 4h Ac Ah Kc Kh 6h 8h 4s Td Kd 2h 4c 2c 3s Jc Qd Ts 3h 7c 5c]
+
+bestlooser moved to Table 2
+
+sajuuk moved to Table 1
+
+diamond moved to Table 2
+
