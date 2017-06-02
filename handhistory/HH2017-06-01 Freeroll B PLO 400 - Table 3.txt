@@ -1,0 +1,80 @@
+﻿Starting tournament 1544
+
+Hand #75652-1 - 2017-06-01 08:00:34
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: Efyang (1500) - sitting out
+Seat 2: diamond (1500)
+Seat 3: shtako (1500)
+Seat 6: Ruphus (1500)
+Efyang has the dealer button
+diamond posts small blind 25
+shtako posts big blind 50
+** Hole Cards ** [4 players]
+Ruphus calls 50
+Efyang folds
+diamond folds
+shtako checks
+** Flop ** [Js 5c 7d]
+shtako checks
+Ruphus bets 62
+shtako raises to 311
+Ruphus calls 249
+** Turn ** [4c]
+shtako bets 747
+Ruphus calls 747
+** River ** [Qs]
+shtako bets 392 (All-in)
+Ruphus calls 392 (All-in)
+** Pot Show Down ** [Js 5c 7d 4c Qs]
+shtako shows [9d Jh 6c Jd] (Three of a Kind, Jacks +Q7)
+Ruphus shows [7c 4h 4d 6h] (Three of a Kind, Fours +QJ)
+shtako wins Pot (3025) with Three of a Kind
+Ruphus finishes tournament in place #13
+** Deck ** [9s 9d 7c Qc 6d Jh 4h 8s 5s 6c 4d As Kh Jd 6h Ts Js 5c 7d 4c Qs]
+
+Efyang moved to Table 2
+
+diamond moved to Table 2
+
+shtako moved to Table 1
+
+Starting tournament 1552
+
+Hand #76238-1 - 2017-06-01 16:00:34
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 400 - Table 3
+Seat 1: sajuuk (1500)
+Seat 4: jackpot (1500) - sitting out
+Seat 5: AlphaWolf (1500)
+Seat 6: tagailog (1500) - sitting out
+sajuuk has the dealer button
+jackpot posts small blind 25
+AlphaWolf posts big blind 50
+** Hole Cards ** [4 players]
+tagailog folds
+sajuuk calls 50
+jackpot folds
+AlphaWolf raises to 175
+sajuuk calls 125
+** Flop ** [9h Ac 2d]
+AlphaWolf bets 375
+sajuuk raises to 1325 (All-in)
+AlphaWolf calls 950 (All-in)
+** Turn ** [9s]
+** River ** [6c]
+** Pot Show Down ** [9h Ac 2d 9s 6c]
+sajuuk shows [Tc 9c As 2c] (a Full House, Nines full of Aces)
+AlphaWolf shows [Ad 5h Qc 5d] (Two Pair, Aces and Nines +Q)
+sajuuk wins Pot (3025) with a Full House
+AlphaWolf finishes tournament in place #13
+** Deck ** [3c Ad Js Tc 4c 5h 6d 9c 4s Qc 8d As 5s 5d 7d 2c 9h Ac 2d 9s 6c]
+
+tagailog moved to Table 2
+
+sajuuk moved to Table 2
+
+jackpot moved to Table 1
+
