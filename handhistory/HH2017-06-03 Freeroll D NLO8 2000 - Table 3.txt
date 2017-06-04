@@ -1,0 +1,989 @@
+﻿Starting tournament 1598
+
+Hand #79755-1 - 2017-06-03 14:00:33
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: sajuuk (1500)
+Seat 2: bestlooser (1500)
+Seat 4: yanyan (1500)
+Seat 5: Buenaobra (1500) - sitting out
+Seat 6: NuGgetZ1 (1500)
+sajuuk has the dealer button
+bestlooser posts small blind 25
+yanyan posts big blind 50
+** Hole Cards ** [5 players]
+Buenaobra folds
+NuGgetZ1 calls 50
+sajuuk calls 50
+bestlooser calls 25
+yanyan checks
+** Flop ** [Kd 4s Ah]
+bestlooser checks
+yanyan checks
+NuGgetZ1 checks
+sajuuk checks
+** Turn ** [Kh]
+bestlooser bets 200
+yanyan folds
+NuGgetZ1 folds
+sajuuk calls 200
+** River ** [Jd]
+bestlooser bets 600
+sajuuk calls 600
+** Pot Show Down ** [Kd 4s Ah Kh Jd]
+sajuuk shows [Jh Qs 2h 4d] (Hi: Two Pair, Kings and Jacks +Q  Lo: None)
+bestlooser shows [7h Qd Ac Kc] (Hi: a Full House, Kings full of Aces  Lo: None)
+bestlooser wins Pot (1800) with a Full House
+No low hand qualified
+** Deck ** [7h 4h 2d 9h Jh Qd 9c 8d 7c Qs Ac 5h Ks Jc 2h Kc 3h 5s As 4d Kd 4s Ah Kh Jd]
+
+Hand #79767-2 - 2017-06-03 14:02:24
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: sajuuk (650)
+Seat 2: bestlooser (2450)
+Seat 4: yanyan (1450)
+Seat 5: Buenaobra (1500)
+Seat 6: NuGgetZ1 (1450)
+bestlooser has the dealer button
+yanyan posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [5 players]
+NuGgetZ1 calls 50
+sajuuk raises to 650 (All-in)
+bestlooser folds
+yanyan folds
+Buenaobra folds
+NuGgetZ1 calls 600
+** Flop ** [3s Kd 5h]
+** Turn ** [9d]
+** River ** [Js]
+** Pot Show Down ** [3s Kd 5h 9d Js]
+sajuuk shows [Ad Kh 4c 8d] (Hi: a Pair of Kings +AJ9  Lo: None)
+NuGgetZ1 shows [Qh 5c Tc 4h] (Hi: a Straight, Nine to King  Lo: None)
+NuGgetZ1 wins Pot (1375) with a Straight
+No low hand qualified
+sajuuk finishes tournament in place #19
+** Deck ** [2s Qd Qh Ad 4d Th Kc 5c Kh 9c As 2h Tc 4c Jc 2d 2c 4h 8d Jh 3s Kd 5h 9d Js]
+
+NuGgetZ1 moved to Table 2
+
+bestlooser moved to Table 4
+
+yanyan moved to Table 2
+
+Buenaobra moved to Table 1
+
+Starting tournament 1602
+
+Hand #80290-1 - 2017-06-03 18:00:32
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Protek (1500) - sitting out
+Seat 2: bspus (1500)
+Seat 4: AlphaWolf (1500)
+Seat 5: Bourne (1500) - sitting out
+Protek has the dealer button
+bspus posts small blind 25
+AlphaWolf posts big blind 50
+** Hole Cards ** [4 players]
+Bourne folds
+Protek folds
+bspus raises to 100
+AlphaWolf calls 50
+** Flop ** [7h Jd Jc]
+bspus checks
+AlphaWolf bets 200
+bspus calls 200
+** Turn ** [7d]
+bspus bets 1200 (All-in)
+AlphaWolf folds
+bspus refunded 1200
+bspus wins Pot (600)
+** Deck ** [2h 4d 7s 5d 8d Qs Th Qh 8h 6c 4s 9d 6d Td 9h 5s 7h Jd Jc 7d]
+
+Hand #80297-2 - 2017-06-03 18:01:19
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Protek (1500) - sitting out
+Seat 2: bspus (1800)
+Seat 4: AlphaWolf (1200)
+Seat 5: Bourne (1500)
+bspus has the dealer button
+AlphaWolf posts small blind 25
+Bourne posts big blind 50
+** Hole Cards ** [4 players]
+Protek folds
+bspus calls 50
+AlphaWolf raises to 1200 (All-in)
+Bourne raises to 1500 (All-in)
+bspus calls 1450
+** Flop ** [6s 4c 3d]
+** Turn ** [Ad]
+** River ** [9c]
+** Side Pot 1 Show Down ** [6s 4c 3d Ad 9c]
+bspus shows [4s 2c 4h 3s] (Hi: Three of a Kind, Fours +A9  Lo: 6432A)
+Bourne shows [Ah Jc 6d 8s] (Hi: Two Pair, Aces and Sixes +9  Lo: 8643A)
+bspus wins Hi Side Pot 1 (300) with Three of a Kind
+bspus wins Lo Side Pot 1 (300) with 6432A
+ROBERTO moved from Table 2
+siriloy moved from Table 2
+** Main Pot Show Down ** [6s 4c 3d Ad 9c]
+AlphaWolf shows [3c Kd 3h Ac] (Hi: Three of a Kind, Threes +A9  Lo: None)
+bspus wins Hi Main Pot (1800) with Three of a Kind
+bspus wins Lo Main Pot (1800) with 6432A
+AlphaWolf finishes tournament in place #12
+Bourne finishes tournament in place #11
+** Deck ** [3c Ah 5c 4s Kd Jc 4d 2c 3h 6d Th 4h Ac 8s Js 3s 6s 4c 3d Ad 9c]
+
+Hand #80299-3 - 2017-06-03 18:01:58
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Protek (1500) - sitting out
+Seat 2: bspus (4500)
+Seat 3: ROBERTO (4500)
+Seat 6: siriloy (50)
+Protek has the dealer button
+bspus posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [4 players]
+siriloy calls 50 (All-in)
+Protek folds
+whynot moved from Table 1
+bspus calls 25
+ROBERTO checks
+** Flop ** [5c 7h 7c]
+bspus checks
+ROBERTO bets 150
+bspus folds
+ROBERTO refunded 150
+** Turn ** [Ks]
+** River ** [Ac]
+** Pot Show Down ** [5c 7h 7c Ks Ac]
+ROBERTO shows [Qd 7d 9s Ah] (Hi: a Full House, Sevens full of Aces  Lo: None)
+siriloy shows [2d 6h Jd 2s] (Hi: Two Pair, Sevens and Deuces +A  Lo: 7652A)
+ROBERTO wins Hi Pot (75) with a Full House
+siriloy wins Lo Pot (75) with 7652A
+** Deck ** [3s Qd 2d 9c 2c 7d 6h Kh Qh 9s Jd 8c 8h Ah 2s 3d 5c 7h 7c Ks Ac]
+
+Hand #80303-4 - 2017-06-03 18:02:45
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Protek (1500) - sitting out
+Seat 2: bspus (4450)
+Seat 3: ROBERTO (4525)
+Seat 4: whynot (1500)
+Seat 6: siriloy (75)
+bspus has the dealer button
+ROBERTO posts small blind 25
+whynot posts big blind 50
+** Hole Cards ** [5 players]
+siriloy raises to 75 (All-in)
+Protek folds
+bspus folds
+ROBERTO calls 50
+whynot calls 25
+** Flop ** [9h 6d 2h]
+ROBERTO checks
+whynot checks
+** Turn ** [7h]
+ROBERTO checks
+whynot checks
+** River ** [Ac]
+ROBERTO bets 50
+whynot calls 50
+** Side Pot 1 Show Down ** [9h 6d 2h 7h Ac]
+ROBERTO shows [Ad Jc 4h Kd] (Hi: a Pair of Aces +K97  Lo: 7642A)
+whynot shows [Td 5h 7s 9s] (Hi: Two Pair, Nines and Sevens +A  Lo: 7652A)
+whynot wins Hi Side Pot 1 (50) with Two Pair
+ROBERTO wins Lo Side Pot 1 (50) with 7642A
+** Main Pot Show Down ** [9h 6d 2h 7h Ac]
+siriloy shows [Ks 3c 2s 6c] (Hi: Two Pair, Sixes and Deuces +A  Lo: 7632A)
+whynot wins Hi Main Pot (113) with Two Pair
+siriloy wins Lo Main Pot (112) with 7632A
+** Deck ** [Ad Td Ks Th Ts Jc 5h 3c 3s 4d 4h 7s 2s 2c 4s Kd 9s 6c 8d 9d 9h 6d 2h 7h Ac]
+
+Hand #80308-5 - 2017-06-03 18:04:05
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Protek (1500) - sitting out
+Seat 2: bspus (4450)
+Seat 3: ROBERTO (4450)
+Seat 4: whynot (1538)
+Seat 6: siriloy (112)
+ROBERTO has the dealer button
+whynot posts small blind 50
+siriloy posts big blind 100
+** Hole Cards ** [5 players]
+Protek folds
+bspus folds
+ROBERTO has timed out
+ROBERTO folds
+whynot calls 50
+siriloy raises to 112 (All-in)
+whynot calls 12
+** Flop ** [8h 6s Ad]
+** Turn ** [Ks]
+** River ** [Ah]
+** Pot Show Down ** [8h 6s Ad Ks Ah]
+whynot shows [Tc Kd 3d 9c] (Hi: Two Pair, Aces and Kings +T  Lo: None)
+siriloy shows [2d 3s 5h Kc] (Hi: Two Pair, Aces and Kings +5  Lo: 8632A)
+whynot wins Hi Pot (112) with Two Pair
+siriloy wins Lo Pot (112) with 8632A
+** Deck ** [Tc 2d Qh Qs 9s Kd 3s 8d 4c 5s 3d 5h 4h 9h Jd 9c Kc 7c Qc Kh 8h 6s Ad Ks Ah]
+
+Hand #80313-6 - 2017-06-03 18:05:04
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Protek (1500) - sitting out
+Seat 2: bspus (4450)
+Seat 3: ROBERTO (4450)
+Seat 4: whynot (1538)
+Seat 6: siriloy (112)
+whynot has the dealer button
+siriloy posts small blind 50
+Protek posts big blind 100
+** Hole Cards ** [5 players]
+bspus folds
+ROBERTO folds
+whynot raises to 200
+siriloy calls 62 (All-in)
+Protek folds
+whynot refunded 88
+** Flop ** [Jh 4c 6c]
+** Turn ** [Jc]
+** River ** [2c]
+** Pot Show Down ** [Jh 4c 6c Jc 2c]
+whynot shows [9c 8d 3d 8c] (Hi: a Flush, Jack high +9864  Lo: 86432)
+siriloy shows [5c Ts Ac 5h] (Hi: a Flush, Ace high +J654  Lo: 6542A)
+siriloy wins Hi Pot (162) with a Flush
+siriloy wins Lo Pot (162) with 6542A
+Absent player Protek removed from tournament
+** Deck ** [5c 4s Qs 2d 9c Ts 7c Th Ks 8d Ac 9d Qd 6d 3d 5h Kh 4d 3s 8c Jh 4c 6c Jc 2c]
+
+Hand #80317-7 - 2017-06-03 18:05:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: bspus (4450)
+Seat 3: ROBERTO (4450)
+Seat 4: whynot (1426)
+Seat 6: siriloy (324)
+siriloy has the dealer button
+bspus posts small blind 50
+ROBERTO posts big blind 100
+** Hole Cards ** [4 players]
+whynot folds
+siriloy raises to 324 (All-in)
+bspus calls 274
+killsaids moved from Table 1
+Prince moved from Table 1
+ROBERTO calls 224
+** Flop ** [Qd 8c 3h]
+bspus checks
+ROBERTO checks
+** Turn ** [Kc]
+bspus checks
+ROBERTO checks
+** River ** [6h]
+bspus checks
+ROBERTO checks
+** Pot Show Down ** [Qd 8c 3h Kc 6h]
+bspus shows [9c Ad Th Ts] (Hi: a Pair of Tens +KQ8  Lo: None)
+ROBERTO shows [7c 9s 3c 2c] (Hi: a Pair of Threes +KQ9  Lo: 87632)
+siriloy shows [Js Ah Td 5d] (Hi: High Card Ace +KQJ8  Lo: 8653A)
+bspus wins Hi Pot (486) with a Pair
+siriloy wins Lo Pot (486) with 8653A
+** Deck ** [9c 7c Qc Js Ad 9s 2d Ah Th 3c Kd Td Ts 2c 4d 5d Qd 8c 3h Kc 6h]
+
+Hand #80319-8 - 2017-06-03 18:06:25
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2537)
+Seat 2: bspus (4612)
+Seat 3: ROBERTO (4126)
+Seat 4: whynot (1426)
+Seat 5: killsaids (2513)
+Seat 6: siriloy (486)
+bspus has the dealer button
+ROBERTO posts small blind 50
+whynot posts big blind 100
+** Hole Cards ** [6 players]
+killsaids folds
+siriloy folds
+Prince folds
+bspus folds
+ROBERTO raises to 1400
+whynot raises to 1426 (All-in)
+ROBERTO calls 26
+** Flop ** [5d 8s 3c]
+** Turn ** [7s]
+** River ** [4c]
+** Pot Show Down ** [5d 8s 3c 7s 4c]
+ROBERTO shows [Jc 6h As Kc] (Hi: High Card Ace +K875  Lo: 6543A)
+whynot shows [2h Kd 2c Ah] (Hi: a Straight, Ace to Five  Lo: 5432A)
+whynot wins Hi Pot (1426) with a Straight
+whynot wins Lo Pot (1426) with 5432A
+** Deck ** [Jc 2h 2s 9c 9h 7c 6h Kd 3s 5h 6s 8h As 2c 9d 4s 5s Kh Kc Ah Ks Ad 7h 8d 5d 8s 3c 7s 4c]
+
+Hand #80321-9 - 2017-06-03 18:07:05
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2537)
+Seat 2: bspus (4612)
+Seat 3: ROBERTO (2700)
+Seat 4: whynot (2852)
+Seat 5: killsaids (2513)
+Seat 6: siriloy (486)
+ROBERTO has the dealer button
+whynot posts small blind 75
+killsaids posts big blind 150
+** Hole Cards ** [6 players]
+siriloy raises to 486 (All-in)
+Prince folds
+bspus folds
+ROBERTO raises to 2700 (All-in)
+whynot folds
+killsaids folds
+ROBERTO refunded 2214
+** Flop ** [6s Tc 5c]
+** Turn ** [8h]
+** River ** [9s]
+** Pot Show Down ** [6s Tc 5c 8h 9s]
+ROBERTO shows [3c 7s Ac 7h] (Hi: a Pair of Sevens +T98  Lo: 8653A)
+siriloy shows [6h 3d As Ad] (Hi: a Pair of Aces +T98  Lo: 8653A)
+siriloy wins Hi Pot (599) with a Pair
+ROBERTO splits Lo Pot (299) with 8653A
+siriloy splits Lo Pot (299) with 8653A
+** Deck ** [9d Jd 6h 5s 3h 3c Ah 7d 3d 5d 9c 7s Td 9h As Ks Jh Ac 4c Kh Ad 7c Js 7h 6s Tc 5c 8h 9s]
+
+Hand #80324-10 - 2017-06-03 18:07:38
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2537)
+Seat 2: bspus (4612)
+Seat 3: ROBERTO (2513)
+Seat 4: whynot (2777)
+Seat 5: killsaids (2363)
+Seat 6: siriloy (898)
+whynot has the dealer button
+killsaids posts small blind 75
+siriloy posts big blind 150
+** Hole Cards ** [6 players]
+Prince folds
+bspus folds
+ROBERTO raises to 2513 (All-in)
+whynot folds
+killsaids folds
+siriloy folds
+ROBERTO refunded 2363
+ROBERTO wins Pot (375)
+** Deck ** [4s 2d Js Th Td 4c Qc 7d 9s Qh 8h Ks 2c 9c Ac 3h 5s 9h 5c Kh Qs 6s Tc 6c]
+
+Hand #80325-11 - 2017-06-03 18:08:07
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2537)
+Seat 2: bspus (4612)
+Seat 3: ROBERTO (2738)
+Seat 4: whynot (2777)
+Seat 5: killsaids (2288)
+Seat 6: siriloy (748)
+killsaids has the dealer button
+siriloy posts small blind 75
+Prince posts big blind 150
+** Hole Cards ** [6 players]
+bspus folds
+ROBERTO calls 150
+whynot raises to 2777 (All-in)
+killsaids folds
+siriloy folds
+Prince folds
+ROBERTO calls 2588 (All-in)
+whynot refunded 39
+** Flop ** [Qh 3h 9c]
+** Turn ** [Qd]
+** River ** [6h]
+** Pot Show Down ** [Qh 3h 9c Qd 6h]
+ROBERTO shows [Tc 8s Jd 9s] (Hi: Two Pair, Queens and Nines +J  Lo: None)
+whynot shows [4s Ac 6s Ad] (Hi: Two Pair, Aces and Queens +9  Lo: None)
+whynot wins Pot (5701) with Two Pair
+No low hand qualified
+ROBERTO finishes tournament in place #6
+** Deck ** [6c Jc 4c Tc 4s 9d 3d 7d Kc 8s Ac 8d Kh Qc 7h Jd 6s Ks 5h 7s Th 9s Ad 2s Qh 3h 9c Qd 6h]
+
+Hand #80328-12 - 2017-06-03 18:09:11
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2387)
+Seat 2: bspus (4612)
+Seat 4: whynot (5740)
+Seat 5: killsaids (2288)
+Seat 6: siriloy (673)
+siriloy has the dealer button
+Prince posts small blind 75
+bspus posts big blind 150
+** Hole Cards ** [5 players]
+whynot folds
+killsaids folds
+siriloy raises to 673 (All-in)
+Prince folds
+bspus calls 523
+** Flop ** [5c 8h 6d]
+** Turn ** [7c]
+** River ** [As]
+** Pot Show Down ** [5c 8h 6d 7c As]
+bspus shows [Jd 5d 4d 4c] (Hi: a Straight, Four to Eight  Lo: 7654A)
+siriloy shows [7d 9h 5s 6c] (Hi: a Straight, Five to Nine  Lo: 8765A)
+siriloy wins Hi Pot (711) with a Straight
+bspus wins Lo Pot (710) with 7654A
+** Deck ** [9c Jd 2c Td 7d 7h 5d Ts Qd 9h Jc 4d Ac 7s 5s 6s 4c Js 3d 6c 5c 8h 6d 7c As]
+
+Hand #80330-13 - 2017-06-03 18:09:43
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2312)
+Seat 2: bspus (4649)
+Seat 4: whynot (5740)
+Seat 5: killsaids (2288)
+Seat 6: siriloy (711)
+Prince has the dealer button
+bspus posts small blind 100
+whynot posts big blind 200
+** Hole Cards ** [5 players]
+killsaids raises to 444
+siriloy raises to 711 (All-in)
+Prince folds
+bspus folds
+whynot folds
+killsaids calls 267
+** Flop ** [5c 5s Jd]
+** Turn ** [7h]
+** River ** [3c]
+** Pot Show Down ** [5c 5s Jd 7h 3c]
+killsaids shows [4s Ad 2s 2c] (Hi: Two Pair, Fives and Deuces +J  Lo: 7532A)
+siriloy shows [6c 2d 6s Ac] (Hi: Two Pair, Sixes and Fives +J  Lo: 7532A)
+siriloy wins Hi Pot (861) with Two Pair
+killsaids splits Lo Pot (431) with 7532A
+siriloy splits Lo Pot (430) with 7532A
+** Deck ** [Kh Tc 4s 6c 4d 4h 9s Ad 2d Jh Qc 5h 2s 6s Qd 9c Qh 2c Ac Th 5c 5s Jd 7h 3c]
+
+Hand #80333-14 - 2017-06-03 18:10:27
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2312)
+Seat 2: bspus (4549)
+Seat 4: whynot (5540)
+Seat 5: killsaids (2008)
+Seat 6: siriloy (1291)
+bspus has the dealer button
+whynot posts small blind 100
+killsaids posts big blind 200
+** Hole Cards ** [5 players]
+siriloy folds
+Prince raises to 600
+bspus folds
+whynot folds
+killsaids calls 400
+** Flop ** [6h 5c Kc]
+killsaids checks
+Prince bets 1500
+killsaids folds
+Prince refunded 1500
+Prince wins Pot (1300)
+** Deck ** [9d Ac 7d Qh 6s Tc Ad 8d Jc 5h 6d 8s 2h As Ts 3c 5d 8c Qc Qd 6h 5c Kc]
+
+Hand #80336-15 - 2017-06-03 18:11:31
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (3012)
+Seat 2: bspus (4549)
+Seat 4: whynot (5440)
+Seat 5: killsaids (1408)
+Seat 6: siriloy (1291)
+whynot has the dealer button
+killsaids posts small blind 100
+siriloy posts big blind 200
+** Hole Cards ** [5 players]
+Prince folds
+bspus calls 200
+whynot folds
+killsaids folds
+siriloy raises to 1291 (All-in)
+bspus calls 1091
+** Flop ** [Ac Jd 9h]
+** Turn ** [9s]
+** River ** [8s]
+** Pot Show Down ** [Ac Jd 9h 9s 8s]
+bspus shows [7s 3s Ad Ts] (Hi: a Straight, Seven to Jack  Lo: None)
+siriloy shows [5s 4d 4c 6s] (Hi: Two Pair, Nines and Fours +A  Lo: None)
+bspus wins Pot (2682) with a Straight
+No low hand qualified
+siriloy finishes tournament in place #5
+** Deck ** [Jh 5s 8h 7s Qh 9d 4d 6c 3s 7c Tc 4c 5d Ad Js 5h 6s 2d Ts Td Ac Jd 9h 9s 8s]
+
+Hand #80337-16 - 2017-06-03 18:12:00
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (3012)
+Seat 2: bspus (5940)
+Seat 4: whynot (5440)
+Seat 5: killsaids (1308)
+killsaids has the dealer button
+Prince posts small blind 100
+bspus posts big blind 200
+** Hole Cards ** [4 players]
+whynot folds
+killsaids raises to 1308 (All-in)
+Prince folds
+bspus calls 1108
+** Flop ** [Ks 4h 6c]
+** Turn ** [Qd]
+** River ** [8c]
+** Pot Show Down ** [Ks 4h 6c Qd 8c]
+bspus shows [Tc Jh 6s 4c] (Hi: Two Pair, Sixes and Fours +K  Lo: None)
+killsaids shows [Jc Kc 3d As] (Hi: a Pair of Kings +AQ8  Lo: 8643A)
+bspus wins Hi Pot (1358) with Two Pair
+killsaids wins Lo Pot (1358) with 8643A
+** Deck ** [7c Tc 3c Jc 5h Jh 2d Kc 7d 6s Qc 3d 3s 4c Kh As Ks 4h 6c Qd 8c]
+
+Hand #80339-17 - 2017-06-03 18:12:33
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2912)
+Seat 2: bspus (5990)
+Seat 4: whynot (5440)
+Seat 5: killsaids (1358)
+Prince has the dealer button
+Prince posts ante 25
+bspus posts ante 25
+whynot posts ante 25
+killsaids posts ante 25
+bspus posts small blind 100
+whynot posts big blind 200
+** Hole Cards ** [4 players]
+killsaids folds
+Prince folds
+bspus calls 100
+whynot checks
+** Flop ** [5h 7c 5c]
+bspus checks
+whynot bets 5215 (All-in)
+bspus calls 5215
+** Turn ** [3d]
+** River ** [Tc]
+** Pot Show Down ** [5h 7c 5c 3d Tc]
+bspus shows [Ac 2s 6d 8d] (Hi: a Pair of Fives +AT8  Lo: 7532A)
+whynot shows [5s 2d Kc 7s] (Hi: a Full House, Fives full of Sevens  Lo: None)
+whynot wins Hi Pot (5465) with a Full House
+bspus wins Lo Pot (5465) with 7532A
+** Deck ** [Ac 5s 4c 6h 2s 2d 9s Qh 6d Kc 7d 4h 8d 7s Jc 9h 5h 7c 5c 3d Tc]
+
+Hand #80341-18 - 2017-06-03 18:13:11
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2887)
+Seat 2: bspus (6015)
+Seat 4: whynot (5465)
+Seat 5: killsaids (1333)
+bspus has the dealer button
+Prince posts ante 25
+bspus posts ante 25
+whynot posts ante 25
+killsaids posts ante 25
+whynot posts small blind 100
+killsaids posts big blind 200
+** Hole Cards ** [4 players]
+Prince folds
+bspus folds
+whynot calls 100
+killsaids checks
+** Flop ** [6s 7c Kh]
+whynot checks
+killsaids checks
+** Turn ** [7s]
+whynot bets 200
+killsaids folds
+whynot refunded 200
+whynot wins Pot (500)
+** Deck ** [2d 8h Js Kc 7d 6d Qc 3s 5h Th 6h 9c Ac Td 8d Kd 6s 7c Kh 7s]
+
+Hand #80342-19 - 2017-06-03 18:13:56
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2862)
+Seat 2: bspus (5990)
+Seat 4: whynot (5740)
+Seat 5: killsaids (1108)
+whynot has the dealer button
+Prince posts ante 25
+bspus posts ante 25
+whynot posts ante 25
+killsaids posts ante 25
+killsaids posts small blind 100
+Prince posts big blind 200
+** Hole Cards ** [4 players]
+bspus folds
+whynot folds
+killsaids raises to 1083 (All-in)
+Prince folds
+killsaids refunded 883
+killsaids wins Pot (500)
+** Deck ** [4d 7h 5d Ah Qh 6c Jd 9c Ad 8s 4c Tc 7s 8d Kd 6s]
+
+Hand #80344-20 - 2017-06-03 18:14:35
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2637)
+Seat 2: bspus (5965)
+Seat 4: whynot (5715)
+Seat 5: killsaids (1383)
+killsaids has the dealer button
+Prince posts ante 25
+bspus posts ante 25
+whynot posts ante 25
+killsaids posts ante 25
+Prince posts small blind 100
+bspus posts big blind 200
+** Hole Cards ** [4 players]
+whynot folds
+killsaids folds
+Prince folds
+bspus refunded 100
+bspus wins Pot (300)
+** Deck ** [9c 7h Ks Kc 2h 5d 5h 6c Tc 2d Jh 9s 2s Qd 8c Ah]
+
+Hand #80345-21 - 2017-06-03 18:14:54
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2512)
+Seat 2: bspus (6140)
+Seat 4: whynot (5690)
+Seat 5: killsaids (1358)
+Prince has the dealer button
+Prince posts ante 25
+bspus posts ante 25
+whynot posts ante 25
+killsaids posts ante 25
+bspus posts small blind 100
+whynot posts big blind 200
+** Hole Cards ** [4 players]
+killsaids folds
+Prince raises to 2487 (All-in)
+bspus folds
+whynot folds
+Prince refunded 2287
+Prince wins Pot (600)
+** Deck ** [Ks 9c 4h 6d 6h 4c Jh Qd 9h Kd 2d Kc Ts 4s 2s Jc]
+
+Hand #80347-22 - 2017-06-03 18:15:22
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2887)
+Seat 2: bspus (6015)
+Seat 4: whynot (5465)
+Seat 5: killsaids (1333)
+bspus has the dealer button
+Prince posts ante 25
+bspus posts ante 25
+whynot posts ante 25
+killsaids posts ante 25
+whynot posts small blind 100
+killsaids posts big blind 200
+** Hole Cards ** [4 players]
+Prince folds
+bspus folds
+whynot calls 100
+killsaids raises to 1308 (All-in)
+whynot calls 1108
+** Flop ** [5d Kd 5s]
+** Turn ** [7d]
+** River ** [3c]
+** Pot Show Down ** [5d Kd 5s 7d 3c]
+whynot shows [Tc 2s 6c As] (Hi: a Pair of Fives +AKT  Lo: 7532A)
+killsaids shows [Th Ad 9s 4c] (Hi: a Pair of Fives +AKT  Lo: 7543A)
+whynot splits Hi Pot (679) with a Pair
+killsaids splits Hi Pot (679) with a Pair
+whynot wins Lo Pot (1358) with 7532A
+** Deck ** [Tc Th 4d 3h 2s Ad 6s Jd 6c 9s 5h Ts As 4c 5c 2d 5d Kd 5s 7d 3c]
+
+Hand #80349-23 - 2017-06-03 18:15:53
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2862)
+Seat 2: bspus (5990)
+Seat 4: whynot (6169)
+Seat 5: killsaids (679)
+whynot has the dealer button
+Prince posts ante 25
+bspus posts ante 25
+whynot posts ante 25
+killsaids posts ante 25
+killsaids posts small blind 200
+Prince posts big blind 400
+** Hole Cards ** [4 players]
+bspus calls 400
+whynot calls 400
+killsaids folds
+Prince checks
+** Flop ** [Js 5h 5s]
+Prince checks
+bspus checks
+whynot bets 1500
+Prince folds
+bspus calls 1500
+** Turn ** [4h]
+bspus checks
+whynot checks
+** River ** [Td]
+bspus checks
+whynot checks
+** Pot Show Down ** [Js 5h 5s 4h Td]
+bspus shows [Qs 8h As Ah] (Hi: Two Pair, Aces and Fives +J  Lo: None)
+whynot shows [3d Kc 5c Ac] (Hi: Three of a Kind, Fives +AJ  Lo: None)
+whynot wins Pot (4500) with Three of a Kind
+No low hand qualified
+** Deck ** [2s 2h Qs 3d Kd 8c 8h Kc 3c 9c As 5c 3h 4c Ah Ac Js 5h 5s 4h Td]
+
+Hand #80351-24 - 2017-06-03 18:16:52
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: Prince (2437)
+Seat 2: bspus (4065)
+Seat 4: whynot (8744)
+Seat 5: killsaids (454)
+killsaids has the dealer button
+Prince posts ante 25
+bspus posts ante 25
+whynot posts ante 25
+killsaids posts ante 25
+Prince posts small blind 200
+bspus posts big blind 400
+** Hole Cards ** [4 players]
+whynot folds
+killsaids raises to 429 (All-in)
+Prince raises to 2412 (All-in)
+bspus calls 2012
+** Flop ** [3d Qs 5c]
+** Turn ** [Ts]
+** River ** [As]
+** Side Pot 1 Show Down ** [3d Qs 5c Ts As]
+Prince shows [6d 6h Ad 3h] (Hi: Two Pair, Aces and Threes +Q  Lo: None)
+bspus shows [Kh 6s Jd 9d] (Hi: a Straight, Ten to Ace  Lo: None)
+bspus wins Side Pot 1 (3966) with a Straight
+No low hand qualified
+** Main Pot Show Down ** [3d Qs 5c Ts As]
+killsaids shows [Tc 3s 5d Td] (Hi: Three of a Kind, Tens +AQ  Lo: None)
+bspus wins Main Pot (1387) with a Straight
+No low hand qualified
+killsaids finishes tournament in place #4 and wins 200 chips
+Prince finishes tournament in place #3 and wins 400 chips
+** Deck ** [6d Kh 5s Tc 6h 6s Jh 3s Ad Jd Kd 5d 3h 9d 7h Td 3d Qs 5c Ts As]
+
+Hand #80353-25 - 2017-06-03 18:17:45
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: bspus (6981)
+Seat 4: whynot (8719)
+bspus has the dealer button
+bspus posts ante 25
+whynot posts ante 25
+bspus posts small blind 200
+whynot posts big blind 400
+** Hole Cards ** [2 players]
+bspus raises to 6956 (All-in)
+whynot folds
+bspus refunded 6556
+bspus wins Pot (850)
+** Deck ** [8d Kh 5c 7c 7h Ac 6d 9d]
+
+Hand #80354-26 - 2017-06-03 18:18:00
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: bspus (7406)
+Seat 4: whynot (8294)
+whynot has the dealer button
+bspus posts ante 25
+whynot posts ante 25
+whynot posts small blind 200
+bspus posts big blind 400
+** Hole Cards ** [2 players]
+whynot folds
+bspus refunded 200
+bspus wins Pot (450)
+** Deck ** [4d 4s Kh 8s 2h 9c Qs 3h]
+
+Hand #80355-27 - 2017-06-03 18:18:12
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: bspus (7631)
+Seat 4: whynot (8069)
+bspus has the dealer button
+bspus posts ante 25
+whynot posts ante 25
+bspus posts small blind 200
+whynot posts big blind 400
+** Hole Cards ** [2 players]
+bspus raises to 7606 (All-in)
+whynot calls 7206
+** Flop ** [Qd Qc Ah]
+** Turn ** [3h]
+** River ** [6s]
+** Pot Show Down ** [Qd Qc Ah 3h 6s]
+bspus shows [Kd Jd 5s 7s] (Hi: a Pair of Queens +AKJ  Lo: 7653A)
+whynot shows [9h 2s Ts 9s] (Hi: Two Pair, Queens and Nines +A  Lo: None)
+whynot wins Hi Pot (7631) with Two Pair
+bspus wins Lo Pot (7631) with 7653A
+** Deck ** [9h Kd 2s Jd Ts 5s 9s 7s Qd Qc Ah 3h 6s]
+
+Hand #80357-28 - 2017-06-03 18:18:37
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: bspus (7631)
+Seat 4: whynot (8069)
+whynot has the dealer button
+bspus posts ante 50
+whynot posts ante 50
+whynot posts small blind 300
+bspus posts big blind 600
+** Hole Cards ** [2 players]
+whynot raises to 8019 (All-in)
+bspus calls 6981 (All-in)
+whynot refunded 438
+** Flop ** [5h 9c 3s]
+** Turn ** [3d]
+** River ** [2s]
+** Pot Show Down ** [5h 9c 3s 3d 2s]
+bspus shows [8d Jh 8h Qh] (Hi: Two Pair, Eights and Threes +9  Lo: None)
+whynot shows [6s Ac 2d Qc] (Hi: Two Pair, Threes and Deuces +A  Lo: 6532A)
+bspus wins Hi Pot (7631) with Two Pair
+whynot wins Lo Pot (7631) with 6532A
+** Deck ** [8d 6s Jh Ac 8h 2d Qh Qc 5h 9c 3s 3d 2s]
+
+Hand #80358-29 - 2017-06-03 18:18:59
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: bspus (7631)
+Seat 4: whynot (8069)
+bspus has the dealer button
+bspus posts ante 50
+whynot posts ante 50
+bspus posts small blind 300
+whynot posts big blind 600
+** Hole Cards ** [2 players]
+bspus raises to 7581 (All-in)
+whynot calls 6981
+** Flop ** [Ah Jd 2h]
+** Turn ** [Qh]
+** River ** [3d]
+** Pot Show Down ** [Ah Jd 2h Qh 3d]
+bspus shows [Tc 7c 8h Ks] (Hi: a Straight, Ten to Ace  Lo: 8732A)
+whynot shows [9s Js Qs Td] (Hi: Two Pair, Queens and Jacks +A  Lo: None)
+bspus wins Hi Pot (7631) with a Straight
+bspus wins Lo Pot (7631) with 8732A
+** Deck ** [9s Tc Js 7c Qs 8h Td Ks Ah Jd 2h Qh 3d]
+
+Hand #80360-30 - 2017-06-03 18:19:20
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: bspus (15262)
+Seat 4: whynot (438)
+whynot has the dealer button
+bspus posts ante 50
+whynot posts ante 50
+whynot posts small blind 300
+bspus posts big blind 600
+** Hole Cards ** [2 players]
+whynot calls 88 (All-in)
+bspus refunded 212
+** Flop ** [6s Js 4s]
+** Turn ** [Kc]
+** River ** [2s]
+** Pot Show Down ** [6s Js 4s Kc 2s]
+bspus shows [9h 6h 8h Tc] (Hi: a Pair of Sixes +KJT  Lo: None)
+whynot shows [2h 9c 5h 7h] (Hi: a Pair of Deuces +KJ9  Lo: 76542)
+bspus wins Hi Pot (438) with a Pair
+whynot wins Lo Pot (438) with 76542
+** Deck ** [9h 2h 6h 9c 8h 5h Tc 7h 6s Js 4s Kc 2s]
+
+Hand #80361-31 - 2017-06-03 18:19:39
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: bspus (15262)
+Seat 4: whynot (438)
+bspus has the dealer button
+bspus posts ante 50
+whynot posts ante 50
+bspus posts small blind 300
+whynot posts big blind 388 (All-in)
+** Hole Cards ** [2 players]
+bspus calls 300
+bspus refunded 212
+** Flop ** [9s Td 5h]
+** Turn ** [2d]
+** River ** [6s]
+** Pot Show Down ** [9s Td 5h 2d 6s]
+bspus shows [Ks Qc 5d Ah] (Hi: a Pair of Fives +AT9  Lo: None)
+whynot shows [Tc 4h As Ts] (Hi: Three of a Kind, Tens +96  Lo: 6542A)
+whynot wins Hi Pot (438) with Three of a Kind
+whynot wins Lo Pot (438) with 6542A
+** Deck ** [Tc Ks 4h Qc As 5d Ts Ah 9s Td 5h 2d 6s]
+
+Hand #80363-32 - 2017-06-03 18:19:58
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: bspus (14824)
+Seat 4: whynot (876)
+whynot has the dealer button
+bspus posts ante 50
+whynot posts ante 50
+whynot posts small blind 300
+bspus posts big blind 600
+** Hole Cards ** [2 players]
+whynot raises to 826 (All-in)
+bspus calls 226
+** Flop ** [7s Td 5h]
+** Turn ** [7h]
+** River ** [Qd]
+** Pot Show Down ** [7s Td 5h 7h Qd]
+bspus shows [Th 3c 8s 5c] (Hi: Two Pair, Tens and Sevens +8  Lo: None)
+whynot shows [2s 6h 9s 8c] (Hi: a Pair of Sevens +Q98  Lo: None)
+bspus wins Pot (1752) with Two Pair
+No low hand qualified
+whynot finishes tournament in place #2 and wins 600 chips
+bspus finishes tournament in place #1 and wins 800 chips
+** Deck ** [Th 2s 3c 6h 8s 9s 5c 8c 7s Td 5h 7h Qd]
+

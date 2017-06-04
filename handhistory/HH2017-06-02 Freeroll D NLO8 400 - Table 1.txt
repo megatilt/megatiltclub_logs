@@ -1,0 +1,462 @@
+﻿Starting tournament 1562
+
+Hand #77125-1 - 2017-06-02 02:00:33
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 1: ROBERTO (1500) - sitting out
+Seat 2: whynot (1500) - sitting out
+Seat 3: Protek (1500) - sitting out
+Seat 4: JanzVill (1500)
+Seat 5: diamond (1500)
+Seat 6: CoinDoctor (1500) - sitting out
+ROBERTO has the dealer button
+whynot posts small blind 25
+Protek posts big blind 50
+** Hole Cards ** [6 players]
+JanzVill raises to 1500 (All-in)
+diamond has timed out
+diamond folds
+CoinDoctor folds
+ROBERTO folds
+whynot folds
+Protek folds
+JanzVill refunded 1450
+JanzVill wins Pot (125)
+** Deck ** [5h Jh 3s Kh 8d Qs 2h Ts As 3h 8h 4d Qd Ah 4h 9c Qh 5c Jd Td Ks 2c 8c Tc]
+
+Hand #77132-2 - 2017-06-02 02:01:25
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 1: ROBERTO (1500) - sitting out
+Seat 2: whynot (1475) - sitting out
+Seat 3: Protek (1450) - sitting out
+Seat 4: JanzVill (1575)
+Seat 5: diamond (1500)
+Seat 6: CoinDoctor (1500) - sitting out
+whynot has the dealer button
+Protek posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [6 players]
+diamond folds
+CoinDoctor folds
+ROBERTO folds
+whynot calls 50
+Protek folds
+JanzVill raises to 1575 (All-in)
+whynot calls 1425 (All-in)
+JanzVill refunded 100
+** Flop ** [3s 8h 6c]
+** Turn ** [Jc]
+** River ** [8d]
+** Pot Show Down ** [3s 8h 6c Jc 8d]
+whynot shows [Ah 9s 2c Ks] (Hi: a Pair of Eights +AKJ  Lo: 8632A)
+JanzVill shows [2h 3h Kc Kh] (Hi: Two Pair, Kings and Eights +J  Lo: None)
+JanzVill wins Hi Pot (1488) with Two Pair
+whynot wins Lo Pot (1487) with 8632A
+** Deck ** [Js 2h 4s Qh Td Ah 4d 3h Kd 7d 5c 9s 7c Kc 6d 4c 9c 2c 3d Kh 5s 4h Qd Ks 3s 8h 6c Jc 8d]
+
+Hand #77139-3 - 2017-06-02 02:02:07
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 1: ROBERTO (1500) - sitting out
+Seat 2: whynot (1487)
+Seat 3: Protek (1425) - sitting out
+Seat 4: JanzVill (1588)
+Seat 5: diamond (1500)
+Seat 6: CoinDoctor (1500)
+Protek has the dealer button
+JanzVill posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [6 players]
+CoinDoctor calls 50
+ROBERTO folds
+whynot calls 50
+Protek folds
+JanzVill raises to 1588 (All-in)
+diamond folds
+CoinDoctor calls 1450 (All-in)
+whynot calls 1437 (All-in)
+JanzVill refunded 88
+** Flop ** [Jc Qc Kd]
+** Turn ** [2c]
+** River ** [Js]
+** Side Pot 1 Show Down ** [Jc Qc Kd 2c Js]
+JanzVill shows [4c Ah Ad 7c] (Hi: a Flush, Queen high +J742  Lo: None)
+CoinDoctor shows [Jd Ac 2s 3s] (Hi: a Full House, Jacks full of Deuces  Lo: None)
+CoinDoctor wins Side Pot 1 (26) with a Full House
+No low hand qualified
+** Main Pot Show Down ** [Jc Qc Kd 2c Js]
+whynot shows [Qs Qd 8c 6h] (Hi: a Full House, Queens full of Jacks  Lo: None)
+whynot wins Main Pot (4511) with a Full House
+No low hand qualified
+** Deck ** [4c 5h Jd Ts Qs 9h Ah 6c Ac Jh Qd 4s Ad Th 2s 8s 8c 9s 7c Kc 3s 2h 6h 7d Jc Qc Kd 2c Js]
+
+Hand #77148-4 - 2017-06-02 02:03:16
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 1: ROBERTO (1500) - sitting out
+Seat 2: whynot (4511)
+Seat 3: Protek (1425) - sitting out
+Seat 4: JanzVill (88)
+Seat 5: diamond (1450)
+Seat 6: CoinDoctor (26)
+JanzVill has the dealer button
+diamond posts small blind 25
+CoinDoctor posts big blind 26 (All-in)
+** Hole Cards ** [6 players]
+ROBERTO folds
+whynot folds
+Protek folds
+JanzVill raises to 88 (All-in)
+diamond calls 63
+** Flop ** [Th 5c Kd]
+** Turn ** [8d]
+** River ** [Qc]
+** Side Pot 1 Show Down ** [Th 5c Kd 8d Qc]
+JanzVill shows [8s Qd 2c 3c] (Hi: Two Pair, Queens and Eights +K  Lo: None)
+diamond shows [Js 6h Ad 4c] (Hi: a Straight, Ten to Ace  Lo: None)
+diamond wins Side Pot 1 (124) with a Straight
+No low hand qualified
+** Main Pot Show Down ** [Th 5c Kd 8d Qc]
+CoinDoctor shows [6s 6d 7c 7h] (Hi: a Pair of Sevens +KQT  Lo: None)
+diamond wins Main Pot (78) with a Straight
+No low hand qualified
+CoinDoctor finishes tournament in place #11
+JanzVill finishes tournament in place #10
+** Deck ** [Js 6s 2d Jd 4s 8s 6h 6d 9d 4h 4d Qd Ad 7c Jh 8c 6c 2c 4c 7h 5d 3d Ts 3c Th 5c Kd 8d Qc]
+
+Hand #77159-5 - 2017-06-02 02:04:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 1: ROBERTO (1500) - sitting out
+Seat 2: whynot (4511)
+Seat 3: Protek (1425) - sitting out
+Seat 5: diamond (1564)
+diamond has the dealer button
+ROBERTO posts small blind 50
+whynot posts big blind 100
+** Hole Cards ** [4 players]
+Protek folds
+diamond calls 100
+ROBERTO folds
+whynot checks
+** Flop ** [8d 9c 8h]
+whynot checks
+diamond checks
+** Turn ** [4s]
+CLS moved from Table 2
+whynot bets 100
+diamond folds
+whynot refunded 100
+whynot wins Pot (250)
+whynot shows [9s Qh 4d 4h]
+Absent player ROBERTO removed from tournament
+Absent player Protek removed from tournament
+** Deck ** [3h 9s 9h 2s Ah Qh As 5d Ad 4d Ks 3c Kh 4h Tc 6d 8d 9c 8h 4s]
+
+Hand #77167-6 - 2017-06-02 02:05:55
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (4661)
+Seat 4: CLS (2675)
+Seat 5: diamond (1464)
+whynot has the dealer button
+CLS plays after the button
+whynot posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [2 players]
+whynot folds
+diamond refunded 50
+diamond wins Pot (100)
+** Deck ** [4s 2d Jh 8s Ac Kd 6h 7c]
+
+Hand #77168-7 - 2017-06-02 02:06:22
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (4611)
+Seat 4: CLS (2675)
+Seat 5: diamond (1514)
+diamond has the dealer button
+whynot posts small blind 50
+CLS posts big blind 100
+** Hole Cards ** [3 players]
+diamond folds
+whynot folds
+CLS refunded 50
+CLS wins Pot (100)
+** Deck ** [3c 9d 8d Kd 8s 3d 8c Tc 3h 6c 2h 9s]
+
+Hand #77169-8 - 2017-06-02 02:06:41
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (4561)
+Seat 4: CLS (2725)
+Seat 5: diamond (1514)
+whynot has the dealer button
+CLS posts small blind 75
+diamond posts big blind 150
+** Hole Cards ** [3 players]
+whynot folds
+CLS folds
+diamond refunded 75
+diamond wins Pot (150)
+** Deck ** [2s Qs Th 7s 8c 6h 4s 3d 5d Js 5h 7c]
+
+Hand #77170-9 - 2017-06-02 02:07:04
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (4561)
+Seat 4: CLS (2650)
+Seat 5: diamond (1589)
+CLS has the dealer button
+diamond posts small blind 75
+whynot posts big blind 150
+** Hole Cards ** [3 players]
+CLS folds
+diamond calls 75
+whynot checks
+** Flop ** [4s 5s 2h]
+diamond checks
+whynot checks
+** Turn ** [Ad]
+diamond checks
+whynot checks
+** River ** [Jh]
+diamond bets 150
+whynot folds
+diamond refunded 150
+diamond wins Pot (300)
+** Deck ** [Ah 5h 3h Js 7c Kc 4h 7d 6s 4d 9d 3d 4s 5s 2h Ad Jh]
+
+Hand #77171-10 - 2017-06-02 02:08:46
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (4411)
+Seat 4: CLS (2650)
+Seat 5: diamond (1739)
+diamond has the dealer button
+whynot posts small blind 75
+CLS posts big blind 150
+** Hole Cards ** [3 players]
+diamond folds
+whynot calls 75
+CLS raises to 450
+whynot folds
+CLS refunded 300
+CLS wins Pot (300)
+** Deck ** [Kc Jh 5s 2c Ks 4d 8h 9h 4s 4h Tc 4c]
+
+Hand #77172-11 - 2017-06-02 02:09:42
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (4261)
+Seat 4: CLS (2800)
+Seat 5: diamond (1739)
+whynot has the dealer button
+CLS posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [3 players]
+whynot raises to 4261 (All-in)
+CLS calls 2700 (All-in)
+diamond folds
+whynot refunded 1461
+** Flop ** [9d Ad 5c]
+** Turn ** [7s]
+** River ** [Ks]
+** Pot Show Down ** [9d Ad 5c 7s Ks]
+whynot shows [Kh 6c Ac 2h] (Hi: Two Pair, Aces and Kings +9  Lo: 7652A)
+CLS shows [Qh 9c 8s Tc] (Hi: a Pair of Nines +AKQ  Lo: None)
+whynot wins Hi Pot (2900) with Two Pair
+whynot wins Lo Pot (2900) with 7652A
+CLS finishes tournament in place #3 and wins 80 chips
+** Deck ** [Qh 5h Kh 9c 2d 6c 8s 4d Ac Tc 3h 2h 9d Ad 5c 7s Ks]
+
+Hand #77173-12 - 2017-06-02 02:10:09
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (7261)
+Seat 5: diamond (1539)
+diamond has the dealer button
+diamond posts small blind 100
+whynot posts big blind 200
+** Hole Cards ** [2 players]
+diamond folds
+whynot refunded 100
+whynot wins Pot (200)
+** Deck ** [2c Qd Qh 5h 6c 4c Js 8s]
+
+Hand #77174-13 - 2017-06-02 02:10:25
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (7361)
+Seat 5: diamond (1439)
+whynot has the dealer button
+whynot posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [2 players]
+whynot calls 100
+diamond checks
+** Flop ** [3d 4d Ks]
+diamond bets 200
+whynot calls 200
+** Turn ** [9d]
+diamond bets 200
+whynot folds
+diamond refunded 200
+diamond wins Pot (800)
+** Deck ** [9c 8d Kd 2h Ts Js Qs Jc 3d 4d Ks 9d]
+
+Hand #77175-14 - 2017-06-02 02:11:15
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (6961)
+Seat 5: diamond (1839)
+diamond has the dealer button
+diamond posts small blind 100
+whynot posts big blind 200
+** Hole Cards ** [2 players]
+diamond calls 100
+whynot checks
+** Flop ** [9c Qc 6c]
+whynot checks
+diamond checks
+** Turn ** [4h]
+whynot checks
+diamond checks
+** River ** [Qs]
+whynot checks
+diamond checks
+** Pot Show Down ** [9c Qc 6c 4h Qs]
+whynot shows [5h 9h Js 3d] (Hi: Two Pair, Queens and Nines +J  Lo: None)
+diamond shows [8h Jd 8c 2h] (Hi: Two Pair, Queens and Eights +9  Lo: None)
+whynot wins Pot (400) with Two Pair
+No low hand qualified
+** Deck ** [5h 8h 9h Jd Js 8c 3d 2h 9c Qc 6c 4h Qs]
+
+Hand #77176-15 - 2017-06-02 02:12:05
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (7161)
+Seat 5: diamond (1639)
+whynot has the dealer button
+whynot posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [2 players]
+whynot calls 100
+diamond checks
+** Flop ** [8c 5d 9d]
+diamond checks
+whynot checks
+** Turn ** [Qd]
+diamond bets 200
+whynot folds
+diamond refunded 200
+diamond wins Pot (400)
+** Deck ** [Qs 4h 9c Jc 7c 4c 2c 3s 8c 5d 9d Qd]
+
+Hand #77177-16 - 2017-06-02 02:12:33
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (6961)
+Seat 5: diamond (1839)
+diamond has the dealer button
+whynot posts ante 25
+diamond posts ante 25
+diamond posts small blind 100
+whynot posts big blind 200
+** Hole Cards ** [2 players]
+diamond calls 100
+whynot checks
+** Flop ** [Td Kh Ad]
+whynot bets 200
+diamond folds
+whynot refunded 200
+whynot wins Pot (450)
+** Deck ** [8s 3h 7c 5c Qd 4d 9d 9c Td Kh Ad]
+
+Hand #77178-17 - 2017-06-02 02:13:06
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (7186)
+Seat 5: diamond (1614)
+whynot has the dealer button
+whynot posts ante 25
+diamond posts ante 25
+whynot posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [2 players]
+whynot raises to 400
+diamond folds
+whynot refunded 200
+whynot wins Pot (450)
+** Deck ** [3s Ad 4h 4d Ks Qd 9h 9c]
+
+Hand #77179-18 - 2017-06-02 02:13:19
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (7411)
+Seat 5: diamond (1389)
+diamond has the dealer button
+whynot posts ante 25
+diamond posts ante 25
+diamond posts small blind 100
+whynot posts big blind 200
+** Hole Cards ** [2 players]
+diamond raises to 1364 (All-in)
+whynot calls 1164
+** Flop ** [6s Kh 4c]
+** Turn ** [5s]
+** River ** [9d]
+** Pot Show Down ** [6s Kh 4c 5s 9d]
+whynot shows [Qs 6c 2s 8d] (Hi: a Pair of Sixes +KQ9  Lo: 86542)
+diamond shows [Ts 9c Qh Ad] (Hi: a Pair of Nines +AK6  Lo: None)
+diamond wins Hi Pot (1389) with a Pair
+whynot wins Lo Pot (1389) with 86542
+** Deck ** [Qs Ts 6c 9c 2s Qh 8d Ad 6s Kh 4c 5s 9d]
+
+Hand #77180-19 - 2017-06-02 02:13:42
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 400 - Table 1
+Seat 2: whynot (7411)
+Seat 5: diamond (1389)
+whynot has the dealer button
+whynot posts ante 25
+diamond posts ante 25
+whynot posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [2 players]
+whynot calls 100
+diamond checks
+** Flop ** [Qc 7s Kh]
+diamond bets 1164 (All-in)
+whynot calls 1164
+** Turn ** [Ac]
+** River ** [6c]
+** Pot Show Down ** [Qc 7s Kh Ac 6c]
+whynot shows [9h Kd Jc Tc] (Hi: a Flush, Ace high +QJT6  Lo: None)
+diamond shows [Ts 4h Qs 7c] (Hi: Two Pair, Queens and Sevens +A  Lo: None)
+whynot wins Pot (2778) with a Flush
+No low hand qualified
+diamond finishes tournament in place #2 and wins 120 chips
+whynot finishes tournament in place #1 and wins 160 chips
+** Deck ** [Ts 9h 4h Kd Qs Jc 7c Tc Qc 7s Kh Ac 6c]
+
