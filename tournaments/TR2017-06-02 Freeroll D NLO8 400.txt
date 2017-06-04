@@ -1,0 +1,27 @@
+﻿Tournament=Freeroll D NLO8 400
+Number=1562
+BuyIn=0+0
+PrizeBonus=400
+MultiplyBonus=No
+Entrants=11
+Late=0
+Removed=6
+Rebuys=0
+AddOns=0
+RebuyCost=0+0
+NetBonus=400
+StopOnChop=No
+Start=2017-06-02 02:00:03
+Place11=CoinDoctor (0)
+Place10=JanzVill (0)
+Place9=bob (0) Removed
+Place8=Buenaobra (0) Removed
+Place7=dynalyn0504 (0) Removed
+Place6=Prince (0) Removed
+Place5=ROBERTO (0) Removed
+Place4=Protek (0) Removed
+Place3=CLS (80)
+Place2=diamond (120)
+Place1=whynot (160)
+Stop=2017-06-02 02:14:13
+

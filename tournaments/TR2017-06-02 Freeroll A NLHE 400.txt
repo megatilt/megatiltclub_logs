@@ -1,0 +1,25 @@
+﻿Tournament=Freeroll A NLHE 400
+Number=1563
+BuyIn=0+0
+PrizeBonus=400
+MultiplyBonus=No
+Entrants=9
+Late=0
+Removed=5
+Rebuys=0
+AddOns=0
+RebuyCost=0+0
+NetBonus=400
+StopOnChop=No
+Start=2017-06-02 03:00:03
+Place9=ROBERTO (0) Removed
+Place8=Efyang (0) Removed
+Place7=CoinDoctor (0) Removed
+Place6=dynalyn0504 (0) Removed
+Place5=Protek (0) Removed
+Place4=CLS (0)
+Place3=whynot (80)
+Place2=diamond (120)
+Place1=JanzVill (200)
+Stop=2017-06-02 03:17:21
+
