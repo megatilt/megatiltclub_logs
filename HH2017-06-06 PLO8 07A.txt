@@ -1,0 +1,727 @@
+﻿Hand #86837-1 - 2017-06-06 15:08:04
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 1: novcom (10000)
+Seat 6: bestlooser (10000)
+bestlooser has the dealer button
+bestlooser posts small blind 100
+novcom posts big blind 200
+** Hole Cards ** [2 players]
+bestlooser folds
+novcom refunded 100
+novcom wins Pot (200)
+Rake (0) Pot (200) Players (novcom: 100, bestlooser: 100)
+** Deck ** [Js 4h 7c Ks 2d Jd 3h Qd]
+
+Hand #86838-2 - 2017-06-06 15:08:21
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 1: novcom (10100)
+Seat 3: thekid (10000)
+Seat 6: bestlooser (9900)
+novcom has the dealer button
+novcom posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [2 players]
+novcom raises to 600
+bestlooser calls 400
+** Flop ** [Kd Td Jc]
+bestlooser checks
+novcom bets 1170
+bestlooser calls 1170
+** Turn ** [Qc]
+bestlooser checks
+novcom bets 3451.50
+bestlooser calls 3451.50
+** River ** [4c]
+bestlooser checks
+novcom bets 4878.50 (All-in)
+bestlooser has timed out
+bestlooser folds
+novcom refunded 4878.50
+novcom wins Pot (10181.95)
+Rake (261.05) Pot (10443) Players (novcom: 5221.50, bestlooser: 5221.50)
+** Deck ** [Qs 6d 4d Kc 8d Ad 2h Js Kd Td Jc Qc 4c]
+
+Hand #86843-3 - 2017-06-06 15:10:09
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 1: novcom (15060.45)
+Seat 3: thekid (10000)
+Seat 6: bestlooser (4678.50)
+bestlooser has the dealer button
+novcom posts small blind 100
+thekid posts big blind 200
+** Hole Cards ** [3 players]
+bestlooser calls 200
+novcom raises to 800
+thekid calls 600
+bestlooser calls 600
+** Flop ** [Ts Kh 7c]
+novcom checks
+thekid checks
+bestlooser bets 2340
+novcom calls 2340
+thekid folds
+** Turn ** [8s]
+novcom checks
+bestlooser bets 1538.50 (All-in)
+novcom calls 1538.50
+** River ** [7h]
+** Pot Show Down ** [Ts Kh 7c 8s 7h]
+novcom shows [Td Qc Ah 4c] (Hi: Two Pair, Tens and Sevens +A  Lo: None)
+bestlooser shows [Ad Qd 4s Tc] (Hi: Two Pair, Tens and Sevens +A  Lo: None)
+novcom splits Pot (4951.55) with Two Pair
+bestlooser splits Pot (4951.55) with Two Pair
+No low hand qualified
+Rake (253.90) Pot (10157) Players (novcom: 4678.50, thekid: 800, bestlooser: 4678.50)
+** Deck ** [Td As Ad Qc 5c Qd Ah 4d 4s 4c 8d Tc Ts Kh 7c 8s 7h]
+
+Hand #86847-4 - 2017-06-06 15:11:17
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 1: novcom (15333.50)
+Seat 3: thekid (9200)
+Seat 6: bestlooser (4951.55)
+novcom has the dealer button
+thekid posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [3 players]
+novcom raises to 700
+thekid raises to 2300
+bestlooser raises to 4951.55 (All-in)
+novcom calls 4251.55
+thekid raises to 9200 (All-in)
+novcom calls 4248.45
+** Flop ** [Jh 7c 4s]
+** Turn ** [9s]
+** River ** [6s]
+** Side Pot 1 Show Down ** [Jh 7c 4s 9s 6s]
+novcom shows [Qs 4h 4d 8d] (Hi: Three of a Kind, Fours +J9  Lo: None)
+thekid shows [2c Qc Kc Ah] (Hi: High Card Ace +KJ97  Lo: 7642A)
+novcom wins Hi Side Pot 1 (4142.25) with Three of a Kind
+thekid wins Lo Side Pot 1 (4142.25) with 7642A
+Rake (212.40) Pot (8496.90) Players (novcom: 4248.45, thekid: 4248.45, bestlooser: 0)
+** Main Pot Show Down ** [Jh 7c 4s 9s 6s]
+bestlooser shows [8c Ts Jc Kh] (Hi: a Straight, Seven to Jack  Lo: None)
+bestlooser wins Hi Main Pot (7241.65) with a Straight
+thekid wins Lo Main Pot (7241.65) with 7642A
+Rake (371.35) Pot (14854.65) Players (novcom: 4951.55, thekid: 4951.55, bestlooser: 4951.55)
+** Deck ** [2c 8c Qs Qc Ts 4h Kc Jc 4d Ah Kh 8d Jh 7c 4s 9s 6s]
+
+Hand #86849-5 - 2017-06-06 15:12:04
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 1: novcom (10275.75)
+Seat 3: thekid (11383.90)
+Seat 6: bestlooser (7241.65)
+thekid has the dealer button
+bestlooser posts small blind 100
+novcom posts big blind 200
+** Hole Cards ** [3 players]
+thekid folds
+bestlooser calls 100
+novcom raises to 600
+bestlooser calls 400
+** Flop ** [5h 4d 2d]
+bestlooser checks
+novcom bets 1170
+bestlooser calls 1170
+** Turn ** [Td]
+bestlooser checks
+novcom bets 3451.50
+bestlooser calls 3451.50
+** River ** [Ac]
+bestlooser bets 2020.15 (All-in)
+novcom calls 2020.15
+** Pot Show Down ** [5h 4d 2d Td Ac]
+novcom shows [Jd 6d Qd 9s] (Hi: a Flush, Queen high +JT42  Lo: None)
+bestlooser shows [3s Tc 2s 6s] (Hi: a Straight, Deuce to Six  Lo: 5432A)
+novcom wins Hi Pot (7060.63) with a Flush
+bestlooser wins Lo Pot (7060.62) with 5432A
+Rake (362.05) Pot (14483.30) Players (novcom: 7241.65, thekid: 0, bestlooser: 7241.65)
+** Deck ** [3s Jd Ks Tc 6d Qc 2s Qd 2h 6s 9s Js 5h 4d 2d Td Ac]
+
+Hand #86853-6 - 2017-06-06 15:13:21
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 1: novcom (10094.73)
+Seat 3: thekid (11383.90)
+Seat 6: bestlooser (7060.62)
+bestlooser has the dealer button
+novcom posts small blind 100
+thekid posts big blind 200
+** Hole Cards ** [3 players]
+bestlooser calls 200
+novcom calls 100
+thekid raises to 800
+bestlooser calls 600
+novcom raises to 3200
+thekid raises to 10400
+bestlooser calls 6260.62 (All-in)
+novcom calls 6894.73 (All-in)
+thekid refunded 305.27
+** Flop ** [2h 9c 2c]
+** Turn ** [5d]
+** River ** [4c]
+** Side Pot 1 Show Down ** [2h 9c 2c 5d 4c]
+novcom shows [Kd 7s 6h 9s] (Hi: Two Pair, Nines and Deuces +K  Lo: 76542)
+thekid shows [As 5c Ah Td] (Hi: Two Pair, Aces and Deuces +9  Lo: None)
+thekid wins Hi Side Pot 1 (2958.26) with Two Pair
+novcom wins Lo Side Pot 1 (2958.26) with 76542
+Rake (151.70) Pot (6068.22) Players (novcom: 3034.11, thekid: 3034.11, bestlooser: 0)
+** Main Pot Show Down ** [2h 9c 2c 5d 4c]
+bestlooser shows [7d Ad Qc 4d] (Hi: Two Pair, Fours and Deuces +A  Lo: 7542A)
+thekid wins Hi Main Pot (10326.18) with Two Pair
+bestlooser wins Lo Main Pot (10326.18) with 7542A
+Rake (529.50) Pot (21181.86) Players (novcom: 7060.62, thekid: 7060.62, bestlooser: 7060.62)
+** Deck ** [Kd As 7d 7s 5c Ad 6h Ah Qc 9s Td 4d 2h 9c 2c 5d 4c]
+
+Hand #86857-7 - 2017-06-06 15:14:09
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 1: novcom (2958.26)
+Seat 3: thekid (14573.61)
+Seat 6: bestlooser (10326.18)
+novcom has the dealer button
+thekid posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [3 players]
+novcom raises to 700
+thekid calls 600
+bestlooser calls 500
+** Flop ** [3s Qs 8d]
+thekid checks
+bestlooser checks
+novcom checks
+** Turn ** [5h]
+thekid bets 2047.50
+bestlooser folds
+novcom raises to 2258.26 (All-in)
+thekid calls 210.76
+** River ** [Tc]
+** Pot Show Down ** [3s Qs 8d 5h Tc]
+novcom shows [9d 4h 6h Kc] (Hi: High Card King +QT98  Lo: 86543)
+thekid shows [5d Ks Th As] (Hi: Two Pair, Tens and Fives +Q  Lo: None)
+thekid wins Hi Pot (3225.56) with Two Pair
+novcom wins Lo Pot (3225.56) with 86543
+Rake (165.40) Pot (6616.52) Players (novcom: 2958.26, thekid: 2958.26, bestlooser: 700)
+** Deck ** [5d 7s 9d Ks 7h 4h Th Ts 6h As Qc Kc 3s Qs 8d 5h Tc]
+
+Hand #86863-8 - 2017-06-06 15:15:19
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 1: novcom (3225.56)
+Seat 3: thekid (14840.91)
+Seat 6: bestlooser (9626.18)
+thekid has the dealer button
+bestlooser posts small blind 100
+novcom posts big blind 200
+** Hole Cards ** [3 players]
+thekid folds
+bestlooser calls 100
+novcom checks
+** Flop ** [9h 8d Qc]
+bestlooser checks
+novcom bets 200
+bestlooser calls 200
+** Turn ** [5c]
+bestlooser checks
+novcom bets 780
+bestlooser calls 780
+** River ** [Ks]
+bestlooser checks
+novcom bets 2045.56 (All-in)
+bestlooser calls 2045.56
+** Pot Show Down ** [9h 8d Qc 5c Ks]
+novcom shows [5h Ad 9s Tc] (Hi: Two Pair, Nines and Fives +K  Lo: None)
+bestlooser shows [8s 5s Ts 3d] (Hi: Two Pair, Eights and Fives +K  Lo: None)
+novcom wins Pot (6289.87) with Two Pair
+No low hand qualified
+Rake (161.25) Pot (6451.12) Players (novcom: 3225.56, thekid: 0, bestlooser: 3225.56)
+** Deck ** [8s 5h Js 5s Ad 2s Ts 9s 4c 3d Tc Qs 9h 8d Qc 5c Ks]
+
+Hand #86866-9 - 2017-06-06 15:16:18
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 1: novcom (6289.87)
+Seat 3: thekid (14840.91)
+Seat 6: bestlooser (6400.62)
+bestlooser has the dealer button
+novcom posts small blind 100
+thekid posts big blind 200
+** Hole Cards ** [3 players]
+bestlooser folds
+novcom raises to 600
+thekid calls 400
+** Flop ** [5c 5d Kd]
+novcom bets 1170
+thekid folds
+novcom refunded 1170
+novcom wins Pot (1170)
+Rake (30) Pot (1200) Players (novcom: 600, thekid: 600, bestlooser: 0)
+** Deck ** [9d 4s 7h 6h 7s 6s 7d Jc 9s Ks 7c Qs 5c 5d Kd]
+
+Hand #86868-10 - 2017-06-06 15:16:50
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 1: novcom (6859.87)
+Seat 3: thekid (14240.91)
+Seat 6: bestlooser (6400.62)
+novcom has the dealer button
+thekid posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [3 players]
+novcom calls 200
+thekid calls 100
+bestlooser checks
+** Flop ** [Kc 3d 3h]
+thekid checks
+bestlooser checks
+novcom checks
+** Turn ** [Ad]
+thekid checks
+bestlooser checks
+novcom checks
+** River ** [Jh]
+thekid checks
+bestlooser checks
+novcom checks
+** Pot Show Down ** [Kc 3d 3h Ad Jh]
+novcom shows [Ks 6c 4d 4c] (Hi: Two Pair, Kings and Threes +6  Lo: None)
+thekid shows [2c Qh 2d 6d] (Hi: Two Pair, Threes and Deuces +A  Lo: None)
+bestlooser shows [8c 7s 4s Qd] (Hi: a Pair of Threes +AQ8  Lo: None)
+novcom wins Pot (585) with Two Pair
+No low hand qualified
+Rake (15) Pot (600) Players (novcom: 200, thekid: 200, bestlooser: 200)
+novcom adds 4515.40 chips
+** Deck ** [2c 8c Ks Qh 7s 6c 2d 4s 4d 6d Qd 4c Kc 3d 3h Ad Jh]
+
+Hand #86872-11 - 2017-06-06 15:17:51
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 1: novcom (11760.27)
+Seat 3: thekid (14040.91)
+Seat 6: bestlooser (6200.62)
+thekid has the dealer button
+bestlooser posts small blind 100
+novcom posts big blind 200
+** Hole Cards ** [3 players]
+thekid calls 200
+bestlooser calls 100
+novcom raises to 800
+thekid calls 600
+bestlooser calls 600
+** Flop ** [7h 3d 8d]
+bestlooser checks
+novcom bets 2340
+thekid calls 2340
+bestlooser raises to 5400.62 (All-in)
+novcom raises to 10960.27 (All-in)
+thekid calls 8620.27
+** Turn ** [2c]
+** River ** [4h]
+** Side Pot 1 Show Down ** [7h 3d 8d 2c 4h]
+novcom shows [Tc As Td Ah] (Hi: a Pair of Aces +874  Lo: None)
+thekid shows [Ts 5c Jh 6d] (Hi: a Straight, Four to Eight  Lo: 65432)
+thekid wins Hi Side Pot 1 (5420.68) with a Straight
+thekid wins Lo Side Pot 1 (5420.67) with 65432
+Rake (277.95) Pot (11119.30) Players (novcom: 5559.65, thekid: 5559.65, bestlooser: 0)
+** Main Pot Show Down ** [7h 3d 8d 2c 4h]
+bestlooser shows [6c 4c 7s 2h] (Hi: Two Pair, Sevens and Fours +8  Lo: 76432)
+thekid wins Hi Main Pot (9068.43) with a Straight
+thekid wins Lo Main Pot (9068.43) with 65432
+Rake (465) Pot (18601.86) Players (novcom: 6200.62, thekid: 6200.62, bestlooser: 6200.62)
+** Deck ** [6c Tc Ts 4c As 5c 7s Td Jh 2h Ah 6d 7h 3d 8d 2c 4h]
+
+bestlooser adds 10000 chips
+novcom: "gg bye guys.:) im out 4 nw"
+Hand #86875-1 - 2017-06-06 15:19:20
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 1: novcom (0) - sitting out
+Seat 3: thekid (31258.85)
+Seat 6: bestlooser (10000)
+bestlooser has the dealer button
+bestlooser posts small blind 100
+thekid posts big blind 200
+** Hole Cards ** [2 players]
+bestlooser raises to 600
+thekid calls 400
+** Flop ** [8s As Ad]
+thekid checks
+bestlooser bets 1170
+thekid folds
+bestlooser refunded 1170
+bestlooser wins Pot (1170)
+Rake (30) Pot (1200) Players (thekid: 600, bestlooser: 600)
+** Deck ** [7d Qd 3d Td 6h 3h Kc 5d 8s As Ad]
+
+Hand #86877-2 - 2017-06-06 15:19:54
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (30658.85)
+Seat 6: bestlooser (10570)
+thekid has the dealer button
+thekid posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [2 players]
+thekid raises to 600
+bestlooser calls 400
+** Flop ** [4h Ac 5d]
+bestlooser checks
+thekid bets 1170
+bestlooser folds
+thekid refunded 1170
+thekid wins Pot (1170)
+Rake (30) Pot (1200) Players (thekid: 600, bestlooser: 600)
+** Deck ** [8d 4c 5h Kd 8h Js 9s Ad 4h Ac 5d]
+
+Hand #86879-3 - 2017-06-06 15:20:20
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (31228.85)
+Seat 6: bestlooser (9970)
+bestlooser has the dealer button
+bestlooser posts small blind 100
+thekid posts big blind 200
+** Hole Cards ** [2 players]
+bestlooser raises to 600
+thekid calls 400
+** Flop ** [8s 3s 4h]
+thekid checks
+bestlooser checks
+** Turn ** [5d]
+thekid checks
+bestlooser checks
+** River ** [Ah]
+thekid bets 200
+bestlooser calls 200
+** Pot Show Down ** [8s 3s 4h 5d Ah]
+thekid shows [Qh Th Qs Ad] (Hi: a Pair of Aces +Q85  Lo: None)
+bestlooser shows [Qd 3d 5h Tc] (Hi: Two Pair, Fives and Threes +A  Lo: 8543A)
+bestlooser wins Hi Pot (780) with Two Pair
+bestlooser wins Lo Pot (780) with 8543A
+Rake (40) Pot (1600) Players (thekid: 800, bestlooser: 800)
+** Deck ** [Qh Qd Th 3d Qs 5h Ad Tc 8s 3s 4h 5d Ah]
+
+Hand #86881-4 - 2017-06-06 15:21:06
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (30428.85)
+Seat 6: bestlooser (10730)
+thekid has the dealer button
+thekid posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [2 players]
+thekid calls 100
+bestlooser checks
+** Flop ** [5s 4s Jh]
+bestlooser checks
+thekid checks
+** Turn ** [6s]
+bestlooser checks
+thekid checks
+** River ** [6d]
+bestlooser bets 200
+thekid folds
+bestlooser refunded 200
+bestlooser wins Pot (390)
+Rake (10) Pot (400) Players (thekid: 200, bestlooser: 200)
+** Deck ** [9d 3h As Js 6c 3d Ah Tc 5s 4s Jh 6s 6d]
+
+Hand #86882-5 - 2017-06-06 15:22:16
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (30228.85)
+Seat 6: bestlooser (10920)
+bestlooser has the dealer button
+bestlooser posts small blind 100
+thekid posts big blind 200
+** Hole Cards ** [2 players]
+bestlooser raises to 600
+thekid calls 400
+** Flop ** [2s 5s 9d]
+thekid checks
+bestlooser bets 1170
+thekid raises to 4680
+bestlooser calls 3510
+** Turn ** [As]
+thekid bets 10296
+bestlooser calls 5640 (All-in)
+thekid refunded 4656
+** River ** [5d]
+** Pot Show Down ** [2s 5s 9d As 5d]
+thekid shows [5h 9c 2h Qs] (Hi: a Full House, Fives full of Nines  Lo: None)
+bestlooser shows [3s Ac 8h 2d] (Hi: Two Pair, Aces and Fives +8  Lo: 8532A)
+thekid wins Hi Pot (10647) with a Full House
+bestlooser wins Lo Pot (10647) with 8532A
+Rake (546) Pot (21840) Players (thekid: 10920, bestlooser: 10920)
+** Deck ** [5h 3s 9c Ac 2h 8h Qs 2d 2s 5s 9d As 5d]
+
+Hand #86883-6 - 2017-06-06 15:22:59
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (29955.85)
+Seat 6: bestlooser (10647)
+thekid has the dealer button
+thekid posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [2 players]
+thekid raises to 600
+bestlooser calls 400
+** Flop ** [Jc 3s 6d]
+bestlooser checks
+thekid bets 1170
+bestlooser calls 1170
+** Turn ** [4h]
+bestlooser checks
+thekid checks
+** River ** [Js]
+bestlooser bets 3451.50
+thekid folds
+bestlooser refunded 3451.50
+bestlooser wins Pot (3451.50)
+Rake (88.50) Pot (3540) Players (thekid: 1770, bestlooser: 1770)
+** Deck ** [8h Ah Ac 4c 2d Kh 5d Ts Jc 3s 6d 4h Js]
+
+Hand #86885-7 - 2017-06-06 15:23:44
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (28185.85)
+Seat 6: bestlooser (12328.50)
+bestlooser has the dealer button
+bestlooser posts small blind 100
+thekid posts big blind 200
+** Hole Cards ** [2 players]
+bestlooser calls 100
+thekid checks
+** Flop ** [5c Qd 6c]
+thekid bets 390
+bestlooser folds
+thekid refunded 390
+thekid wins Pot (390)
+Rake (10) Pot (400) Players (thekid: 200, bestlooser: 200)
+** Deck ** [Qc 8c 4d Kd 6h Ks 2s 3h 5c Qd 6c]
+
+Hand #86886-8 - 2017-06-06 15:24:07
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (28375.85)
+Seat 6: bestlooser (12128.50)
+thekid has the dealer button
+thekid posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [2 players]
+thekid raises to 600
+bestlooser calls 400
+** Flop ** [7h 8h Ad]
+bestlooser checks
+thekid checks
+** Turn ** [2c]
+bestlooser checks
+thekid bets 1170
+bestlooser folds
+thekid refunded 1170
+thekid wins Pot (1170)
+Rake (30) Pot (1200) Players (thekid: 600, bestlooser: 600)
+** Deck ** [Jd 3s Kh Jc 4c 6h 9h 9s 7h 8h Ad 2c]
+
+Hand #86888-9 - 2017-06-06 15:24:48
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (28945.85)
+Seat 6: bestlooser (11528.50)
+bestlooser has the dealer button
+bestlooser posts small blind 100
+thekid posts big blind 200
+** Hole Cards ** [2 players]
+bestlooser raises to 600
+thekid calls 400
+** Flop ** [Jc 7d 3h]
+thekid checks
+bestlooser bets 1170
+thekid folds
+bestlooser refunded 1170
+bestlooser wins Pot (1170)
+Rake (30) Pot (1200) Players (thekid: 600, bestlooser: 600)
+** Deck ** [5c 6c Kh 4s Qs 3s 8s 8d Jc 7d 3h]
+
+Hand #86889-10 - 2017-06-06 15:25:20
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (28345.85)
+Seat 6: bestlooser (12098.50)
+thekid has the dealer button
+thekid posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [2 players]
+thekid raises to 600
+bestlooser calls 400
+** Flop ** [4s As 2d]
+bestlooser checks
+thekid bets 1170
+bestlooser folds
+thekid refunded 1170
+thekid wins Pot (1170)
+Rake (30) Pot (1200) Players (thekid: 600, bestlooser: 600)
+** Deck ** [Qd 8s 3h Ad Qh 5d Js Ks 4s As 2d]
+
+Hand #86891-11 - 2017-06-06 15:25:48
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (28915.85)
+Seat 6: bestlooser (11498.50)
+bestlooser has the dealer button
+bestlooser posts small blind 100
+thekid posts big blind 200
+** Hole Cards ** [2 players]
+bestlooser raises to 600
+thekid calls 400
+** Flop ** [8d Jh 8s]
+thekid checks
+bestlooser checks
+** Turn ** [Ad]
+thekid checks
+bestlooser checks
+** River ** [Qc]
+thekid checks
+bestlooser checks
+** Pot Show Down ** [8d Jh 8s Ad Qc]
+thekid shows [4d 3s 6c Ks] (Hi: a Pair of Eights +AK6  Lo: None)
+bestlooser shows [Qs 7d Js Kd] (Hi: Two Pair, Queens and Jacks +A  Lo: None)
+bestlooser wins Pot (1170) with Two Pair
+No low hand qualified
+Rake (30) Pot (1200) Players (thekid: 600, bestlooser: 600)
+** Deck ** [4d Qs 3s 7d 6c Js Ks Kd 8d Jh 8s Ad Qc]
+
+Hand #86894-12 - 2017-06-06 15:26:28
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (28315.85)
+Seat 6: bestlooser (12068.50)
+thekid has the dealer button
+thekid posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [2 players]
+thekid raises to 600
+bestlooser calls 400
+** Flop ** [2h Qc Qd]
+bestlooser checks
+thekid checks
+** Turn ** [9s]
+bestlooser checks
+thekid bets 1170
+bestlooser folds
+thekid refunded 1170
+thekid wins Pot (1170)
+Rake (30) Pot (1200) Players (thekid: 600, bestlooser: 600)
+** Deck ** [8d Qs 9c 9d Js 2s 8s 8c 2h Qc Qd 9s]
+
+Hand #86895-13 - 2017-06-06 15:27:14
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (28885.85)
+Seat 6: bestlooser (11468.50)
+bestlooser has the dealer button
+bestlooser posts small blind 100
+thekid posts big blind 200
+** Hole Cards ** [2 players]
+bestlooser raises to 600
+thekid calls 400
+** Flop ** [7h 6d 8c]
+thekid checks
+bestlooser checks
+** Turn ** [7d]
+thekid bets 1170
+bestlooser folds
+thekid refunded 1170
+thekid wins Pot (1170)
+Rake (30) Pot (1200) Players (thekid: 600, bestlooser: 600)
+** Deck ** [4h Kd 5d Tc 3d Qc 8d Ks 7h 6d 8c 7d]
+
+Hand #86896-14 - 2017-06-06 15:27:49
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (29455.85)
+Seat 6: bestlooser (10868.50)
+thekid has the dealer button
+thekid posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [2 players]
+thekid calls 100
+bestlooser raises to 600
+thekid calls 400
+** Flop ** [3s Qs 4c]
+bestlooser checks
+thekid checks
+** Turn ** [3d]
+bestlooser checks
+thekid bets 1170
+bestlooser calls 1170
+** River ** [4d]
+bestlooser checks
+thekid checks
+** Pot Show Down ** [3s Qs 4c 3d 4d]
+thekid shows [Ks 7d Jh 9d] (Hi: a Pair of Fours +KQJ  Lo: None)
+bestlooser shows [Ah 8c 5s 9c] (Hi: a Pair of Fours +AQ9  Lo: None)
+bestlooser wins Pot (3451.50) with a Pair
+No low hand qualified
+Rake (88.50) Pot (3540) Players (thekid: 1770, bestlooser: 1770)
+** Deck ** [Ah Ks 8c 7d 5s Jh 9c 9d 3s Qs 4c 3d 4d]
+
+Hand #86897-15 - 2017-06-06 15:28:37
+Game: PL Omaha Hi-Lo (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: PLO8 07A
+Seat 3: thekid (27685.85)
+Seat 6: bestlooser (12550)
+bestlooser has the dealer button
+bestlooser posts small blind 100
+thekid posts big blind 200
+** Hole Cards ** [2 players]
+bestlooser raises to 600
+thekid raises to 1800
+bestlooser calls 1200
+** Flop ** [As 8s Ac]
+thekid bets 3510
+bestlooser calls 3510
+** Turn ** [9d]
+thekid bets 10354.50
+bestlooser calls 7240 (All-in)
+thekid refunded 3114.50
+** River ** [8h]
+** Pot Show Down ** [As 8s Ac 9d 8h]
+thekid shows [6h Ah 5d 7h] (Hi: Three of a Kind, Aces +97  Lo: None)
+bestlooser shows [Jh Jd 6d 7c] (Hi: Two Pair, Aces and Jacks +9  Lo: None)
+thekid wins Pot (24472.50) with Three of a Kind
+No low hand qualified
+Rake (627.50) Pot (25100) Players (thekid: 12550, bestlooser: 12550)
+** Deck ** [6h Jh Ah Jd 5d 6d 7h 7c As 8s Ac 9d 8h]
+
+bestlooser adds 10000 chips
