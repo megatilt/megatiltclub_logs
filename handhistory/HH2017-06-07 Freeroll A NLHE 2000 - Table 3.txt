@@ -1,0 +1,832 @@
+﻿Starting tournament 1691
+
+Hand #88181-1 - 2017-06-07 11:00:30
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bspus (1500)
+Seat 3: DollaHolla (1500)
+Seat 4: Efyang (1500) - sitting out
+Seat 5: power1k (1500)
+Seat 6: betong (1500)
+bspus has the dealer button
+DollaHolla posts small blind 25
+Efyang posts big blind 50
+** Hole Cards ** [5 players]
+power1k raises to 175
+betong folds
+bspus folds
+DollaHolla folds
+Efyang folds
+power1k refunded 125
+power1k wins Pot (125)
+** Deck ** [7d 8h As 5s Js 2c 4d Kd 3d 6c]
+
+Hand #88183-2 - 2017-06-07 11:00:56
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bspus (1500)
+Seat 3: DollaHolla (1475)
+Seat 4: Efyang (1450) - sitting out
+Seat 5: power1k (1575)
+Seat 6: betong (1500)
+DollaHolla has the dealer button
+Efyang posts small blind 25
+power1k posts big blind 50
+** Hole Cards ** [5 players]
+betong raises to 1500 (All-in)
+bspus folds
+DollaHolla folds
+Efyang calls 1425 (All-in)
+power1k folds
+betong refunded 50
+** Flop ** [6h 6c 4s]
+** Turn ** [Jc]
+** River ** [Qs]
+** Pot Show Down ** [6h 6c 4s Jc Qs]
+Efyang shows [7s Tc] (a Pair of Sixes +QJT)
+betong shows [Td As] (a Pair of Sixes +AQJ)
+betong wins Pot (2950) with a Pair
+Efyang finishes tournament in place #15
+** Deck ** [7s 5h Td Ts 4h Tc 3c As Kc Th 6h 6c 4s Jc Qs]
+
+Hand #88186-3 - 2017-06-07 11:01:37
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bspus (1500)
+Seat 3: DollaHolla (1475)
+Seat 5: power1k (1525)
+Seat 6: betong (3000)
+power1k has the dealer button
+betong posts small blind 25
+bspus posts big blind 50
+** Hole Cards ** [4 players]
+DollaHolla calls 50
+power1k raises to 250
+betong folds
+bspus folds
+DollaHolla folds
+power1k refunded 200
+power1k wins Pot (175)
+** Deck ** [8c 2s 6c As Th Kd 9d 5d]
+
+Hand #88189-4 - 2017-06-07 11:02:17
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bspus (1450)
+Seat 3: DollaHolla (1425)
+Seat 5: power1k (1650)
+Seat 6: betong (2975)
+betong has the dealer button
+bspus posts small blind 25
+DollaHolla posts big blind 50
+** Hole Cards ** [4 players]
+power1k folds
+betong folds
+bspus calls 25
+DollaHolla checks
+** Flop ** [7h 6d 4s]
+bspus checks
+DollaHolla checks
+** Turn ** [7c]
+bspus checks
+DollaHolla checks
+** River ** [As]
+bspus checks
+DollaHolla checks
+** Pot Show Down ** [7h 6d 4s 7c As]
+bspus shows [5c Jh] (a Pair of Sevens +AJ6)
+DollaHolla shows [Js 8h] (a Pair of Sevens +AJ8)
+DollaHolla wins Pot (100) with a Pair
+** Deck ** [5c Js 5h 5d Jh 8h 6c 9c 7h 6d 4s 7c As]
+
+Hand #88194-5 - 2017-06-07 11:03:01
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bspus (1400)
+Seat 3: DollaHolla (1475)
+Seat 5: power1k (1650)
+Seat 6: betong (2975)
+bspus has the dealer button
+DollaHolla posts small blind 25
+power1k posts big blind 50
+** Hole Cards ** [4 players]
+betong folds
+bspus folds
+DollaHolla calls 25
+power1k checks
+** Flop ** [2h 3s Qh]
+DollaHolla checks
+power1k checks
+** Turn ** [Qs]
+DollaHolla bets 100
+power1k folds
+DollaHolla refunded 100
+DollaHolla wins Pot (100)
+** Deck ** [Ac 2d 5c 5d 9c Ks 9d 6s 2h 3s Qh Qs]
+
+Hand #88197-6 - 2017-06-07 11:03:36
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bspus (1400)
+Seat 3: DollaHolla (1525)
+Seat 5: power1k (1600)
+Seat 6: betong (2975)
+DollaHolla has the dealer button
+power1k posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [4 players]
+bspus folds
+DollaHolla calls 100
+power1k calls 50
+betong checks
+** Flop ** [2d 9d 3s]
+power1k bets 200
+betong folds
+DollaHolla calls 200
+** Turn ** [3h]
+power1k bets 700
+DollaHolla raises to 1225 (All-in)
+power1k calls 525
+** River ** [3c]
+** Pot Show Down ** [2d 9d 3s 3h 3c]
+DollaHolla shows [4d 8d] (Three of a Kind, Threes +98)
+power1k shows [9h Kd] (a Full House, Threes full of Nines)
+power1k wins Pot (3150) with a Full House
+DollaHolla finishes tournament in place #13
+** Deck ** [9h 5h Ks 4d Kd Qc 2h 8d 2d 9d 3s 3h 3c]
+
+bspus moved to Table 1
+
+power1k moved to Table 2
+
+betong moved to Table 1
+
+Starting tournament 1695
+
+Hand #88466-1 - 2017-06-07 15:00:44
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: jackpot (1500)
+Seat 3: gimmemoney (1500) - sitting out
+Seat 4: Buenaobra (1500) - sitting out
+Seat 6: sajuuk (1500)
+jackpot has the dealer button
+gimmemoney posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [4 players]
+sajuuk calls 50
+jackpot calls 50
+gimmemoney folds
+Buenaobra raises to 1500 (All-in)
+sajuuk folds
+jackpot folds
+Buenaobra refunded 1450
+Buenaobra wins Pot (175)
+** Deck ** [7c Ac Ah 9s 2c 6s 6d 4s]
+
+Hand #88471-2 - 2017-06-07 15:01:34
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: jackpot (1450)
+Seat 3: gimmemoney (1475)
+Seat 4: Buenaobra (1625)
+Seat 6: sajuuk (1450)
+gimmemoney has the dealer button
+Buenaobra posts small blind 25
+sajuuk posts big blind 50
+** Hole Cards ** [4 players]
+jackpot raises to 1450 (All-in)
+gimmemoney folds
+Buenaobra folds
+sajuuk calls 1400 (All-in)
+** Flop ** [2c 7c 9h]
+** Turn ** [Td]
+** River ** [6h]
+** Pot Show Down ** [2c 7c 9h Td 6h]
+jackpot shows [Qs Jc] (High Card Queen +JT97)
+sajuuk shows [As 7s] (a Pair of Sevens +AT9)
+sajuuk wins Pot (2925) with a Pair
+jackpot finishes tournament in place #14
+** Deck ** [3d As Qs Ac Ts 7s Jc 8s 2c 7c 9h Td 6h]
+
+Hand #88474-3 - 2017-06-07 15:02:01
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 3: gimmemoney (1475)
+Seat 4: Buenaobra (1600)
+Seat 6: sajuuk (2925)
+Buenaobra has the dealer button
+sajuuk posts small blind 25
+gimmemoney posts big blind 50
+** Hole Cards ** [3 players]
+Buenaobra calls 50
+shtako moved from Table 2
+sajuuk calls 25
+gimmemoney checks
+** Flop ** [8s 4c 4d]
+sajuuk checks
+gimmemoney checks
+Buenaobra bets 50
+sajuuk folds
+gimmemoney folds
+Buenaobra refunded 50
+Buenaobra wins Pot (150)
+** Deck ** [Jd 6h 5c Qs 3s Jc 8s 4c 4d]
+
+Hand #88481-4 - 2017-06-07 15:02:42
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 3: gimmemoney (1425)
+Seat 4: Buenaobra (1700)
+Seat 5: shtako (1825)
+Seat 6: sajuuk (2875)
+sajuuk has the dealer button
+gimmemoney posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [4 players]
+shtako folds
+sajuuk calls 50
+gimmemoney calls 25
+Buenaobra checks
+** Flop ** [4h Jc 2d]
+gimmemoney checks
+Buenaobra bets 50
+sajuuk calls 50
+gimmemoney calls 50
+** Turn ** [2c]
+gimmemoney bets 50
+Buenaobra calls 50
+sajuuk calls 50
+** River ** [Kc]
+gimmemoney bets 1275 (All-in)
+Buenaobra folds
+sajuuk calls 1275
+** Pot Show Down ** [4h Jc 2d 2c Kc]
+gimmemoney shows [Kh 2s] (a Full House, Deuces full of Kings)
+sajuuk shows [Kd Ah] (Two Pair, Kings and Deuces +A)
+gimmemoney wins Pot (3000) with a Full House
+** Deck ** [Kh Jd 6h Kd 2s 8h 8c Ah 4h Jc 2d 2c Kc]
+
+Hand #88493-5 - 2017-06-07 15:03:54
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 3: gimmemoney (3000)
+Seat 4: Buenaobra (1550)
+Seat 5: shtako (1825)
+Seat 6: sajuuk (1450)
+gimmemoney has the dealer button
+Buenaobra posts small blind 50
+shtako posts big blind 100
+** Hole Cards ** [4 players]
+sajuuk folds
+gimmemoney folds
+Buenaobra calls 50
+shtako checks
+** Flop ** [Kc 6s 4d]
+Buenaobra checks
+shtako bets 100
+Buenaobra folds
+shtako refunded 100
+shtako wins Pot (200)
+** Deck ** [2s 4s Td Tc 9h Qc 8c 2c Kc 6s 4d]
+
+Hand #88500-6 - 2017-06-07 15:04:32
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 3: gimmemoney (3000)
+Seat 4: Buenaobra (1450)
+Seat 5: shtako (1925)
+Seat 6: sajuuk (1450)
+Buenaobra has the dealer button
+shtako posts small blind 50
+sajuuk posts big blind 100
+** Hole Cards ** [4 players]
+gimmemoney folds
+Buenaobra folds
+shtako folds
+sajuuk refunded 50
+sajuuk wins Pot (100)
+** Deck ** [5h Qs 4s 2h 3d 6d Kc Jd]
+
+Hand #88506-7 - 2017-06-07 15:05:04
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 3: gimmemoney (3000)
+Seat 4: Buenaobra (1450)
+Seat 5: shtako (1875)
+Seat 6: sajuuk (1500)
+shtako has the dealer button
+sajuuk posts small blind 50
+gimmemoney posts big blind 100
+** Hole Cards ** [4 players]
+Buenaobra folds
+shtako raises to 200
+sajuuk folds
+gimmemoney calls 100
+** Flop ** [6h As 9h]
+gimmemoney checks
+shtako bets 225
+gimmemoney folds
+shtako refunded 225
+shtako wins Pot (450)
+** Deck ** [6c 6d 2s Ts 9s 5h 4h Kc 6h As 9h]
+
+power1k moved from Table 2
+Hand #88513-8 - 2017-06-07 15:05:49
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: power1k (3400)
+Seat 3: gimmemoney (2800)
+Seat 4: Buenaobra (1450)
+Seat 5: shtako (2125)
+Seat 6: sajuuk (1450)
+sajuuk has the dealer button
+power1k plays after the button
+gimmemoney posts small blind 50
+Buenaobra posts big blind 100
+** Hole Cards ** [4 players]
+shtako folds
+sajuuk folds
+gimmemoney calls 50
+Buenaobra raises to 1450 (All-in)
+gimmemoney folds
+Buenaobra refunded 1350
+Buenaobra wins Pot (200)
+** Deck ** [Kc Js Jd 5d Qd 7s Td Kh]
+
+Hand #88516-9 - 2017-06-07 15:06:38
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: power1k (3400)
+Seat 3: gimmemoney (2700)
+Seat 4: Buenaobra (1550)
+Seat 5: shtako (2125)
+Seat 6: sajuuk (1450)
+gimmemoney has the dealer button
+Buenaobra posts small blind 50
+shtako posts big blind 100
+** Hole Cards ** [5 players]
+sajuuk calls 100
+power1k calls 100
+gimmemoney folds
+Buenaobra calls 50
+shtako raises to 2125 (All-in)
+sajuuk folds
+power1k folds
+Buenaobra calls 1450 (All-in)
+shtako refunded 575
+** Flop ** [6d 7h Ac]
+** Turn ** [8d]
+** River ** [9d]
+** Pot Show Down ** [6d 7h Ac 8d 9d]
+Buenaobra shows [Jh Td] (a Straight, Seven to Jack)
+shtako shows [Js As] (a Pair of Aces +J98)
+Buenaobra wins Pot (3300) with a Straight
+** Deck ** [Jh Js 9h 8s Ah Td As Jd 6s 9s 6d 7h Ac 8d 9d]
+
+Hand #88519-10 - 2017-06-07 15:07:40
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: power1k (3300)
+Seat 3: gimmemoney (2700)
+Seat 4: Buenaobra (3300)
+Seat 5: shtako (575)
+Seat 6: sajuuk (1350)
+Buenaobra has the dealer button
+shtako posts small blind 75
+sajuuk posts big blind 150
+** Hole Cards ** [5 players]
+power1k folds
+gimmemoney folds
+Buenaobra raises to 3300 (All-in)
+shtako calls 500 (All-in)
+sajuuk folds
+Buenaobra refunded 2725
+** Flop ** [Kc 3d Kd]
+** Turn ** [8h]
+** River ** [7h]
+** Pot Show Down ** [Kc 3d Kd 8h 7h]
+Buenaobra shows [3h 3c] (a Full House, Threes full of Kings)
+shtako shows [4h 8c] (Two Pair, Kings and Eights +7)
+Buenaobra wins Pot (1300) with a Full House
+shtako finishes tournament in place #9
+** Deck ** [4h 6h Tc 5s 3h 8c 2s 4c 3s 3c Kc 3d Kd 8h 7h]
+
+Hand #88527-11 - 2017-06-07 15:09:42
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: power1k (3300)
+Seat 3: gimmemoney (2700)
+Seat 4: Buenaobra (4025)
+Seat 6: sajuuk (1200)
+sajuuk has the dealer button
+power1k posts small blind 75
+gimmemoney posts big blind 150
+** Hole Cards ** [4 players]
+Buenaobra folds
+sajuuk folds
+power1k folds
+gimmemoney refunded 75
+gimmemoney wins Pot (150)
+** Deck ** [Ac 3h 6s 4d 2s 5d 3s 8d]
+
+Hand #88529-12 - 2017-06-07 15:10:17
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: power1k (3225)
+Seat 3: gimmemoney (2775)
+Seat 4: Buenaobra (4025)
+Seat 6: sajuuk (1200)
+power1k has the dealer button
+gimmemoney posts small blind 100
+Buenaobra posts big blind 200
+** Hole Cards ** [4 players]
+sajuuk raises to 1200 (All-in)
+power1k folds
+gimmemoney folds
+Buenaobra folds
+sajuuk refunded 1000
+sajuuk wins Pot (500)
+** Deck ** [4h 3h 9c 8d 2h 4c Ad Ks]
+
+Hand #88534-13 - 2017-06-07 15:11:04
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: power1k (3225)
+Seat 3: gimmemoney (2675)
+Seat 4: Buenaobra (3825)
+Seat 6: sajuuk (1500)
+gimmemoney has the dealer button
+Buenaobra posts small blind 100
+sajuuk posts big blind 200
+** Hole Cards ** [4 players]
+power1k folds
+gimmemoney folds
+Buenaobra calls 100
+sajuuk checks
+** Flop ** [8d 7s Kh]
+Buenaobra bets 200
+sajuuk folds
+Buenaobra refunded 200
+Buenaobra wins Pot (400)
+** Deck ** [6s 2s 7d Ts 4h Td Jh 9c 8d 7s Kh]
+
+Hand #88535-14 - 2017-06-07 15:11:37
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: power1k (3225)
+Seat 3: gimmemoney (2675)
+Seat 4: Buenaobra (4025)
+Seat 6: sajuuk (1300)
+Buenaobra has the dealer button
+sajuuk posts small blind 100
+power1k posts big blind 200
+** Hole Cards ** [4 players]
+gimmemoney folds
+Buenaobra folds
+sajuuk folds
+power1k refunded 100
+power1k wins Pot (200)
+** Deck ** [7c Qs Jc Qh 2d Kc 4h 2h]
+
+Hand #88538-15 - 2017-06-07 15:11:54
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: power1k (3325)
+Seat 3: gimmemoney (2675)
+Seat 4: Buenaobra (4025)
+Seat 6: sajuuk (1200)
+sajuuk has the dealer button
+power1k posts small blind 100
+gimmemoney posts big blind 200
+** Hole Cards ** [4 players]
+Buenaobra calls 200
+sajuuk raises to 1200 (All-in)
+power1k folds
+gimmemoney folds
+Buenaobra calls 1000
+** Flop ** [9c 6h Js]
+** Turn ** [Ah]
+** River ** [Ad]
+** Pot Show Down ** [9c 6h Js Ah Ad]
+Buenaobra shows [9h 9s] (a Full House, Nines full of Aces)
+sajuuk shows [As 3d] (Three of a Kind, Aces +J9)
+Buenaobra wins Pot (2700) with a Full House
+sajuuk finishes tournament in place #8
+** Deck ** [4h 6d 9h As 2c Ks 9s 3d 9c 6h Js Ah Ad]
+
+Hand #88541-16 - 2017-06-07 15:12:49
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: power1k (3225)
+Seat 3: gimmemoney (2475)
+Seat 4: Buenaobra (5525)
+power1k has the dealer button
+power1k posts ante 25
+gimmemoney posts ante 25
+Buenaobra posts ante 25
+gimmemoney posts small blind 100
+Buenaobra posts big blind 200
+** Hole Cards ** [3 players]
+power1k raises to 400
+gimmemoney folds
+Buenaobra calls 200
+** Flop ** [9d 3s Qs]
+Buenaobra bets 200
+power1k raises to 2800 (All-in)
+Buenaobra calls 2600
+** Turn ** [8h]
+** River ** [4h]
+** Pot Show Down ** [9d 3s Qs 8h 4h]
+power1k shows [Js Tc] (a Straight, Eight to Queen)
+Buenaobra shows [As 7s] (High Card Ace +Q987)
+power1k wins Pot (6575) with a Straight
+** Deck ** [6c As Js 5d 7s Tc 9d 3s Qs 8h 4h]
+
+power1k moved to Table 1
+
+gimmemoney moved to Table 1
+
+Buenaobra moved to Table 1
+
+Starting tournament 1699
+
+Hand #88876-1 - 2017-06-07 19:00:45
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bestlooser (1500) - sitting out
+Seat 3: power1k (1500)
+Seat 4: Haigo (1500)
+Seat 5: JanzVill (1500) - sitting out
+bestlooser has the dealer button
+power1k posts small blind 25
+Haigo posts big blind 50
+** Hole Cards ** [4 players]
+JanzVill folds
+bestlooser folds
+power1k has timed out
+power1k folds
+Haigo refunded 25
+Haigo wins Pot (50)
+** Deck ** [3h Th 2h Ks Tc 3c 4c Qh]
+
+Hand #88881-2 - 2017-06-07 19:01:22
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bestlooser (1500) - sitting out
+Seat 3: power1k (1475) - sitting out
+Seat 4: Haigo (1525)
+Seat 5: JanzVill (1500) - sitting out
+power1k has the dealer button
+Haigo posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [4 players]
+bestlooser folds
+power1k folds
+Haigo calls 25
+JanzVill folds
+Haigo wins Pot (100)
+** Deck ** [6d 6s 7c 5s As Kd 4d 5d]
+
+Hand #88883-3 - 2017-06-07 19:01:32
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bestlooser (1500) - sitting out
+Seat 3: power1k (1475)
+Seat 4: Haigo (1575)
+Seat 5: JanzVill (1450) - sitting out
+Haigo has the dealer button
+JanzVill posts small blind 25
+bestlooser posts big blind 50
+** Hole Cards ** [4 players]
+power1k folds
+Haigo calls 50
+JanzVill folds
+bestlooser folds
+Haigo wins Pot (125)
+** Deck ** [6c 8d 9h Jc 7h 3h 5d As]
+
+Hand #88884-4 - 2017-06-07 19:01:43
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bestlooser (1450) - sitting out
+Seat 3: power1k (1475)
+Seat 4: Haigo (1650)
+Seat 5: JanzVill (1425) - sitting out
+JanzVill has the dealer button
+bestlooser posts small blind 25
+power1k posts big blind 50
+** Hole Cards ** [4 players]
+Haigo calls 50
+JanzVill folds
+bestlooser folds
+power1k raises to 150
+Haigo calls 100
+** Flop ** [9c 6d Ad]
+power1k bets 162
+Haigo raises to 811
+power1k folds
+Haigo refunded 649
+Haigo wins Pot (649)
+** Deck ** [Ts Kc 5h 4c 9d Qd As Ks 9c 6d Ad]
+
+Hand #88892-5 - 2017-06-07 19:02:33
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bestlooser (1425) - sitting out
+Seat 3: power1k (1163)
+Seat 4: Haigo (1987)
+Seat 5: JanzVill (1425) - sitting out
+bestlooser has the dealer button
+power1k posts small blind 25
+Haigo posts big blind 50
+** Hole Cards ** [4 players]
+JanzVill folds
+bestlooser folds
+power1k folds
+Haigo refunded 25
+Haigo wins Pot (50)
+** Deck ** [Qh Qs 8d 8c 6c Jh 5d 6h]
+
+Hand #88895-6 - 2017-06-07 19:02:48
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bestlooser (1425) - sitting out
+Seat 3: power1k (1138)
+Seat 4: Haigo (2012)
+Seat 5: JanzVill (1425) - sitting out
+power1k has the dealer button
+Haigo posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [4 players]
+bestlooser folds
+power1k folds
+Haigo calls 25
+JanzVill folds
+Haigo wins Pot (100)
+** Deck ** [Qh Jc As 5h Ks 5s 5c Th]
+
+Hand #88897-7 - 2017-06-07 19:03:00
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bestlooser (1425) - sitting out
+Seat 3: power1k (1138)
+Seat 4: Haigo (2062)
+Seat 5: JanzVill (1375) - sitting out
+Haigo has the dealer button
+JanzVill posts small blind 25
+bestlooser posts big blind 50
+** Hole Cards ** [4 players]
+power1k folds
+Haigo calls 50
+JanzVill folds
+bestlooser folds
+Haigo wins Pot (125)
+** Deck ** [8d 8h 7c 4s Th Ad 9c 3s]
+
+Hand #88899-8 - 2017-06-07 19:03:13
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bestlooser (1375) - sitting out
+Seat 3: power1k (1138)
+Seat 4: Haigo (2137)
+Seat 5: JanzVill (1350) - sitting out
+JanzVill has the dealer button
+bestlooser posts small blind 25
+power1k posts big blind 50
+** Hole Cards ** [4 players]
+Haigo calls 50
+JanzVill folds
+bestlooser folds
+power1k checks
+** Flop ** [7s 8h Kc]
+power1k checks
+Haigo bets 125
+power1k folds
+Haigo refunded 125
+Haigo wins Pot (125)
+** Deck ** [Th 9c Ks Ah 7d 8s Tc 2s 7s 8h Kc]
+
+Hand #88904-9 - 2017-06-07 19:03:53
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bestlooser (1350) - sitting out
+Seat 3: power1k (1088)
+Seat 4: Haigo (2212)
+Seat 5: JanzVill (1350) - sitting out
+bestlooser has the dealer button
+power1k posts small blind 50
+Haigo posts big blind 100
+** Hole Cards ** [4 players]
+JanzVill folds
+bestlooser folds
+power1k folds
+Haigo refunded 50
+Haigo wins Pot (100)
+** Deck ** [2c Tc 5h Kc 9c 5d Jh 2d]
+
+Hand #88906-10 - 2017-06-07 19:04:02
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bestlooser (1350) - sitting out
+Seat 3: power1k (1038)
+Seat 4: Haigo (2262)
+Seat 5: JanzVill (1350) - sitting out
+power1k has the dealer button
+Haigo posts small blind 50
+JanzVill posts big blind 100
+** Hole Cards ** [4 players]
+bestlooser folds
+power1k folds
+Haigo calls 50
+JanzVill folds
+Haigo wins Pot (200)
+** Deck ** [3h 7s Jc 6c 2d 6h Kd Qs]
+
+Hand #88908-11 - 2017-06-07 19:04:14
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bestlooser (1350) - sitting out
+Seat 3: power1k (1038)
+Seat 4: Haigo (2362)
+Seat 5: JanzVill (1250) - sitting out
+Haigo has the dealer button
+JanzVill posts small blind 50
+bestlooser posts big blind 100
+** Hole Cards ** [4 players]
+power1k raises to 1038 (All-in)
+Haigo folds
+JanzVill folds
+bestlooser folds
+power1k refunded 938
+power1k wins Pot (250)
+** Deck ** [Jd 4s Qh 7s Ks 2d 8s Ah]
+
+Hand #88911-12 - 2017-06-07 19:04:31
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 3
+Seat 1: bestlooser (1250) - sitting out
+Seat 3: power1k (1188)
+Seat 4: Haigo (2362)
+Seat 5: JanzVill (1200) - sitting out
+JanzVill has the dealer button
+bestlooser posts small blind 50
+power1k posts big blind 100
+** Hole Cards ** [4 players]
+Haigo calls 100
+JanzVill folds
+bestlooser folds
+power1k checks
+** Flop ** [Jd 3d 4c]
+power1k checks
+Haigo checks
+** Turn ** [Th]
+power1k checks
+Haigo bets 166
+power1k folds
+Haigo refunded 166
+Haigo wins Pot (250)
+** Deck ** [9c 2c Ts 5s 6c 2s Qd 4d Jd 3d 4c Th]
+
+Haigo moved to Table 2
+
+JanzVill moved to Table 1
+
+bestlooser moved to Table 2
+
+power1k moved to Table 1
+

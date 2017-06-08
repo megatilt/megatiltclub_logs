@@ -1,0 +1,396 @@
+﻿Starting tournament 1670
+
+Hand #86673-1 - 2017-06-06 14:00:30
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 1: alf (1500) - sitting out
+Seat 2: fourbrothers (1500) - sitting out
+Seat 3: pZombie (1500)
+Seat 5: CoinDoctor (1500)
+Seat 6: yanyan (1500) - sitting out
+alf has the dealer button
+fourbrothers posts small blind 25
+pZombie posts big blind 50
+** Hole Cards ** [5 players]
+CoinDoctor folds
+yanyan calls 50
+alf folds
+fourbrothers folds
+pZombie checks
+** Flop ** [8d 5d Qs]
+pZombie bets 50
+yanyan calls 50
+** Turn ** [Kd]
+pZombie checks
+yanyan bets 50
+pZombie calls 50
+** River ** [Kh]
+pZombie checks
+yanyan bets 50
+pZombie calls 50
+** Pot Show Down ** [8d 5d Qs Kd Kh]
+pZombie shows [4s 9s 7c 3h] (Hi: a Pair of Kings +Q97  Lo: None)
+yanyan shows [7h 3c 4d 9d] (Hi: a Flush, King high +9854  Lo: None)
+yanyan wins Pot (425) with a Flush
+No low hand qualified
+** Deck ** [4h 4s Ks 7h 2h 2c 9s 6d 3c 7d 3d 7c 8s 4d 6c 5c 3h 2s 9d Jd 8d 5d Qs Kd Kh]
+
+Hand #86683-2 - 2017-06-06 14:01:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 1: alf (1500)
+Seat 2: fourbrothers (1475) - sitting out
+Seat 3: pZombie (1300)
+Seat 5: CoinDoctor (1500)
+Seat 6: yanyan (1725)
+fourbrothers has the dealer button
+pZombie posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [5 players]
+yanyan calls 50
+alf raises to 100
+fourbrothers folds
+pZombie calls 75
+JanzVill moved from Table 2
+CoinDoctor calls 50
+yanyan calls 50
+** Flop ** [Kc Js 5s]
+pZombie checks
+CoinDoctor checks
+yanyan checks
+alf bets 400
+pZombie folds
+CoinDoctor calls 400
+yanyan calls 400
+** Turn ** [Jd]
+CoinDoctor checks
+yanyan checks
+alf bets 1000 (All-in)
+CoinDoctor folds
+yanyan calls 1000
+** River ** [2c]
+** Pot Show Down ** [Kc Js 5s Jd 2c]
+alf shows [3h Kd 4h Ad] (Hi: Two Pair, Kings and Jacks +A  Lo: None)
+yanyan shows [Ac Qh Jh 6h] (Hi: Three of a Kind, Jacks +AK  Lo: None)
+yanyan wins Pot (3600) with Three of a Kind
+No low hand qualified
+alf finishes tournament in place #18
+** Deck ** [2h 9s Ac 3h Qd Th 6c Qh Kd 4d 7s 4c Jh 4h 7c 5d Qs 6h Ad 5h Kc Js 5s Jd 2c]
+
+Hand #86691-3 - 2017-06-06 14:03:05
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 2: fourbrothers (1475) - sitting out
+Seat 3: pZombie (1200)
+Seat 4: JanzVill (1500) - sitting out
+Seat 5: CoinDoctor (1000)
+Seat 6: yanyan (3825)
+pZombie has the dealer button
+JanzVill plays after the button
+CoinDoctor posts small blind 25
+yanyan posts big blind 50
+** Hole Cards ** [4 players]
+fourbrothers folds
+pZombie calls 50
+CoinDoctor calls 25
+yanyan checks
+** Flop ** [5d 6h 2d]
+CoinDoctor checks
+yanyan bets 50
+pZombie raises to 100
+CoinDoctor folds
+yanyan calls 50
+** Turn ** [Ts]
+yanyan checks
+pZombie bets 50
+yanyan calls 50
+** River ** [2h]
+yanyan bets 450
+pZombie calls 450
+** Pot Show Down ** [5d 6h 2d Ts 2h]
+pZombie shows [Th Tc 5c Jc] (Hi: a Full House, Tens full of Deuces  Lo: None)
+yanyan shows [7d 5s 6s 6d] (Hi: a Full House, Sixes full of Deuces  Lo: None)
+pZombie wins Pot (1350) with a Full House
+No low hand qualified
+** Deck ** [Ks 7d 8d Th Qh 5s 3h Tc 8s 6s 3c 5c 3s 6d 9h Jc 5d 6h 2d Ts 2h]
+
+Hand #86699-4 - 2017-06-06 14:04:41
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 2: fourbrothers (1475) - sitting out
+Seat 3: pZombie (1900)
+Seat 4: JanzVill (1500)
+Seat 5: CoinDoctor (950)
+Seat 6: yanyan (3175)
+CoinDoctor has the dealer button
+yanyan posts small blind 50
+fourbrothers posts big blind 100
+** Hole Cards ** [5 players]
+pZombie calls 100
+JanzVill raises to 1500 (All-in)
+CoinDoctor folds
+yanyan calls 1450
+fourbrothers folds
+pZombie folds
+** Flop ** [Qh 4s 7c]
+** Turn ** [2c]
+** River ** [Kh]
+** Pot Show Down ** [Qh 4s 7c 2c Kh]
+JanzVill shows [9d Jh 8h 4d] (Hi: a Pair of Fours +KQJ  Lo: None)
+yanyan shows [Qd 2d 6s Qc] (Hi: Three of a Kind, Queens +K7  Lo: None)
+yanyan wins Pot (3200) with Three of a Kind
+No low hand qualified
+Absent player fourbrothers removed from tournament
+JanzVill finishes tournament in place #16
+** Deck ** [Qd Js Ah 9d 4c 2d 5h 6c Jh Th 6s Ad 3d 8h 9h Qc 3s 7d 4d 4h Qh 4s 7c 2c Kh]
+
+Hand #86703-5 - 2017-06-06 14:05:38
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 3: pZombie (1800)
+Seat 5: CoinDoctor (950)
+Seat 6: yanyan (4875)
+yanyan has the dealer button
+pZombie posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [3 players]
+yanyan folds
+pZombie calls 50
+CoinDoctor checks
+** Flop ** [Ac 7d Qd]
+pZombie checks
+CoinDoctor checks
+** Turn ** [5d]
+pZombie checks
+CoinDoctor checks
+** River ** [Td]
+pZombie checks
+power1k moved from Table 1
+Buenaobra moved from Table 1
+CoinDoctor bets 100
+pZombie calls 100
+** Pot Show Down ** [Ac 7d Qd 5d Td]
+pZombie shows [Qh Js 6h Jc] (Hi: a Pair of Queens +AJT  Lo: None)
+CoinDoctor shows [Jh 3c Kc 9d] (Hi: a Straight, Ten to Ace  Lo: None)
+CoinDoctor wins Pot (400) with a Straight
+No low hand qualified
+** Deck ** [Qh Jh 9s Js 3c 5c 6h Kc Tc Jc 9d 4d Ac 7d Qd 5d Td]
+
+Hand #86707-6 - 2017-06-06 14:06:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 1: power1k (2875)
+Seat 2: Buenaobra (5400)
+Seat 3: pZombie (1600)
+Seat 5: CoinDoctor (1150)
+Seat 6: yanyan (4875)
+pZombie has the dealer button
+CoinDoctor posts small blind 75
+yanyan posts big blind 150
+** Hole Cards ** [5 players]
+power1k folds
+pZombie: "as years past..."
+Buenaobra has timed out
+Buenaobra folds
+pZombie calls 150
+CoinDoctor calls 75
+yanyan checks
+** Flop ** [9s Js Ac]
+CoinDoctor checks
+yanyan checks
+pZombie bets 150
+CoinDoctor calls 150
+yanyan folds
+** Turn ** [5d]
+CoinDoctor checks
+pZombie bets 150
+CoinDoctor calls 150
+** River ** [Qc]
+CoinDoctor checks
+pZombie bets 300
+CoinDoctor folds
+pZombie refunded 300
+pZombie wins Pot (1050)
+** Deck ** [2c 7d 5c 3d 8d 3h 6d Kd 2s Ah 8s Qh 9c Td 2h 3s 6s 6h Jh Ad 9s Js Ac 5d Qc]
+
+power1k moved to Table 3
+
+Hand #86713-7 - 2017-06-06 14:09:07
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 2: Buenaobra (5400) - sitting out
+Seat 3: pZombie (2200)
+Seat 5: CoinDoctor (700)
+Seat 6: yanyan (4725)
+CoinDoctor has the dealer button
+yanyan posts small blind 75
+Buenaobra posts big blind 150
+** Hole Cards ** [4 players]
+pZombie calls 150
+CoinDoctor calls 150
+yanyan calls 75
+Buenaobra folds
+** Flop ** [Ad Ks 4s]
+yanyan checks
+pZombie bets 150
+CoinDoctor folds
+yanyan calls 150
+** Turn ** [6d]
+yanyan checks
+pZombie bets 150
+yanyan calls 150
+** River ** [4h]
+yanyan bets 600
+pZombie calls 600
+** Pot Show Down ** [Ad Ks 4s 6d 4h]
+pZombie shows [Jh Kh 6c 9s] (Hi: Two Pair, Kings and Sixes +A  Lo: None)
+yanyan shows [8c As Ah Qh] (Hi: a Full House, Aces full of Fours  Lo: None)
+yanyan wins Pot (2400) with a Full House
+No low hand qualified
+** Deck ** [8c 3h Jh 7h As Kc Kh Qc Ah Th 6c Qd Qh Jd 9s 3s Ad Ks 4s 6d 4h]
+
+Hand #86717-8 - 2017-06-06 14:10:17
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 2: Buenaobra (5250) - sitting out
+Seat 3: pZombie (1150)
+Seat 5: CoinDoctor (550)
+Seat 6: yanyan (6075)
+yanyan has the dealer button
+Buenaobra posts small blind 100
+pZombie posts big blind 200
+** Hole Cards ** [4 players]
+CoinDoctor folds
+yanyan calls 200
+Buenaobra folds
+pZombie raises to 600
+yanyan calls 400
+** Flop ** [Ah 7d 3c]
+pZombie bets 550 (All-in)
+yanyan calls 550
+** Turn ** [Js]
+** River ** [4h]
+** Pot Show Down ** [Ah 7d 3c Js 4h]
+pZombie shows [Qh Qd 3d 5c] (Hi: a Pair of Queens +AJ7  Lo: 7543A)
+yanyan shows [Jd 6s 7s 5s] (Hi: a Straight, Three to Seven  Lo: 6543A)
+yanyan wins Hi Pot (1200) with a Straight
+yanyan wins Lo Pot (1200) with 6543A
+pZombie finishes tournament in place #8
+** Deck ** [Qs Qh 8d Jd 3s Qd 7c 6s 3h 3d Kc 7s Kd 5c 4c 5s Ah 7d 3c Js 4h]
+
+Hand #86721-9 - 2017-06-06 14:10:55
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 2: Buenaobra (5150) - sitting out
+Seat 5: CoinDoctor (550)
+Seat 6: yanyan (7325)
+Buenaobra has the dealer button
+CoinDoctor posts small blind 100
+yanyan posts big blind 200
+** Hole Cards ** [3 players]
+Buenaobra folds
+CoinDoctor folds
+yanyan refunded 100
+yanyan wins Pot (200)
+** Deck ** [2h 3s 6d Js 8s 3d 6c 5c 9d 4h Qs 2c]
+
+Hand #86722-10 - 2017-06-06 14:11:07
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 2: Buenaobra (5150) - sitting out
+Seat 5: CoinDoctor (450)
+Seat 6: yanyan (7425)
+CoinDoctor has the dealer button
+yanyan posts small blind 100
+Buenaobra posts big blind 200
+** Hole Cards ** [3 players]
+CoinDoctor calls 200
+yanyan calls 100
+Buenaobra folds
+** Flop ** [Ah 5s Jh]
+yanyan bets 200
+CoinDoctor folds
+yanyan refunded 200
+yanyan wins Pot (600)
+** Deck ** [3h 8c 7c 3c 3s 4s 8h As 9c Ad 5h 8s Ah 5s Jh]
+
+Hand #86723-11 - 2017-06-06 14:11:35
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 2: Buenaobra (4950) - sitting out
+Seat 5: CoinDoctor (250)
+Seat 6: yanyan (7825)
+yanyan has the dealer button
+Buenaobra posts small blind 100
+CoinDoctor posts big blind 200
+** Hole Cards ** [3 players]
+yanyan folds
+Buenaobra folds
+CoinDoctor refunded 100
+CoinDoctor wins Pot (200)
+** Deck ** [8d 3c 7d Th 7s Kh 7h Jc 3h 3d 8c 7c]
+
+Hand #86725-12 - 2017-06-06 14:11:50
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 2: Buenaobra (4850) - sitting out
+Seat 5: CoinDoctor (350)
+Seat 6: yanyan (7825)
+Buenaobra has the dealer button
+CoinDoctor posts small blind 100
+yanyan posts big blind 200
+** Hole Cards ** [3 players]
+Buenaobra folds
+CoinDoctor raises to 350 (All-in)
+yanyan calls 150
+** Flop ** [7d 7c Td]
+** Turn ** [Ah]
+** River ** [Kd]
+** Pot Show Down ** [7d 7c Td Ah Kd]
+CoinDoctor shows [Jc 9h 3s 3d] (Hi: Two Pair, Sevens and Threes +A  Lo: None)
+yanyan shows [2s 4s Qs 9d] (Hi: a Pair of Sevens +AQ9  Lo: None)
+CoinDoctor wins Pot (700) with Two Pair
+No low hand qualified
+** Deck ** [Jc 2s Qh 9h 4s Ts 3s Qs 8d 3d 9d 4h 7d 7c Td Ah Kd]
+
+Hand #86726-13 - 2017-06-06 14:12:20
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 4
+Seat 2: Buenaobra (4850) - sitting out
+Seat 5: CoinDoctor (700)
+Seat 6: yanyan (7475)
+CoinDoctor has the dealer button
+yanyan posts small blind 100
+Buenaobra posts big blind 200
+** Hole Cards ** [3 players]
+CoinDoctor raises to 700 (All-in)
+yanyan calls 600
+Buenaobra folds
+** Flop ** [Qd 2s Jc]
+** Turn ** [9c]
+** River ** [2c]
+** Pot Show Down ** [Qd 2s Jc 9c 2c]
+CoinDoctor shows [Jh 5h 7h 4d] (Hi: Two Pair, Jacks and Deuces +7  Lo: None)
+yanyan shows [3c 4h Ad 7c] (Hi: a Flush, Jack high +9732  Lo: None)
+yanyan wins Pot (1600) with a Flush
+No low hand qualified
+CoinDoctor finishes tournament in place #7
+** Deck ** [3c Js Jh 4h Ks 5h Ad 8d 7h 7c Qs 4d Qd 2s Jc 9c 2c]
+
+yanyan moved to Table 3
+
+Buenaobra moved to Table 3
+
