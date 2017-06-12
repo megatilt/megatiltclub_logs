@@ -1,0 +1,2491 @@
+﻿Starting tournament 1777
+
+Hand #94281-1 - 2017-06-11 01:00:41
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1500)
+Seat 3: Protek (1500) - sitting out
+Seat 4: Byteball (1500) - sitting out
+Seat 5: Defecator (1500)
+Seat 6: JanzVill (1500)
+diamond has the dealer button
+Protek posts small blind 25
+Byteball posts big blind 50
+** Hole Cards ** [5 players]
+Defecator folds
+JanzVill has timed out
+JanzVill folds
+diamond calls 50
+Protek folds
+Byteball folds
+diamond wins Pot (125)
+** Deck ** [8d 6d 5c Jd 5d Jc Qc 3c 7c 7s 2c 8h Kd 4s Ah 4d 5h 6h 9d 8s]
+
+Hand #94285-2 - 2017-06-11 01:01:34
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1575)
+Seat 3: Protek (1475) - sitting out
+Seat 4: Byteball (1450) - sitting out
+Seat 5: Defecator (1500)
+Seat 6: JanzVill (1500) - sitting out
+Protek has the dealer button
+Byteball posts small blind 25
+Defecator posts big blind 50
+** Hole Cards ** [5 players]
+JanzVill folds
+diamond calls 50
+Protek folds
+Byteball folds
+Defecator raises to 175
+diamond calls 125
+** Flop ** [8h Ks 4d]
+Defecator bets 375
+diamond folds
+Defecator refunded 375
+Defecator wins Pot (375)
+** Deck ** [6c Ad Kd Ts 3s 7s Ac 9s Ah 8s Jd 3h Jh 5c 6d 2s Th 9c Qd 4s 8h Ks 4d]
+
+Hand #94288-3 - 2017-06-11 01:02:22
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1400)
+Seat 3: Protek (1475) - sitting out
+Seat 4: Byteball (1425) - sitting out
+Seat 5: Defecator (1700)
+Seat 6: JanzVill (1500)
+Byteball has the dealer button
+Defecator posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [5 players]
+diamond folds
+Protek folds
+Byteball folds
+Defecator calls 25
+JanzVill checks
+** Flop ** [5h 7h Ac]
+Defecator bets 50
+JanzVill calls 50
+** Turn ** [5s]
+Defecator bets 50
+JanzVill calls 50
+** River ** [6s]
+Defecator bets 50
+JanzVill raises to 450
+Defecator calls 400
+** Pot Show Down ** [5h 7h Ac 5s 6s]
+Defecator shows [Ah 4h 9d 2c] (Hi: Two Pair, Aces and Fives +9  Lo: 6542A)
+JanzVill shows [7d 2s 3d 3c] (Hi: Two Pair, Sevens and Fives +3  Lo: 6532A)
+Defecator wins Hi Pot (600) with Two Pair
+JanzVill wins Lo Pot (600) with 6532A
+** Deck ** [Ah 7d 6d Kh Qc 4h 2s 8c As 2h 9d 3d Ks Td Jd 2c 3c Tc Th 5d 5h 7h Ac 5s 6s]
+
+Hand #94292-4 - 2017-06-11 01:03:53
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1400)
+Seat 3: Protek (1475) - sitting out
+Seat 4: Byteball (1425) - sitting out
+Seat 5: Defecator (1700)
+Seat 6: JanzVill (1500)
+Defecator has the dealer button
+JanzVill posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [5 players]
+Protek folds
+Byteball folds
+Defecator calls 100
+JanzVill has timed out
+JanzVill folds
+diamond checks
+** Flop ** [Jh Tc Js]
+diamond bets 100
+Defecator calls 100
+** Turn ** [Qh]
+diamond checks
+Defecator checks
+** River ** [2d]
+diamond bets 100
+Defecator calls 100
+** Pot Show Down ** [Jh Tc Js Qh 2d]
+diamond shows [Jc 3c 7s 4c] (Hi: Three of a Kind, Jacks +Q7  Lo: None)
+Defecator shows [As Qs 5s 6h] (Hi: Two Pair, Queens and Jacks +A  Lo: None)
+diamond wins Pot (650) with Three of a Kind
+No low hand qualified
+** Deck ** [Qc Jc 5c 3h As Ts 3c 9s 9c Qs 2s 7s Qd 7h 5s 9d 4c 6s 4h 6h Jh Tc Js Qh 2d]
+
+Hand #94296-5 - 2017-06-11 01:05:13
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1750)
+Seat 3: Protek (1475) - sitting out
+Seat 4: Byteball (1425) - sitting out
+Seat 5: Defecator (1400)
+Seat 6: JanzVill (1450)
+JanzVill has the dealer button
+diamond posts small blind 50
+Protek posts big blind 100
+** Hole Cards ** [5 players]
+Byteball folds
+Defecator calls 100
+JanzVill calls 100
+diamond folds
+Protek folds
+** Flop ** [9c 6s 9d]
+Defecator checks
+JanzVill bets 175
+Defecator calls 175
+** Turn ** [7d]
+Defecator checks
+JanzVill checks
+** River ** [Jc]
+Defecator bets 700
+JanzVill folds
+Defecator refunded 700
+Defecator wins Pot (700)
+Absent player Protek removed from tournament
+Absent player Byteball removed from tournament
+** Deck ** [Jd 8h 6d 9s 4d 5h 5s 5d 2h 6c 8d Ad Qc 2s Kd 3h Tc 4s 7h 3c 9c 6s 9d 7d Jc]
+
+Hand #94300-6 - 2017-06-11 01:06:41
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1700)
+Seat 5: Defecator (1825)
+Seat 6: JanzVill (1175)
+diamond has the dealer button
+Defecator posts small blind 50
+JanzVill posts big blind 100
+** Hole Cards ** [3 players]
+ROBERTO moved from Table 2
+betong moved from Table 2
+diamond folds
+Defecator calls 50
+JanzVill checks
+** Flop ** [7d 8s 6c]
+Defecator checks
+JanzVill bets 200
+Defecator folds
+JanzVill refunded 200
+JanzVill wins Pot (200)
+** Deck ** [Kd 3h Kh 7h 7s 3c Qd Th 5c Qc 6d 3d 7d 8s 6c]
+
+Hand #94301-7 - 2017-06-11 01:07:20
+Game: PL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1700)
+Seat 2: ROBERTO (2013)
+Seat 3: betong (1687)
+Seat 5: Defecator (1725)
+Seat 6: JanzVill (1275)
+Defecator has the dealer button
+JanzVill posts small blind 75
+diamond posts big blind 150
+** Hole Cards ** [5 players]
+ROBERTO folds
+betong raises to 525
+Defecator folds
+JanzVill folds
+diamond calls 375
+** Flop ** [6c Qd 7d]
+diamond bets 1125
+betong raises to 1162 (All-in)
+diamond calls 37
+** Turn ** [4d]
+** River ** [4c]
+** Pot Show Down ** [6c Qd 7d 4d 4c]
+diamond shows [5s As 9s 8h] (Hi: a Straight, Four to Eight  Lo: 7654A)
+betong shows [2h 4s 7s 7h] (Hi: a Full House, Sevens full of Fours  Lo: None)
+betong wins Hi Pot (1725) with a Full House
+diamond wins Lo Pot (1724) with 7654A
+** Deck ** [Jc 5s Th 2h 6s Td As 2c 4s Qc Ts 9s Kc 7s Tc Ah 8h 7c 7h 2s 6c Qd 7d 4d 4c]
+
+Hand #94302-8 - 2017-06-11 01:08:19
+Game: PL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1737)
+Seat 2: ROBERTO (2013)
+Seat 3: betong (1725)
+Seat 5: Defecator (1725)
+Seat 6: JanzVill (1200)
+JanzVill has the dealer button
+diamond posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [5 players]
+betong folds
+Defecator folds
+JanzVill calls 150
+diamond folds
+ROBERTO checks
+** Flop ** [5d 5c 9h]
+ROBERTO bets 150
+JanzVill has timed out
+JanzVill folds
+ROBERTO refunded 150
+ROBERTO wins Pot (375)
+** Deck ** [4d 5s 7s 6h 6d Kh 3s Ks 3h Jc 7c Kd Jh Qh As 4s 3c 7d 4c 2c 5d 5c 9h]
+
+Hand #94303-9 - 2017-06-11 01:09:27
+Game: PL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1662)
+Seat 2: ROBERTO (2238)
+Seat 3: betong (1725)
+Seat 5: Defecator (1725)
+Seat 6: JanzVill (1050) - sitting out
+diamond has the dealer button
+ROBERTO posts small blind 75
+betong posts big blind 150
+** Hole Cards ** [5 players]
+Defecator calls 150
+JanzVill folds
+diamond folds
+ROBERTO calls 75
+betong raises to 600
+Defecator calls 450
+ROBERTO folds
+** Flop ** [As Ah 5s]
+betong bets 1125 (All-in)
+Defecator folds
+betong refunded 1125
+betong wins Pot (1350)
+** Deck ** [Tc 9h 6s 2h 4h Td Qh 8h Jc 4s Kh Qd 6h 5d 7h 5h Ac 9d Qc 2c As Ah 5s]
+
+Hand #94304-10 - 2017-06-11 01:10:17
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1662)
+Seat 2: ROBERTO (2088)
+Seat 3: betong (2475)
+Seat 5: Defecator (1125)
+Seat 6: JanzVill (1050)
+ROBERTO has the dealer button
+betong posts small blind 100
+Defecator posts big blind 200
+** Hole Cards ** [5 players]
+JanzVill folds
+diamond folds
+ROBERTO calls 200
+betong calls 100
+Defecator checks
+** Flop ** [Ac 6h Ad]
+betong checks
+Defecator checks
+ROBERTO checks
+** Turn ** [Qh]
+betong checks
+Defecator bets 600
+ROBERTO folds
+betong calls 600
+** River ** [6c]
+betong bets 900
+Defecator calls 325 (All-in)
+betong refunded 575
+** Pot Show Down ** [Ac 6h Ad Qh 6c]
+betong shows [9d 6d Jc 7d] (Hi: Three of a Kind, Sixes +AJ  Lo: None)
+Defecator shows [As 2d 4s Kh] (Hi: Three of a Kind, Aces +KQ  Lo: None)
+Defecator wins Pot (2450) with Three of a Kind
+No low hand qualified
+** Deck ** [9d As 7s 8s 9h 6d 2d 3h 3d 9c Jc 4s Kc 8c 3c 7d Kh 4h 2s Ks Ac 6h Ad Qh 6c]
+
+Hand #94305-11 - 2017-06-11 01:11:57
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1662)
+Seat 2: ROBERTO (1888)
+Seat 3: betong (1350)
+Seat 5: Defecator (2450)
+Seat 6: JanzVill (1050)
+betong has the dealer button
+Defecator posts small blind 100
+JanzVill posts big blind 200
+** Hole Cards ** [5 players]
+diamond folds
+ROBERTO calls 200
+betong folds
+Defecator calls 100
+JanzVill checks
+** Flop ** [7c 3s Ah]
+Defecator checks
+JanzVill checks
+ROBERTO bets 400
+Defecator folds
+JanzVill folds
+ROBERTO refunded 400
+ROBERTO wins Pot (600)
+** Deck ** [9h 4s 9c 2h 8c Ac 4d Th 2c Jd 2s 6h 8h 4h 7s Td 9s 5h 3c Qs 7c 3s Ah]
+
+Hand #94308-12 - 2017-06-11 01:13:51
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1662)
+Seat 2: ROBERTO (2288)
+Seat 3: betong (1350)
+Seat 5: Defecator (2250)
+Seat 6: JanzVill (850)
+Defecator has the dealer button
+diamond posts ante 25
+ROBERTO posts ante 25
+betong posts ante 25
+Defecator posts ante 25
+JanzVill posts ante 25
+JanzVill posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [5 players]
+ROBERTO calls 200
+betong folds
+Defecator calls 200
+JanzVill raises to 825 (All-in)
+diamond folds
+ROBERTO calls 625
+Defecator calls 625
+** Flop ** [9h 8c 4s]
+ROBERTO checks
+Defecator checks
+** Turn ** [Ad]
+ROBERTO bets 400
+Defecator calls 400
+** River ** [Qh]
+ROBERTO bets 400
+Defecator raises to 850
+ROBERTO calls 450
+** Side Pot 1 Show Down ** [9h 8c 4s Ad Qh]
+ROBERTO shows [Ah As 6c 9d] (Hi: Three of a Kind, Aces +Q9  Lo: None)
+Defecator shows [Th Ts 5c Js] (Hi: a Straight, Eight to Queen  Lo: None)
+Defecator wins Side Pot 1 (2500) with a Straight
+No low hand qualified
+** Main Pot Show Down ** [9h 8c 4s Ad Qh]
+JanzVill shows [5h 7s Ks Kh] (Hi: a Pair of Kings +AQ9  Lo: 8754A)
+Defecator wins Hi Main Pot (1400) with a Straight
+JanzVill wins Lo Main Pot (1400) with 8754A
+** Deck ** [5h Ac Ah 4d Th 7s Tc As 3d Ts Ks 2s 6c Kd 5c Kh 8h 9d 3c Js 9h 8c 4s Ad Qh]
+
+Hand #94312-13 - 2017-06-11 01:15:43
+Game: PL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (1437)
+Seat 2: ROBERTO (188)
+Seat 3: betong (1325)
+Seat 5: Defecator (4050)
+Seat 6: JanzVill (1400)
+JanzVill has the dealer button
+diamond posts ante 25
+ROBERTO posts ante 25
+betong posts ante 25
+Defecator posts ante 25
+JanzVill posts ante 25
+diamond posts small blind 200
+JanzVill: "lol"
+ROBERTO posts big blind 163 (All-in)
+** Hole Cards ** [5 players]
+betong raises to 1288
+Defecator calls 1288
+JanzVill folds
+diamond raises to 1412 (All-in)
+betong calls 12 (All-in)
+JanzVill: "yeah"
+Defecator calls 124
+** Flop ** [Jd Jc Ac]
+** Turn ** [7h]
+** River ** [6d]
+** Side Pot 2 Show Down ** [Jd Jc Ac 7h 6d]
+diamond shows [Jh Ks As 9s] (Hi: a Full House, Jacks full of Aces  Lo: None)
+Defecator shows [6h 5c 4h 4d] (Hi: Two Pair, Jacks and Sixes +5  Lo: 7654A)
+diamond wins Hi Side Pot 2 (112) with a Full House
+Defecator wins Lo Side Pot 2 (112) with 7654A
+** Side Pot 1 Show Down ** [Jd Jc Ac 7h 6d]
+betong shows [Ts Qh Th 6c] (Hi: Two Pair, Jacks and Tens +A  Lo: None)
+diamond wins Hi Side Pot 1 (1706) with a Full House
+Defecator wins Lo Side Pot 1 (1705) with 7654A
+** Main Pot Show Down ** [Jd Jc Ac 7h 6d]
+ROBERTO shows [Kd 3s 5d Js] (Hi: Three of a Kind, Jacks +AK  Lo: 7653A)
+diamond wins Hi Main Pot (389) with a Full House
+ROBERTO wins Lo Main Pot (388) with 7653A
+betong finishes tournament in place #5
+** Deck ** [Jh Kd Ts 6h 8d Ks 3s Qh 5c 7d As 5d Th 4h 9d 9s Js 6c 4d 8s Jd Jc Ac 7h 6d]
+
+Hand #94314-14 - 2017-06-11 01:16:59
+Game: PL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (2207)
+Seat 2: ROBERTO (388)
+Seat 5: Defecator (4430)
+Seat 6: JanzVill (1375)
+diamond has the dealer button
+diamond posts ante 25
+ROBERTO posts ante 25
+Defecator posts ante 25
+JanzVill posts ante 25
+ROBERTO posts small blind 200
+Defecator posts big blind 400
+** Hole Cards ** [4 players]
+JanzVill folds
+diamond folds
+ROBERTO calls 163 (All-in)
+Defecator refunded 37
+** Flop ** [Ah Qh Qs]
+** Turn ** [2d]
+** River ** [Ks]
+** Pot Show Down ** [Ah Qh Qs 2d Ks]
+ROBERTO shows [Ac 5d 8c 9d] (Hi: Two Pair, Aces and Queens +9  Lo: None)
+Defecator shows [6h 2h Ad 4d] (Hi: Two Pair, Aces and Queens +6  Lo: None)
+ROBERTO wins Pot (826) with Two Pair
+No low hand qualified
+** Deck ** [Ac 6h 9c Kh 5d 2h 4c Js 8c Ad 9h Jh 9d 4d 5h 8h Ah Qh Qs 2d Ks]
+
+Hand #94315-15 - 2017-06-11 01:17:38
+Game: PL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (2182)
+Seat 2: ROBERTO (826)
+Seat 5: Defecator (4042)
+Seat 6: JanzVill (1350)
+ROBERTO has the dealer button
+diamond posts ante 25
+ROBERTO posts ante 25
+Defecator posts ante 25
+JanzVill posts ante 25
+Defecator posts small blind 200
+JanzVill posts big blind 400
+** Hole Cards ** [4 players]
+diamond raises to 1500
+ROBERTO calls 801 (All-in)
+Defecator folds
+JanzVill calls 925 (All-in)
+diamond refunded 175
+** Flop ** [Jd As 8d]
+** Turn ** [4c]
+** River ** [3c]
+** Side Pot 1 Show Down ** [Jd As 8d 4c 3c]
+diamond shows [5h Ac Jh Qs] (Hi: Two Pair, Aces and Jacks +8  Lo: 8543A)
+JanzVill shows [7c 8s Js 9h] (Hi: Two Pair, Jacks and Eights +A  Lo: 8743A)
+diamond wins Hi Side Pot 1 (524) with Two Pair
+diamond wins Lo Side Pot 1 (524) with 8543A
+** Main Pot Show Down ** [Jd As 8d 4c 3c]
+ROBERTO shows [5s 9d Ad 4s] (Hi: Two Pair, Aces and Fours +J  Lo: 8543A)
+diamond wins Hi Main Pot (1352) with Two Pair
+diamond splits Lo Main Pot (676) with 8543A
+ROBERTO splits Lo Main Pot (675) with 8543A
+JanzVill finishes tournament in place #4 and wins 200 chips
+** Deck ** [7s 7c 5h 5s 2h 8s Ac 9d 2c Js Jh Ad 3s 9h Qs 4s Jd As 8d 4c 3c]
+
+Hand #94318-16 - 2017-06-11 01:18:26
+Game: PL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (3908)
+Seat 2: ROBERTO (675)
+Seat 5: Defecator (3817)
+Defecator has the dealer button
+diamond posts ante 25
+ROBERTO posts ante 25
+Defecator posts ante 25
+diamond posts small blind 200
+ROBERTO posts big blind 400
+** Hole Cards ** [3 players]
+Defecator calls 400
+diamond calls 200
+ROBERTO raises to 650 (All-in)
+Defecator calls 250
+diamond calls 250
+** Flop ** [5d Ts 5s]
+diamond checks
+Defecator checks
+** Turn ** [Ah]
+diamond checks
+Defecator checks
+** River ** [7s]
+diamond checks
+Defecator checks
+** Pot Show Down ** [5d Ts 5s Ah 7s]
+diamond shows [Qd Jh Kd 9c] (Hi: a Pair of Fives +AKQ  Lo: None)
+ROBERTO shows [7h 4s 6d 8h] (Hi: Two Pair, Sevens and Fives +8  Lo: 7654A)
+Defecator shows [9s Jc Kc As] (Hi: a Flush, Ace high +T975  Lo: None)
+Defecator wins Hi Pot (1013) with a Flush
+ROBERTO wins Lo Pot (1012) with 7654A
+** Deck ** [Qd 7h 9s Jh 4s Jc Kd 6d Kc 9c 8h As 5d Ts 5s Ah 7s]
+
+Hand #94319-17 - 2017-06-11 01:19:34
+Game: PL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (3233)
+Seat 2: ROBERTO (1012)
+Seat 5: Defecator (4155)
+diamond has the dealer button
+diamond posts ante 50
+ROBERTO posts ante 50
+Defecator posts ante 50
+ROBERTO posts small blind 300
+Defecator posts big blind 600
+** Hole Cards ** [3 players]
+diamond folds
+ROBERTO raises to 962 (All-in)
+Defecator calls 362
+** Flop ** [4h Th 8d]
+** Turn ** [9h]
+** River ** [2d]
+** Pot Show Down ** [4h Th 8d 9h 2d]
+ROBERTO shows [Kd Kc 4d 7c] (Hi: a Pair of Kings +T98  Lo: None)
+Defecator shows [9d 2s 6s Qh] (Hi: Two Pair, Nines and Deuces +T  Lo: None)
+Defecator wins Pot (2074) with Two Pair
+No low hand qualified
+ROBERTO finishes tournament in place #3 and wins 400 chips
+** Deck ** [Kd 9d Td Kc 2s 4c 4d 6s 3s 7c Qh 8c 4h Th 8d 9h 2d]
+
+Hand #94320-18 - 2017-06-11 01:19:57
+Game: PL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (3183)
+Seat 5: Defecator (5217)
+Defecator has the dealer button
+diamond posts ante 50
+Defecator posts ante 50
+Defecator posts small blind 300
+diamond posts big blind 600
+** Hole Cards ** [2 players]
+Defecator calls 300
+diamond raises to 1900
+Defecator calls 1300
+** Flop ** [3c Th 7s]
+diamond bets 1233 (All-in)
+Defecator calls 1233
+** Turn ** [6h]
+** River ** [6s]
+** Pot Show Down ** [3c Th 7s 6h 6s]
+diamond shows [7h Qd 2d Qs] (Hi: Two Pair, Queens and Sixes +T  Lo: None)
+Defecator shows [Js Qh Kc 3d] (Hi: Two Pair, Sixes and Threes +K  Lo: None)
+diamond wins Pot (6366) with Two Pair
+No low hand qualified
+** Deck ** [7h Js Qd Qh 2d Kc Qs 3d 3c Th 7s 6h 6s]
+
+Hand #94321-19 - 2017-06-11 01:20:28
+Game: PL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (6366)
+Seat 5: Defecator (2034)
+diamond has the dealer button
+diamond posts ante 50
+Defecator posts ante 50
+diamond posts small blind 300
+Defecator posts big blind 600
+** Hole Cards ** [2 players]
+diamond raises to 1900
+Defecator calls 1300
+** Flop ** [2h Jc 9d]
+Defecator checks
+diamond bets 3900
+Defecator calls 84 (All-in)
+diamond refunded 3816
+** Turn ** [6s]
+** River ** [2d]
+** Pot Show Down ** [2h Jc 9d 6s 2d]
+diamond shows [7s 5s 7d 5h] (Hi: Two Pair, Sevens and Deuces +J  Lo: None)
+Defecator shows [6h 5d Jd Kd] (Hi: Two Pair, Jacks and Sixes +9  Lo: None)
+Defecator wins Pot (4068) with Two Pair
+No low hand qualified
+** Deck ** [6h 7s 5d 5s Jd 7d Kd 5h 2h Jc 9d 6s 2d]
+
+Hand #94323-20 - 2017-06-11 01:21:00
+Game: PL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (4332)
+Seat 5: Defecator (4068)
+Defecator has the dealer button
+diamond posts ante 50
+Defecator posts ante 50
+Defecator posts small blind 300
+diamond posts big blind 600
+** Hole Cards ** [2 players]
+Defecator folds
+diamond refunded 300
+diamond wins Pot (700)
+** Deck ** [Jh 5h Jd Kd 8c 2c Ac Ts]
+
+Hand #94324-21 - 2017-06-11 01:21:12
+Game: PL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: diamond (4682)
+Seat 5: Defecator (3718)
+diamond has the dealer button
+diamond posts ante 50
+Defecator posts ante 50
+diamond posts small blind 300
+Defecator posts big blind 600
+** Hole Cards ** [2 players]
+diamond raises to 1900
+Defecator calls 1300
+** Flop ** [Th Jh Ts]
+Defecator bets 1768 (All-in)
+diamond calls 1768
+** Turn ** [5d]
+** River ** [4c]
+** Pot Show Down ** [Th Jh Ts 5d 4c]
+diamond shows [2h Td 9s Qd] (Hi: Three of a Kind, Tens +QJ  Lo: None)
+Defecator shows [5s Qs Ks 2c] (Hi: Two Pair, Tens and Fives +K  Lo: None)
+diamond wins Pot (7436) with Three of a Kind
+No low hand qualified
+Defecator: "gg"
+Defecator finishes tournament in place #2 and wins 600 chips
+diamond finishes tournament in place #1 and wins 800 chips
+** Deck ** [5s 2h Qs Td Ks 9s 2c Qd Th Jh Ts 5d 4c]
+
+Starting tournament 1781
+
+Hand #94487-1 - 2017-06-11 05:00:41
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1500) - sitting out
+Seat 3: bspus (1500)
+Seat 4: JanzVill (1500) - sitting out
+Seat 5: dynalyn0504 (1500) - sitting out
+Seat 6: Buenaobra (1500) - sitting out
+yanyan has the dealer button
+bspus posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [5 players]
+dynalyn0504 folds
+Buenaobra folds
+yanyan folds
+bspus raises to 100
+JanzVill folds
+bspus refunded 50
+bspus wins Pot (100)
+** Deck ** [Kd Jh 3c Qh 2c 9c Kc 4s Td 5h 4c Ac Ah 7s 5c 6s 8c Jd 3d 5s]
+
+Hand #94489-2 - 2017-06-11 05:00:50
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1500) - sitting out
+Seat 3: bspus (1550)
+Seat 4: JanzVill (1450) - sitting out
+Seat 5: dynalyn0504 (1500) - sitting out
+Seat 6: Buenaobra (1500) - sitting out
+bspus has the dealer button
+JanzVill posts small blind 25
+dynalyn0504 posts big blind 50
+** Hole Cards ** [5 players]
+Buenaobra folds
+yanyan folds
+bspus raises to 100
+JanzVill folds
+dynalyn0504 folds
+bspus refunded 50
+bspus wins Pot (125)
+** Deck ** [Ac 9d 2s 3c 6s Ts 7d 2d 8s 6h 3d Kd Kh Qs Jh Jd 7s 4c 3h Ah]
+
+Hand #94490-3 - 2017-06-11 05:00:59
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1500) - sitting out
+Seat 3: bspus (1625)
+Seat 4: JanzVill (1425) - sitting out
+Seat 5: dynalyn0504 (1450) - sitting out
+Seat 6: Buenaobra (1500) - sitting out
+JanzVill has the dealer button
+dynalyn0504 posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [5 players]
+yanyan folds
+bspus raises to 100
+JanzVill folds
+dynalyn0504 folds
+Buenaobra folds
+bspus refunded 50
+bspus wins Pot (125)
+** Deck ** [4c 3c 4h Qh 9h 4d 3d 5s Jh 8d 2d 6s Qd 9c 6h Ts 7s 4s 8c Qs]
+
+Hand #94491-4 - 2017-06-11 05:01:08
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1500) - sitting out
+Seat 3: bspus (1700)
+Seat 4: JanzVill (1425) - sitting out
+Seat 5: dynalyn0504 (1425) - sitting out
+Seat 6: Buenaobra (1450) - sitting out
+dynalyn0504 has the dealer button
+Buenaobra posts small blind 25
+yanyan posts big blind 50
+** Hole Cards ** [5 players]
+bspus raises to 100
+JanzVill folds
+dynalyn0504 folds
+Buenaobra folds
+yanyan folds
+bspus refunded 50
+bspus wins Pot (125)
+** Deck ** [3s Th 7c 5d Td Kd 6d Qc 4h 8s 6h 7h As 3d 4c 6c 8c Kc 3c Ts]
+
+Hand #94493-5 - 2017-06-11 05:01:17
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1450) - sitting out
+Seat 3: bspus (1775)
+Seat 4: JanzVill (1425) - sitting out
+Seat 5: dynalyn0504 (1425) - sitting out
+Seat 6: Buenaobra (1425) - sitting out
+Buenaobra has the dealer button
+yanyan posts small blind 25
+bspus posts big blind 50
+** Hole Cards ** [5 players]
+JanzVill folds
+dynalyn0504 folds
+Buenaobra folds
+yanyan folds
+bspus refunded 25
+bspus wins Pot (50)
+** Deck ** [7c 3s 3c Ah Jd 9c 5s Qd 5d Qh 8c As 7s 7h Qs 3d Kc 2c 8d 6h]
+
+Hand #94495-6 - 2017-06-11 05:01:25
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1425) - sitting out
+Seat 3: bspus (1800)
+Seat 4: JanzVill (1425) - sitting out
+Seat 5: dynalyn0504 (1425) - sitting out
+Seat 6: Buenaobra (1425) - sitting out
+yanyan has the dealer button
+bspus posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [5 players]
+dynalyn0504 folds
+Buenaobra folds
+yanyan folds
+bspus raises to 100
+JanzVill folds
+bspus refunded 50
+bspus wins Pot (100)
+** Deck ** [8c 6s 8s Kc 9d 7h 3h 5s Ts 7s Jd 3c 4c Ks Ac Td 8h 9s Ah 4h]
+
+Hand #94496-7 - 2017-06-11 05:01:35
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1425) - sitting out
+Seat 3: bspus (1850)
+Seat 4: JanzVill (1375) - sitting out
+Seat 5: dynalyn0504 (1425) - sitting out
+Seat 6: Buenaobra (1425) - sitting out
+bspus has the dealer button
+JanzVill posts small blind 25
+dynalyn0504 posts big blind 50
+** Hole Cards ** [5 players]
+Buenaobra folds
+yanyan folds
+bspus raises to 100
+JanzVill folds
+dynalyn0504 folds
+bspus refunded 50
+bspus wins Pot (125)
+** Deck ** [9c Qc 8c Jc 8h 9d Ts 9s 8d Ac Ah Qd 3h 5h Kd Ks 5c Th 2h 2d]
+
+Hand #94497-8 - 2017-06-11 05:01:44
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1425) - sitting out
+Seat 3: bspus (1925)
+Seat 4: JanzVill (1350) - sitting out
+Seat 5: dynalyn0504 (1375) - sitting out
+Seat 6: Buenaobra (1425) - sitting out
+JanzVill has the dealer button
+dynalyn0504 posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [5 players]
+yanyan folds
+bspus raises to 100
+JanzVill folds
+dynalyn0504 folds
+Buenaobra folds
+bspus refunded 50
+bspus wins Pot (125)
+** Deck ** [2h 5h Jh Tc 9h 7d 9c 8s Ks 4h Js Qs Qc 3h 2d Qd Qh 5d 2s 5s]
+
+Hand #94499-9 - 2017-06-11 05:01:53
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1425) - sitting out
+Seat 3: bspus (2000)
+Seat 4: JanzVill (1350) - sitting out
+Seat 5: dynalyn0504 (1350) - sitting out
+Seat 6: Buenaobra (1375) - sitting out
+dynalyn0504 has the dealer button
+Buenaobra posts small blind 25
+yanyan posts big blind 50
+** Hole Cards ** [5 players]
+bspus raises to 100
+JanzVill folds
+dynalyn0504 folds
+Buenaobra folds
+yanyan folds
+bspus refunded 50
+bspus wins Pot (125)
+** Deck ** [4h Ac Ks 9c Ts 5s 2s Jc 7c 8h 2d Js Kd Kc 7s As 9d Tc 5c 6s]
+
+Hand #94500-10 - 2017-06-11 05:02:02
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1375) - sitting out
+Seat 3: bspus (2075)
+Seat 4: JanzVill (1350) - sitting out
+Seat 5: dynalyn0504 (1350) - sitting out
+Seat 6: Buenaobra (1350) - sitting out
+Buenaobra has the dealer button
+yanyan posts small blind 25
+bspus posts big blind 50
+** Hole Cards ** [5 players]
+JanzVill folds
+dynalyn0504 folds
+Buenaobra folds
+yanyan folds
+bspus refunded 25
+bspus wins Pot (50)
+** Deck ** [4d As 5d 9h 4h 7d 3s Qh Kh Qd Tc 2h 7h Td 6d Jd Kd Kc Qc Ts]
+
+Hand #94502-11 - 2017-06-11 05:02:10
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1350) - sitting out
+Seat 3: bspus (2100)
+Seat 4: JanzVill (1350) - sitting out
+Seat 5: dynalyn0504 (1350) - sitting out
+Seat 6: Buenaobra (1350) - sitting out
+yanyan has the dealer button
+bspus posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [5 players]
+dynalyn0504 folds
+Buenaobra folds
+yanyan folds
+bspus raises to 100
+JanzVill folds
+bspus refunded 50
+bspus wins Pot (100)
+** Deck ** [Js Ts 8h As 3h 6h Kd 8c 2s Qd Ah 5d 2d Th 7c Qc 2h 6c Td 9s]
+
+Hand #94503-12 - 2017-06-11 05:02:19
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1350) - sitting out
+Seat 3: bspus (2150)
+Seat 4: JanzVill (1300) - sitting out
+Seat 5: dynalyn0504 (1350) - sitting out
+Seat 6: Buenaobra (1350) - sitting out
+bspus has the dealer button
+JanzVill posts small blind 25
+dynalyn0504 posts big blind 50
+** Hole Cards ** [5 players]
+Buenaobra folds
+yanyan folds
+bspus raises to 100
+JanzVill folds
+dynalyn0504 folds
+bspus refunded 50
+bspus wins Pot (125)
+** Deck ** [4d 6d 7s 9s Ts 3h Qd 7h 8s As Kh 3s 2s 4s Qs Ks 9h 2d 2h Jd]
+
+Hand #94504-13 - 2017-06-11 05:02:28
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1350) - sitting out
+Seat 3: bspus (2225)
+Seat 4: JanzVill (1275) - sitting out
+Seat 5: dynalyn0504 (1300) - sitting out
+Seat 6: Buenaobra (1350) - sitting out
+JanzVill has the dealer button
+dynalyn0504 posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [5 players]
+yanyan folds
+bspus raises to 100
+JanzVill folds
+dynalyn0504 folds
+Buenaobra folds
+bspus refunded 50
+bspus wins Pot (125)
+** Deck ** [Tc Qd 5s 4h As Kc 4c 7h 6c Js 7c 4d 9h 3d Jd 2s 2d 9s Qc 2c]
+
+Hand #94505-14 - 2017-06-11 05:02:38
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1350) - sitting out
+Seat 3: bspus (2300)
+Seat 4: JanzVill (1275) - sitting out
+Seat 5: dynalyn0504 (1275) - sitting out
+Seat 6: Buenaobra (1300) - sitting out
+dynalyn0504 has the dealer button
+Buenaobra posts small blind 25
+yanyan posts big blind 50
+** Hole Cards ** [5 players]
+bspus raises to 100
+JanzVill folds
+dynalyn0504 folds
+Buenaobra folds
+yanyan folds
+bspus refunded 50
+bspus wins Pot (125)
+** Deck ** [9h Ah 8h 3s Jh Kh Ts 6s 2c 7h 7c 2s 3d Qh Jd Td 9c Js Jc 6c]
+
+Hand #94506-15 - 2017-06-11 05:02:47
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1300) - sitting out
+Seat 3: bspus (2375)
+Seat 4: JanzVill (1275) - sitting out
+Seat 5: dynalyn0504 (1275) - sitting out
+Seat 6: Buenaobra (1275) - sitting out
+Buenaobra has the dealer button
+yanyan posts small blind 25
+bspus posts big blind 50
+** Hole Cards ** [5 players]
+JanzVill folds
+dynalyn0504 folds
+Buenaobra folds
+yanyan folds
+bspus refunded 25
+bspus wins Pot (50)
+** Deck ** [6s 8h 5s 7c 9d 8s Qd 2c 2d 4d 9c Tc Jc 7s 8c 9h 6c Ah 6d 8d]
+
+Hand #94508-16 - 2017-06-11 05:02:55
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1275) - sitting out
+Seat 3: bspus (2400)
+Seat 4: JanzVill (1275) - sitting out
+Seat 5: dynalyn0504 (1275) - sitting out
+Seat 6: Buenaobra (1275) - sitting out
+yanyan has the dealer button
+bspus posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [5 players]
+dynalyn0504 folds
+Buenaobra folds
+yanyan folds
+bspus raises to 100
+JanzVill folds
+bspus refunded 50
+bspus wins Pot (100)
+** Deck ** [9s 2c As Ks 7h Kc 6c Ts 2h Js 5d Qh Qc 9h 8h Ah 3h 3d 7c Jh]
+
+Hand #94509-17 - 2017-06-11 05:03:05
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1275) - sitting out
+Seat 3: bspus (2450)
+Seat 4: JanzVill (1225) - sitting out
+Seat 5: dynalyn0504 (1275) - sitting out
+Seat 6: Buenaobra (1275) - sitting out
+bspus has the dealer button
+JanzVill posts small blind 25
+dynalyn0504 posts big blind 50
+** Hole Cards ** [5 players]
+Buenaobra folds
+yanyan folds
+bspus raises to 100
+JanzVill folds
+dynalyn0504 folds
+bspus refunded 50
+bspus wins Pot (125)
+** Deck ** [9d 8c 3h 9h Jd 7c 3s 6h Th 2s Td 8d Ac 9s 9c Js 4c 5d Ks 5s]
+
+Hand #94511-18 - 2017-06-11 05:03:14
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1275) - sitting out
+Seat 3: bspus (2525)
+Seat 4: JanzVill (1200) - sitting out
+Seat 5: dynalyn0504 (1225) - sitting out
+Seat 6: Buenaobra (1275) - sitting out
+JanzVill has the dealer button
+dynalyn0504 posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [5 players]
+yanyan folds
+bspus raises to 100
+JanzVill folds
+dynalyn0504 folds
+Buenaobra folds
+bspus refunded 50
+bspus wins Pot (125)
+** Deck ** [7d 3h 4s 5h 8c 6c Js 2s Jc 2c 8h 7h 3d Jd 8s Th Tc 4d 9c 4c]
+
+Hand #94512-19 - 2017-06-11 05:03:24
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1275) - sitting out
+Seat 3: bspus (2600)
+Seat 4: JanzVill (1200) - sitting out
+Seat 5: dynalyn0504 (1200) - sitting out
+Seat 6: Buenaobra (1225) - sitting out
+dynalyn0504 has the dealer button
+Buenaobra posts small blind 25
+yanyan posts big blind 50
+** Hole Cards ** [5 players]
+bspus raises to 100
+JanzVill folds
+dynalyn0504 folds
+Buenaobra folds
+yanyan raises to 325
+bspus folds
+yanyan refunded 225
+yanyan wins Pot (225)
+** Deck ** [8d 9c Js Jd Ts 7c 6h 8h 8s 4s As 5s 7s Qs Th 5c Ad 4d 5d 8c]
+
+Hand #94514-20 - 2017-06-11 05:03:47
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1400)
+Seat 3: bspus (2500)
+Seat 4: JanzVill (1200) - sitting out
+Seat 5: dynalyn0504 (1200) - sitting out
+Seat 6: Buenaobra (1200) - sitting out
+Buenaobra has the dealer button
+yanyan posts small blind 50
+bspus posts big blind 100
+** Hole Cards ** [5 players]
+JanzVill folds
+dynalyn0504 folds
+Buenaobra folds
+yanyan raises to 300
+bspus calls 200
+** Flop ** [Tc 4c Qd]
+yanyan bets 600
+bspus calls 600
+** Turn ** [6h]
+yanyan bets 500 (All-in)
+bspus calls 500
+** River ** [2c]
+** Pot Show Down ** [Tc 4c Qd 6h 2c]
+yanyan shows [2h 7s 6d 5d] (Hi: Two Pair, Sixes and Deuces +Q  Lo: 76542)
+bspus shows [2d Jc 8c Qh] (Hi: a Flush, Jack high +T842  Lo: None)
+bspus wins Hi Pot (1400) with a Flush
+yanyan wins Lo Pot (1400) with 76542
+** Deck ** [2h 2d 5c 9d Ks 7s Jc 6s 3c Td 6d 8c Jh 7d 3d 5d Qh Ac 9c 7h Tc 4c Qd 6h 2c]
+
+Hand #94516-21 - 2017-06-11 05:04:34
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (1400)
+Seat 3: bspus (2500)
+Seat 4: JanzVill (1200) - sitting out
+Seat 5: dynalyn0504 (1200) - sitting out
+Seat 6: Buenaobra (1200) - sitting out
+yanyan has the dealer button
+bspus posts small blind 50
+JanzVill posts big blind 100
+** Hole Cards ** [5 players]
+dynalyn0504 folds
+Buenaobra folds
+yanyan raises to 350
+bspus raises to 1150
+JanzVill folds
+yanyan raises to 1400 (All-in)
+bspus calls 250
+** Flop ** [Kd 2d 8s]
+** Turn ** [Qd]
+** River ** [Jd]
+** Pot Show Down ** [Kd 2d 8s Qd Jd]
+yanyan shows [8c 9h 4c Td] (Hi: a Straight, Nine to King  Lo: None)
+bspus shows [9c 5h 5c Ah] (Hi: a Pair of Fives +KQJ  Lo: None)
+yanyan wins Pot (2900) with a Straight
+No low hand qualified
+** Deck ** [9c 5d Jh 5s 8c 5h 4d 3s 6h 9h 5c 9s Ts 2s 4c Ah 9d 6s Js Td Kd 2d 8s Qd Jd]
+
+Hand #94520-22 - 2017-06-11 05:05:21
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: yanyan (2900)
+Seat 3: bspus (1100)
+Seat 4: JanzVill (1100) - sitting out
+Seat 5: dynalyn0504 (1200) - sitting out
+Seat 6: Buenaobra (1200) - sitting out
+bspus has the dealer button
+JanzVill posts small blind 50
+dynalyn0504 posts big blind 100
+** Hole Cards ** [5 players]
+Buenaobra folds
+yanyan raises to 350
+bspus raises to 1100 (All-in)
+JanzVill folds
+dynalyn0504 folds
+yanyan calls 750
+** Flop ** [6c Kd 9c]
+** Turn ** [3d]
+** River ** [Td]
+** Pot Show Down ** [6c Kd 9c 3d Td]
+yanyan shows [Qc 8h Jc 5s] (Hi: a Straight, Nine to King  Lo: None)
+bspus shows [Kc Ad Jh Qs] (Hi: a Straight, Nine to King  Lo: None)
+yanyan splits Pot (1175) with a Straight
+bspus splits Pot (1175) with a Straight
+No low hand qualified
+Absent player JanzVill removed from tournament
+Absent player dynalyn0504 removed from tournament
+Absent player Buenaobra removed from tournament
+** Deck ** [Qh As 4d Qc Kc 8d 8s 9d 8h Ad 9s Ks 2c Jc Jh 8c Tc 7c 5s Qs 6c Kd 9c 3d Td]
+
+yanyan moved to Table 3
+
+bspus moved to Table 2
+
+Starting tournament 1785
+
+Hand #95036-1 - 2017-06-11 09:00:41
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: tagailog (1500) - sitting out
+Seat 2: Defecator (1500)
+Seat 3: JanzVill (1500) - sitting out
+Seat 4: Buenaobra (1500)
+Seat 6: yanyan (1500) - sitting out
+tagailog has the dealer button
+Defecator posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [5 players]
+Buenaobra calls 50
+yanyan folds
+tagailog folds
+Defecator calls 25
+JanzVill folds
+** Flop ** [2s 4h 8h]
+Defecator checks
+Buenaobra bets 150
+Defecator calls 150
+** Turn ** [Qd]
+Defecator checks
+Buenaobra bets 450
+Defecator calls 450
+** River ** [Kd]
+Defecator checks
+Buenaobra bets 850 (All-in)
+Defecator calls 850 (All-in)
+** Pot Show Down ** [2s 4h 8h Qd Kd]
+Defecator shows [2c 5h Qc Jh] (Hi: Two Pair, Queens and Deuces +K  Lo: None)
+Buenaobra shows [Kc As 7c 5d] (Hi: a Pair of Kings +AQ8  Lo: 8542A)
+Defecator wins Hi Pot (1525) with Two Pair
+Buenaobra wins Lo Pot (1525) with 8542A
+** Deck ** [2c 8c Kc 3c Td 5h Jd As 3d Ks Qc 2h 7c 4d 9d Jh 6h 5d 4s 3h 2s 4h 8h Qd Kd]
+
+Hand #95040-2 - 2017-06-11 09:01:43
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: tagailog (1500) - sitting out
+Seat 2: Defecator (1525)
+Seat 3: JanzVill (1450) - sitting out
+Seat 4: Buenaobra (1525)
+Seat 6: yanyan (1500) - sitting out
+Defecator has the dealer button
+JanzVill posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [5 players]
+yanyan folds
+tagailog folds
+Defecator calls 50
+JanzVill folds
+Buenaobra checks
+** Flop ** [8s 4s 9c]
+Buenaobra bets 50
+dynalyn0504 moved from Table 2
+Defecator calls 50
+** Turn ** [6c]
+Buenaobra bets 225
+Defecator calls 225
+** River ** [4d]
+Buenaobra bets 50
+Defecator calls 50
+** Pot Show Down ** [8s 4s 9c 6c 4d]
+Defecator shows [Js 9d 5h Ac] (Hi: Two Pair, Nines and Fours +A  Lo: 8654A)
+Buenaobra shows [Jc Ts 4c Jh] (Hi: Three of a Kind, Fours +J9  Lo: None)
+Buenaobra wins Hi Pot (388) with Three of a Kind
+Defecator wins Lo Pot (387) with 8654A
+** Deck ** [6h Jc 7h 3d Js Ks Ts 5d Tc 9d 3h 4c 3s 5c 5h Kh Jh 2s Kc Ac 8s 4s 9c 6c 4d]
+
+Hand #95043-3 - 2017-06-11 09:02:45
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: tagailog (1500) - sitting out
+Seat 2: Defecator (1537)
+Seat 3: JanzVill (1425) - sitting out
+Seat 4: Buenaobra (1538)
+Seat 5: dynalyn0504 (1400)
+Seat 6: yanyan (1500) - sitting out
+JanzVill has the dealer button
+Buenaobra posts small blind 25
+dynalyn0504 posts big blind 50
+** Hole Cards ** [6 players]
+yanyan folds
+tagailog folds
+Defecator calls 50
+JanzVill folds
+Buenaobra calls 25
+dynalyn0504 checks
+** Flop ** [Td 7c Ts]
+Buenaobra bets 50
+dynalyn0504 calls 50
+Defecator calls 50
+** Turn ** [4s]
+Buenaobra bets 150
+dynalyn0504 folds
+Defecator folds
+Buenaobra refunded 150
+Buenaobra wins Pot (300)
+** Deck ** [5c Jd Ah 5s 6d 2d 7h As 8d Js 9h 8c 7d Qd 8h Ac 9c Th Jc 6s 3d 6h Qc 5h Td 7c Ts 4s]
+
+Hand #95045-4 - 2017-06-11 09:03:56
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: tagailog (1500) - sitting out
+Seat 2: Defecator (1437)
+Seat 3: JanzVill (1425) - sitting out
+Seat 4: Buenaobra (1738)
+Seat 5: dynalyn0504 (1300)
+Seat 6: yanyan (1500) - sitting out
+Buenaobra has the dealer button
+dynalyn0504 posts small blind 50
+yanyan posts big blind 100
+** Hole Cards ** [6 players]
+tagailog folds
+Defecator calls 100
+JanzVill folds
+Buenaobra calls 100
+dynalyn0504 calls 50
+yanyan folds
+** Flop ** [8c Th Kc]
+dynalyn0504 checks
+Defecator bets 266
+Buenaobra calls 266
+dynalyn0504 calls 266
+** Turn ** [Kh]
+dynalyn0504 checks
+Defecator bets 1071 (All-in)
+Buenaobra folds
+dynalyn0504 calls 934 (All-in)
+Defecator refunded 137
+** River ** [9d]
+** Pot Show Down ** [8c Th Kc Kh 9d]
+Defecator shows [8s Jh Qs Ks] (Hi: a Full House, Kings full of Eights  Lo: None)
+dynalyn0504 shows [2h Qc Ah Js] (Hi: a Straight, Nine to King  Lo: None)
+Defecator wins Pot (3066) with a Full House
+No low hand qualified
+dynalyn0504 finishes tournament in place #11
+** Deck ** [2h Qh 6s 8s 2s 2c Qc 3d Qd Jh 9h 3s Ah 9s 8d Qs 2d Jc Js 4c Ad Ks Ts Ac 8c Th Kc Kh 9d]
+
+Hand #95048-5 - 2017-06-11 09:04:56
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: tagailog (1500) - sitting out
+Seat 2: Defecator (3203)
+Seat 3: JanzVill (1425) - sitting out
+Seat 4: Buenaobra (1372)
+Seat 6: yanyan (1400) - sitting out
+yanyan has the dealer button
+tagailog posts small blind 50
+Defecator posts big blind 100
+** Hole Cards ** [5 players]
+JanzVill folds
+Buenaobra calls 100
+yanyan folds
+tagailog folds
+Defecator checks
+** Flop ** [Kh Ad 7s]
+Defecator checks
+Buenaobra bets 100
+Defecator calls 100
+** Turn ** [2s]
+Defecator checks
+Buenaobra bets 100
+Defecator calls 100
+** River ** [3d]
+Defecator checks
+Buenaobra checks
+** Pot Show Down ** [Kh Ad 7s 2s 3d]
+Defecator shows [6h 9c 3c 8d] (Hi: a Pair of Threes +AK9  Lo: 7632A)
+Buenaobra shows [8c 9h Ks 7c] (Hi: Two Pair, Kings and Sevens +A  Lo: 8732A)
+Buenaobra wins Hi Pot (325) with Two Pair
+Defecator wins Lo Pot (325) with 7632A
+Absent player tagailog removed from tournament
+Absent player JanzVill removed from tournament
+Absent player yanyan removed from tournament
+** Deck ** [4c 6h 7d 8c 4s 4d 9c Jd 9h Jh 9s 3c Th Ks As Td 8d Ac 7c 7h Kh Ad 7s 2s 3d]
+
+Hand #95051-6 - 2017-06-11 09:06:03
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 2: Defecator (3228)
+Seat 4: Buenaobra (1397)
+Defecator has the dealer button
+Defecator posts small blind 50
+Buenaobra posts big blind 100
+** Hole Cards ** [2 players]
+Defecator calls 50
+Buenaobra checks
+** Flop ** [2s 9h Ks]
+Buenaobra checks
+Defecator bets 100
+Buenaobra calls 100
+** Turn ** [7h]
+Buenaobra bets 100
+Defecator raises to 700
+Buenaobra folds
+Defecator refunded 600
+Defecator wins Pot (600)
+** Deck ** [Qs 7s 3h 7c 6c 3s Qc Qd 2s 9h Ks 7h]
+
+Defecator moved to Table 3
+
+Buenaobra moved to Table 3
+
+Starting tournament 1789
+
+Hand #95339-1 - 2017-06-11 13:00:41
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: Prince (1500)
+Seat 2: bestlooser (1500)
+Seat 3: JanzVill (1500) - sitting out
+Seat 4: fourbrothers (1500)
+Seat 5: Haigo (1500)
+Prince has the dealer button
+bestlooser posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [5 players]
+fourbrothers raises to 175
+Haigo calls 175
+Prince folds
+bestlooser calls 150
+JanzVill folds
+** Flop ** [8d Ah 5s]
+bestlooser bets 575
+fourbrothers raises to 1325 (All-in)
+Haigo calls 1325 (All-in)
+bestlooser calls 750 (All-in)
+** Turn ** [2h]
+** River ** [4d]
+** Pot Show Down ** [8d Ah 5s 2h 4d]
+bestlooser shows [Kd 3d Ts 4s] (Hi: a Straight, Ace to Five  Lo: 5432A)
+fourbrothers shows [7s Qs Th 7d] (Hi: a Pair of Sevens +A85  Lo: None)
+Haigo shows [5c 2s 3c 3s] (Hi: a Straight, Ace to Five  Lo: 5432A)
+bestlooser splits Hi Pot (1138) with a Straight
+Haigo splits Hi Pot (1137) with a Straight
+bestlooser splits Lo Pot (1138) with 5432A
+Haigo splits Lo Pot (1137) with 5432A
+fourbrothers finishes tournament in place #14
+** Deck ** [Kd 3h 7s 5c Kc 3d 7h Qs 2s 5d Ts 4c Th 3c 7c 4s 4h 7d 3s Jd 8d Ah 5s 2h 4d]
+
+Hand #95348-2 - 2017-06-11 13:01:44
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: Prince (1500)
+Seat 2: bestlooser (2276)
+Seat 3: JanzVill (1450) - sitting out
+Seat 5: Haigo (2274)
+bestlooser has the dealer button
+JanzVill posts small blind 25
+Haigo posts big blind 50
+** Hole Cards ** [4 players]
+Prince raises to 150
+bestlooser folds
+JanzVill folds
+Haigo calls 100
+** Flop ** [4d Kc 9s]
+Haigo bets 325
+Prince folds
+Haigo refunded 325
+Haigo wins Pot (325)
+** Deck ** [Tc 3c Th Js 8s Ks Qh Jd 4h Kd Ah 5d 3h Jh 4c Jc 4d Kc 9s]
+
+Hand #95351-3 - 2017-06-11 13:02:30
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: Prince (1350)
+Seat 2: bestlooser (2276)
+Seat 3: JanzVill (1425)
+Seat 5: Haigo (2449)
+JanzVill has the dealer button
+Haigo posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [4 players]
+bestlooser raises to 175
+JanzVill folds
+Haigo folds
+Prince raises to 550
+bestlooser calls 375
+** Flop ** [2d Ts 4s]
+Prince bets 800 (All-in)
+bestlooser calls 800
+** Turn ** [Qd]
+** River ** [5c]
+** Pot Show Down ** [2d Ts 4s Qd 5c]
+Prince shows [Ad 5s 2c Jd] (Hi: Two Pair, Fives and Deuces +Q  Lo: None)
+bestlooser shows [4c Qc 4d 7d] (Hi: Three of a Kind, Fours +QT  Lo: None)
+bestlooser wins Pot (2725) with Three of a Kind
+No low hand qualified
+Prince finishes tournament in place #13
+** Deck ** [Ks Ad 4c 3s Qs 5s Qc 7h 9h 2c 4d 2s 5h Jd 7d 8c 2d Ts 4s Qd 5c]
+
+bestlooser moved to Table 3
+
+JanzVill moved to Table 3
+
+Haigo moved to Table 2
+
+Starting tournament 1793
+
+Hand #95803-1 - 2017-06-11 17:00:41
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (1500) - sitting out
+Seat 3: whynot (1500) - sitting out
+Seat 4: Buenaobra (1500) - sitting out
+Seat 5: bspus (1500)
+Seat 6: JanzVill (1500)
+AlphaWolf has the dealer button
+whynot posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [5 players]
+bspus calls 50
+JanzVill: "same?"
+JanzVill calls 50
+bspus: "ok"
+AlphaWolf calls 50
+JanzVill: "nah lol"
+whynot calls 25
+Buenaobra folds
+** Flop ** [5s Kh Ks]
+bspus: "lol"
+whynot checks
+bspus checks
+JanzVill checks
+AlphaWolf checks
+** Turn ** [2d]
+whynot checks
+bspus checks
+JanzVill checks
+AlphaWolf checks
+** River ** [3d]
+whynot bets 50
+bspus calls 50
+JanzVill calls 50
+AlphaWolf calls 50
+** Pot Show Down ** [5s Kh Ks 2d 3d]
+AlphaWolf shows [9s 8h As 2s] (Hi: Two Pair, Kings and Deuces +A  Lo: 8532A)
+whynot shows [9d 4c 6c 3c] (Hi: a Straight, Deuce to Six  Lo: 65432)
+bspus shows [Ts Td 9h Th] (Hi: Two Pair, Kings and Tens +5  Lo: None)
+JanzVill shows [Qs Qd 6h 8c] (Hi: Two Pair, Kings and Queens +5  Lo: 86532)
+whynot wins Hi Pot (225) with a Straight
+whynot wins Lo Pot (225) with 65432
+** Deck ** [9d Kd Ts Qs 9s 4c Jh Td Qd 8h 6c 3h 9h 6h As 3c 2h Th 8c 2s 5s Kh Ks 2d 3d]
+
+Hand #95821-2 - 2017-06-11 17:02:56
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (1400)
+Seat 3: whynot (1850)
+Seat 4: Buenaobra (1450) - sitting out
+Seat 5: bspus (1400)
+Seat 6: JanzVill (1400)
+whynot has the dealer button
+Buenaobra posts small blind 25
+bspus posts big blind 50
+** Hole Cards ** [5 players]
+JanzVill folds
+AlphaWolf calls 50
+whynot calls 50
+Buenaobra folds
+bspus raises to 100
+AlphaWolf calls 50
+whynot calls 50
+** Flop ** [3c 9c 8s]
+bspus bets 150
+AlphaWolf folds
+whynot folds
+bspus refunded 150
+bspus wins Pot (325)
+** Deck ** [2s 3s Ts Qs Ah Ad 6d 7d Ks Jc 2h Tc 3d Qc Qd 5d Ac Qh 6h 4d 3c 9c 8s]
+
+Hand #95828-3 - 2017-06-11 17:03:47
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (1300)
+Seat 3: whynot (1750)
+Seat 4: Buenaobra (1425) - sitting out
+Seat 5: bspus (1625)
+Seat 6: JanzVill (1400)
+Buenaobra has the dealer button
+bspus posts small blind 50
+JanzVill posts big blind 100
+** Hole Cards ** [5 players]
+AlphaWolf calls 100
+whynot folds
+Buenaobra folds
+bspus calls 50
+JanzVill checks
+** Flop ** [5h 3c Ad]
+bspus checks
+JanzVill checks
+AlphaWolf checks
+** Turn ** [9h]
+bspus bets 100
+JanzVill calls 100
+AlphaWolf calls 100
+** River ** [Ts]
+bspus bets 600
+JanzVill raises to 1200 (All-in)
+AlphaWolf folds
+bspus calls 600
+** Pot Show Down ** [5h 3c Ad 9h Ts]
+bspus shows [Th 5s 8h 4c] (Hi: Two Pair, Tens and Fives +A  Lo: 8543A)
+JanzVill shows [Jc 4d Kh 2h] (Hi: a Straight, Ace to Five  Lo: 5432A)
+JanzVill wins Hi Pot (1500) with a Straight
+JanzVill wins Lo Pot (1500) with 5432A
+** Deck ** [Th Jc 9d Kd 8d 5s 4d Jd 4s Qc 8h Kh 7d Qs 7s 4c 2h Qh 5c 4h 5h 3c Ad 9h Ts]
+
+Hand #95840-4 - 2017-06-11 17:05:15
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (1100)
+Seat 3: whynot (1750)
+Seat 4: Buenaobra (1425) - sitting out
+Seat 5: bspus (225)
+Seat 6: JanzVill (3000)
+bspus has the dealer button
+JanzVill posts small blind 50
+AlphaWolf posts big blind 100
+** Hole Cards ** [5 players]
+whynot folds
+Buenaobra folds
+bspus raises to 225 (All-in)
+bestlooser moved from Table 2
+JanzVill calls 175
+AlphaWolf calls 125
+** Flop ** [Ac 9c 7s]
+JanzVill checks
+AlphaWolf bets 675
+JanzVill folds
+AlphaWolf refunded 675
+** Turn ** [9d]
+** River ** [6c]
+** Pot Show Down ** [Ac 9c 7s 9d 6c]
+AlphaWolf shows [Ah 8h Ks 6s] (Hi: Two Pair, Aces and Nines +K  Lo: None)
+bspus shows [4c 5s 5d 4d] (Hi: Two Pair, Nines and Fives +A  Lo: 7654A)
+AlphaWolf wins Hi Pot (338) with Two Pair
+bspus wins Lo Pot (337) with 7654A
+Absent player Buenaobra removed from tournament
+** Deck ** [Qd Ah Jd Kc 4c Qs 8h Tc As 5s 6h Ks 3s 4s 5d 9h 6s Kh 3d 4d Ac 9c 7s 9d 6c]
+
+whynot moved to Table 3
+
+Hand #95844-5 - 2017-06-11 17:06:16
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (1213)
+Seat 2: bestlooser (2212)
+Seat 5: bspus (337)
+Seat 6: JanzVill (2775)
+JanzVill has the dealer button
+AlphaWolf posts small blind 50
+bestlooser posts big blind 100
+** Hole Cards ** [4 players]
+bspus raises to 337 (All-in)
+dynalyn0504 moved from Table 3
+whynot moved from Table 3
+JanzVill has timed out
+JanzVill folds
+AlphaWolf calls 287
+bestlooser raises to 1348
+AlphaWolf calls 876 (All-in)
+bestlooser refunded 135
+** Flop ** [As 2d 6d]
+** Turn ** [5h]
+** River ** [Jc]
+** Side Pot 1 Show Down ** [As 2d 6d 5h Jc]
+AlphaWolf shows [6c Ah 8d 2s] (Hi: Two Pair, Aces and Sixes +J  Lo: 8652A)
+bestlooser shows [Ts Tc 5s 4s] (Hi: a Pair of Tens +AJ6  Lo: 6542A)
+AlphaWolf wins Hi Side Pot 1 (876) with Two Pair
+bestlooser wins Lo Side Pot 1 (876) with 6542A
+** Main Pot Show Down ** [As 2d 6d 5h Jc]
+bspus shows [9h 5d Qc 9d] (Hi: a Pair of Nines +AJ6  Lo: None)
+AlphaWolf wins Hi Main Pot (506) with Two Pair
+bestlooser wins Lo Main Pot (505) with 6542A
+bspus finishes tournament in place #6
+** Deck ** [6c Ts 9h 6h Ah Tc 5d 7h 8d 5s Qc 8s 2s 4s 9d Th As 2d 6d 5h Jc]
+
+Hand #95845-6 - 2017-06-11 17:07:28
+Game: PL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (1382)
+Seat 2: bestlooser (2380)
+Seat 3: dynalyn0504 (6288)
+Seat 4: whynot (1750)
+Seat 6: JanzVill (2775)
+AlphaWolf has the dealer button
+bestlooser posts small blind 75
+dynalyn0504 posts big blind 150
+** Hole Cards ** [5 players]
+whynot calls 150
+JanzVill folds
+AlphaWolf calls 150
+bestlooser calls 75
+dynalyn0504 raises to 750
+whynot raises to 1750 (All-in)
+AlphaWolf folds
+bestlooser folds
+dynalyn0504 calls 1000
+** Flop ** [6c Td 6h]
+** Turn ** [As]
+** River ** [8d]
+** Pot Show Down ** [6c Td 6h As 8d]
+dynalyn0504 shows [8h Kh Ah Js] (Hi: Two Pair, Aces and Eights +T  Lo: None)
+whynot shows [4s 4h Qs Ac] (Hi: Two Pair, Aces and Sixes +Q  Lo: None)
+dynalyn0504 wins Pot (3800) with Two Pair
+No low hand qualified
+whynot finishes tournament in place #5
+** Deck ** [Qc 8h 4s Tc Jh 5c Kh 4h 9c Ts Ks Ah Qs 2c 9h 2h Js Ac 3c 8c 6c Td 6h As 8d]
+
+Hand #95846-7 - 2017-06-11 17:08:40
+Game: PL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (1232)
+Seat 2: bestlooser (2230)
+Seat 3: dynalyn0504 (8338)
+Seat 6: JanzVill (2775)
+bestlooser has the dealer button
+dynalyn0504 posts small blind 75
+JanzVill posts big blind 150
+** Hole Cards ** [4 players]
+AlphaWolf folds
+bestlooser folds
+dynalyn0504 raises to 300
+JanzVill calls 150
+** Flop ** [2d 7d 4h]
+dynalyn0504 checks
+JanzVill bets 300
+dynalyn0504 raises to 600
+JanzVill calls 300
+** Turn ** [Kh]
+dynalyn0504 checks
+JanzVill bets 1800
+dynalyn0504 folds
+JanzVill refunded 1800
+JanzVill wins Pot (1800)
+** Deck ** [7s 5c 6d 4s As Ad 2s Qs 7c Th 9s Jd 6c 2h 2c Kc 2d 7d 4h Kh]
+
+Hand #95847-8 - 2017-06-11 17:10:59
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (1232)
+Seat 2: bestlooser (2230)
+Seat 3: dynalyn0504 (7438)
+Seat 6: JanzVill (3675)
+dynalyn0504 has the dealer button
+JanzVill posts small blind 100
+AlphaWolf posts big blind 200
+** Hole Cards ** [4 players]
+bestlooser has timed out
+bestlooser folds
+dynalyn0504 calls 200
+JanzVill calls 100
+AlphaWolf checks
+** Flop ** [9c 9h 4d]
+JanzVill bets 200
+AlphaWolf calls 200
+dynalyn0504 calls 200
+** Turn ** [Kh]
+JanzVill bets 200
+AlphaWolf calls 200
+dynalyn0504 calls 200
+killsaids: "holdem table open guys"
+** River ** [5h]
+JanzVill bets 200
+AlphaWolf raises to 400
+dynalyn0504 calls 400
+JanzVill calls 200
+** Pot Show Down ** [9c 9h 4d Kh 5h]
+AlphaWolf shows [7d 4c 6h Ah] (Hi: a Flush, Ace high +K965  Lo: None)
+dynalyn0504 shows [3d Qc Kc Jc] (Hi: Two Pair, Kings and Nines +Q  Lo: None)
+JanzVill shows [2d Qs 8s 2s] (Hi: Two Pair, Nines and Deuces +K  Lo: None)
+AlphaWolf wins Pot (3000) with a Flush
+No low hand qualified
+** Deck ** [2d 7d 2h 3d Qs 4c Ks Qc 8s 6h 7h Kc 2s Ah 5c Jc 9c 9h 4d Kh 5h]
+
+Hand #95848-9 - 2017-06-11 17:13:10
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (3232)
+Seat 2: bestlooser (2230)
+Seat 3: dynalyn0504 (6438)
+Seat 6: JanzVill (2675)
+JanzVill has the dealer button
+AlphaWolf posts ante 25
+bestlooser posts ante 25
+dynalyn0504 posts ante 25
+JanzVill posts ante 25
+AlphaWolf posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [4 players]
+dynalyn0504 folds
+JanzVill folds
+AlphaWolf calls 100
+bestlooser checks
+** Flop ** [Ah Ad Jd]
+AlphaWolf bets 200
+bestlooser folds
+AlphaWolf refunded 200
+AlphaWolf wins Pot (500)
+** Deck ** [9s 8c Kc 2s 5d 7d 4d 2c 6h Jc Td 9d As Tc 7c 6d Ah Ad Jd]
+
+Hand #95849-10 - 2017-06-11 17:14:04
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (3507)
+Seat 2: bestlooser (2005)
+Seat 3: dynalyn0504 (6413)
+Seat 6: JanzVill (2650)
+AlphaWolf has the dealer button
+AlphaWolf posts ante 25
+bestlooser posts ante 25
+dynalyn0504 posts ante 25
+JanzVill posts ante 25
+bestlooser posts small blind 100
+dynalyn0504 posts big blind 200
+** Hole Cards ** [4 players]
+JanzVill calls 200
+AlphaWolf folds
+bestlooser calls 100
+dynalyn0504 checks
+** Flop ** [4c 2d 7c]
+bestlooser checks
+dynalyn0504 checks
+JanzVill bets 233
+bestlooser calls 233
+dynalyn0504 has timed out
+dynalyn0504 folds
+** Turn ** [4d]
+bestlooser checks
+JanzVill bets 1166
+bestlooser calls 1166
+** River ** [2s]
+bestlooser bets 381 (All-in)
+JanzVill calls 381
+** Pot Show Down ** [4c 2d 7c 4d 2s]
+bestlooser shows [5h 5d Th 6c] (Hi: Two Pair, Fives and Fours +7  Lo: 76542)
+JanzVill shows [Td 3s 9c Ad] (Hi: a Pair of Fours +AT7  Lo: 7432A)
+bestlooser wins Hi Pot (2130) with Two Pair
+JanzVill wins Lo Pot (2130) with 7432A
+** Deck ** [5h Kh Td 8d 5d Tc 3s Qs Th 6d 9c Ts 6c Kc Ad Jh 4c 2d 7c 4d 2s]
+
+Hand #95853-11 - 2017-06-11 17:17:34
+Game: PL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (3482)
+Seat 2: bestlooser (2130)
+Seat 3: dynalyn0504 (6188) - sitting out
+Seat 6: JanzVill (2775)
+bestlooser has the dealer button
+AlphaWolf posts ante 25
+bestlooser posts ante 25
+dynalyn0504 posts ante 25
+JanzVill posts ante 25
+dynalyn0504 posts small blind 200
+JanzVill posts big blind 400
+** Hole Cards ** [4 players]
+AlphaWolf folds
+bestlooser raises to 1500
+dynalyn0504 raises to 2600
+JanzVill calls 2200
+bestlooser calls 605 (All-in)
+** Flop ** [3s Qs 4c]
+dynalyn0504 checks
+JanzVill checks
+** Turn ** [8c]
+dynalyn0504 checks
+JanzVill checks
+** River ** [Th]
+dynalyn0504 checks
+JanzVill checks
+** Side Pot 1 Show Down ** [3s Qs 4c 8c Th]
+dynalyn0504 shows [7d 2c 8h Ah] (Hi: a Pair of Eights +AQT  Lo: 8432A)
+JanzVill shows [6h Jd Js 4h] (Hi: a Pair of Jacks +QT8  Lo: None)
+JanzVill wins Hi Side Pot 1 (495) with a Pair
+dynalyn0504 wins Lo Side Pot 1 (495) with 8432A
+** Main Pot Show Down ** [3s Qs 4c 8c Th]
+bestlooser shows [7h Kh 5h 5d] (Hi: a Pair of Fives +QT8  Lo: 87543)
+JanzVill wins Hi Main Pot (3208) with a Pair
+dynalyn0504 wins Lo Main Pot (3207) with 8432A
+bestlooser finishes tournament in place #4 and wins 200 chips
+** Deck ** [7d 6h 6d 7h 2c Jd 5s Kh 8h Js 2d 5h Ah 4h Td 5d 3s Qs 4c 8c Th]
+
+Hand #95856-12 - 2017-06-11 17:19:42
+Game: PL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (3457)
+Seat 3: dynalyn0504 (7265)
+Seat 6: JanzVill (3853)
+dynalyn0504 has the dealer button
+AlphaWolf posts ante 50
+dynalyn0504 posts ante 50
+JanzVill posts ante 50
+JanzVill posts small blind 300
+AlphaWolf posts big blind 600
+** Hole Cards ** [3 players]
+dynalyn0504 calls 600
+JanzVill calls 300
+AlphaWolf checks
+** Flop ** [6s 9s 3d]
+JanzVill bets 650
+AlphaWolf folds
+dynalyn0504 folds
+JanzVill refunded 650
+JanzVill wins Pot (1950)
+** Deck ** [6h 5s 7h 6d Jh Jd Qd Th Kc 2d Kh Td 6s 9s 3d]
+
+Hand #95858-13 - 2017-06-11 17:21:05
+Game: PL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (2807)
+Seat 3: dynalyn0504 (6615)
+Seat 6: JanzVill (5153)
+JanzVill has the dealer button
+AlphaWolf posts ante 50
+dynalyn0504 posts ante 50
+JanzVill posts ante 50
+AlphaWolf posts small blind 300
+dynalyn0504 posts big blind 600
+** Hole Cards ** [3 players]
+JanzVill calls 600
+AlphaWolf calls 300
+dynalyn0504 raises to 1200
+JanzVill raises to 1800
+AlphaWolf folds
+dynalyn0504 calls 600
+** Flop ** [2d Jd 2h]
+dynalyn0504 checks
+JanzVill checks
+** Turn ** [3h]
+dynalyn0504 checks
+JanzVill checks
+** River ** [As]
+dynalyn0504 checks
+JanzVill checks
+** Pot Show Down ** [2d Jd 2h 3h As]
+dynalyn0504 shows [Ad 5d 3d 7h] (Hi: Two Pair, Aces and Threes +J  Lo: 7532A)
+JanzVill shows [6h Kc 3s Ac] (Hi: Two Pair, Aces and Threes +J  Lo: None)
+dynalyn0504 splits Hi Pot (1088) with Two Pair
+JanzVill splits Hi Pot (1087) with Two Pair
+dynalyn0504 wins Lo Pot (2175) with 7532A
+** Deck ** [Jh Ad 6h 8s 5d Kc Qs 3d 3s 3c 7h Ac 2d Jd 2h 3h As]
+
+Hand #95863-14 - 2017-06-11 17:22:38
+Game: PL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (2157)
+Seat 3: dynalyn0504 (8028)
+Seat 6: JanzVill (4390)
+AlphaWolf has the dealer button
+AlphaWolf posts ante 50
+dynalyn0504 posts ante 50
+JanzVill posts ante 50
+dynalyn0504 posts small blind 400
+JanzVill posts big blind 800
+** Hole Cards ** [3 players]
+AlphaWolf folds
+dynalyn0504 folds
+JanzVill refunded 400
+JanzVill wins Pot (950)
+JanzVill shows [9d 2c 6c Ad]
+** Deck ** [3d 9d 4h Kd 2c 4c Tc 6c 8c 2s Ad Ts]
+
+Hand #95864-15 - 2017-06-11 17:23:10
+Game: PL Omaha Hi-Lo (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (2107)
+Seat 3: dynalyn0504 (7578)
+Seat 6: JanzVill (4890)
+dynalyn0504 has the dealer button
+AlphaWolf posts ante 50
+dynalyn0504 posts ante 50
+JanzVill posts ante 50
+JanzVill posts small blind 400
+AlphaWolf posts big blind 800
+** Hole Cards ** [3 players]
+dynalyn0504 calls 800
+JanzVill raises to 2056
+AlphaWolf raises to 2057 (All-in)
+dynalyn0504 calls 1257
+JanzVill calls 1
+** Flop ** [8s 8h 5c]
+JanzVill checks
+dynalyn0504 checks
+** Turn ** [Qd]
+JanzVill checks
+dynalyn0504 checks
+** River ** [Ah]
+JanzVill checks
+dynalyn0504 checks
+** Pot Show Down ** [8s 8h 5c Qd Ah]
+AlphaWolf shows [Td 5h 7s 9c] (Hi: Two Pair, Eights and Fives +T  Lo: None)
+dynalyn0504 shows [Ks 6h 3s 3c] (Hi: Two Pair, Eights and Threes +A  Lo: 8653A)
+JanzVill shows [Js 4c 4s Kd] (Hi: Two Pair, Eights and Fours +A  Lo: None)
+AlphaWolf wins Hi Pot (3161) with Two Pair
+dynalyn0504 wins Lo Pot (3160) with 8653A
+** Deck ** [Js Td Ks 4c 5h 6h 4s 7s 3s Kd 9c 3c 8s 8h 5c Qd Ah]
+
+Hand #95868-16 - 2017-06-11 17:25:00
+Game: PL Omaha Hi-Lo (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (3161)
+Seat 3: dynalyn0504 (8631)
+Seat 6: JanzVill (2783)
+JanzVill has the dealer button
+AlphaWolf posts ante 75
+dynalyn0504 posts ante 75
+JanzVill posts ante 75
+AlphaWolf posts small blind 600
+dynalyn0504 posts big blind 1200
+** Hole Cards ** [3 players]
+JanzVill folds
+AlphaWolf raises to 3086 (All-in)
+dynalyn0504 calls 1886
+** Flop ** [5s 5h 3d]
+** Turn ** [Td]
+** River ** [9h]
+** Pot Show Down ** [5s 5h 3d Td 9h]
+AlphaWolf shows [Kh 9s 6s Qc] (Hi: Two Pair, Nines and Fives +K  Lo: None)
+dynalyn0504 shows [Qd 7s Ks 3c] (Hi: Two Pair, Fives and Threes +K  Lo: None)
+AlphaWolf wins Pot (6397) with Two Pair
+No low hand qualified
+** Deck ** [Kh Qd Qh 9s 7s Th 6s Ks 8c Qc 3c 8h 5s 5h 3d Td 9h]
+
+Hand #95872-17 - 2017-06-11 17:25:51
+Game: PL Omaha Hi-Lo (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (6397)
+Seat 3: dynalyn0504 (5470)
+Seat 6: JanzVill (2708)
+AlphaWolf has the dealer button
+AlphaWolf posts ante 75
+dynalyn0504 posts ante 75
+JanzVill posts ante 75
+dynalyn0504 posts small blind 600
+JanzVill posts big blind 1200
+** Hole Cards ** [3 players]
+AlphaWolf folds
+dynalyn0504 folds
+JanzVill refunded 600
+JanzVill wins Pot (1425)
+** Deck ** [Qd Ts Js 4h 8c 7c Qs 9c 9s 2d 9h 6c]
+
+Hand #95874-18 - 2017-06-11 17:26:11
+Game: PL Omaha Hi-Lo (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (6322)
+Seat 3: dynalyn0504 (4795)
+Seat 6: JanzVill (3458)
+dynalyn0504 has the dealer button
+AlphaWolf posts ante 75
+dynalyn0504 posts ante 75
+JanzVill posts ante 75
+JanzVill posts small blind 600
+AlphaWolf posts big blind 1200
+** Hole Cards ** [3 players]
+dynalyn0504 calls 1200
+JanzVill raises to 3383 (All-in)
+AlphaWolf raises to 5566
+dynalyn0504 calls 3520 (All-in)
+AlphaWolf refunded 846
+** Flop ** [4s 7h Ah]
+** Turn ** [Ts]
+** River ** [6c]
+** Side Pot 1 Show Down ** [4s 7h Ah Ts 6c]
+AlphaWolf shows [8s 6d Ac 3d] (Hi: Two Pair, Aces and Sixes +T  Lo: 7643A)
+dynalyn0504 shows [Qh 2d Qc 3h] (Hi: a Pair of Queens +AT7  Lo: 6432A)
+AlphaWolf wins Hi Side Pot 1 (1337) with Two Pair
+dynalyn0504 wins Lo Side Pot 1 (1337) with 6432A
+** Main Pot Show Down ** [4s 7h Ah Ts 6c]
+JanzVill shows [Jd As 6s 4h] (Hi: Two Pair, Aces and Sixes +T  Lo: None)
+AlphaWolf splits Hi Main Pot (2593) with Two Pair
+JanzVill splits Hi Main Pot (2594) with Two Pair
+dynalyn0504 wins Lo Main Pot (5187) with 6432A
+** Deck ** [Jd 8s Qh As 6d 2d 6s Ac Qc 4h 3d 3h 4s 7h Ah Ts 6c]
+
+Hand #95877-19 - 2017-06-11 17:26:45
+Game: PL Omaha Hi-Lo (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (5457)
+Seat 3: dynalyn0504 (6524)
+Seat 6: JanzVill (2594)
+JanzVill has the dealer button
+AlphaWolf posts ante 75
+dynalyn0504 posts ante 75
+JanzVill posts ante 75
+AlphaWolf posts small blind 600
+dynalyn0504 posts big blind 1200
+** Hole Cards ** [3 players]
+JanzVill folds
+AlphaWolf folds
+dynalyn0504 refunded 600
+dynalyn0504 wins Pot (1425)
+** Deck ** [Qd 5d 8d 3h 5h Qs 6s Js 8c 2c Qc Kd]
+
+Hand #95878-20 - 2017-06-11 17:27:17
+Game: PL Omaha Hi-Lo (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (4782)
+Seat 3: dynalyn0504 (7274)
+Seat 6: JanzVill (2519)
+AlphaWolf has the dealer button
+AlphaWolf posts ante 75
+dynalyn0504 posts ante 75
+JanzVill posts ante 75
+dynalyn0504 posts small blind 600
+JanzVill posts big blind 1200
+** Hole Cards ** [3 players]
+AlphaWolf calls 1200
+dynalyn0504 calls 600
+JanzVill raises to 2444 (All-in)
+AlphaWolf calls 1244
+dynalyn0504 raises to 7199 (All-in)
+AlphaWolf calls 2263 (All-in)
+dynalyn0504 refunded 2492
+** Flop ** [Th Kd 4h]
+** Turn ** [3s]
+** River ** [5s]
+** Side Pot 1 Show Down ** [Th Kd 4h 3s 5s]
+AlphaWolf shows [2c Qs 4c 6d] (Hi: a Straight, Deuce to Six  Lo: 65432)
+dynalyn0504 shows [6h 6s Ks 4s] (Hi: Two Pair, Kings and Fours +T  Lo: None)
+AlphaWolf wins Hi Side Pot 1 (2263) with a Straight
+AlphaWolf wins Lo Side Pot 1 (2263) with 65432
+** Main Pot Show Down ** [Th Kd 4h 3s 5s]
+JanzVill shows [Td 8h 2s Jd] (Hi: a Pair of Tens +KJ5  Lo: 85432)
+AlphaWolf wins Hi Main Pot (3779) with a Straight
+AlphaWolf wins Lo Main Pot (3778) with 65432
+JanzVill finishes tournament in place #3 and wins 400 chips
+** Deck ** [6h Td 2c 6s 8h Qs Ks 2s 4c 4s Jd 6d Th Kd 4h 3s 5s]
+
+Hand #95881-21 - 2017-06-11 17:28:05
+Game: PL Omaha Hi-Lo (0+0) - Blinds 800/1600 Ante 75
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (12083)
+Seat 3: dynalyn0504 (2492)
+dynalyn0504 has the dealer button
+AlphaWolf posts ante 75
+dynalyn0504 posts ante 75
+dynalyn0504 posts small blind 800
+AlphaWolf posts big blind 1600
+** Hole Cards ** [2 players]
+dynalyn0504 raises to 2417 (All-in)
+AlphaWolf calls 817
+** Flop ** [8h 3s 3c]
+** Turn ** [8c]
+** River ** [Ah]
+** Pot Show Down ** [8h 3s 3c 8c Ah]
+AlphaWolf shows [5c Qh 2h Ad] (Hi: Two Pair, Aces and Eights +Q  Lo: 8532A)
+dynalyn0504 shows [Jc 8d Ks 9h] (Hi: Three of a Kind, Eights +AK  Lo: None)
+dynalyn0504 wins Hi Pot (2492) with Three of a Kind
+AlphaWolf wins Lo Pot (2492) with 8532A
+** Deck ** [5c Jc Qh 8d 2h Ks Ad 9h 8h 3s 3c 8c Ah]
+
+Hand #95882-22 - 2017-06-11 17:28:26
+Game: PL Omaha Hi-Lo (0+0) - Blinds 800/1600 Ante 75
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (12083)
+Seat 3: dynalyn0504 (2492)
+AlphaWolf has the dealer button
+AlphaWolf posts ante 75
+dynalyn0504 posts ante 75
+AlphaWolf posts small blind 800
+dynalyn0504 posts big blind 1600
+** Hole Cards ** [2 players]
+AlphaWolf raises to 3200
+dynalyn0504 calls 817 (All-in)
+AlphaWolf refunded 783
+** Flop ** [8h 2d Qd]
+** Turn ** [2s]
+** River ** [As]
+** Pot Show Down ** [8h 2d Qd 2s As]
+AlphaWolf shows [7s Kc 6s 2h] (Hi: Three of a Kind, Deuces +AK  Lo: 8762A)
+dynalyn0504 shows [Ac Qs 5c 6d] (Hi: Two Pair, Aces and Queens +8  Lo: 8652A)
+AlphaWolf wins Hi Pot (2492) with Three of a Kind
+dynalyn0504 wins Lo Pot (2492) with 8652A
+** Deck ** [Ac 7s Qs Kc 5c 6s 6d 2h 8h 2d Qd 2s As]
+
+Hand #95884-23 - 2017-06-11 17:28:46
+Game: PL Omaha Hi-Lo (0+0) - Blinds 800/1600 Ante 75
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (12083)
+Seat 3: dynalyn0504 (2492)
+dynalyn0504 has the dealer button
+AlphaWolf posts ante 75
+dynalyn0504 posts ante 75
+dynalyn0504 posts small blind 800
+AlphaWolf posts big blind 1600
+** Hole Cards ** [2 players]
+dynalyn0504 raises to 2417 (All-in)
+AlphaWolf calls 817
+** Flop ** [As Kc 6h]
+** Turn ** [Td]
+** River ** [2h]
+** Pot Show Down ** [As Kc 6h Td 2h]
+AlphaWolf shows [Jc Qc 3s 3d] (Hi: a Straight, Ten to Ace  Lo: None)
+dynalyn0504 shows [7h 8d Ac Th] (Hi: Two Pair, Aces and Tens +K  Lo: 8762A)
+AlphaWolf wins Hi Pot (2492) with a Straight
+dynalyn0504 wins Lo Pot (2492) with 8762A
+** Deck ** [Jc 7h Qc 8d 3s Ac 3d Th As Kc 6h Td 2h]
+
+Hand #95885-24 - 2017-06-11 17:29:08
+Game: PL Omaha Hi-Lo (0+0) - Blinds 800/1600 Ante 75
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: AlphaWolf (12083)
+Seat 3: dynalyn0504 (2492)
+AlphaWolf has the dealer button
+AlphaWolf posts ante 75
+dynalyn0504 posts ante 75
+AlphaWolf posts small blind 800
+dynalyn0504 posts big blind 1600
+** Hole Cards ** [2 players]
+AlphaWolf raises to 3200
+dynalyn0504 calls 817 (All-in)
+AlphaWolf refunded 783
+** Flop ** [9d 5s 2c]
+** Turn ** [4s]
+** River ** [8c]
+** Pot Show Down ** [9d 5s 2c 4s 8c]
+AlphaWolf shows [2h 4d 3c Ac] (Hi: a Straight, Ace to Five  Lo: 5432A)
+dynalyn0504 shows [Qh Qd Qc As] (Hi: a Pair of Queens +985  Lo: None)
+AlphaWolf wins Hi Pot (2492) with a Straight
+AlphaWolf wins Lo Pot (2492) with 5432A
+dynalyn0504 finishes tournament in place #2 and wins 600 chips
+AlphaWolf finishes tournament in place #1 and wins 800 chips
+** Deck ** [Qh 2h Qd 4d Qc 3c As Ac 9d 5s 2c 4s 8c]
+
+Starting tournament 1797
+
+Hand #96196-1 - 2017-06-11 21:00:41
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: fourbrothers (1500) - sitting out
+Seat 2: ROBERTO (1500)
+Seat 3: Defecator (1500)
+Seat 4: betong (1500)
+Seat 5: AlphaWolf (1500)
+Seat 6: chinkyeyes (1500) - sitting out
+fourbrothers has the dealer button
+ROBERTO posts small blind 25
+Defecator posts big blind 50
+** Hole Cards ** [6 players]
+betong folds
+AlphaWolf calls 50
+chinkyeyes folds
+fourbrothers raises to 225
+ROBERTO folds
+Defecator calls 175
+AlphaWolf calls 175
+** Flop ** [3h 6d 8h]
+Defecator checks
+AlphaWolf bets 50
+fourbrothers calls 50
+Defecator calls 50
+** Turn ** [4h]
+Defecator checks
+AlphaWolf bets 50
+fourbrothers folds
+Defecator calls 50
+** River ** [4s]
+Defecator checks
+AlphaWolf checks
+** Pot Show Down ** [3h 6d 8h 4h 4s]
+Defecator shows [Kc Ad 9h 7c] (Hi: a Pair of Fours +AK8  Lo: 7643A)
+AlphaWolf shows [2d Ah Qd Qc] (Hi: Two Pair, Queens and Fours +8  Lo: 6432A)
+AlphaWolf wins Hi Pot (475) with Two Pair
+AlphaWolf wins Lo Pot (475) with 6432A
+** Deck ** [Jh Kc 9c 2d 4d Ts 5s Ad As Ah 8s Jd 4c 9h Th Qd 2h Js 3c 7c 7s Qc Kd Ks 3h 6d 8h 4h 4s]
+
+Hand #96202-2 - 2017-06-11 21:02:09
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: fourbrothers (1225)
+Seat 2: ROBERTO (1475)
+Seat 3: Defecator (1175)
+Seat 4: betong (1500)
+Seat 5: AlphaWolf (2125)
+Seat 6: chinkyeyes (1500) - sitting out
+ROBERTO has the dealer button
+Defecator posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [6 players]
+AlphaWolf folds
+chinkyeyes folds
+fourbrothers raises to 175
+ROBERTO folds
+Defecator calls 150
+betong raises to 700
+fourbrothers raises to 1225 (All-in)
+Defecator folds
+betong calls 525
+** Flop ** [5d Ts Qs]
+** Turn ** [4s]
+** River ** [9s]
+** Pot Show Down ** [5d Ts Qs 4s 9s]
+fourbrothers shows [9d 9c 7d 2h] (Hi: Three of a Kind, Nines +QT  Lo: None)
+betong shows [6d 4h 3s Ad] (Hi: a Pair of Fours +AQT  Lo: None)
+fourbrothers wins Pot (2625) with Three of a Kind
+No low hand qualified
+** Deck ** [Kc 6d 6s Ac 9d 8d Qd 4h Js 4d 9c 2c 7s 3s 3h Td 7d Ah As Ad 8s 4c 2h Tc 5d Ts Qs 4s 9s]
+
+Hand #96207-3 - 2017-06-11 21:03:01
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: fourbrothers (2625)
+Seat 2: ROBERTO (1475)
+Seat 3: Defecator (1000)
+Seat 4: betong (275)
+Seat 5: AlphaWolf (2125)
+Seat 6: chinkyeyes (1500) - sitting out
+Defecator has the dealer button
+betong posts small blind 25
+AlphaWolf posts big blind 50
+** Hole Cards ** [6 players]
+chinkyeyes folds
+fourbrothers raises to 175
+ROBERTO calls 175
+Defecator raises to 300
+betong calls 250 (All-in)
+AlphaWolf calls 250
+fourbrothers calls 125
+ROBERTO calls 125
+** Flop ** [2s Kc 7d]
+AlphaWolf checks
+fourbrothers bets 737
+ROBERTO raises to 1175 (All-in)
+Defecator calls 700 (All-in)
+AlphaWolf raises to 1825 (All-in)
+fourbrothers calls 1088
+** Turn ** [8s]
+** River ** [6d]
+** Side Pot 3 Show Down ** [2s Kc 7d 8s 6d]
+fourbrothers shows [Td Kh 8c 8h] (Hi: Three of a Kind, Eights +K7  Lo: None)
+AlphaWolf shows [Js 9h 3s Ad] (Hi: High Card Ace +KJ87  Lo: 7632A)
+fourbrothers wins Hi Side Pot 3 (650) with Three of a Kind
+AlphaWolf wins Lo Side Pot 3 (650) with 7632A
+** Side Pot 2 Show Down ** [2s Kc 7d 8s 6d]
+ROBERTO shows [3d 4s 2c 7s] (Hi: Two Pair, Sevens and Deuces +K  Lo: 76432)
+fourbrothers wins Hi Side Pot 2 (713) with Three of a Kind
+AlphaWolf wins Lo Side Pot 2 (712) with 7632A
+** Side Pot 1 Show Down ** [2s Kc 7d 8s 6d]
+Defecator shows [5h 6s 5s 5d] (Hi: a Pair of Sixes +K85  Lo: 87652)
+fourbrothers wins Hi Side Pot 1 (1450) with Three of a Kind
+AlphaWolf wins Lo Side Pot 1 (1450) with 7632A
+** Main Pot Show Down ** [2s Kc 7d 8s 6d]
+betong shows [4d 9d 2h 5c] (Hi: a Straight, Five to Nine  Lo: 76542)
+betong wins Hi Main Pot (688) with a Straight
+AlphaWolf wins Lo Main Pot (687) with 7632A
+Defecator finishes tournament in place #10
+ROBERTO finishes tournament in place #9
+** Deck ** [4d Js 6h Td 3d 5h 9d 9h 3c Kh 4s 6s 2h 3s Ts 8c 2c 5s 5c Ad 4c 8h 7s 5d 2s Kc 7d 8s 6d]
+
+Hand #96210-4 - 2017-06-11 21:04:13
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: fourbrothers (3313)
+Seat 4: betong (688)
+Seat 5: AlphaWolf (3499)
+Seat 6: chinkyeyes (1500) - sitting out
+betong has the dealer button
+AlphaWolf posts small blind 50
+chinkyeyes posts big blind 100
+** Hole Cards ** [4 players]
+fourbrothers raises to 350
+betong folds
+AlphaWolf calls 300
+chinkyeyes folds
+** Flop ** [Tc 4s 5c]
+AlphaWolf checks
+fourbrothers bets 800
+AlphaWolf calls 800
+** Turn ** [6h]
+AlphaWolf bets 2349 (All-in)
+fourbrothers calls 2163 (All-in)
+AlphaWolf refunded 186
+** River ** [Jd]
+** Pot Show Down ** [Tc 4s 5c 6h Jd]
+fourbrothers shows [7c 6d Qh 3c] (Hi: a Straight, Three to Seven  Lo: 76543)
+AlphaWolf shows [6s Ad Th 7h] (Hi: Two Pair, Tens and Sixes +J  Lo: 7654A)
+fourbrothers wins Hi Pot (3363) with a Straight
+AlphaWolf wins Lo Pot (3363) with 7654A
+** Deck ** [6s 2d 7c Ks Ad 9d 6d 7d Th Qd Qh Ah 7h 9c 3c Td Tc 4s 5c 6h Jd]
+
+Hand #96215-5 - 2017-06-11 21:05:23
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: fourbrothers (3363)
+Seat 4: betong (688)
+Seat 5: AlphaWolf (3549)
+Seat 6: chinkyeyes (1400) - sitting out
+AlphaWolf has the dealer button
+chinkyeyes posts small blind 50
+fourbrothers posts big blind 100
+** Hole Cards ** [4 players]
+betong raises to 350
+AlphaWolf folds
+chinkyeyes folds
+fourbrothers calls 250
+** Flop ** [9s 4s 8h]
+bestlooser moved from Table 2
+fourbrothers bets 375
+betong calls 338 (All-in)
+fourbrothers refunded 37
+** Turn ** [7c]
+** River ** [6d]
+** Pot Show Down ** [9s 4s 8h 7c 6d]
+fourbrothers shows [3s 5h 3h 8d] (Hi: a Straight, Five to Nine  Lo: 76543)
+betong shows [3d Td Ts 2s] (Hi: a Pair of Tens +987  Lo: 76432)
+fourbrothers wins Hi Pot (713) with a Straight
+betong wins Lo Pot (713) with 76432
+Absent player chinkyeyes removed from tournament
+** Deck ** [Qd 3s 3d Qs 2d 5h Td 6s Ks 3h Ts Qh Kh 8d 2s Kc 9s 4s 8h 7c 6d]
+
+Hand #96217-6 - 2017-06-11 21:06:10
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 1: fourbrothers (3388)
+Seat 2: bestlooser (5475)
+Seat 4: betong (713)
+Seat 5: AlphaWolf (3549)
+fourbrothers has the dealer button
+bestlooser plays after the button
+betong posts small blind 50
+AlphaWolf posts big blind 100
+** Hole Cards ** [3 players]
+fourbrothers raises to 350
+betong raises to 713 (All-in)
+AlphaWolf calls 613
+fourbrothers calls 363
+** Flop ** [3s 9c Ac]
+AlphaWolf checks
+fourbrothers bets 2139
+AlphaWolf raises to 2836 (All-in)
+fourbrothers calls 536 (All-in)
+AlphaWolf refunded 161
+** Turn ** [5d]
+** River ** [2s]
+** Side Pot 1 Show Down ** [3s 9c Ac 5d 2s]
+fourbrothers shows [9s 3h 2d 7s] (Hi: Two Pair, Nines and Threes +A  Lo: 7532A)
+AlphaWolf shows [3c 4d Ad Qd] (Hi: a Straight, Ace to Five  Lo: 5432A)
+AlphaWolf wins Hi Side Pot 1 (2675) with a Straight
+AlphaWolf wins Lo Side Pot 1 (2675) with 5432A
+** Main Pot Show Down ** [3s 9c Ac 5d 2s]
+betong shows [Ts Qh 3d 2h] (Hi: Two Pair, Threes and Deuces +A  Lo: None)
+AlphaWolf wins Hi Main Pot (1070) with a Straight
+AlphaWolf wins Lo Main Pot (1069) with 5432A
+betong finishes tournament in place #4 and wins 200 chips
+fourbrothers finishes tournament in place #3 and wins 400 chips
+** Deck ** [Ts 3c 9s Qh 4d 3h 3d Ad 2d 2h Qd 7s 3s 9c Ac 5d 2s]
+
+Hand #96218-7 - 2017-06-11 21:07:19
+Game: PL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 1
+Seat 2: bestlooser (5475)
+Seat 5: AlphaWolf (7650)
+AlphaWolf has the dealer button
+AlphaWolf posts small blind 75
+bestlooser posts big blind 150
+** Hole Cards ** [2 players]
+AlphaWolf calls 75
+bestlooser raises to 450
+AlphaWolf calls 300
+** Flop ** [Ts 5d Tc]
+bestlooser bets 900
+AlphaWolf calls 900
+** Turn ** [3h]
+bestlooser bets 2700
+AlphaWolf raises to 5400
+bestlooser calls 1425 (All-in)
+AlphaWolf refunded 1275
+** River ** [5s]
+** Pot Show Down ** [Ts 5d Tc 3h 5s]
+bestlooser shows [8s 2s 6s 8h] (Hi: Two Pair, Tens and Eights +5  Lo: None)
+AlphaWolf shows [3s 8d 3c As] (Hi: a Full House, Threes full of Tens  Lo: None)
+AlphaWolf wins Pot (10950) with a Full House
+No low hand qualified
+bestlooser finishes tournament in place #2 and wins 600 chips
+AlphaWolf finishes tournament in place #1 and wins 800 chips
+** Deck ** [8s 3s 2s 8d 6s 3c 8h As Ts 5d Tc 3h 5s]
+
