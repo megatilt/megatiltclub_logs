@@ -1,0 +1,55 @@
+﻿Hand #102500-1 - 2017-06-15 20:42:00
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 3: bestlooser (1000)
+Seat 5: jpcfan (2000)
+jpcfan has the dealer button
+jpcfan posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [2 players]
+jpcfan raises to 60
+bestlooser calls 40
+** Flop ** [Qh 4s Ac]
+bestlooser: "hello :)"
+bestlooser checks
+jpcfan bets 117
+bestlooser folds
+jpcfan refunded 117
+jpcfan wins Pot (117)
+Rake (3) Pot (120) Players (bestlooser: 60, jpcfan: 60)
+** Deck ** [8c Ah Kd 8d 4h 3d Jc 5d Qh 4s Ac]
+
+Hand #102501-2 - 2017-06-15 20:42:59
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 3: bestlooser (940)
+Seat 5: jpcfan (2057)
+bestlooser has the dealer button
+bestlooser posts small blind 10
+jpcfan posts big blind 20
+** Hole Cards ** [2 players]
+jpcfan: "gotta go ill play later. last hand"
+bestlooser raises to 60
+jpcfan calls 40
+** Flop ** [Jd Qh 2h]
+bestlooser: "ok"
+jpcfan checks
+bestlooser bets 117
+jpcfan calls 117
+** Turn ** [Td]
+bestlooser: "later :)"
+jpcfan checks
+bestlooser checks
+** River ** [5d]
+jpcfan bets 20
+bestlooser calls 20
+** Pot Show Down ** [Jd Qh 2h Td 5d]
+bestlooser shows [9h 4d 3h Js] (Hi: a Pair of Jacks +QT9  Lo: None)
+jpcfan shows [8d 5s 2d 2c] (Hi: a Flush, Jack high +T852  Lo: None)
+jpcfan wins Pot (384.15) with a Flush
+No low hand qualified
+Rake (9.85) Pot (394) Players (bestlooser: 197, jpcfan: 197)
+** Deck ** [8d 9h 5s 4d 2d 3h 2c Js Jd Qh 2h Td 5d]
+
