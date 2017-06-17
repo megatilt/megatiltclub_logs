@@ -1,0 +1,1125 @@
+﻿Starting tournament 1909
+
+Hand #103386-1 - 2017-06-16 13:00:36
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: Efyang (1500) - sitting out
+Seat 2: chinkyeyes (1500)
+Seat 3: tagailog (1500) - sitting out
+Seat 6: sajuuk (1500)
+Efyang has the dealer button
+chinkyeyes posts small blind 25
+tagailog posts big blind 50
+** Hole Cards ** [4 players]
+sajuuk calls 50
+Efyang folds
+chinkyeyes calls 25
+tagailog folds
+** Flop ** [9d 2c Kh]
+chinkyeyes checks
+sajuuk checks
+** Turn ** [9h]
+chinkyeyes checks
+sajuuk checks
+** River ** [Qh]
+chinkyeyes bets 150
+sajuuk folds
+chinkyeyes refunded 150
+chinkyeyes wins Pot (150)
+** Deck ** [Jc 7h 7d Qs Jd Ac 6c Ts 2s Th 5d 8h 6s 9s 5h 2h 9d 2c Kh 9h Qh]
+
+Hand #103389-2 - 2017-06-16 13:01:30
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: Efyang (1500)
+Seat 2: chinkyeyes (1600)
+Seat 3: tagailog (1450) - sitting out
+Seat 6: sajuuk (1450)
+chinkyeyes has the dealer button
+tagailog posts small blind 25
+sajuuk posts big blind 50
+** Hole Cards ** [4 players]
+Efyang raises to 175
+chinkyeyes folds
+tagailog folds
+sajuuk calls 125
+** Flop ** [8s 2d 3d]
+sajuuk checks
+Efyang bets 375
+sajuuk calls 375
+** Turn ** [5s]
+sajuuk bets 900 (All-in)
+Efyang calls 900
+** River ** [7c]
+** Pot Show Down ** [8s 2d 3d 5s 7c]
+Efyang shows [Qh 9d 7d Ts] (Hi: a Pair of Sevens +Q85  Lo: None)
+sajuuk shows [Jh Kh Jc Td] (Hi: a Pair of Jacks +875  Lo: None)
+sajuuk wins Pot (2925) with a Pair
+No low hand qualified
+** Deck ** [Ac Jh Qh Kc 8d Kh 9d Th Qs Jc 7d 4d Kd Td Ts 6d 8s 2d 3d 5s 7c]
+
+Hand #103393-3 - 2017-06-16 13:02:43
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: Efyang (50)
+Seat 2: chinkyeyes (1600)
+Seat 3: tagailog (1425) - sitting out
+Seat 6: sajuuk (2925)
+tagailog has the dealer button
+sajuuk posts small blind 25
+Efyang posts big blind 50 (All-in)
+** Hole Cards ** [4 players]
+chinkyeyes calls 50
+tagailog folds
+sajuuk calls 25
+** Flop ** [7h 8h 3h]
+sajuuk checks
+chinkyeyes checks
+** Turn ** [6s]
+sajuuk checks
+chinkyeyes bets 50
+sajuuk calls 50
+** River ** [3c]
+sajuuk bets 100
+chinkyeyes calls 100
+** Side Pot 1 Show Down ** [7h 8h 3h 6s 3c]
+chinkyeyes shows [6c 4d Jd Kd] (Hi: Two Pair, Sixes and Threes +K  Lo: 87643)
+sajuuk shows [2c 7c 8s Th] (Hi: Two Pair, Eights and Sevens +6  Lo: 87632)
+sajuuk wins Hi Side Pot 1 (150) with Two Pair
+sajuuk wins Lo Side Pot 1 (150) with 87632
+** Main Pot Show Down ** [7h 8h 3h 6s 3c]
+Efyang shows [4h 4c 3s 9s] (Hi: Three of a Kind, Threes +98  Lo: 87643)
+Efyang wins Hi Main Pot (75) with Three of a Kind
+sajuuk wins Lo Main Pot (75) with 87632
+** Deck ** [2c 4h 6c Js 7c 4c 4d Ks 8s 3s Jd 5h Th 9s Kd Tc 7h 8h 3h 6s 3c]
+
+Hand #103399-4 - 2017-06-16 13:03:56
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: Efyang (75)
+Seat 2: chinkyeyes (1400)
+Seat 3: tagailog (1425) - sitting out
+Seat 6: sajuuk (3100)
+sajuuk has the dealer button
+Efyang posts small blind 50
+chinkyeyes posts big blind 100
+** Hole Cards ** [4 players]
+tagailog folds
+sajuuk calls 100
+Efyang calls 25 (All-in)
+chinkyeyes checks
+** Flop ** [9d Qh 4c]
+chinkyeyes bets 100
+sajuuk calls 100
+** Turn ** [Jh]
+chinkyeyes bets 250
+sajuuk calls 250
+** River ** [Td]
+chinkyeyes bets 950 (All-in)
+sajuuk calls 950
+** Side Pot 1 Show Down ** [9d Qh 4c Jh Td]
+chinkyeyes shows [5c 2s 8h Qs] (Hi: a Straight, Eight to Queen  Lo: None)
+sajuuk shows [9c 3h 9s Kd] (Hi: a Straight, Nine to King  Lo: None)
+sajuuk wins Side Pot 1 (2650) with a Straight
+No low hand qualified
+** Main Pot Show Down ** [9d Qh 4c Jh Td]
+Efyang shows [6d 3s Qd 2d] (Hi: a Pair of Queens +JT6  Lo: None)
+sajuuk wins Main Pot (225) with a Straight
+No low hand qualified
+Efyang finishes tournament in place #13
+chinkyeyes finishes tournament in place #12
+** Deck ** [6d 5c Ac 9c 3s 2s 7s 3h Qd 8h 3c 9s 2d Qs 5h Kd 9d Qh 4c Jh Td]
+
+tagailog moved to Table 2
+
+sajuuk moved to Table 2
+
+Starting tournament 1913
+
+Hand #103761-1 - 2017-06-16 17:00:37
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (1500) - sitting out
+Seat 3: Protek (1500) - sitting out
+Seat 4: Prince (1500) - sitting out
+Seat 5: angrybet (1500) - sitting out
+gimmemoney has the dealer button
+Protek posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [4 players]
+angrybet folds
+gimmemoney folds
+Protek folds
+Prince refunded 25
+Prince wins Pot (50)
+** Deck ** [Kh 6c Td 2s Qc Tc Jc Ac 2h 3h 5h 4h 7c 8c 3s 9d]
+
+Hand #103764-2 - 2017-06-16 17:00:44
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (1500)
+Seat 3: Protek (1475) - sitting out
+Seat 4: Prince (1525) - sitting out
+Seat 5: angrybet (1500) - sitting out
+Protek has the dealer button
+Prince posts small blind 25
+angrybet posts big blind 50
+** Hole Cards ** [4 players]
+gimmemoney calls 50
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney wins Pot (125)
+** Deck ** [4d 5s 3h Jd 5c 8h 6s 7h 8s Tc Jh Jc 4h 9d 5h 5d]
+
+Hand #103765-3 - 2017-06-16 17:00:54
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (1575)
+Seat 3: Protek (1475) - sitting out
+Seat 4: Prince (1500) - sitting out
+Seat 5: angrybet (1450) - sitting out
+Prince has the dealer button
+angrybet posts small blind 25
+gimmemoney posts big blind 50
+** Hole Cards ** [4 players]
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney refunded 25
+gimmemoney wins Pot (50)
+** Deck ** [Kd 3s 7h Th Kc Ac Td 8h 6h 4h Tc 9h 4d As 6c 3c]
+
+Hand #103766-4 - 2017-06-16 17:01:02
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (1600)
+Seat 3: Protek (1475) - sitting out
+Seat 4: Prince (1500) - sitting out
+Seat 5: angrybet (1425) - sitting out
+angrybet has the dealer button
+gimmemoney posts small blind 25
+Protek posts big blind 50
+** Hole Cards ** [4 players]
+Prince folds
+angrybet folds
+gimmemoney calls 25
+Protek folds
+gimmemoney wins Pot (100)
+** Deck ** [7d Kc 8d Kd Jc 3h Kh Td 7s Ac Qd Ah Js Jd 9h 7h]
+
+Hand #103767-5 - 2017-06-16 17:01:11
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (1650)
+Seat 3: Protek (1425) - sitting out
+Seat 4: Prince (1500) - sitting out
+Seat 5: angrybet (1425) - sitting out
+gimmemoney has the dealer button
+Protek posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [4 players]
+angrybet folds
+gimmemoney calls 50
+Protek folds
+Prince folds
+gimmemoney wins Pot (125)
+** Deck ** [9d Kc 3s 3d Qh Kh 8h Jc Ks Qc 2c 4d Ah 8c Jh Th]
+
+Hand #103768-6 - 2017-06-16 17:01:20
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (1725)
+Seat 3: Protek (1400) - sitting out
+Seat 4: Prince (1450) - sitting out
+Seat 5: angrybet (1425) - sitting out
+Protek has the dealer button
+Prince posts small blind 25
+angrybet posts big blind 50
+** Hole Cards ** [4 players]
+gimmemoney calls 50
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney wins Pot (125)
+** Deck ** [Td 3h 4s 9c 8d 2h Qd Jc 9s Qc Jd As Ac 8s 9h 2d]
+
+Hand #103770-7 - 2017-06-16 17:01:29
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (1800)
+Seat 3: Protek (1400) - sitting out
+Seat 4: Prince (1425) - sitting out
+Seat 5: angrybet (1375) - sitting out
+Prince has the dealer button
+angrybet posts small blind 25
+gimmemoney posts big blind 50
+** Hole Cards ** [4 players]
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney refunded 25
+gimmemoney wins Pot (50)
+** Deck ** [5s 3s 6s 3d Jc Jd Th As Qs Qh 7h Ad Kh Ac 6c 6d]
+
+Hand #103771-8 - 2017-06-16 17:01:37
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (1825)
+Seat 3: Protek (1400) - sitting out
+Seat 4: Prince (1425) - sitting out
+Seat 5: angrybet (1350) - sitting out
+angrybet has the dealer button
+gimmemoney posts small blind 25
+Protek posts big blind 50
+** Hole Cards ** [4 players]
+Prince folds
+angrybet folds
+gimmemoney calls 25
+Protek folds
+gimmemoney wins Pot (100)
+** Deck ** [Jh 4d 5d Qs As 6s Qc 3h Qh Ac 7d Jd 8s Js 4c 6d]
+
+Hand #103772-9 - 2017-06-16 17:01:47
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (1875)
+Seat 3: Protek (1350) - sitting out
+Seat 4: Prince (1425) - sitting out
+Seat 5: angrybet (1350) - sitting out
+gimmemoney has the dealer button
+Protek posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [4 players]
+angrybet folds
+gimmemoney calls 50
+Protek folds
+Prince folds
+gimmemoney wins Pot (125)
+** Deck ** [4h 3d Th 9c 4d 7c Qd 8d 4s 7s Qc 2d 5s 8s Tc 3s]
+
+Hand #103774-10 - 2017-06-16 17:01:56
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (1950)
+Seat 3: Protek (1325) - sitting out
+Seat 4: Prince (1375) - sitting out
+Seat 5: angrybet (1350) - sitting out
+Protek has the dealer button
+Prince posts small blind 25
+angrybet posts big blind 50
+** Hole Cards ** [4 players]
+gimmemoney calls 50
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney wins Pot (125)
+** Deck ** [Qh 2d 8s 7c 3c Kc 5c Ts Kh 5h Js 5d 4s Td Tc 3s]
+
+Hand #103775-11 - 2017-06-16 17:02:05
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2025)
+Seat 3: Protek (1325) - sitting out
+Seat 4: Prince (1350) - sitting out
+Seat 5: angrybet (1300) - sitting out
+Prince has the dealer button
+angrybet posts small blind 25
+gimmemoney posts big blind 50
+** Hole Cards ** [4 players]
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney refunded 25
+gimmemoney wins Pot (50)
+** Deck ** [Kd 6h 8d Kh 5d Js 8s 6c 7h 9c Qc 9s Td 4c Qh Jc]
+
+Hand #103776-12 - 2017-06-16 17:02:13
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2050)
+Seat 3: Protek (1325) - sitting out
+Seat 4: Prince (1350) - sitting out
+Seat 5: angrybet (1275) - sitting out
+angrybet has the dealer button
+gimmemoney posts small blind 25
+Protek posts big blind 50
+** Hole Cards ** [4 players]
+Prince folds
+angrybet folds
+gimmemoney calls 25
+Protek folds
+gimmemoney wins Pot (100)
+** Deck ** [7h 7d Td Qd Th 4h Kc 2h 9s 3d 6h 8h 6c As 5d 9c]
+
+Hand #103778-13 - 2017-06-16 17:02:22
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2100)
+Seat 3: Protek (1275) - sitting out
+Seat 4: Prince (1350) - sitting out
+Seat 5: angrybet (1275) - sitting out
+gimmemoney has the dealer button
+Protek posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [4 players]
+angrybet folds
+gimmemoney calls 50
+Protek folds
+Prince folds
+gimmemoney wins Pot (125)
+** Deck ** [2s 4s Ks As 3d 7h 4h Ac 5s Ah 6s 4d 6h 8h Kd 8c]
+
+Hand #103779-14 - 2017-06-16 17:02:31
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2175)
+Seat 3: Protek (1250) - sitting out
+Seat 4: Prince (1300) - sitting out
+Seat 5: angrybet (1275) - sitting out
+Protek has the dealer button
+Prince posts small blind 25
+angrybet posts big blind 50
+** Hole Cards ** [4 players]
+gimmemoney calls 50
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney wins Pot (125)
+** Deck ** [7d As 8d Ts 5s Ah 4c Tc 7s 5c 5d Jh 9d Td 9s Jc]
+
+Hand #103780-15 - 2017-06-16 17:02:40
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2250)
+Seat 3: Protek (1250) - sitting out
+Seat 4: Prince (1275) - sitting out
+Seat 5: angrybet (1225) - sitting out
+Prince has the dealer button
+angrybet posts small blind 25
+gimmemoney posts big blind 50
+** Hole Cards ** [4 players]
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney refunded 25
+gimmemoney wins Pot (50)
+** Deck ** [Ac 7d Qh 6s Kh 5d 5c 9s As 4h Ad 3d Ah Tc Qs 8h]
+
+Hand #103781-16 - 2017-06-16 17:02:48
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2275)
+Seat 3: Protek (1250) - sitting out
+Seat 4: Prince (1275) - sitting out
+Seat 5: angrybet (1200) - sitting out
+angrybet has the dealer button
+gimmemoney posts small blind 25
+Protek posts big blind 50
+** Hole Cards ** [4 players]
+Prince folds
+angrybet folds
+gimmemoney calls 25
+Protek folds
+gimmemoney wins Pot (100)
+** Deck ** [4s 5c 2c 7s 3h 4d 8d Qh 5h 2s Ac Kd 3d 7d Ts 4h]
+
+Hand #103783-17 - 2017-06-16 17:02:57
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2325)
+Seat 3: Protek (1200) - sitting out
+Seat 4: Prince (1275) - sitting out
+Seat 5: angrybet (1200) - sitting out
+gimmemoney has the dealer button
+Protek posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [4 players]
+angrybet folds
+gimmemoney calls 50
+Protek folds
+Prince folds
+gimmemoney wins Pot (125)
+** Deck ** [Kd 6d Kc Ks Qs As Ah 8h 7s Jd 7d 7h Kh 9d 4d 2h]
+
+Hand #103785-18 - 2017-06-16 17:03:06
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2400)
+Seat 3: Protek (1175) - sitting out
+Seat 4: Prince (1225) - sitting out
+Seat 5: angrybet (1200) - sitting out
+Protek has the dealer button
+Prince posts small blind 25
+angrybet posts big blind 50
+** Hole Cards ** [4 players]
+gimmemoney calls 50
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney wins Pot (125)
+** Deck ** [8h 5d Ac 6h 9c Jd Kc 3h Th 5s Qh 5c 9h 7d Qs 4s]
+
+Hand #103786-19 - 2017-06-16 17:03:15
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2475)
+Seat 3: Protek (1175) - sitting out
+Seat 4: Prince (1200) - sitting out
+Seat 5: angrybet (1150) - sitting out
+Prince has the dealer button
+angrybet posts small blind 25
+gimmemoney posts big blind 50
+** Hole Cards ** [4 players]
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney refunded 25
+gimmemoney wins Pot (50)
+** Deck ** [5c Ah Qh 9h 7c 9d 3h Th 8c Ad Ks As 6s Kd 6d Js]
+
+Hand #103787-20 - 2017-06-16 17:03:24
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2500)
+Seat 3: Protek (1175) - sitting out
+Seat 4: Prince (1200) - sitting out
+Seat 5: angrybet (1125) - sitting out
+angrybet has the dealer button
+gimmemoney posts small blind 25
+Protek posts big blind 50
+** Hole Cards ** [4 players]
+Prince folds
+angrybet folds
+gimmemoney calls 25
+Protek folds
+gimmemoney wins Pot (100)
+** Deck ** [Js 3h 7s 3s 5d Td 3d Ah 7c Jh Ks Kc 8s 4c Kd 5s]
+
+Hand #103788-21 - 2017-06-16 17:03:33
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2550)
+Seat 3: Protek (1125) - sitting out
+Seat 4: Prince (1200) - sitting out
+Seat 5: angrybet (1125) - sitting out
+gimmemoney has the dealer button
+Protek posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [4 players]
+angrybet folds
+gimmemoney calls 50
+Protek folds
+Prince folds
+gimmemoney wins Pot (125)
+** Deck ** [9d Ad Kc Ts 8d 2d 5c Kd 8h 5h Qh 9c Ah Ac 7h 5s]
+
+Hand #103789-22 - 2017-06-16 17:03:42
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2625)
+Seat 3: Protek (1100) - sitting out
+Seat 4: Prince (1150) - sitting out
+Seat 5: angrybet (1125) - sitting out
+Protek has the dealer button
+Prince posts small blind 50
+angrybet posts big blind 100
+** Hole Cards ** [4 players]
+gimmemoney calls 100
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney wins Pot (250)
+** Deck ** [8s Ac 9c Kd Ad 4h 5s 2h Td 7s Ts 9d Kc 7d 6h Th]
+
+Hand #103791-23 - 2017-06-16 17:03:51
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2775)
+Seat 3: Protek (1100) - sitting out
+Seat 4: Prince (1100) - sitting out
+Seat 5: angrybet (1025) - sitting out
+Prince has the dealer button
+angrybet posts small blind 50
+gimmemoney posts big blind 100
+** Hole Cards ** [4 players]
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney refunded 50
+gimmemoney wins Pot (100)
+** Deck ** [3c Td Ah Ad Jc 7h Kh 9d 8d Qd 4s Ts 2c 3h 4d Qc]
+
+Hand #103792-24 - 2017-06-16 17:03:59
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2825)
+Seat 3: Protek (1100) - sitting out
+Seat 4: Prince (1100) - sitting out
+Seat 5: angrybet (975) - sitting out
+angrybet has the dealer button
+gimmemoney posts small blind 50
+Protek posts big blind 100
+** Hole Cards ** [4 players]
+Prince folds
+angrybet folds
+gimmemoney calls 50
+Protek folds
+gimmemoney wins Pot (200)
+** Deck ** [4d 7s Qh 3s Jh 3d 8d 7d 6d 8h 9c 3c Ad Ts Kh 7h]
+
+Hand #103794-25 - 2017-06-16 17:04:08
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2925)
+Seat 3: Protek (1000) - sitting out
+Seat 4: Prince (1100) - sitting out
+Seat 5: angrybet (975) - sitting out
+gimmemoney has the dealer button
+Protek posts small blind 50
+Prince posts big blind 100
+** Hole Cards ** [4 players]
+angrybet folds
+gimmemoney calls 100
+Protek folds
+Prince folds
+gimmemoney wins Pot (250)
+** Deck ** [7h 3d Jd Ts 4h Td Ac Jh 2s 4s Qh 9c Ks Tc 7d Qs]
+
+Hand #103795-26 - 2017-06-16 17:04:17
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (3075)
+Seat 3: Protek (950) - sitting out
+Seat 4: Prince (1000) - sitting out
+Seat 5: angrybet (975) - sitting out
+Protek has the dealer button
+Prince posts small blind 50
+angrybet posts big blind 100
+** Hole Cards ** [4 players]
+gimmemoney calls 100
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney wins Pot (250)
+** Deck ** [7c 4h 6d Js 3c 2s Qc Ks 6c 8h 4s 6s 4d Jc 5c 6h]
+
+Hand #103797-27 - 2017-06-16 17:04:26
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (3225)
+Seat 3: Protek (950) - sitting out
+Seat 4: Prince (950) - sitting out
+Seat 5: angrybet (875) - sitting out
+Prince has the dealer button
+angrybet posts small blind 50
+gimmemoney posts big blind 100
+** Hole Cards ** [4 players]
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney refunded 50
+gimmemoney wins Pot (100)
+** Deck ** [Qh Kc 7d Kd 2d 3d Ac 4s 7h Ks 5d 9d 5s Ts 5c 8c]
+
+Hand #103798-28 - 2017-06-16 17:04:34
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (3275)
+Seat 3: Protek (950) - sitting out
+Seat 4: Prince (950) - sitting out
+Seat 5: angrybet (825) - sitting out
+angrybet has the dealer button
+gimmemoney posts small blind 50
+Protek posts big blind 100
+** Hole Cards ** [4 players]
+Prince folds
+angrybet folds
+gimmemoney calls 50
+Protek folds
+gimmemoney wins Pot (200)
+** Deck ** [5s 9c 2h As 3c 4d 8h 7s Qs 2c 5d 6c 9h Td Ac 5h]
+
+Hand #103799-29 - 2017-06-16 17:04:44
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (3375)
+Seat 3: Protek (850) - sitting out
+Seat 4: Prince (950) - sitting out
+Seat 5: angrybet (825) - sitting out
+gimmemoney has the dealer button
+Protek posts small blind 50
+Prince posts big blind 100
+** Hole Cards ** [4 players]
+angrybet folds
+gimmemoney calls 100
+Protek folds
+Prince folds
+gimmemoney wins Pot (250)
+** Deck ** [4h Ah Qh Th 7h Jh Ac 9d Kc Tc As 2s 6c Kd Jc 2c]
+
+Hand #103801-30 - 2017-06-16 17:04:57
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (3525)
+Seat 3: Protek (800) - sitting out
+Seat 4: Prince (850) - sitting out
+Seat 5: angrybet (825) - sitting out
+Protek has the dealer button
+Prince posts small blind 50
+angrybet posts big blind 100
+** Hole Cards ** [4 players]
+gimmemoney calls 100
+Protek folds
+Prince folds
+angrybet folds
+gimmemoney wins Pot (250)
+** Deck ** [Ac Jc 8h 6s Js Ad Kh 5h 9s 6d 6h Jh 7s 4h 5d Qh]
+
+Hand #103802-31 - 2017-06-16 17:05:15
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (3675)
+Seat 3: Protek (800) - sitting out
+Seat 4: Prince (800) - sitting out
+Seat 5: angrybet (725) - sitting out
+Prince has the dealer button
+angrybet posts small blind 50
+gimmemoney posts big blind 100
+** Hole Cards ** [4 players]
+Protek folds
+Prince folds
+angrybet folds
+sajuuk moved from Table 1
+NuGgetZ1 moved from Table 1
+gimmemoney refunded 50
+gimmemoney wins Pot (100)
+** Deck ** [Qd 8d 2c 4s 4d 5h 9d 3d Js Jd Qh 4c 7s 5d 6s 5c]
+
+Hand #103804-32 - 2017-06-16 17:05:23
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: NuGgetZ1 (1425)
+Seat 2: gimmemoney (3725)
+Seat 3: Protek (800) - sitting out
+Seat 4: Prince (800) - sitting out
+Seat 5: angrybet (675) - sitting out
+Seat 6: sajuuk (1425)
+angrybet has the dealer button
+NuGgetZ1 plays after the button
+sajuuk plays after the button
+gimmemoney posts small blind 50
+Protek posts big blind 100
+** Hole Cards ** [4 players]
+Prince folds
+angrybet folds
+gimmemoney calls 50
+Protek folds
+gimmemoney wins Pot (200)
+** Deck ** [Qh 6s 8s Jd 4h 9c Kd 2s Tc 9h 4c Ah 8c 3s 7h Ts]
+
+Hand #103806-33 - 2017-06-16 17:05:37
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: NuGgetZ1 (1425)
+Seat 2: gimmemoney (3825)
+Seat 3: Protek (700) - sitting out
+Seat 4: Prince (800) - sitting out
+Seat 5: angrybet (675) - sitting out
+Seat 6: sajuuk (1425)
+gimmemoney has the dealer button
+Protek posts small blind 50
+Prince posts big blind 100
+** Hole Cards ** [6 players]
+angrybet folds
+sajuuk calls 100
+NuGgetZ1 calls 100
+gimmemoney calls 100
+Protek folds
+Prince folds
+** Flop ** [Qs 2c 3d]
+sajuuk bets 100
+NuGgetZ1 calls 100
+gimmemoney folds
+** Turn ** [2h]
+sajuuk bets 100
+NuGgetZ1 calls 100
+** River ** [9s]
+sajuuk bets 850
+NuGgetZ1 folds
+sajuuk refunded 850
+sajuuk wins Pot (850)
+Absent player Protek removed from tournament
+Absent player Prince removed from tournament
+Absent player angrybet removed from tournament
+** Deck ** [7c 9d Th Ac 4d Jd Jc As 8d Qh Ts 6d 6s 5d Qd 3h 5h Kd Td 5c Js Ah Ad 8h Qs 2c 3d 2h 9s]
+
+Hand #103809-34 - 2017-06-16 17:07:01
+Game: PL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: NuGgetZ1 (1125)
+Seat 2: gimmemoney (3725)
+Seat 6: sajuuk (1975)
+sajuuk has the dealer button
+NuGgetZ1 posts small blind 75
+gimmemoney posts big blind 150
+** Hole Cards ** [3 players]
+Buenaobra moved from Table 2
+crazyjack moved from Table 2
+sajuuk calls 150
+NuGgetZ1 folds
+gimmemoney checks
+** Flop ** [Ah 2s 2c]
+gimmemoney checks
+sajuuk checks
+** Turn ** [Ks]
+gimmemoney checks
+sajuuk bets 150
+gimmemoney folds
+sajuuk refunded 150
+sajuuk wins Pot (375)
+** Deck ** [8s 3c 4h Kc 7c 5s 9s Qc Kh Qs Jc Tc Ah 2s 2c Ks]
+
+Hand #103810-35 - 2017-06-16 17:08:21
+Game: PL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: NuGgetZ1 (1050)
+Seat 2: gimmemoney (3575)
+Seat 3: Buenaobra (3418)
+Seat 4: crazyjack (4832)
+Seat 6: sajuuk (2200)
+NuGgetZ1 has the dealer button
+gimmemoney posts small blind 75
+Buenaobra posts big blind 150
+** Hole Cards ** [5 players]
+crazyjack raises to 525
+sajuuk calls 525
+NuGgetZ1 folds
+gimmemoney folds
+Buenaobra folds
+** Flop ** [Jc 4h Kc]
+crazyjack bets 1275
+sajuuk raises to 1675 (All-in)
+crazyjack calls 400
+** Turn ** [9c]
+** River ** [Td]
+** Pot Show Down ** [Jc 4h Kc 9c Td]
+crazyjack shows [7h 6h 5d 2s] (Hi: High Card King +JT76  Lo: None)
+sajuuk shows [2h 3s 9h 5s] (Hi: a Pair of Nines +KJ5  Lo: None)
+sajuuk wins Pot (4625) with a Pair
+No low hand qualified
+** Deck ** [Qh 9s 7h 2h 9d 7s 6d 6h 3s 5c Jh Th 5d 9h Kh Tc 8d 2s 5s 4c Jc 4h Kc 9c Td]
+
+Hand #103811-36 - 2017-06-16 17:09:02
+Game: PL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: NuGgetZ1 (1050)
+Seat 2: gimmemoney (3500)
+Seat 3: Buenaobra (3268)
+Seat 4: crazyjack (2632)
+Seat 6: sajuuk (4625)
+gimmemoney has the dealer button
+Buenaobra posts small blind 75
+crazyjack posts big blind 150
+** Hole Cards ** [5 players]
+sajuuk folds
+NuGgetZ1 folds
+gimmemoney calls 150
+Buenaobra calls 75
+crazyjack checks
+** Flop ** [Kd Js Tc]
+Buenaobra checks
+crazyjack checks
+gimmemoney checks
+** Turn ** [5c]
+Buenaobra checks
+crazyjack checks
+gimmemoney checks
+** River ** [9s]
+Buenaobra checks
+crazyjack bets 450
+gimmemoney folds
+Buenaobra calls 450
+** Pot Show Down ** [Kd Js Tc 5c 9s]
+Buenaobra shows [7c 7d Ts Td] (Hi: Three of a Kind, Tens +KJ  Lo: None)
+crazyjack shows [8d Jc Qh 2d] (Hi: a Straight, Nine to King  Lo: None)
+crazyjack wins Pot (1350) with a Straight
+No low hand qualified
+** Deck ** [7c 8d Th 8h Ah 7d Jc 4d 8s 7s Ts Qh Qs 8c As Td 2d 9h 2h Jd Kd Js Tc 5c 9s]
+
+Hand #103812-37 - 2017-06-16 17:10:11
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: NuGgetZ1 (1050)
+Seat 2: gimmemoney (3350)
+Seat 3: Buenaobra (2668)
+Seat 4: crazyjack (3382)
+Seat 6: sajuuk (4625)
+Buenaobra has the dealer button
+crazyjack posts small blind 100
+sajuuk posts big blind 200
+** Hole Cards ** [5 players]
+NuGgetZ1 raises to 700
+gimmemoney folds
+Buenaobra folds
+crazyjack raises to 2300
+sajuuk calls 2100
+NuGgetZ1 calls 350 (All-in)
+** Flop ** [8d Ks Jc]
+crazyjack bets 1082 (All-in)
+sajuuk calls 1082
+** Turn ** [Td]
+** River ** [5h]
+** Side Pot 1 Show Down ** [8d Ks Jc Td 5h]
+crazyjack shows [4s 2h 2d 4c] (Hi: a Pair of Fours +KJT  Lo: None)
+sajuuk shows [3s Ad 7c Qs] (Hi: a Straight, Ten to Ace  Lo: None)
+sajuuk wins Side Pot 1 (4664) with a Straight
+No low hand qualified
+** Main Pot Show Down ** [8d Ks Jc Td 5h]
+NuGgetZ1 shows [5d Kd Js Kh] (Hi: Three of a Kind, Kings +JT  Lo: None)
+sajuuk wins Main Pot (3150) with a Straight
+No low hand qualified
+NuGgetZ1 finishes tournament in place #5
+crazyjack finishes tournament in place #4 and wins 200 chips
+** Deck ** [4s 3s 5d Ts Kc 2h Ad Kd 9h 8h 2d 7c Js 2c 9d 4c Qs Kh 4h 2s 8d Ks Jc Td 5h]
+
+Hand #103813-38 - 2017-06-16 17:10:53
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (3350)
+Seat 3: Buenaobra (2668)
+Seat 6: sajuuk (9057)
+sajuuk has the dealer button
+gimmemoney posts small blind 100
+Buenaobra posts big blind 200
+** Hole Cards ** [3 players]
+sajuuk raises to 400
+gimmemoney folds
+Buenaobra calls 200
+** Flop ** [6s 5s 3c]
+Buenaobra bets 200
+sajuuk calls 200
+** Turn ** [7d]
+Buenaobra bets 650
+sajuuk calls 650
+** River ** [2h]
+Buenaobra bets 1417
+sajuuk calls 1417
+** Pot Show Down ** [6s 5s 3c 7d 2h]
+Buenaobra shows [5h Qd 5c Kd] (Hi: Three of a Kind, Fives +76  Lo: None)
+sajuuk shows [7h 7s 4h Js] (Hi: a Straight, Three to Seven  Lo: 75432)
+sajuuk wins Hi Pot (2717) with a Straight
+sajuuk wins Lo Pot (2717) with 75432
+** Deck ** [6c 5h 7h Ts Qd 7s 6d 5c 4h Ks Kd Js 6s 5s 3c 7d 2h]
+
+Hand #103814-39 - 2017-06-16 17:12:22
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (3250)
+Seat 3: Buenaobra (1)
+Seat 6: sajuuk (11824)
+gimmemoney has the dealer button
+Buenaobra posts small blind 1 (All-in)
+sajuuk posts big blind 200
+** Hole Cards ** [3 players]
+gimmemoney calls 200
+sajuuk checks
+** Flop ** [9c 4d 6h]
+Buenaobra: "lol"
+sajuuk bets 401
+gimmemoney folds
+sajuuk refunded 401
+** Turn ** [Ks]
+** River ** [Qd]
+sajuuk wins Side Pot 1 (398)
+** Main Pot Show Down ** [9c 4d 6h Ks Qd]
+Buenaobra shows [Qh Qc 4h 7s] (Hi: Three of a Kind, Queens +K9  Lo: None)
+sajuuk shows [9s Td 8c 8h] (Hi: a Pair of Nines +KQT  Lo: None)
+Buenaobra wins Main Pot (3) with Three of a Kind
+No low hand qualified
+** Deck ** [Qh 9s Kh Qc Td Tc 4h 8c Ad 7s 8h Jd 9c 4d 6h Ks Qd]
+
+Hand #103815-40 - 2017-06-16 17:13:01
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (3050)
+Seat 3: Buenaobra (3)
+Seat 6: sajuuk (12022)
+Buenaobra has the dealer button
+gimmemoney posts ante 25
+Buenaobra posts ante 3 (All-in)
+sajuuk posts ante 25
+sajuuk posts small blind 100
+gimmemoney posts big blind 200
+** Hole Cards ** [3 players]
+sajuuk raises to 400
+gimmemoney calls 200
+** Flop ** [6h 3c 7h]
+sajuuk bets 853
+gimmemoney folds
+sajuuk refunded 853
+** Turn ** [9d]
+** River ** [2d]
+sajuuk wins Side Pot 1 (844)
+** Main Pot Show Down ** [6h 3c 7h 9d 2d]
+Buenaobra shows [5s As 8s Jd] (Hi: a Straight, Five to Nine  Lo: 6532A)
+sajuuk shows [Jh 3s Jc Ts] (Hi: a Pair of Jacks +976  Lo: None)
+Buenaobra wins Hi Main Pot (5) with a Straight
+Buenaobra wins Lo Main Pot (4) with 6532A
+** Deck ** [Jh 5d 5s 3s Ah As Jc Qd 8s Ts Tc Jd 6h 3c 7h 9d 2d]
+
+Hand #103816-41 - 2017-06-16 17:13:50
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2625)
+Seat 3: Buenaobra (9)
+Seat 6: sajuuk (12441)
+sajuuk has the dealer button
+gimmemoney posts ante 25
+Buenaobra posts ante 9 (All-in)
+sajuuk posts ante 25
+gimmemoney posts small blind 100
+Buenaobra posts big blind 0 (All-in)
+** Hole Cards ** [3 players]
+sajuuk raises to 559
+gimmemoney folds
+sajuuk refunded 459
+** Flop ** [2s 2d 3h]
+** Turn ** [Ks]
+** River ** [3c]
+sajuuk wins Side Pot 1 (232)
+** Main Pot Show Down ** [2s 2d 3h Ks 3c]
+Buenaobra shows [7s 6s 6c 4s] (Hi: Two Pair, Sixes and Threes +K  Lo: None)
+sajuuk shows [6d Qh 6h 2h] (Hi: Three of a Kind, Deuces +KQ  Lo: None)
+sajuuk wins Main Pot (27) with Three of a Kind
+No low hand qualified
+Buenaobra finishes tournament in place #3 and wins 400 chips
+** Deck ** [4c 7s 6d 5s 6s Qh Th 6c 6h 8c 4s 2h 2s 2d 3h Ks 3c]
+
+Hand #103817-42 - 2017-06-16 17:14:19
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (2500)
+Seat 6: sajuuk (12575)
+gimmemoney has the dealer button
+gimmemoney posts ante 25
+sajuuk posts ante 25
+gimmemoney posts small blind 100
+sajuuk posts big blind 200
+** Hole Cards ** [2 players]
+gimmemoney raises to 650
+sajuuk calls 450
+** Flop ** [Qc 3h Jd]
+sajuuk checks
+gimmemoney checks
+** Turn ** [5c]
+sajuuk checks
+gimmemoney checks
+** River ** [2c]
+sajuuk bets 1350
+gimmemoney raises to 1825 (All-in)
+sajuuk calls 475
+** Pot Show Down ** [Qc 3h Jd 5c 2c]
+gimmemoney shows [5d Kd Ah 6s] (Hi: a Pair of Fives +AQJ  Lo: 6532A)
+sajuuk shows [8d 5s 7d 9s] (Hi: a Pair of Fives +QJ9  Lo: 87532)
+gimmemoney wins Hi Pot (2500) with a Pair
+gimmemoney wins Lo Pot (2500) with 6532A
+** Deck ** [8d 5d 5s Kd 7d Ah 9s 6s Qc 3h Jd 5c 2c]
+
+Hand #103818-43 - 2017-06-16 17:15:13
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (5000)
+Seat 6: sajuuk (10075)
+sajuuk has the dealer button
+gimmemoney posts ante 25
+sajuuk posts ante 25
+sajuuk posts small blind 100
+gimmemoney posts big blind 200
+** Hole Cards ** [2 players]
+sajuuk calls 100
+gimmemoney checks
+** Flop ** [3c 5d 3d]
+gimmemoney bets 200
+sajuuk folds
+gimmemoney refunded 200
+gimmemoney wins Pot (450)
+** Deck ** [6c Th 3h 2c 5h Tc Ts 9c 3c 5d 3d]
+
+Hand #103819-44 - 2017-06-16 17:15:51
+Game: PL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 2: gimmemoney (5225)
+Seat 6: sajuuk (9850)
+gimmemoney has the dealer button
+gimmemoney posts ante 25
+sajuuk posts ante 25
+gimmemoney posts small blind 200
+sajuuk posts big blind 400
+** Hole Cards ** [2 players]
+gimmemoney calls 200
+sajuuk raises to 1250
+gimmemoney calls 850
+** Flop ** [Js Jd Qh]
+sajuuk bets 2550
+gimmemoney raises to 3950 (All-in)
+sajuuk calls 1400
+** Turn ** [9c]
+** River ** [8h]
+** Pot Show Down ** [Js Jd Qh 9c 8h]
+gimmemoney shows [4h Th Jc 6s] (Hi: a Straight, Eight to Queen  Lo: None)
+sajuuk shows [Td Ks 4c 3h] (Hi: a Straight, Nine to King  Lo: None)
+sajuuk wins Pot (10450) with a Straight
+No low hand qualified
+gimmemoney finishes tournament in place #2 and wins 600 chips
+sajuuk finishes tournament in place #1 and wins 800 chips
+** Deck ** [Td 4h Ks Th 4c Jc 3h 6s Js Jd Qh 9c 8h]
+
