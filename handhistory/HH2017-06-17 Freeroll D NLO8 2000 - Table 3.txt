@@ -1,0 +1,545 @@
+﻿Starting tournament 1934
+
+Hand #104883-1 - 2017-06-17 14:00:35
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: AlphaWolf (1500)
+Seat 2: ROBERTO (1500) - sitting out
+Seat 4: tagailog (1500)
+Seat 5: diamond (1500)
+AlphaWolf has the dealer button
+ROBERTO posts small blind 25
+tagailog posts big blind 50
+** Hole Cards ** [4 players]
+diamond calls 50
+AlphaWolf calls 50
+ROBERTO folds
+tagailog checks
+** Flop ** [3h Ad 4h]
+tagailog checks
+diamond checks
+AlphaWolf bets 175
+tagailog folds
+diamond calls 175
+** Turn ** [Js]
+diamond checks
+AlphaWolf bets 525
+diamond folds
+AlphaWolf refunded 525
+AlphaWolf wins Pot (525)
+** Deck ** [3s 5d Ac 4c 4d 6s 5s 6d 3d Ts Tc 5h Qh 7h Qs Th 3h Ad 4h Js]
+
+Hand #104887-2 - 2017-06-17 14:01:39
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: AlphaWolf (1800)
+Seat 2: ROBERTO (1475) - sitting out
+Seat 4: tagailog (1450)
+Seat 5: diamond (1275)
+ROBERTO has the dealer button
+tagailog posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [4 players]
+AlphaWolf folds
+ROBERTO folds
+tagailog calls 25
+diamond checks
+** Flop ** [3h 8h 4d]
+tagailog checks
+diamond checks
+** Turn ** [Qc]
+tagailog checks
+diamond checks
+** River ** [9s]
+tagailog checks
+diamond bets 50
+tagailog folds
+diamond refunded 50
+diamond wins Pot (100)
+** Deck ** [Js Jh 6h Qd 2s Jd Tc 5s 7s Qh Td 5c 2d Ah 5h Ts 3h 8h 4d Qc 9s]
+
+Hand #104891-3 - 2017-06-17 14:02:33
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: AlphaWolf (1800)
+Seat 2: ROBERTO (1475)
+Seat 4: tagailog (1400)
+Seat 5: diamond (1325)
+tagailog has the dealer button
+diamond posts small blind 25
+AlphaWolf posts big blind 50
+** Hole Cards ** [4 players]
+ROBERTO calls 50
+tagailog folds
+diamond folds
+AlphaWolf checks
+** Flop ** [8s 2s 6s]
+AlphaWolf checks
+ROBERTO bets 100
+AlphaWolf calls 100
+** Turn ** [9d]
+AlphaWolf checks
+ROBERTO bets 200
+AlphaWolf calls 200
+** River ** [7d]
+AlphaWolf checks
+ROBERTO bets 1125 (All-in)
+AlphaWolf calls 1125
+** Pot Show Down ** [8s 2s 6s 9d 7d]
+AlphaWolf shows [Jd 4h 3s 2h] (Hi: a Pair of Deuces +J98  Lo: 76432)
+ROBERTO shows [Tc As Td 7h] (Hi: a Straight, Six to Ten  Lo: 8762A)
+ROBERTO wins Hi Pot (1488) with a Straight
+AlphaWolf wins Lo Pot (1487) with 76432
+** Deck ** [5h Jd Tc 3h 6h 4h As Th 9h 3s Td Qc Ts 2h 7h Kc 8s 2s 6s 9d 7d]
+
+Hand #104895-4 - 2017-06-17 14:03:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: AlphaWolf (1812)
+Seat 2: ROBERTO (1488)
+Seat 4: tagailog (1400)
+Seat 5: diamond (1300)
+diamond has the dealer button
+AlphaWolf posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [4 players]
+tagailog folds
+diamond folds
+AlphaWolf calls 25
+ROBERTO checks
+** Flop ** [7s 5s 4d]
+AlphaWolf bets 50
+ROBERTO calls 50
+** Turn ** [3d]
+AlphaWolf bets 50
+ROBERTO calls 50
+** River ** [5h]
+AlphaWolf bets 50
+ROBERTO raises to 200
+AlphaWolf calls 150
+** Pot Show Down ** [7s 5s 4d 3d 5h]
+AlphaWolf shows [3h Kc Jh 2h] (Hi: Two Pair, Fives and Threes +K  Lo: 75432)
+ROBERTO shows [Tc 5c 8h 2d] (Hi: Three of a Kind, Fives +T7  Lo: 75432)
+ROBERTO wins Hi Pot (350) with Three of a Kind
+AlphaWolf splits Lo Pot (175) with 75432
+ROBERTO splits Lo Pot (175) with 75432
+** Deck ** [3h Tc 2s Qc Kc 5c 8s Qs Jh 8h 4h 9d 2h 2d Jc Qd 7s 5s 4d 3d 5h]
+
+Hand #104901-5 - 2017-06-17 14:04:44
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: AlphaWolf (1637)
+Seat 2: ROBERTO (1663)
+Seat 4: tagailog (1400)
+Seat 5: diamond (1300)
+AlphaWolf has the dealer button
+ROBERTO posts small blind 50
+tagailog posts big blind 100
+** Hole Cards ** [4 players]
+diamond folds
+AlphaWolf calls 100
+ROBERTO calls 50
+tagailog checks
+** Flop ** [Qc As Ks]
+ROBERTO bets 100
+tagailog folds
+AlphaWolf folds
+ROBERTO refunded 100
+ROBERTO wins Pot (300)
+** Deck ** [Jc 8d Qh 3c 5c Td 4c 9h Kh 2d 5d 8c Ad 8s 6h 3d Qc As Ks]
+
+Hand #104906-6 - 2017-06-17 14:05:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 1: AlphaWolf (1537)
+Seat 2: ROBERTO (1863)
+Seat 4: tagailog (1300)
+Seat 5: diamond (1300)
+ROBERTO has the dealer button
+tagailog posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [4 players]
+AlphaWolf calls 100
+ROBERTO folds
+tagailog calls 50
+diamond checks
+Buenaobra moved from Table 1
+sajuuk moved from Table 1
+** Flop ** [Jd 3d 6s]
+tagailog checks
+diamond checks
+AlphaWolf checks
+** Turn ** [9c]
+tagailog checks
+diamond checks
+AlphaWolf bets 100
+tagailog folds
+diamond calls 100
+** River ** [4h]
+diamond checks
+AlphaWolf checks
+** Pot Show Down ** [Jd 3d 6s 9c 4h]
+AlphaWolf shows [9h 4s 6c 5c] (Hi: Two Pair, Nines and Sixes +J  Lo: None)
+diamond shows [7h 8s Kc 8d] (Hi: a Pair of Eights +J96  Lo: 87643)
+AlphaWolf wins Hi Pot (250) with Two Pair
+diamond wins Lo Pot (250) with 87643
+** Deck ** [Qd 7h 9h 2c 2s 8s 4s 4d Kh Kc 6c Ks Js 8d 5c 7d Jd 3d 6s 9c 4h]
+
+AlphaWolf moved to Table 2
+
+Hand #104909-7 - 2017-06-17 14:06:59
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: ROBERTO (1863)
+Seat 3: Buenaobra (1400)
+Seat 4: tagailog (1200)
+Seat 5: diamond (1350)
+Seat 6: sajuuk (1337)
+tagailog has the dealer button
+diamond posts small blind 75
+sajuuk posts big blind 150
+** Hole Cards ** [5 players]
+ROBERTO calls 150
+Buenaobra has timed out
+Buenaobra folds
+tagailog folds
+diamond calls 75
+sajuuk checks
+** Flop ** [Th Ah 4h]
+diamond checks
+sajuuk checks
+ROBERTO checks
+** Turn ** [5d]
+diamond checks
+sajuuk bets 150
+ROBERTO calls 150
+diamond has timed out
+diamond folds
+** River ** [6s]
+sajuuk bets 1037 (All-in)
+ROBERTO calls 1037
+** Pot Show Down ** [Th Ah 4h 5d 6s]
+ROBERTO shows [Jd 2d Jc 3s] (Hi: a Straight, Deuce to Six  Lo: 5432A)
+sajuuk shows [3h Kh 3d 8h] (Hi: a Flush, Ace high +KT84  Lo: 8543A)
+sajuuk wins Hi Pot (1412) with a Flush
+ROBERTO wins Lo Pot (1412) with 5432A
+** Deck ** [2h 3h Jd 2c Kd 7s Kh 2d Td 9d 9c 3d Jc 8c As Ac 8h 3s 6h 7d Th Ah 4h 5d 6s]
+
+Hand #104914-8 - 2017-06-17 14:11:17
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: ROBERTO (1938)
+Seat 3: Buenaobra (1400) - sitting out
+Seat 4: tagailog (1200)
+Seat 5: diamond (1200)
+Seat 6: sajuuk (1412)
+diamond has the dealer button
+sajuuk posts small blind 100
+ROBERTO posts big blind 200
+** Hole Cards ** [5 players]
+Buenaobra folds
+tagailog raises to 1200 (All-in)
+diamond folds
+sajuuk folds
+ROBERTO folds
+tagailog refunded 1000
+tagailog wins Pot (500)
+** Deck ** [9s Qd Tc As 7h Ks Kh Jd 3c 4c 8d 3d 7s 2d 6c 4h 2s 9d Jc 8c]
+
+Hand #104915-9 - 2017-06-17 14:12:02
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: ROBERTO (1738)
+Seat 3: Buenaobra (1400) - sitting out
+Seat 4: tagailog (1500)
+Seat 5: diamond (1200)
+Seat 6: sajuuk (1312)
+sajuuk has the dealer button
+ROBERTO posts small blind 100
+Buenaobra posts big blind 200
+** Hole Cards ** [5 players]
+tagailog calls 200
+diamond folds
+sajuuk raises to 1312 (All-in)
+ROBERTO folds
+Buenaobra folds
+tagailog folds
+sajuuk refunded 1112
+sajuuk wins Pot (700)
+** Deck ** [9d Qs Kd 6s 6c 7s 2c 9h 4s Qh Tc 2h 2d Jh As Ah Js Ad Qc 4c]
+
+Hand #104917-10 - 2017-06-17 14:13:25
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: ROBERTO (1638)
+Seat 3: Buenaobra (1200) - sitting out
+Seat 4: tagailog (1300)
+Seat 5: diamond (1200)
+Seat 6: sajuuk (1812)
+ROBERTO has the dealer button
+ROBERTO posts ante 25
+Buenaobra posts ante 25
+tagailog posts ante 25
+diamond posts ante 25
+sajuuk posts ante 25
+Buenaobra posts small blind 100
+tagailog posts big blind 200
+** Hole Cards ** [5 players]
+diamond folds
+sajuuk folds
+ROBERTO calls 200
+Buenaobra folds
+tagailog checks
+** Flop ** [6h 2d 4d]
+tagailog bets 1075 (All-in)
+ROBERTO calls 1075
+** Turn ** [7c]
+** River ** [8s]
+** Pot Show Down ** [6h 2d 4d 7c 8s]
+ROBERTO shows [5h Jc 4s Ah] (Hi: a Straight, Four to Eight  Lo: 6542A)
+tagailog shows [3h Kc 5c 8d] (Hi: a Straight, Four to Eight  Lo: 65432)
+ROBERTO splits Hi Pot (694) with a Straight
+tagailog splits Hi Pot (694) with a Straight
+ROBERTO wins Lo Pot (1387) with 6542A
+** Deck ** [7h 3h 7s 3s 5h Ad Kc 5s 8h Jc 2s 5c 6s Qd 4s Qh 8d Qc 2c Ah 6h 2d 4d 7c 8s]
+
+Hand #104920-11 - 2017-06-17 14:14:31
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: ROBERTO (2419)
+Seat 3: Buenaobra (1075) - sitting out
+Seat 4: tagailog (694)
+Seat 5: diamond (1175)
+Seat 6: sajuuk (1787)
+Buenaobra has the dealer button
+ROBERTO posts ante 25
+Buenaobra posts ante 25
+tagailog posts ante 25
+diamond posts ante 25
+sajuuk posts ante 25
+tagailog posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [5 players]
+sajuuk calls 200
+ROBERTO folds
+Buenaobra folds
+tagailog folds
+diamond checks
+** Flop ** [9d 4d 7h]
+diamond checks
+sajuuk checks
+** Turn ** [9h]
+diamond checks
+sajuuk checks
+** River ** [9s]
+diamond checks
+sajuuk bets 1562 (All-in)
+diamond folds
+sajuuk refunded 1562
+sajuuk wins Pot (625)
+** Deck ** [Kh Jc Td 5c 3d 6s 4s Qs 7d Ac Jd 3c Qd Qc 9c 3h 5s 5d 2h 8d 9d 4d 7h 9h 9s]
+
+Hand #104922-12 - 2017-06-17 14:15:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: ROBERTO (2394)
+Seat 3: Buenaobra (1050) - sitting out
+Seat 4: tagailog (569)
+Seat 5: diamond (950)
+Seat 6: sajuuk (2187)
+tagailog has the dealer button
+ROBERTO posts ante 25
+Buenaobra posts ante 25
+tagailog posts ante 25
+diamond posts ante 25
+sajuuk posts ante 25
+diamond posts small blind 100
+sajuuk posts big blind 200
+** Hole Cards ** [5 players]
+ROBERTO folds
+Buenaobra folds
+tagailog has timed out
+tagailog folds
+diamond has timed out
+diamond folds
+sajuuk refunded 100
+sajuuk wins Pot (325)
+** Deck ** [Ac 9c 5h Jc 9d Jh 8h 8c Ad Jd Tc Kc 2s 8s 5s 2c 5c Qh 3c As]
+
+Hand #104926-13 - 2017-06-17 14:16:47
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: ROBERTO (2369)
+Seat 3: Buenaobra (1025) - sitting out
+Seat 4: tagailog (544)
+Seat 5: diamond (825)
+Seat 6: sajuuk (2387)
+diamond has the dealer button
+ROBERTO posts ante 25
+Buenaobra posts ante 25
+tagailog posts ante 25
+diamond posts ante 25
+sajuuk posts ante 25
+sajuuk posts small blind 200
+ROBERTO posts big blind 400
+** Hole Cards ** [5 players]
+Buenaobra folds
+tagailog folds
+diamond folds
+sajuuk calls 200
+ROBERTO checks
+** Flop ** [Tc 7h 3d]
+sajuuk bets 1962 (All-in)
+ROBERTO folds
+sajuuk refunded 1962
+sajuuk wins Pot (925)
+** Deck ** [Qd 4s 4c 8h 4h 3s Kd Th 2s Jd Kh 6c Ts 8c 7d 7c As Ac Js 5c Tc 7h 3d]
+
+Hand #104928-14 - 2017-06-17 14:17:57
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: ROBERTO (1944)
+Seat 3: Buenaobra (1000) - sitting out
+Seat 4: tagailog (519)
+Seat 5: diamond (800)
+Seat 6: sajuuk (2887)
+sajuuk has the dealer button
+ROBERTO posts ante 25
+Buenaobra posts ante 25
+tagailog posts ante 25
+diamond posts ante 25
+sajuuk posts ante 25
+ROBERTO posts small blind 200
+Buenaobra posts big blind 400
+** Hole Cards ** [5 players]
+tagailog folds
+diamond folds
+sajuuk raises to 800
+ROBERTO raises to 1919 (All-in)
+Buenaobra folds
+sajuuk calls 1119
+** Flop ** [Th 9h Jd]
+** Turn ** [Kh]
+** River ** [6c]
+** Pot Show Down ** [Th 9h Jd Kh 6c]
+ROBERTO shows [Ac As 2h 5h] (Hi: a Flush, King high +T952  Lo: None)
+sajuuk shows [3c 4d Ah 9s] (Hi: a Pair of Nines +AKJ  Lo: None)
+ROBERTO wins Pot (4363) with a Flush
+No low hand qualified
+** Deck ** [Ac Qh Qc 5d 3c As Qs Jc 9d 4d 2h 4c 6h Qd Ah 5h 8c 3h Jh 9s Th 9h Jd Kh 6c]
+
+Hand #104931-15 - 2017-06-17 14:18:30
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: ROBERTO (4363)
+Seat 3: Buenaobra (575) - sitting out
+Seat 4: tagailog (494)
+Seat 5: diamond (775)
+Seat 6: sajuuk (943)
+ROBERTO has the dealer button
+ROBERTO posts ante 25
+Buenaobra posts ante 25
+tagailog posts ante 25
+diamond posts ante 25
+sajuuk posts ante 25
+Buenaobra posts small blind 200
+tagailog posts big blind 400
+** Hole Cards ** [5 players]
+diamond folds
+sajuuk raises to 918 (All-in)
+ROBERTO folds
+Buenaobra folds
+tagailog calls 69 (All-in)
+sajuuk refunded 449
+** Flop ** [8s 6c Tc]
+** Turn ** [3d]
+** River ** [5s]
+** Pot Show Down ** [8s 6c Tc 3d 5s]
+tagailog shows [Qs 6s 7c 3s] (Hi: Two Pair, Sixes and Threes +T  Lo: 87653)
+sajuuk shows [9s Js 9d 8h] (Hi: a Pair of Nines +T86  Lo: None)
+tagailog wins Hi Pot (632) with Two Pair
+tagailog wins Lo Pot (631) with 87653
+** Deck ** [6h Qs Th 9s 4h Kd 6s 2c Js Ks 8c 7c 4c 9d 7h 2d 3s 5h 8h 9c 8s 6c Tc 3d 5s]
+
+Hand #104932-16 - 2017-06-17 14:19:00
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: ROBERTO (4338)
+Seat 3: Buenaobra (350) - sitting out
+Seat 4: tagailog (1263)
+Seat 5: diamond (750)
+Seat 6: sajuuk (449)
+Buenaobra has the dealer button
+ROBERTO posts ante 50
+Buenaobra posts ante 50
+tagailog posts ante 50
+diamond posts ante 50
+sajuuk posts ante 50
+tagailog posts small blind 300
+diamond posts big blind 600
+** Hole Cards ** [5 players]
+sajuuk calls 399 (All-in)
+ROBERTO folds
+Buenaobra folds
+tagailog calls 300
+diamond checks
+** Flop ** [Td Ah 9c]
+tagailog checks
+diamond bets 100 (All-in)
+tagailog calls 100
+** Turn ** [As]
+** River ** [9h]
+** Side Pot 1 Show Down ** [Td Ah 9c As 9h]
+tagailog shows [2c 9d Th Jd] (Hi: a Full House, Nines full of Tens  Lo: None)
+diamond shows [Qc Jh 4d Kh] (Hi: a Pair of Aces +KQT  Lo: None)
+tagailog wins Side Pot 1 (602) with a Full House
+No low hand qualified
+** Main Pot Show Down ** [Td Ah 9c As 9h]
+sajuuk shows [Ks 9s 7c 4h] (Hi: Three of a Kind, Nines +AK  Lo: None)
+tagailog wins Main Pot (1447) with a Full House
+No low hand qualified
+sajuuk finishes tournament in place #9
+diamond finishes tournament in place #8
+** Deck ** [2c Qc Ks 3c 3h 9d Jh 9s 6s Kc Th 4d 7c 3s 7h Jd Kh 4h 2d 5s Td Ah 9c As 9h]
+
+Hand #104934-17 - 2017-06-17 14:20:39
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 3
+Seat 2: ROBERTO (4288)
+Seat 3: Buenaobra (300) - sitting out
+Seat 4: tagailog (2562)
+tagailog has the dealer button
+ROBERTO posts ante 50
+Buenaobra posts ante 50
+tagailog posts ante 50
+ROBERTO posts small blind 300
+Buenaobra posts big blind 250 (All-in)
+** Hole Cards ** [3 players]
+tagailog folds
+Buenaobra folds
+ROBERTO refunded 50
+ROBERTO wins Pot (650)
+Buenaobra finishes tournament in place #6
+** Deck ** [Jd 5h 3d 2h 6d 7d 9h 9c 3h 9d Tc 8s]
+
+tagailog moved to Table 2
+
+ROBERTO moved to Table 2
+
