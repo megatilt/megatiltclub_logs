@@ -1,0 +1,4488 @@
+﻿Hand #107051-3 - 2017-06-19 00:00:10
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1095)
+Seat 4: angrybet (1900)
+angrybet has the dealer button
+angrybet posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [2 players]
+angrybet calls 10
+CoinDoctor checks
+** Flop ** [7d 5d 2h]
+CoinDoctor bets 39
+angrybet raises to 78
+CoinDoctor calls 39
+** Turn ** [2c]
+CoinDoctor checks
+angrybet bets 63.70
+CoinDoctor calls 63.70
+** River ** [Jd]
+CoinDoctor checks
+angrybet bets 157.67
+CoinDoctor calls 157.67
+** Pot Show Down ** [7d 5d 2h 2c Jd]
+CoinDoctor shows [8c 6s 3d 9d] (Hi: a Flush, Jack high +9753  Lo: 76532)
+angrybet shows [Ah 4h 3h 7h] (Hi: Two Pair, Sevens and Deuces +A  Lo: 7532A)
+CoinDoctor wins Hi Pot (311.40) with a Flush
+angrybet wins Lo Pot (311.39) with 7532A
+Rake (15.95) Pot (638.74) Players (CoinDoctor: 319.37, angrybet: 319.37)
+** Deck ** [8c Ah 6s 4h 3d 3h 9d 7h 7d 5d 2h 2c Jd]
+
+Hand #107055-4 - 2017-06-19 00:01:41
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1087.03)
+Seat 4: angrybet (1892.02)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 10
+angrybet posts big blind 20
+** Hole Cards ** [2 players]
+CoinDoctor raises to 40
+angrybet calls 20
+** Flop ** [Ah 9d 9s]
+angrybet checks
+CoinDoctor checks
+** Turn ** [Ts]
+angrybet checks
+CoinDoctor bets 78
+angrybet folds
+CoinDoctor refunded 78
+CoinDoctor wins Pot (78)
+Rake (2) Pot (80) Players (CoinDoctor: 40, angrybet: 40)
+** Deck ** [5c Ad Qh Kd 7c 2d 2c Td Ah 9d 9s Ts]
+
+Hand #107058-5 - 2017-06-19 00:03:12
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1125.03)
+Seat 4: angrybet (1852.02)
+angrybet has the dealer button
+angrybet posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [2 players]
+angrybet calls 10
+CoinDoctor checks
+** Flop ** [7d Kd Jc]
+CoinDoctor bets 39
+angrybet calls 39
+** Turn ** [Jh]
+CoinDoctor checks
+angrybet checks
+** River ** [6c]
+CoinDoctor checks
+angrybet checks
+** Pot Show Down ** [7d Kd Jc Jh 6c]
+CoinDoctor shows [Td 4c 9s 8d] (Hi: a Pair of Jacks +KT9  Lo: None)
+angrybet shows [Qs 7c 9c 2s] (Hi: Two Pair, Jacks and Sevens +Q  Lo: None)
+angrybet wins Pot (115.05) with Two Pair
+No low hand qualified
+Rake (2.95) Pot (118) Players (CoinDoctor: 59, angrybet: 59)
+** Deck ** [Td Qs 4c 7c 9s 9c 8d 2s 7d Kd Jc Jh 6c]
+
+Hand #107061-6 - 2017-06-19 00:04:35
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1066.03)
+Seat 4: angrybet (1908.07)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 10
+angrybet posts big blind 20
+** Hole Cards ** [2 players]
+CoinDoctor has timed out
+CoinDoctor folds
+angrybet refunded 10
+angrybet wins Pot (20)
+Rake (0) Pot (20) Players (CoinDoctor: 10, angrybet: 10)
+** Deck ** [6s Kd 9c 7s Qc 6c Jh Js]
+
+Hand #107062-7 - 2017-06-19 00:05:15
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1056.03)
+Seat 4: angrybet (1918.07)
+Seat 5: Prince (1000) - waiting for big blind
+angrybet has the dealer button
+angrybet posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [2 players]
+angrybet has timed out
+angrybet folds
+CoinDoctor refunded 10
+CoinDoctor wins Pot (20)
+Rake (0) Pot (20) Players (CoinDoctor: 10, angrybet: 10)
+** Deck ** [Ah Qh 9d Ac 5s 8h 5d 8d]
+
+Hand #107064-8 - 2017-06-19 00:05:58
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1066.03)
+Seat 4: angrybet (1908.07)
+Seat 5: Prince (1000)
+Seat 6: CLS (1000)
+CoinDoctor has the dealer button
+angrybet posts small blind 10
+Prince posts big blind 20
+CLS posts big blind 20
+** Hole Cards ** [4 players]
+CLS checks
+CoinDoctor raises to 40
+angrybet calls 30
+Prince folds
+CLS calls 20
+** Flop ** [2s Ac 4d]
+angrybet checks
+CLS bets 91
+CoinDoctor calls 91
+angrybet calls 91
+** Turn ** [Qs]
+angrybet checks
+CLS checks
+CoinDoctor checks
+** River ** [Kd]
+angrybet checks
+CLS checks
+CoinDoctor checks
+** Pot Show Down ** [2s Ac 4d Qs Kd]
+CoinDoctor shows [7d Jc Ad 7s] (Hi: a Pair of Aces +KQJ  Lo: None)
+angrybet shows [6s 9c 8s Jd] (Hi: High Card Ace +KQJ9  Lo: 8642A)
+CLS shows [Qd Js 7c 5c] (Hi: a Pair of Queens +AKJ  Lo: 7542A)
+CoinDoctor wins Hi Pot (201.35) with a Pair
+CLS wins Lo Pot (201.35) with 7542A
+Rake (10.30) Pot (413) Players (CoinDoctor: 131, angrybet: 131, Prince: 20, CLS: 131)
+** Deck ** [6s 6d Qd 7d 9c 5s Js Jc 8s 9d 7c Ad Jd Qh 5c 7s 2s Ac 4d Qs Kd]
+
+Hand #107067-9 - 2017-06-19 00:07:34
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1136.38)
+Seat 4: angrybet (1777.07)
+Seat 5: Prince (980)
+Seat 6: CLS (1070.35)
+angrybet has the dealer button
+Prince posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [4 players]
+CoinDoctor folds
+angrybet folds
+Prince raises to 60
+CLS calls 40
+** Flop ** [Ah 4d Qs]
+Prince bets 58.50
+CLS calls 58.50
+** Turn ** [Jh]
+Prince checks
+CLS checks
+** River ** [Qd]
+Prince checks
+CLS bets 154.06
+Prince calls 154.06
+** Pot Show Down ** [Ah 4d Qs Jh Qd]
+Prince shows [Ad 3s 3d 7d] (Hi: Two Pair, Aces and Queens +7  Lo: None)
+CLS shows [5h Kc Js 8h] (Hi: Two Pair, Queens and Jacks +K  Lo: None)
+Prince wins Pot (531.52) with Two Pair
+No low hand qualified
+Rake (13.60) Pot (545.12) Players (CoinDoctor: 0, angrybet: 0, Prince: 272.56, CLS: 272.56)
+** Deck ** [Ad 5h 4c Jc 3s Kc 6h 6s 3d Js 2d 3h 7d 8h Jd 2s Ah 4d Qs Jh Qd]
+
+Hand #107069-10 - 2017-06-19 00:08:47
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1136.38)
+Seat 4: angrybet (1777.07)
+Seat 5: Prince (1238.96)
+Seat 6: CLS (797.79)
+Prince has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [4 players]
+angrybet calls 20
+Prince raises to 40
+CLS calls 30
+CoinDoctor calls 20
+angrybet calls 20
+** Flop ** [9s Ad 7h]
+CLS checks
+CoinDoctor checks
+angrybet checks
+Prince bets 78
+CLS folds
+CoinDoctor calls 78
+angrybet calls 78
+** Turn ** [8h]
+CoinDoctor checks
+angrybet checks
+Prince bets 256.10
+CoinDoctor folds
+angrybet calls 256.10
+** River ** [Tc]
+angrybet checks
+Prince bets 864.86 (All-in)
+angrybet folds
+Prince refunded 864.86
+Prince wins Pot (883.55)
+Rake (22.65) Pot (906.20) Players (CoinDoctor: 118, angrybet: 374.10, Prince: 374.10, CLS: 40)
+** Deck ** [2d Qc 6c 9c 9d 8s 2h Td Kc Ts Jh 5s 8c Kd 6h Js 9s Ad 7h 8h Tc]
+
+Hand #107077-11 - 2017-06-19 00:11:00
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1018.38)
+Seat 4: angrybet (1402.97)
+Seat 5: Prince (1748.41)
+Seat 6: CLS (757.79)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+angrybet posts big blind 20
+** Hole Cards ** [4 players]
+Prince folds
+CLS folds
+CoinDoctor calls 10
+angrybet checks
+** Flop ** [8c 8s 2c]
+CoinDoctor checks
+angrybet checks
+** Turn ** [Kc]
+CoinDoctor checks
+angrybet checks
+** River ** [Qd]
+CoinDoctor checks
+angrybet checks
+** Pot Show Down ** [8c 8s 2c Kc Qd]
+CoinDoctor shows [Jc 5c Jh Js] (Hi: a Flush, King high +J852  Lo: None)
+angrybet shows [Td 6d 6c 3h] (Hi: Two Pair, Eights and Sixes +K  Lo: None)
+CoinDoctor wins Pot (39) with a Flush
+No low hand qualified
+Rake (1) Pot (40) Players (CoinDoctor: 20, angrybet: 20, Prince: 0, CLS: 0)
+** Deck ** [Jc Td Ts 4s 5c 6d 6h 2h Jh 6c 5d 9d Js 3h Qc Tc 8c 8s 2c Kc Qd]
+
+Hand #107082-12 - 2017-06-19 00:12:25
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1037.38)
+Seat 4: angrybet (1382.97)
+Seat 5: Prince (1748.41)
+Seat 6: CLS (757.79)
+CoinDoctor has the dealer button
+angrybet posts small blind 10
+Prince posts big blind 20
+** Hole Cards ** [4 players]
+CLS calls 20
+CoinDoctor calls 20
+angrybet calls 10
+Prince checks
+** Flop ** [6d Ah 7d]
+angrybet checks
+Prince checks
+CLS checks
+CoinDoctor bets 60
+angrybet calls 60
+Prince folds
+CLS folds
+** Turn ** [Kd]
+angrybet checks
+bestlooser: "hello :)"
+CoinDoctor bets 80
+angrybet calls 80
+** River ** [7c]
+angrybet checks
+CoinDoctor checks
+** Pot Show Down ** [6d Ah 7d Kd 7c]
+CoinDoctor shows [3c 4h Ad Ks] (Hi: Two Pair, Aces and Kings +7  Lo: 7643A)
+angrybet shows [Qs Ac 8s Kc] (Hi: Two Pair, Aces and Kings +7  Lo: None)
+CoinDoctor splits Hi Pot (87.75) with Two Pair
+angrybet splits Hi Pot (87.75) with Two Pair
+CoinDoctor wins Lo Pot (175.50) with 7643A
+Rake (9) Pot (360) Players (CoinDoctor: 160, angrybet: 160, Prince: 20, CLS: 20)
+** Deck ** [Qs Kh Th 3c Ac 2h Qd 4h 8s 8h 3h Ad Kc 6h 9s Ks 6d Ah 7d Kd 7c]
+
+Hand #107086-13 - 2017-06-19 00:14:51
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1140.63)
+Seat 3: bestlooser (1000)
+Seat 4: angrybet (1310.72)
+Seat 5: Prince (1728.41)
+Seat 6: CLS (737.79)
+angrybet has the dealer button
+Prince posts small blind 10
+CLS posts big blind 20
+bestlooser posts big blind 20
+** Hole Cards ** [5 players]
+CoinDoctor folds
+bestlooser checks
+angrybet raises to 90
+Prince folds
+CLS calls 70
+bestlooser raises to 370
+angrybet calls 280
+CLS folds
+** Flop ** [5c Jh Td]
+bestlooser bets 630 (All-in)
+angrybet calls 630
+** Turn ** [4d]
+** River ** [8c]
+** Pot Show Down ** [5c Jh Td 4d 8c]
+bestlooser shows [3d 8d Qc 7c] (Hi: a Pair of Eights +QJT  Lo: 87543)
+angrybet shows [Jc As 2c 4s] (Hi: Two Pair, Jacks and Fours +T  Lo: 8542A)
+angrybet wins Hi Pot (1023.75) with Two Pair
+angrybet wins Lo Pot (1023.75) with 8542A
+Rake (52.50) Pot (2100) Players (CoinDoctor: 0, bestlooser: 1000, angrybet: 1000, Prince: 10, CLS: 90)
+** Deck ** [Js Kh 3s 3d Jc Qd 5d 6s 8d As 9s Th 7d Qc 2c 8s 9c Qs 7c 4s 5c Jh Td 4d 8c]
+
+Hand #107089-14 - 2017-06-19 00:16:19
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1140.63)
+Seat 3: bestlooser (0) - sitting out
+Seat 4: angrybet (2358.22)
+Seat 5: Prince (1718.41)
+Seat 6: CLS (647.79)
+Prince has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [4 players]
+angrybet calls 20
+Prince raises to 40
+CLS calls 30
+CoinDoctor folds
+angrybet calls 20
+** Flop ** [Ah Jc Ks]
+CLS bets 136.50
+angrybet calls 136.50
+Prince folds
+** Turn ** [5h]
+CLS bets 268.46
+angrybet raises to 536.92
+CLS calls 202.83 (All-in)
+angrybet refunded 65.63
+** River ** [5s]
+** Pot Show Down ** [Ah Jc Ks 5h 5s]
+angrybet shows [Jh As 9s Ts] (Hi: Two Pair, Aces and Jacks +K  Lo: None)
+CLS shows [Jd Ad Qc 2d] (Hi: Two Pair, Aces and Jacks +K  Lo: None)
+angrybet splits Pot (660.86) with Two Pair
+CLS splits Pot (660.87) with Two Pair
+No low hand qualified
+Rake (33.85) Pot (1355.58) Players (CoinDoctor: 20, angrybet: 647.79, Prince: 40, CLS: 647.79)
+** Deck ** [Jd 3d Jh Tc Ad Qs As 8s Qc 6h 9s 7h 2d 3s Ts 8c Ah Jc Ks 5h 5s]
+
+Hand #107093-15 - 2017-06-19 00:18:11
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1120.63)
+Seat 4: angrybet (2371.29)
+Seat 5: Prince (1678.41)
+Seat 6: CLS (660.87)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+angrybet posts big blind 20
+** Hole Cards ** [4 players]
+Prince folds
+CLS folds
+CoinDoctor folds
+angrybet refunded 10
+angrybet wins Pot (20)
+Rake (0) Pot (20) Players (CoinDoctor: 10, angrybet: 10, Prince: 0, CLS: 0)
+** Deck ** [Td Tc 2s 2d 8d Ts 5c 3h 2h Ad 8s Jc 4c 7s Qh 9c]
+
+Hand #107094-16 - 2017-06-19 00:18:34
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1110.63)
+Seat 4: angrybet (2381.29)
+Seat 5: Prince (1678.41)
+Seat 6: CLS (660.87)
+CoinDoctor has the dealer button
+angrybet posts small blind 10
+Prince posts big blind 20
+** Hole Cards ** [4 players]
+CLS calls 20
+CoinDoctor calls 20
+angrybet calls 10
+Prince checks
+** Flop ** [Jd 3h Kd]
+angrybet checks
+Prince bets 39
+CLS raises to 117
+CoinDoctor calls 117
+angrybet folds
+Prince raises to 546
+CLS folds
+CoinDoctor calls 429
+** Turn ** [Jc]
+Prince bets 628.40
+CoinDoctor calls 544.63 (All-in)
+Prince refunded 83.77
+** River ** [Kh]
+** Pot Show Down ** [Jd 3h Kd Jc Kh]
+CoinDoctor shows [Ah 4d 7d Jh] (Hi: Three of a Kind, Jacks +AK  Lo: None)
+Prince shows [Qs Td Qh Ad] (Hi: Two Pair, Kings and Queens +J  Lo: None)
+CoinDoctor wins Pot (2318.81) with Three of a Kind
+No low hand qualified
+Rake (59.45) Pot (2378.26) Players (CoinDoctor: 1110.63, angrybet: 20, Prince: 1110.63, CLS: 137)
+** Deck ** [7s Qs Js Ah As Td 6s 4d 8h Qh Tc 7d 2h Ad 3d Jh Jd 3h Kd Jc Kh]
+
+Hand #107098-17 - 2017-06-19 00:21:02
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (2318.81)
+Seat 4: angrybet (2361.29)
+Seat 5: Prince (567.78)
+Seat 6: CLS (523.87)
+angrybet has the dealer button
+Prince posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [4 players]
+CoinDoctor calls 20
+angrybet calls 20
+Prince calls 10
+CLS checks
+** Flop ** [Qh Jh 4s]
+Prince checks
+CLS checks
+CoinDoctor bets 78
+angrybet calls 78
+Prince folds
+CLS folds
+** Turn ** [2d]
+CoinDoctor checks
+angrybet checks
+** River ** [3d]
+CoinDoctor checks
+angrybet bets 115.05
+CoinDoctor calls 115.05
+** Pot Show Down ** [Qh Jh 4s 2d 3d]
+CoinDoctor shows [Jd 2c 6c 6s] (Hi: Two Pair, Jacks and Deuces +Q  Lo: None)
+angrybet shows [2s Th 8c Ad] (Hi: a Pair of Deuces +AQJ  Lo: 8432A)
+CoinDoctor wins Hi Pot (227.23) with Two Pair
+angrybet wins Lo Pot (227.22) with 8432A
+Rake (11.65) Pot (466.10) Players (CoinDoctor: 213.05, angrybet: 213.05, Prince: 20, CLS: 20)
+** Deck ** [4c 6d Jd 2s 8h 3h 2c Th Kc 9c 6c 8c 5h 4d 6s Ad Qh Jh 4s 2d 3d]
+
+Hand #107103-18 - 2017-06-19 00:22:53
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (2332.99)
+Seat 4: angrybet (2375.46)
+Seat 5: Prince (547.78)
+Seat 6: CLS (503.87)
+Prince has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [4 players]
+angrybet calls 20
+Prince raises to 40
+CLS calls 30
+CoinDoctor calls 20
+angrybet calls 20
+** Flop ** [Ah 5s 4s]
+CLS bets 156
+CoinDoctor calls 156
+angrybet calls 156
+Prince folds
+** Turn ** [Qh]
+CLS bets 307.87 (All-in)
+CoinDoctor calls 307.87
+angrybet folds
+** River ** [Kc]
+** Pot Show Down ** [Ah 5s 4s Qh Kc]
+CoinDoctor shows [6c 7c 6h 2c] (Hi: a Pair of Sixes +AKQ  Lo: 6542A)
+CLS shows [Jh 2d Js 3c] (Hi: a Straight, Ace to Five  Lo: 5432A)
+CLS wins Hi Pot (606.35) with a Straight
+CLS wins Lo Pot (606.34) with 5432A
+Rake (31.05) Pot (1243.74) Players (CoinDoctor: 503.87, angrybet: 196, Prince: 40, CLS: 503.87)
+** Deck ** [Jh 6c 7h 2h 2d 7c 7s Ks Js 6h 5c 9d 3c 2c Ts 8c Ah 5s 4s Qh Kc]
+
+Hand #107107-19 - 2017-06-19 00:24:20
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1829.12)
+Seat 4: angrybet (2179.46)
+Seat 5: Prince (507.78)
+Seat 6: CLS (1212.69)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+angrybet posts big blind 20
+** Hole Cards ** [4 players]
+Prince raises to 60
+CLS calls 60
+CoinDoctor calls 50
+angrybet calls 40
+** Flop ** [3d 4s 5d]
+CoinDoctor bets 180
+angrybet calls 180
+Prince folds
+CLS calls 180
+** Turn ** [5h]
+CoinDoctor bets 460
+angrybet calls 460
+CLS calls 460
+** River ** [3h]
+CoinDoctor bets 960
+angrybet calls 960
+CLS folds
+** Pot Show Down ** [3d 4s 5d 5h 3h]
+CoinDoctor shows [Kh 4c 4d 6h] (Hi: a Full House, Fours full of Fives  Lo: None)
+angrybet shows [7h 7s 5s 8c] (Hi: Three of a Kind, Fives +84  Lo: 87543)
+CoinDoctor wins Hi Pot (1989) with a Full House
+angrybet wins Lo Pot (1989) with 87543
+Rake (102) Pot (4080) Players (CoinDoctor: 1660, angrybet: 1660, Prince: 60, CLS: 700)
+** Deck ** [Kh 7h Ah 9d 4c 7s 9c Js 4d 5s Qh Ad 6h 8c Ac 7d 3d 4s 5d 5h 3h]
+
+Hand #107112-20 - 2017-06-19 00:26:45
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (2158.12)
+Seat 4: angrybet (2508.46)
+Seat 5: Prince (447.78)
+Seat 6: CLS (512.69)
+CoinDoctor has the dealer button
+angrybet posts small blind 10
+Prince posts big blind 20
+** Hole Cards ** [4 players]
+CLS calls 20
+CoinDoctor calls 20
+angrybet raises to 100
+Prince folds
+CLS calls 80
+CoinDoctor calls 80
+** Flop ** [Tc Kd Td]
+angrybet checks
+CLS bets 312
+CoinDoctor calls 312
+angrybet has timed out
+angrybet folds
+** Turn ** [7s]
+CLS bets 100.69 (All-in)
+CoinDoctor calls 100.69
+** River ** [4c]
+** Pot Show Down ** [Tc Kd Td 7s 4c]
+CoinDoctor shows [3d Ad 5c Js] (Hi: a Pair of Tens +AKJ  Lo: None)
+CLS shows [3h 9d 2c Ks] (Hi: Two Pair, Kings and Tens +9  Lo: None)
+CLS wins Pot (1116.78) with Two Pair
+No low hand qualified
+Rake (28.60) Pot (1045.38) Players (CoinDoctor: 512.69, Prince: 20, CLS: 512.69)
+** Deck ** [7d 8h 3h 3d 3c 5h 9d Ad 2h Qd 2c 5c 3s 2s Ks Js Tc Kd Td 7s 4c]
+
+Hand #107113-21 - 2017-06-19 00:28:19
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1645.43)
+Seat 5: Prince (427.78)
+Seat 6: CLS (1116.78)
+Prince has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+Prince raises to 60
+CLS calls 50
+CoinDoctor calls 40
+** Flop ** [Ts 3h As]
+CLS checks
+CoinDoctor checks
+Prince bets 175.50
+CLS folds
+CoinDoctor folds
+Prince refunded 175.50
+Prince wins Pot (175.50)
+Rake (4.50) Pot (180) Players (CoinDoctor: 60, Prince: 60, CLS: 60)
+** Deck ** [5d 6h Ad Kd 8d 3d 7s 5c 8c Kc Js Jd Ts 3h As]
+
+Hand #107114-22 - 2017-06-19 00:29:15
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1585.43)
+Seat 5: Prince (543.28)
+Seat 6: CLS (1056.78)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+Prince posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+CoinDoctor calls 10
+Prince raises to 60
+CLS calls 40
+CoinDoctor folds
+** Flop ** [8s Ad 9c]
+Prince bets 136.50
+CLS calls 136.50
+** Turn ** [Ks]
+Prince bets 346.78 (All-in)
+CLS calls 346.78
+** River ** [8d]
+** Pot Show Down ** [8s Ad 9c Ks 8d]
+Prince shows [6h 9h 4h 8h] (Hi: a Full House, Eights full of Nines  Lo: None)
+CLS shows [3s 6c Jh Ac] (Hi: Two Pair, Aces and Eights +J  Lo: None)
+Prince wins Pot (1078.91) with a Full House
+No low hand qualified
+Rake (27.65) Pot (1106.56) Players (CoinDoctor: 20, Prince: 543.28, CLS: 543.28)
+** Deck ** [Th 6h 3s 7h 9h 6c Qc 4h Jh 5d 8h Ac 8s Ad 9c Ks 8d]
+
+Hand #107115-23 - 2017-06-19 00:30:11
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (1565.43)
+Seat 5: Prince (1078.91)
+Seat 6: CLS (513.50)
+CoinDoctor has the dealer button
+Prince posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor raises to 60
+Prince calls 50
+CLS calls 40
+** Flop ** [As 8h Jh]
+Prince checks
+CLS bets 175.50
+CoinDoctor raises to 351
+Prince folds
+CLS raises to 453.50 (All-in)
+CoinDoctor calls 102.50
+** Turn ** [6s]
+** River ** [4d]
+** Pot Show Down ** [As 8h Jh 6s 4d]
+CoinDoctor shows [Ac 5h 6c Ah] (Hi: Three of a Kind, Aces +J8  Lo: 8654A)
+CLS shows [9h Th 7c 8c] (Hi: a Pair of Eights +AJT  Lo: 8764A)
+CoinDoctor wins Hi Pot (529.93) with Three of a Kind
+CoinDoctor wins Lo Pot (529.92) with 8654A
+Rake (27.15) Pot (1087) Players (CoinDoctor: 513.50, Prince: 60, CLS: 513.50)
+** Deck ** [3s 9h Ac 5s Th 5h Kd 7c 6c 2h 8c Ah As 8h Jh 6s 4d]
+
+Hand #107116-24 - 2017-06-19 00:30:55
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 2: CoinDoctor (2111.78)
+Seat 5: Prince (1018.91)
+Seat 6: CLS (0) - sitting out
+Prince has the dealer button
+Prince posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [2 players]
+CLS adds 1000 chips
+Prince raises to 60
+CoinDoctor calls 40
+** Flop ** [Ks 7s Js]
+CoinDoctor bets 117
+Prince folds
+CoinDoctor refunded 117
+CoinDoctor wins Pot (117)
+Rake (3) Pot (120) Players (CoinDoctor: 60, Prince: 60)
+** Deck ** [Th Qd 9s As 5c Ac 8s Jd Ks 7s Js]
+
+Hand #107117-25 - 2017-06-19 00:31:30
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1000)
+Seat 2: CoinDoctor (2168.78)
+Seat 5: Prince (958.91)
+CoinDoctor has the dealer button
+Prince posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor folds
+Prince raises to 60
+CLS calls 40
+** Flop ** [2h 9d 2s]
+Prince bets 117
+CLS folds
+Prince refunded 117
+Prince wins Pot (117)
+Rake (3) Pot (120) Players (CLS: 60, CoinDoctor: 0, Prince: 60)
+** Deck ** [Qs Td 5d 5h 4h Qc 5c Ac 6h Ts Js 7d 2h 9d 2s]
+
+Hand #107118-26 - 2017-06-19 00:31:57
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (940)
+Seat 2: CoinDoctor (2168.78)
+Seat 5: Prince (1015.91)
+Prince has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+Prince raises to 60
+CLS calls 50
+CoinDoctor folds
+** Flop ** [Qd As 2s]
+CLS checks
+Prince bets 136.50
+CoinDoctor: "gotta go for now"
+CLS folds
+Prince refunded 136.50
+Prince wins Pot (136.50)
+Rake (3.50) Pot (120) Players (CLS: 60, Prince: 60)
+** Deck ** [8s 3d 5c 3c 5h Qs Th 6c Kc 6h Jh 7h Qd As 2s]
+
+Hand #107119-27 - 2017-06-19 00:32:36
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (880)
+Seat 5: Prince (1092.41)
+CLS has the dealer button
+CLS posts small blind 10
+Prince posts big blind 20
+** Hole Cards ** [2 players]
+CLS calls 10
+Prince raises to 60
+CLS calls 40
+** Flop ** [Ah Jc Qd]
+Prince bets 117
+CLS folds
+Prince refunded 117
+Prince wins Pot (117)
+Rake (3) Pot (120) Players (CLS: 60, Prince: 60)
+** Deck ** [6d 3c 4c 3s 7h 5s Ad 2c Ah Jc Qd]
+
+Hand #107120-28 - 2017-06-19 00:33:04
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (820)
+Seat 5: Prince (1149.41)
+Prince has the dealer button
+Prince posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [2 players]
+Prince raises to 40
+CLS calls 20
+** Flop ** [9h 6d Ad]
+CLS checks
+Prince bets 39
+CLS calls 39
+** Turn ** [Qh]
+CLS checks
+Prince bets 102.70
+CLS folds
+Prince refunded 102.70
+Prince wins Pot (154.05)
+Rake (3.95) Pot (158) Players (CLS: 79, Prince: 79)
+** Deck ** [8h 5h 3d 7s 3c Jh Kc 4d 9h 6d Ad Qh]
+
+Hand #107121-29 - 2017-06-19 00:33:42
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (741)
+Seat 5: Prince (1224.46)
+CLS has the dealer button
+CLS posts small blind 10
+Prince posts big blind 20
+** Hole Cards ** [2 players]
+CLS calls 10
+Prince checks
+** Flop ** [4h Qh Qs]
+Prince checks
+CLS bets 39
+Prince folds
+CLS refunded 39
+CLS wins Pot (39)
+Rake (1) Pot (40) Players (CLS: 20, Prince: 20)
+** Deck ** [Kh Js 9d 9h Ks 7s 3c 5c 4h Qh Qs]
+
+Hand #107122-30 - 2017-06-19 00:34:04
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (760)
+Seat 5: Prince (1204.46)
+Prince has the dealer button
+Prince posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [2 players]
+Prince raises to 40
+CLS calls 20
+** Flop ** [5c Jh Th]
+CLS checks
+Prince checks
+** Turn ** [5d]
+CLS bets 78
+Prince folds
+CLS refunded 78
+CLS wins Pot (78)
+Rake (2) Pot (80) Players (CLS: 40, Prince: 40)
+** Deck ** [3s 2s Js 7c 4d 6h 9d 2d 5c Jh Th 5d]
+
+Hand #107123-31 - 2017-06-19 00:34:32
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (798)
+Seat 5: Prince (1164.46)
+CLS has the dealer button
+CLS posts small blind 10
+Prince posts big blind 20
+** Hole Cards ** [2 players]
+CLS raises to 60
+Prince calls 40
+** Flop ** [5c 2h 3s]
+Prince checks
+CLS bets 117
+Prince folds
+CLS refunded 117
+CLS wins Pot (117)
+Rake (3) Pot (120) Players (CLS: 60, Prince: 60)
+** Deck ** [Kc 2s As 2d Jd 8h 9h 6s 5c 2h 3s]
+
+Hand #107124-32 - 2017-06-19 00:34:59
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (855)
+Seat 5: Prince (1104.46)
+Prince has the dealer button
+Prince posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [2 players]
+Prince raises to 40
+CLS calls 20
+** Flop ** [2c Ts 8s]
+CLS checks
+Prince bets 39
+CLS folds
+Prince refunded 39
+Prince wins Pot (78)
+Rake (2) Pot (80) Players (CLS: 40, Prince: 40)
+** Deck ** [3c 8d 4c 5h 4d Kh 3s 4h 2c Ts 8s]
+
+Hand #107125-33 - 2017-06-19 00:35:23
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (815)
+Seat 5: Prince (1142.46)
+CLS has the dealer button
+CLS posts small blind 10
+Prince posts big blind 20
+** Hole Cards ** [2 players]
+CLS raises to 60
+Prince calls 40
+** Flop ** [Ad 5s 9h]
+Prince checks
+CLS bets 117
+Prince calls 117
+** Turn ** [Qs]
+Prince checks
+CLS bets 115.05
+Prince raises to 690.30
+CLS calls 522.95 (All-in)
+Prince refunded 52.30
+** River ** [4h]
+** Pot Show Down ** [Ad 5s 9h Qs 4h]
+CLS shows [2s 3d 7d 8s] (Hi: a Straight, Ace to Five  Lo: 5432A)
+Prince shows [Ks Jh 9c Ah] (Hi: Two Pair, Aces and Nines +Q  Lo: None)
+CLS wins Hi Pot (794.63) with a Straight
+CLS wins Lo Pot (794.62) with 5432A
+Rake (40.75) Pot (1630) Players (CLS: 815, Prince: 815)
+** Deck ** [Ks 2s Jh 3d 9c 7d Ah 8s Ad 5s 9h Qs 4h]
+
+Hand #107126-34 - 2017-06-19 00:36:13
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1589.25)
+Seat 5: Prince (327.46)
+Prince has the dealer button
+Prince posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [2 players]
+Prince raises to 60
+CLS calls 40
+** Flop ** [2d 8c 4h]
+CLS checks
+Prince bets 117
+CLS raises to 234
+Prince raises to 267.46 (All-in)
+CLS calls 33.46
+** Turn ** [5s]
+** River ** [5h]
+** Pot Show Down ** [2d 8c 4h 5s 5h]
+CLS shows [Ts 3s 4d 6h] (Hi: a Straight, Deuce to Six  Lo: 65432)
+Prince shows [3c 2s 6c 2h] (Hi: a Full House, Deuces full of Fives  Lo: 65432)
+Prince wins Hi Pot (319.29) with a Full House
+CLS splits Lo Pot (159.64) with 65432
+Prince splits Lo Pot (159.64) with 65432
+Rake (16.35) Pot (654.92) Players (CLS: 327.46, Prince: 327.46)
+** Deck ** [Ts 3c 3s 2s 4d 6c 6h 2h 2d 8c 4h 5s 5h]
+
+Hand #107127-35 - 2017-06-19 00:36:46
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1421.43)
+Seat 5: Prince (478.93)
+CLS has the dealer button
+CLS posts small blind 10
+Prince posts big blind 20
+** Hole Cards ** [2 players]
+CLS calls 10
+Prince raises to 60
+CLS calls 40
+** Flop ** [8c 8s Qh]
+Prince bets 117
+CLS folds
+Prince refunded 117
+Prince wins Pot (117)
+Rake (3) Pot (120) Players (CLS: 60, Prince: 60)
+** Deck ** [6d Td 9s 5h 7d 6h 2h Qc 8c 8s Qh]
+
+Hand #107128-36 - 2017-06-19 00:37:24
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1361.43)
+Seat 5: Prince (535.93)
+Prince has the dealer button
+Prince posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [2 players]
+Prince raises to 60
+CLS calls 40
+** Flop ** [5c 8c 2c]
+CLS bets 78
+Prince folds
+CLS refunded 78
+CLS wins Pot (117)
+Rake (3) Pot (120) Players (CLS: 60, Prince: 60)
+** Deck ** [9c Jd 9s 5d 6c 8d Kh As 5c 8c 2c]
+
+Hand #107129-37 - 2017-06-19 00:37:57
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1418.43)
+Seat 5: Prince (475.93)
+CLS has the dealer button
+CLS posts small blind 10
+Prince posts big blind 20
+** Hole Cards ** [2 players]
+CLS raises to 60
+Prince calls 40
+** Flop ** [Ah Ac 3h]
+Prince checks
+CLS checks
+** Turn ** [8d]
+Prince bets 58.50
+CLS calls 58.50
+** River ** [9d]
+Prince bets 231.10
+CLS raises to 462.20
+Prince calls 126.33 (All-in)
+CLS refunded 104.77
+** Pot Show Down ** [Ah Ac 3h 8d 9d]
+CLS shows [6h As Jd 3d] (Hi: a Full House, Aces full of Threes  Lo: None)
+Prince shows [5c Qh Ks Ad] (Hi: Three of a Kind, Aces +K9  Lo: None)
+CLS wins Pot (928.11) with a Full House
+No low hand qualified
+Rake (23.75) Pot (951.86) Players (CLS: 475.93, Prince: 475.93)
+** Deck ** [5c 6h Qh As Ks Jd Ad 3d Ah Ac 3h 8d 9d]
+
+Prince: "gg"
+Hand #108398-1 - 2017-06-19 20:36:36
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1000)
+Seat 3: bestlooser (1000)
+bestlooser has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [2 players]
+bestlooser raises to 60
+CLS calls 40
+** Flop ** [Qh 2h 7s]
+CLS bets 117
+bestlooser calls 117
+** Turn ** [Ad]
+CLS bets 345.15
+bestlooser calls 345.15
+** River ** [8c]
+CLS bets 477.85 (All-in)
+bestlooser calls 477.85 (All-in)
+** Pot Show Down ** [Qh 2h 7s Ad 8c]
+CLS shows [Td 8s Qs 3h] (Hi: Two Pair, Queens and Eights +A  Lo: 8732A)
+bestlooser shows [5d Ah 7c Kh] (Hi: Two Pair, Aces and Sevens +Q  Lo: 8752A)
+bestlooser wins Hi Pot (975) with Two Pair
+CLS wins Lo Pot (975) with 8732A
+Rake (50) Pot (2000) Players (CLS: 1000, bestlooser: 1000)
+** Deck ** [Td 5d 8s Ah Qs 7c 3h Kh Qh 2h 7s Ad 8c]
+
+Hand #108399-2 - 2017-06-19 20:37:50
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (975)
+Seat 3: bestlooser (975)
+CLS has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [2 players]
+CLS calls 10
+bestlooser raises to 60
+CLS calls 40
+** Flop ** [5c 9s Td]
+bestlooser bets 117
+CLS folds
+bestlooser refunded 117
+bestlooser wins Pot (117)
+Rake (3) Pot (120) Players (CLS: 60, bestlooser: 60)
+** Deck ** [7s 2s 9d Qh 3s 9c Jc 6d 5c 9s Td]
+
+Hand #108400-3 - 2017-06-19 20:38:44
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (915)
+Seat 3: bestlooser (1032)
+bestlooser has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [2 players]
+bestlooser raises to 60
+CLS calls 40
+** Flop ** [3s 5h 7c]
+CLS bets 117
+bestlooser folds
+CLS refunded 117
+CLS wins Pot (117)
+Rake (3) Pot (120) Players (CLS: 60, bestlooser: 60)
+** Deck ** [Ah 8s 7s 2d 3d Qc 2s Kd 3s 5h 7c]
+
+Hand #108401-4 - 2017-06-19 20:39:16
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (972)
+Seat 3: bestlooser (972)
+CLS has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [2 players]
+CLS calls 10
+bestlooser checks
+** Flop ** [3c 2s 5s]
+bestlooser checks
+CLS bets 39
+bestlooser calls 39
+** Turn ** [5c]
+bestlooser checks
+CLS checks
+** River ** [2d]
+bestlooser checks
+CLS bets 115.05
+bestlooser calls 115.05
+** Pot Show Down ** [3c 2s 5s 5c 2d]
+CLS shows [Jh 7d 3h 2c] (Hi: a Full House, Deuces full of Threes  Lo: None)
+bestlooser shows [6h 6d Qs 7c] (Hi: Two Pair, Sixes and Fives +3  Lo: 76532)
+CLS wins Hi Pot (169.70) with a Full House
+bestlooser wins Lo Pot (169.70) with 76532
+Rake (8.70) Pot (348.10) Players (CLS: 174.05, bestlooser: 174.05)
+** Deck ** [6h Jh 6d 7d Qs 3h 7c 2c 3c 2s 5s 5c 2d]
+
+Hand #108402-5 - 2017-06-19 20:40:15
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (967.65)
+Seat 3: bestlooser (967.65)
+bestlooser has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [2 players]
+bestlooser calls 10
+CLS checks
+** Flop ** [Jd Jc Kd]
+CLS checks
+bestlooser checks
+** Turn ** [3h]
+CLS bets 39
+bestlooser folds
+CLS refunded 39
+CLS wins Pot (39)
+Rake (1) Pot (40) Players (CLS: 20, bestlooser: 20)
+** Deck ** [Ts 8h Td 2d 4h Tc 2h 9c Jd Jc Kd 3h]
+
+Hand #108403-6 - 2017-06-19 20:41:05
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (986.65)
+Seat 3: bestlooser (947.65)
+CLS has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [2 players]
+CLS raises to 60
+bestlooser calls 40
+** Flop ** [7c Qs 5c]
+bestlooser bets 117
+CLS folds
+bestlooser refunded 117
+bestlooser wins Pot (117)
+Rake (3) Pot (120) Players (CLS: 60, bestlooser: 60)
+** Deck ** [4h 5s Qh 8h Kc Th 8d As 7c Qs 5c]
+
+Hand #108404-7 - 2017-06-19 20:41:56
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (926.65)
+Seat 3: bestlooser (1004.65)
+bestlooser has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [2 players]
+bestlooser raises to 60
+CLS calls 40
+** Flop ** [8d 8h 8c]
+CLS bets 117
+bestlooser raises to 468
+CLS folds
+bestlooser refunded 351
+bestlooser wins Pot (345.15)
+Rake (8.85) Pot (354) Players (CLS: 177, bestlooser: 177)
+** Deck ** [2h As 6h Js 4c Kh 4d Ad 8d 8h 8c]
+
+Hand #108405-8 - 2017-06-19 20:42:51
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (749.65)
+Seat 3: bestlooser (1172.80)
+CLS has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [2 players]
+CLS raises to 60
+bestlooser calls 40
+** Flop ** [Td Qs 4s]
+bestlooser checks
+CLS checks
+** Turn ** [Tc]
+bestlooser checks
+CLS bets 117
+bestlooser calls 117
+** River ** [Kh]
+bestlooser checks
+CLS checks
+** Pot Show Down ** [Td Qs 4s Tc Kh]
+CLS shows [Ac Th 8d 7h] (Hi: Three of a Kind, Tens +AK  Lo: None)
+bestlooser shows [3c 3h Kd Jc] (Hi: Two Pair, Kings and Tens +J  Lo: None)
+CLS wins Pot (345.15) with Three of a Kind
+No low hand qualified
+Rake (8.85) Pot (354) Players (CLS: 177, bestlooser: 177)
+** Deck ** [3c Ac 3h Th Kd 8d Jc 7h Td Qs 4s Tc Kh]
+
+Hand #108406-9 - 2017-06-19 20:43:55
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (917.80)
+Seat 3: bestlooser (995.80)
+bestlooser has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [2 players]
+bestlooser raises to 60
+CLS calls 40
+** Flop ** [7s 4s 8h]
+CLS bets 58.50
+bestlooser calls 58.50
+** Turn ** [5d]
+CLS bets 77.03
+bestlooser folds
+CLS refunded 77.03
+CLS wins Pot (231.10)
+Rake (5.90) Pot (237) Players (CLS: 118.50, bestlooser: 118.50)
+** Deck ** [Jh 4d 2s 7c 4c 8s 9s Qc 7s 4s 8h 5d]
+
+Hand #108407-10 - 2017-06-19 20:45:24
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1030.40)
+Seat 3: bestlooser (877.30)
+Seat 4: shtako (2000)
+CLS has the dealer button
+bestlooser posts small blind 10
+shtako posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+bestlooser raises to 80
+shtako folds
+CLS calls 60
+** Flop ** [2d 3c 8s]
+bestlooser bets 175.50
+CLS folds
+bestlooser refunded 175.50
+bestlooser wins Pot (175.50)
+Rake (4.50) Pot (180) Players (CLS: 80, bestlooser: 80, shtako: 20)
+** Deck ** [Qc 5s Js As Kd 7d Qs Ts Ks 9h Jc 5h 2d 3c 8s]
+
+Hand #108409-11 - 2017-06-19 20:46:18
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (950.40)
+Seat 3: bestlooser (972.80)
+Seat 4: shtako (1980)
+bestlooser has the dealer button
+shtako posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser folds
+shtako raises to 60
+CLS calls 40
+** Flop ** [Jd 2s Ah]
+shtako bets 78
+CLS calls 78
+** Turn ** [6h]
+shtako checks
+CLS bets 179.40
+shtako calls 179.40
+** River ** [6c]
+shtako checks
+CLS checks
+** Pot Show Down ** [Jd 2s Ah 6h 6c]
+CLS shows [3h Td 4c 9s] (Hi: a Pair of Sixes +AT9  Lo: 6432A)
+shtako shows [Qh Qd 7h 8s] (Hi: Two Pair, Queens and Sixes +A  Lo: 8762A)
+shtako wins Hi Pot (309.48) with Two Pair
+CLS wins Lo Pot (309.47) with 6432A
+Rake (15.85) Pot (634.80) Players (CLS: 317.40, bestlooser: 0, shtako: 317.40)
+** Deck ** [Qh 3h Tc Qd Td 7d 7h 4c Th 8s 9s Kd Jd 2s Ah 6h 6c]
+
+Hand #108411-12 - 2017-06-19 20:47:15
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (942.47)
+Seat 3: bestlooser (972.80)
+Seat 4: shtako (1972.08)
+shtako has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+shtako raises to 70
+CLS folds
+bestlooser calls 50
+** Flop ** [Tc Ks Qh]
+bestlooser checks
+shtako bets 146.25
+bestlooser calls 146.25
+** Turn ** [9h]
+bestlooser checks
+shtako checks
+** River ** [Qd]
+bestlooser checks
+shtako checks
+** Pot Show Down ** [Tc Ks Qh 9h Qd]
+bestlooser shows [4h Ad Kh 5c] (Hi: Two Pair, Kings and Queens +A  Lo: None)
+shtako shows [8h 9c Ac 4s] (Hi: Two Pair, Queens and Nines +A  Lo: None)
+bestlooser wins Pot (431.45) with Two Pair
+No low hand qualified
+Rake (11.05) Pot (442.50) Players (CLS: 10, bestlooser: 216.25, shtako: 216.25)
+** Deck ** [Qc 4h 8h Ts Ad 9c 2h Kh Ac 3c 5c 4s Tc Ks Qh 9h Qd]
+
+Hand #108413-13 - 2017-06-19 20:48:25
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (932.47)
+Seat 3: bestlooser (1188)
+Seat 4: shtako (1755.83)
+CLS has the dealer button
+bestlooser posts small blind 10
+shtako posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+bestlooser calls 10
+shtako checks
+** Flop ** [3d 4c 9s]
+bestlooser checks
+shtako checks
+CLS checks
+** Turn ** [2d]
+bestlooser checks
+shtako bets 58.50
+CLS folds
+bestlooser calls 58.50
+** River ** [Kd]
+bestlooser checks
+shtako bets 172.60
+bestlooser calls 172.60
+** Pot Show Down ** [3d 4c 9s 2d Kd]
+bestlooser shows [8c 5s 5c 6s] (Hi: a Straight, Deuce to Six  Lo: 65432)
+shtako shows [4d Tc 8s 6d] (Hi: a Flush, King high +6432  Lo: 86432)
+shtako wins Hi Pot (254.58) with a Flush
+bestlooser wins Lo Pot (254.57) with 65432
+Rake (13.05) Pot (522.20) Players (CLS: 20, bestlooser: 251.10, shtako: 251.10)
+** Deck ** [8c 4d Ts 5s Tc Js 5c 8s 5d 6s 6d 9h 3d 4c 9s 2d Kd]
+
+Hand #108415-14 - 2017-06-19 20:50:04
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (912.47)
+Seat 3: bestlooser (1191.47)
+Seat 4: shtako (1759.31)
+bestlooser has the dealer button
+shtako posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser raises to 70
+shtako calls 60
+CLS calls 50
+** Flop ** [Jh 5s Kd]
+shtako checks
+CLS checks
+bestlooser bets 204.75
+shtako folds
+CLS folds
+bestlooser refunded 204.75
+bestlooser wins Pot (204.75)
+Rake (5.25) Pot (210) Players (CLS: 70, bestlooser: 70, shtako: 70)
+** Deck ** [8s 9s 4h 7h 2h Kh As Jd 6h Qc 3d Ad Jh 5s Kd]
+
+Hand #108417-15 - 2017-06-19 20:51:09
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (842.47)
+Seat 3: bestlooser (1326.22)
+Seat 4: shtako (1689.31)
+shtako has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+shtako raises to 70
+CLS calls 60
+bestlooser folds
+** Flop ** [7d 9h Kc]
+CLS checks
+shtako checks
+** Turn ** [Qh]
+CLS checks
+shtako checks
+** River ** [4h]
+CLS checks
+shtako checks
+** Pot Show Down ** [7d 9h Kc Qh 4h]
+CLS shows [8h 9c 2c 4s] (Hi: Two Pair, Nines and Fours +K  Lo: None)
+shtako shows [Ts 7h 2s Ad] (Hi: a Pair of Sevens +AKQ  Lo: None)
+CLS wins Pot (156) with Two Pair
+No low hand qualified
+Rake (4) Pot (160) Players (CLS: 70, bestlooser: 20, shtako: 70)
+** Deck ** [8h Ks Ts 9c 5d 7h 2c Jh 2s 4s 6d Ad 7d 9h Kc Qh 4h]
+
+Hand #108420-16 - 2017-06-19 20:51:59
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (928.47)
+Seat 3: bestlooser (1306.22)
+Seat 4: shtako (1619.31)
+CLS has the dealer button
+bestlooser posts small blind 10
+shtako posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+bestlooser calls 10
+shtako checks
+** Flop ** [6h Ac 2c]
+bestlooser checks
+shtako checks
+CLS checks
+** Turn ** [5d]
+bestlooser checks
+shtako checks
+CLS checks
+** River ** [Th]
+bestlooser checks
+shtako checks
+CLS checks
+** Pot Show Down ** [6h Ac 2c 5d Th]
+CLS shows [9h 8h Jh 9c] (Hi: a Pair of Nines +AT6  Lo: None)
+bestlooser shows [Td Kc 4c 7d] (Hi: a Pair of Tens +AK6  Lo: 7542A)
+shtako shows [4s Qc Ks Qs] (Hi: a Pair of Queens +AT6  Lo: None)
+shtako wins Hi Pot (29.25) with a Pair
+bestlooser wins Lo Pot (29.25) with 7542A
+Rake (1.50) Pot (60) Players (CLS: 20, bestlooser: 20, shtako: 20)
+** Deck ** [Td 4s 9h Kc Qc 8h 4c Ks Jh 7d Qs 9c 6h Ac 2c 5d Th]
+
+Hand #108422-17 - 2017-06-19 20:53:18
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (908.47)
+Seat 3: bestlooser (1315.47)
+Seat 4: shtako (1628.56)
+bestlooser has the dealer button
+shtako posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser raises to 70
+shtako folds
+CLS folds
+bestlooser refunded 50
+bestlooser wins Pot (50)
+Rake (0) Pot (50) Players (CLS: 20, bestlooser: 20, shtako: 10)
+** Deck ** [6s Tc 5d Ah 9h 6h 5s 2d Ks Td Qc 3d]
+
+Hand #108423-18 - 2017-06-19 20:53:47
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (888.47)
+Seat 3: bestlooser (1345.47)
+Seat 4: shtako (1618.56)
+shtako has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+shtako has timed out
+shtako folds
+CLS calls 10
+bestlooser raises to 60
+CLS calls 40
+** Flop ** [2h 4h Td]
+CLS checks
+bestlooser checks
+** Turn ** [9s]
+CLS checks
+bestlooser checks
+** River ** [As]
+CLS bets 117
+bestlooser folds
+CLS refunded 117
+CLS wins Pot (117)
+Rake (3) Pot (120) Players (CLS: 60, bestlooser: 60, shtako: 0)
+** Deck ** [Kh 4d Qd 6h Ad 9h 7h 2c Qs 6d 8h 6s 2h 4h Td 9s As]
+
+Hand #108425-19 - 2017-06-19 20:55:28
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (945.47)
+Seat 3: bestlooser (1285.47)
+Seat 4: shtako (1618.56)
+CLS has the dealer button
+bestlooser posts small blind 10
+shtako posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+bestlooser calls 10
+shtako checks
+** Flop ** [5d Ts 8d]
+bestlooser checks
+shtako checks
+CLS bets 58.50
+bestlooser calls 58.50
+shtako folds
+** Turn ** [4h]
+bestlooser checks
+CLS checks
+** River ** [8c]
+bestlooser bets 172.60
+CLS folds
+bestlooser refunded 172.60
+bestlooser wins Pot (172.60)
+Rake (4.40) Pot (177) Players (CLS: 78.50, bestlooser: 78.50, shtako: 20)
+** Deck ** [9d 3c 7h 7d 3h Jh 2c 5s Tc 3d 9s Qs 5d Ts 8d 4h 8c]
+
+Hand #108430-20 - 2017-06-19 20:57:07
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (866.97)
+Seat 3: bestlooser (1379.57)
+Seat 4: shtako (1598.56)
+bestlooser has the dealer button
+shtako posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser folds
+shtako calls 10
+CLS checks
+** Flop ** [Ks 6c Kc]
+shtako checks
+CLS checks
+** Turn ** [9h]
+shtako checks
+CLS checks
+** River ** [7d]
+shtako checks
+CLS checks
+** Pot Show Down ** [Ks 6c Kc 9h 7d]
+CLS shows [2d 8c 4s 8s] (Hi: Two Pair, Kings and Eights +9  Lo: None)
+shtako shows [Ts 4c 9s As] (Hi: Two Pair, Kings and Nines +A  Lo: None)
+shtako wins Pot (39) with Two Pair
+No low hand qualified
+Rake (1) Pot (40) Players (CLS: 20, bestlooser: 0, shtako: 20)
+** Deck ** [Ts 2d Kd 4c 8c 7c 9s 4s Jd As 8s 3h Ks 6c Kc 9h 7d]
+
+Hand #108432-21 - 2017-06-19 20:58:17
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (846.97)
+Seat 3: bestlooser (1379.57)
+Seat 4: shtako (1617.56)
+shtako has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+shtako calls 20
+CLS calls 10
+bestlooser checks
+** Flop ** [Kh Qd 3h]
+CLS checks
+bestlooser bets 58.50
+shtako folds
+CLS folds
+bestlooser refunded 58.50
+bestlooser wins Pot (58.50)
+Rake (1.50) Pot (60) Players (CLS: 20, bestlooser: 20, shtako: 20)
+** Deck ** [Th Kd 7s 9d 6c 4d 3s Jh 5h 9s 4h Js Kh Qd 3h]
+
+Hand #108434-22 - 2017-06-19 20:59:12
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (826.97)
+Seat 3: bestlooser (1418.07)
+Seat 4: shtako (1597.56)
+CLS has the dealer button
+bestlooser posts small blind 10
+shtako posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+bestlooser raises to 80
+shtako calls 60
+CLS calls 60
+** Flop ** [8c 9c Ts]
+bestlooser bets 234
+shtako calls 234
+CLS calls 234
+** Turn ** [6c]
+bestlooser bets 918.45
+shtako raises to 1283.56 (All-in)
+CLS folds
+bestlooser calls 185.62 (All-in)
+shtako refunded 179.49
+** River ** [As]
+** Pot Show Down ** [8c 9c Ts 6c As]
+bestlooser shows [Qc 3h 6s Ac] (Hi: a Flush, Ace high +Q986  Lo: None)
+shtako shows [4c 8s 5c 4h] (Hi: a Flush, Nine high +8654  Lo: 8654A)
+bestlooser wins Hi Pot (1535.70) with a Flush
+shtako wins Lo Pot (1535.69) with 8654A
+Rake (78.75) Pot (3150.14) Players (CLS: 314, bestlooser: 1418.07, shtako: 1418.07)
+** Deck ** [Qc 4c 8h 3h 8s Ks 6s 5c Ad Ac 4h Tc 8c 9c Ts 6c As]
+
+Hand #108439-23 - 2017-06-19 21:00:44
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (512.97)
+Seat 3: bestlooser (1535.70)
+Seat 4: shtako (1715.18)
+Seat 5: Protek (1000)
+bestlooser has the dealer button
+shtako posts small blind 10
+Protek posts big blind 20
+** Hole Cards ** [4 players]
+CLS calls 20
+bestlooser raises to 90
+shtako calls 80
+Protek calls 70
+CLS calls 70
+** Flop ** [Qh 8c Qc]
+shtako checks
+Protek checks
+CLS bets 175.50
+bestlooser folds
+shtako folds
+Protek folds
+CLS refunded 175.50
+CLS wins Pot (351)
+Rake (9) Pot (360) Players (CLS: 90, bestlooser: 90, shtako: 90, Protek: 90)
+** Deck ** [3s 9c 9s Th Ts 6h 8s Ah As 7h Ac 5h 6s 9d Qs 4c Qh 8c Qc]
+
+Hand #108441-24 - 2017-06-19 21:01:53
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (773.97)
+Seat 3: bestlooser (1445.70)
+Seat 4: shtako (1625.18)
+Seat 5: Protek (910)
+shtako has the dealer button
+Protek posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [4 players]
+bestlooser folds
+shtako raises to 70
+Protek folds
+CLS folds
+shtako refunded 50
+shtako wins Pot (50)
+Rake (0) Pot (50) Players (CLS: 20, bestlooser: 0, shtako: 20, Protek: 10)
+** Deck ** [6d 4d Qh 3c 2h Jd 6s 3d Qd 8d 2c Kd 4h 9s Kh Ad]
+
+Hand #108444-25 - 2017-06-19 21:02:34
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (753.97)
+Seat 3: bestlooser (1445.70)
+Seat 4: shtako (1655.18)
+Seat 5: Protek (900)
+Protek has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [4 players]
+shtako folds
+Protek calls 20
+CLS calls 10
+bestlooser checks
+** Flop ** [Jd 7c 4s]
+CLS bets 58.50
+bestlooser calls 58.50
+Protek calls 58.50
+** Turn ** [Kh]
+CLS bets 229.65
+bestlooser calls 229.65
+Protek folds
+** River ** [9c]
+CLS bets 445.82 (All-in)
+bestlooser folds
+CLS refunded 445.82
+CLS wins Pot (677.45)
+Rake (17.35) Pot (694.80) Players (CLS: 308.15, bestlooser: 308.15, shtako: 0, Protek: 78.50)
+** Deck ** [Kc 3h Th 6c 7d Kd Js 3s 7s 2s 4d Ad 9h 6s Qd 3d Jd 7c 4s Kh 9c]
+
+Hand #108448-26 - 2017-06-19 21:04:16
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1123.27)
+Seat 3: bestlooser (1137.55)
+Seat 4: shtako (1655.18)
+Seat 5: Protek (821.50)
+CLS has the dealer button
+bestlooser posts small blind 10
+shtako posts big blind 20
+** Hole Cards ** [4 players]
+Protek calls 20
+CLS folds
+bestlooser calls 10
+shtako raises to 80
+Protek calls 60
+bestlooser raises to 320
+shtako calls 240
+Protek calls 240
+** Flop ** [6s 4c 6h]
+bestlooser bets 817.55 (All-in)
+shtako calls 817.55
+Protek calls 501.50 (All-in)
+** Turn ** [Ah]
+** River ** [Kh]
+** Side Pot 1 Show Down ** [6s 4c 6h Ah Kh]
+bestlooser shows [7c 2c 5h Tc] (Hi: a Pair of Sixes +AT7  Lo: 6542A)
+shtako shows [3s 3d 7s 2d] (Hi: Two Pair, Sixes and Threes +A  Lo: 6432A)
+shtako wins Hi Side Pot 1 (308.15) with Two Pair
+shtako wins Lo Side Pot 1 (308.15) with 6432A
+Rake (15.80) Pot (632.10) Players (CLS: 0, bestlooser: 316.05, shtako: 316.05, Protek: 0)
+** Main Pot Show Down ** [6s 4c 6h Ah Kh]
+Protek shows [2s Ad Jd Jc] (Hi: Two Pair, Aces and Sixes +J  Lo: None)
+Protek wins Hi Main Pot (1201.45) with Two Pair
+shtako wins Lo Main Pot (1201.45) with 6432A
+Rake (61.60) Pot (2464.50) Players (CLS: 0, bestlooser: 821.50, shtako: 821.50, Protek: 821.50)
+** Deck ** [7c 3s 2s 5s 2c 3d Ad 4h 5h 7s Jd 5c Tc 2d Jc 5d 6s 4c 6h Ah Kh]
+
+Hand #108453-27 - 2017-06-19 21:05:56
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1123.27)
+Seat 3: bestlooser (0) - sitting out
+Seat 4: shtako (2335.38)
+Seat 5: Protek (1201.45)
+shtako has the dealer button
+Protek posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+shtako raises to 70
+Protek folds
+CLS calls 50
+** Flop ** [7d Qc Ts]
+CLS checks
+shtako checks
+** Turn ** [9h]
+CLS bets 146.25
+shtako folds
+CLS refunded 146.25
+CLS wins Pot (146.25)
+Rake (3.75) Pot (150) Players (CLS: 70, shtako: 70, Protek: 10)
+** Deck ** [Ks 5s 2c Qs 3d 8d 4s 9s 2d Js 7c 8s 7d Qc Ts 9h]
+
+Hand #108458-28 - 2017-06-19 21:06:42
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1199.52)
+Seat 3: bestlooser (0) - sitting out
+Seat 4: shtako (2265.38)
+Seat 5: Protek (1191.45)
+Protek has the dealer button
+CLS posts small blind 10
+shtako posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser adds 1000 chips
+Protek calls 20
+CLS calls 10
+shtako checks
+** Flop ** [Ks 7h Qs]
+CLS bets 58.50
+shtako calls 58.50
+Protek calls 58.50
+** Turn ** [Qh]
+CLS checks
+shtako checks
+Protek checks
+** River ** [Kc]
+CLS bets 229.65
+shtako folds
+Protek folds
+CLS refunded 229.65
+CLS wins Pot (229.65)
+Rake (5.85) Pot (235.50) Players (CLS: 78.50, shtako: 78.50, Protek: 78.50)
+** Deck ** [2d 8s 4d 7c 6s As Td 6h 8d Kh 9s 2s Ks 7h Qs Qh Kc]
+
+Hand #108461-29 - 2017-06-19 21:07:47
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1350.67)
+Seat 3: bestlooser (1000)
+Seat 4: shtako (2186.88)
+Seat 5: Protek (1112.95)
+Seat 6: AlphaWolf (2000)
+CLS has the dealer button
+shtako posts small blind 10
+Protek posts big blind 20
+AlphaWolf posts big blind 20
+** Hole Cards ** [4 players]
+AlphaWolf checks
+CLS calls 20
+shtako raises to 100
+Protek folds
+AlphaWolf calls 80
+CLS calls 80
+** Flop ** [9d Ac 7s]
+shtako bets 312
+AlphaWolf folds
+CLS folds
+shtako refunded 312
+shtako wins Pot (312)
+Rake (8) Pot (320) Players (CLS: 100, shtako: 100, Protek: 20, AlphaWolf: 100)
+** Deck ** [Ad 5c Jh Kd As 4s Jc 5d 7d Qs Kc Tc Kh 8h 7c 6s 9d Ac 7s]
+
+Hand #108463-30 - 2017-06-19 21:08:42
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1250.67)
+Seat 3: bestlooser (1000)
+Seat 4: shtako (2398.88)
+Seat 5: Protek (1092.95)
+Seat 6: AlphaWolf (1900)
+shtako has the dealer button
+Protek posts small blind 10
+AlphaWolf posts big blind 20
+bestlooser posts big blind 20
+** Hole Cards ** [5 players]
+CLS folds
+bestlooser checks
+shtako raises to 90
+Protek folds
+AlphaWolf calls 70
+bestlooser folds
+** Flop ** [6h Js Ah]
+AlphaWolf checks
+shtako bets 204.75
+AlphaWolf calls 204.75
+** Turn ** [8c]
+AlphaWolf checks
+shtako bets 604.05
+AlphaWolf folds
+shtako refunded 604.05
+shtako wins Pot (604.05)
+Rake (15.45) Pot (619.50) Players (CLS: 0, bestlooser: 20, shtako: 294.75, Protek: 10, AlphaWolf: 294.75)
+** Deck ** [Tc Qc 9d 8s 4d 6c Qh 2h 5s Ac Kh 7s 6d 9h 2d 8h 8d Th Td Ks 6h Js Ah 8c]
+
+Hand #108468-31 - 2017-06-19 21:10:11
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1250.67)
+Seat 3: bestlooser (980)
+Seat 4: shtako (2708.18)
+Seat 5: Protek (1082.95)
+Seat 6: AlphaWolf (1605.25)
+Protek has the dealer button
+AlphaWolf posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [5 players]
+bestlooser folds
+shtako folds
+Protek folds
+AlphaWolf calls 10
+CLS raises to 60
+AlphaWolf calls 40
+** Flop ** [8c 4d Tc]
+AlphaWolf checks
+CLS bets 117
+AlphaWolf calls 117
+** Turn ** [2d]
+AlphaWolf checks
+CLS bets 230.10
+AlphaWolf calls 230.10
+** River ** [8d]
+AlphaWolf checks
+CLS checks
+** Pot Show Down ** [8c 4d Tc 2d 8d]
+CLS shows [Ac 3d As 4h] (Hi: Two Pair, Aces and Eights +T  Lo: 8432A)
+AlphaWolf shows [6s 6h 8h Qs] (Hi: Three of a Kind, Eights +QT  Lo: None)
+AlphaWolf wins Hi Pot (396.93) with Three of a Kind
+CLS wins Lo Pot (396.92) with 8432A
+Rake (20.35) Pot (814.20) Players (CLS: 407.10, bestlooser: 0, shtako: 0, Protek: 0, AlphaWolf: 407.10)
+** Deck ** [6s Ac Qh 9c 3s 6h 3d 7c Th Kd 8h As Td 3c Jc Qs 4h 9h Qd 7d 8c 4d Tc 2d 8d]
+
+Hand #108471-32 - 2017-06-19 21:11:35
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1240.49)
+Seat 3: bestlooser (980)
+Seat 4: shtako (2708.18)
+Seat 5: Protek (1082.95)
+Seat 6: AlphaWolf (1595.08)
+AlphaWolf has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [5 players]
+shtako folds
+Protek folds
+AlphaWolf calls 20
+CLS calls 10
+bestlooser checks
+** Flop ** [Qh 8s Th]
+CLS checks
+bestlooser checks
+AlphaWolf bets 20
+CLS folds
+bestlooser calls 20
+** Turn ** [As]
+bestlooser checks
+AlphaWolf bets 20
+bestlooser calls 20
+** River ** [Ts]
+bestlooser checks
+AlphaWolf bets 136.50
+bestlooser folds
+AlphaWolf refunded 136.50
+AlphaWolf wins Pot (136.50)
+Rake (3.50) Pot (140) Players (CLS: 20, bestlooser: 60, shtako: 0, Protek: 0, AlphaWolf: 60)
+** Deck ** [6d 7s 7d 6c Jh 9s Kd Kc 3h Ah Ac 2h Jc Td 5d Qc 9c Qs Ks 2c Qh 8s Th As Ts]
+
+Hand #108475-33 - 2017-06-19 21:13:33
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1220.49)
+Seat 3: bestlooser (920)
+Seat 4: shtako (2708.18)
+Seat 5: Protek (1082.95)
+Seat 6: AlphaWolf (1671.58)
+CLS has the dealer button
+bestlooser posts small blind 10
+shtako posts big blind 20
+** Hole Cards ** [5 players]
+Protek folds
+AlphaWolf calls 20
+CLS calls 20
+bestlooser calls 10
+shtako raises to 100
+AlphaWolf calls 80
+CLS calls 80
+bestlooser calls 80
+** Flop ** [9s 8d 2h]
+bestlooser checks
+shtako bets 390
+AlphaWolf calls 390
+CLS calls 390
+bestlooser raises to 820 (All-in)
+shtako raises to 2608.18 (All-in)
+AlphaWolf calls 1181.58 (All-in)
+CLS calls 730.49 (All-in)
+shtako refunded 1036.60
+** Turn ** [2d]
+** River ** [3s]
+** Side Pot 2 Show Down ** [9s 8d 2h 2d 3s]
+shtako shows [Qh 4h Ad 9d] (Hi: Two Pair, Nines and Deuces +A  Lo: 8432A)
+AlphaWolf shows [5c Ks 3h Ac] (Hi: Two Pair, Threes and Deuces +A  Lo: 8532A)
+shtako wins Hi Side Pot 2 (439.82) with Two Pair
+shtako wins Lo Side Pot 2 (439.81) with 8432A
+Rake (22.55) Pot (902.18) Players (CLS: 0, bestlooser: 0, shtako: 451.09, Protek: 0, AlphaWolf: 451.09)
+** Side Pot 1 Show Down ** [9s 8d 2h 2d 3s]
+CLS shows [6h 2s 8c Ah] (Hi: a Full House, Deuces full of Eights  Lo: 8632A)
+CLS wins Hi Side Pot 1 (439.49) with a Full House
+shtako wins Lo Side Pot 1 (439.48) with 8432A
+Rake (22.50) Pot (901.47) Players (CLS: 300.49, bestlooser: 0, shtako: 300.49, Protek: 0, AlphaWolf: 300.49)
+** Main Pot Show Down ** [9s 8d 2h 2d 3s]
+bestlooser shows [Jh 7d 4s 5s] (Hi: a Pair of Deuces +J97  Lo: 85432)
+CLS wins Hi Main Pot (1794) with a Full House
+shtako wins Lo Main Pot (1794) with 8432A
+Rake (92) Pot (3680) Players (CLS: 920, bestlooser: 920, shtako: 920, Protek: 0, AlphaWolf: 920)
+** Deck ** [Jh Qh 6d 5c 6h 7d 4h 4d Ks 2s 4s Ad As 3h 8c 5s 9d Qc Ac Ah 9s 8d 2h 2d 3s]
+
+Hand #108481-34 - 2017-06-19 21:16:32
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2233.49)
+Seat 3: bestlooser (0) - sitting out
+Seat 4: shtako (4149.71)
+Seat 5: Protek (1082.95)
+Seat 6: AlphaWolf (0) - sitting out
+shtako has the dealer button
+Protek posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+shtako raises to 70
+Protek calls 60
+CLS calls 50
+** Flop ** [2d Ks Jd]
+Protek checks
+CLS checks
+AlphaWolf adds 1000 chips
+shtako checks
+** Turn ** [8h]
+Protek checks
+CLS checks
+shtako checks
+** River ** [4s]
+bestlooser adds 1000 chips
+Protek checks
+CLS checks
+shtako bets 204.75
+Protek folds
+CLS folds
+shtako refunded 204.75
+shtako wins Pot (204.75)
+Rake (5.25) Pot (210) Players (CLS: 70, shtako: 70, Protek: 70)
+** Deck ** [8c Th Ts Tc 5d 2s As 3d 7d 9s 3s 3c 2d Ks Jd 8h 4s]
+
+Hand #108487-35 - 2017-06-19 21:18:07
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2163.49)
+Seat 3: bestlooser (1000)
+Seat 4: shtako (4284.46)
+Seat 5: Protek (1012.95)
+Seat 6: AlphaWolf (1000)
+Protek has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [4 players]
+shtako raises to 70
+Protek folds
+CLS calls 60
+bestlooser calls 50
+** Flop ** [5s Qh 3s]
+CLS checks
+bestlooser checks
+shtako bets 204.75
+CLS calls 204.75
+bestlooser calls 204.75
+** Turn ** [Jc]
+CLS checks
+bestlooser checks
+shtako checks
+** River ** [4s]
+CLS checks
+bestlooser checks
+shtako bets 803.65
+CLS folds
+bestlooser calls 725.25 (All-in)
+shtako refunded 78.40
+** Pot Show Down ** [5s Qh 3s Jc 4s]
+bestlooser shows [7h 7d 6s 6d] (Hi: a Straight, Three to Seven  Lo: 76543)
+shtako shows [Tc 2h As 3h] (Hi: a Straight, Ace to Five  Lo: 5432A)
+bestlooser wins Hi Pot (1108.95) with a Straight
+shtako wins Lo Pot (1108.95) with 5432A
+Rake (56.85) Pot (2274.75) Players (CLS: 274.75, bestlooser: 1000, shtako: 1000, Protek: 0)
+** Deck ** [8h 7h Tc 6c 8s 7d 2h 9h 6h 6s As Qs 4c 6d 3h 2c 5s Qh 3s Jc 4s]
+
+Hand #108492-36 - 2017-06-19 21:20:20
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1888.74)
+Seat 3: bestlooser (1108.95)
+Seat 4: shtako (4393.41)
+Seat 5: Protek (1012.95)
+Seat 6: AlphaWolf (1000)
+CLS has the dealer button
+bestlooser posts small blind 10
+shtako posts big blind 20
+AlphaWolf posts big blind 20
+** Hole Cards ** [5 players]
+Protek folds
+AlphaWolf checks
+CLS folds
+bestlooser calls 10
+shtako checks
+** Flop ** [3c 7d 8h]
+bestlooser checks
+shtako checks
+AlphaWolf bets 20
+bestlooser folds
+shtako folds
+AlphaWolf refunded 20
+AlphaWolf wins Pot (58.50)
+Rake (1.50) Pot (60) Players (CLS: 0, bestlooser: 20, shtako: 20, Protek: 0, AlphaWolf: 20)
+** Deck ** [4c 3s Jh Ad 4d Qs Ks Ts As Kd Qh Qd 2d Td 5c Jd 9h 6h 6c Tc 3c 7d 8h]
+
+Hand #108495-37 - 2017-06-19 21:21:19
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1888.74)
+Seat 3: bestlooser (1088.95)
+Seat 4: shtako (4373.41)
+Seat 5: Protek (1012.95)
+Seat 6: AlphaWolf (1038.50)
+bestlooser has the dealer button
+shtako posts small blind 10
+Protek posts big blind 20
+** Hole Cards ** [5 players]
+AlphaWolf calls 20
+CLS calls 20
+bestlooser calls 20
+shtako raises to 120
+Protek folds
+AlphaWolf calls 100
+CLS has timed out
+CLS folds
+bestlooser folds
+** Flop ** [5s Kc 4c]
+shtako bets 292.50
+AlphaWolf calls 292.50
+** Turn ** [Jc]
+shtako checks
+AlphaWolf bets 626 (All-in)
+shtako folds
+AlphaWolf refunded 626
+AlphaWolf wins Pot (862.90)
+Rake (22.10) Pot (885) Players (CLS: 20, bestlooser: 20, shtako: 412.50, Protek: 20, AlphaWolf: 412.50)
+** Deck ** [2s Ah Th 3c Tc 5c 4d 5d 6d 2d 2h 8c Kd 3h 5h As Qs 7d 4s Qh 5s Kc 4c Jc]
+
+Hand #108500-38 - 2017-06-19 21:23:08
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1868.74)
+Seat 3: bestlooser (1068.95)
+Seat 4: shtako (3960.91)
+Seat 5: Protek (992.95)
+Seat 6: AlphaWolf (1488.90)
+shtako has the dealer button
+Protek posts small blind 10
+AlphaWolf posts big blind 20
+** Hole Cards ** [5 players]
+CLS calls 20
+bestlooser calls 20
+shtako folds
+Protek calls 10
+AlphaWolf checks
+** Flop ** [Ac Ts Js]
+Protek checks
+AlphaWolf checks
+CLS checks
+bestlooser checks
+** Turn ** [7c]
+Protek checks
+AlphaWolf checks
+CLS checks
+bestlooser checks
+** River ** [3s]
+Protek checks
+AlphaWolf bets 78
+CLS folds
+bestlooser raises to 312
+Protek folds
+AlphaWolf calls 234
+** Pot Show Down ** [Ac Ts Js 7c 3s]
+bestlooser shows [Qs As Jc 6s] (Hi: a Flush, Ace high +QJT3  Lo: None)
+AlphaWolf shows [3h 4c 5c 3d] (Hi: Three of a Kind, Threes +AJ  Lo: 7543A)
+bestlooser wins Hi Pot (343.20) with a Flush
+AlphaWolf wins Lo Pot (343.20) with 7543A
+Rake (17.60) Pot (704) Players (CLS: 20, bestlooser: 332, shtako: 0, Protek: 20, AlphaWolf: 332)
+** Deck ** [8d 3h 6c Qs Qc 5d 4c 7h As 8s Kc 5c 5h Jc 2d Tc 3d 4s 6s 2c Ac Ts Js 7c 3s]
+
+Hand #108505-39 - 2017-06-19 21:25:15
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1848.74)
+Seat 3: bestlooser (1080.15)
+Seat 4: shtako (3960.91)
+Seat 5: Protek (972.95)
+Seat 6: AlphaWolf (1500.10)
+Protek has the dealer button
+AlphaWolf posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [5 players]
+bestlooser calls 20
+shtako raises to 90
+Protek folds
+AlphaWolf calls 80
+CLS calls 70
+bestlooser calls 70
+** Flop ** [3c 9s Qs]
+AlphaWolf bets 351
+CLS folds
+CoinDoctor: "hi all"
+CoinDoctor: "im here to build up your bank rolls"
+bestlooser has timed out
+bestlooser folds
+shtako calls 351
+** Turn ** [Kh]
+AlphaWolf checks
+shtako bets 1035.45
+AlphaWolf raises to 1059.10 (All-in)
+shtako calls 23.65
+bestlooser: "lol"
+** River ** [Th]
+** Pot Show Down ** [3c 9s Qs Kh Th]
+shtako shows [Ts 9c Kd Ks] (Hi: Three of a Kind, Kings +QT  Lo: None)
+AlphaWolf shows [8s 9d Qd 5d] (Hi: Two Pair, Queens and Nines +K  Lo: None)
+shtako wins Pot (3100.70) with Three of a Kind
+No low hand qualified
+Rake (79.50) Pot (3180.20) Players (CLS: 90, bestlooser: 90, shtako: 1500.10, AlphaWolf: 1500.10)
+bestlooser: "hello doc :)"
+** Deck ** [8s 4d 7h Ts 8h 9d 3d 3h 9c Qc Qd 5c 4s Kd 2s 5d Jd 8d Ks 5s 3c 9s Qs Kh Th]
+
+Hand #108508-40 - 2017-06-19 21:27:13
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1758.74)
+Seat 2: CoinDoctor (1000)
+Seat 3: bestlooser (990.15)
+Seat 4: shtako (5561.51) - sitting out
+Seat 6: AlphaWolf (0) - sitting out
+CLS has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [2 players]
+AlphaWolf adds 1000 chips
+CLS raises to 60
+bestlooser calls 40
+** Flop ** [3c Kd 2c]
+bestlooser checks
+CLS bets 117
+bestlooser calls 117
+** Turn ** [2d]
+bestlooser checks
+CLS bets 115.05
+bestlooser calls 115.05
+** River ** [6d]
+bestlooser checks
+CLS checks
+** Pot Show Down ** [3c Kd 2c 2d 6d]
+CLS shows [Ks Jc Js 8c] (Hi: Two Pair, Kings and Deuces +J  Lo: None)
+bestlooser shows [Qc 6c 4h 7c] (Hi: Two Pair, Sixes and Deuces +Q  Lo: 76432)
+CLS wins Hi Pot (284.75) with Two Pair
+bestlooser wins Lo Pot (284.75) with 76432
+Rake (14.60) Pot (584.10) Players (CLS: 292.05, bestlooser: 292.05)
+** Deck ** [Qc Ks 6c Jc 4h Js 7c 8c 3c Kd 2c 2d 6d]
+
+Hand #108509-41 - 2017-06-19 21:28:35
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1751.44)
+Seat 2: CoinDoctor (1000)
+Seat 3: bestlooser (982.85)
+Seat 6: AlphaWolf (1000)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser calls 20
+CLS calls 10
+CoinDoctor checks
+** Flop ** [9h 3s 8s]
+CLS checks
+CoinDoctor bets 58.50
+bestlooser calls 58.50
+CLS folds
+** Turn ** [5h]
+CoinDoctor bets 172.60
+bestlooser raises to 690.40
+CoinDoctor calls 517.80
+** River ** [Kd]
+CoinDoctor checks
+bestlooser bets 213.95 (All-in)
+CoinDoctor calls 213.95
+** Pot Show Down ** [9h 3s 8s 5h Kd]
+CoinDoctor shows [4s Qc 9c 7s] (Hi: a Pair of Nines +KQ8  Lo: 87543)
+bestlooser shows [7c 6s Qd Td] (Hi: a Straight, Five to Nine  Lo: 87653)
+bestlooser wins Hi Pot (968.05) with a Straight
+CoinDoctor wins Lo Pot (968.05) with 87543
+Rake (49.60) Pot (1985.70) Players (CLS: 20, CoinDoctor: 982.85, bestlooser: 982.85)
+** Deck ** [4c 4s 7c Js Qc 6s 3d 9c Qd Qh 7s Td 9h 3s 8s 5h Kd]
+
+Hand #108510-42 - 2017-06-19 21:30:40
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1731.44)
+Seat 2: CoinDoctor (985.20)
+Seat 3: bestlooser (968.05)
+Seat 6: AlphaWolf (1000)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+AlphaWolf posts big blind 20
+** Hole Cards ** [4 players]
+AlphaWolf checks
+CLS calls 20
+CoinDoctor raises to 100
+bestlooser folds
+AlphaWolf calls 80
+CLS calls 80
+** Flop ** [Qs 2s Th]
+CoinDoctor bets 312
+AlphaWolf folds
+CLS raises to 1248
+CoinDoctor calls 573.20 (All-in)
+CLS refunded 362.80
+** Turn ** [Td]
+** River ** [7s]
+** Pot Show Down ** [Qs 2s Th Td 7s]
+CLS shows [Jh Ts 2h As] (Hi: a Full House, Tens full of Deuces  Lo: None)
+CoinDoctor shows [4c Qc 6h Ad] (Hi: Two Pair, Queens and Tens +A  Lo: None)
+CLS wins Pot (2038.15) with a Full House
+No low hand qualified
+Rake (52.25) Pot (2090.40) Players (CLS: 985.20, CoinDoctor: 985.20, bestlooser: 20, AlphaWolf: 100)
+** Deck ** [4c 4h 5h Jh Qc 7d 5d Ts 6h Qh 6d 2h Ad Kh 3s As Qs 2s Th Td 7s]
+
+Hand #108511-43 - 2017-06-19 21:32:07
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2784.39)
+Seat 2: CoinDoctor (0) - sitting out
+Seat 3: bestlooser (948.05)
+Seat 6: AlphaWolf (900)
+bestlooser has the dealer button
+AlphaWolf posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor adds 1000 chips
+bestlooser folds
+AlphaWolf calls 10
+CLS raises to 60
+AlphaWolf calls 40
+** Flop ** [Ad 5h 6d]
+AlphaWolf checks
+CLS bets 117
+AlphaWolf calls 117
+** Turn ** [2d]
+AlphaWolf checks
+CLS bets 345.15
+AlphaWolf calls 345.15
+** River ** [7d]
+AlphaWolf checks
+CLS bets 339.40
+AlphaWolf calls 339.40
+** Pot Show Down ** [Ad 5h 6d 2d 7d]
+CLS shows [Ah 9h Ac 3d] (Hi: Three of a Kind, Aces +76  Lo: 6532A)
+AlphaWolf shows [Kh 8c Js 4s] (Hi: a Straight, Four to Eight  Lo: 8542A)
+AlphaWolf wins Hi Pot (840.03) with a Straight
+CLS wins Lo Pot (840.02) with 6532A
+Rake (43.05) Pot (1723.10) Players (CLS: 861.55, bestlooser: 0, AlphaWolf: 861.55)
+** Deck ** [Kh Ah Ks 8c 9h 7h Js Ac Qs 4s 3d 6s Ad 5h 6d 2d 7d]
+
+Hand #108512-44 - 2017-06-19 21:33:28
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2762.86)
+Seat 2: CoinDoctor (1000)
+Seat 3: bestlooser (948.05)
+Seat 6: AlphaWolf (878.48)
+AlphaWolf has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [4 players]
+bestlooser raises to 70
+AlphaWolf calls 70
+CLS calls 60
+CoinDoctor calls 50
+** Flop ** [2s Qd 7h]
+CLS checks
+CoinDoctor bets 273
+bestlooser calls 273
+AlphaWolf folds
+CLS calls 273
+** Turn ** [3d]
+CLS checks
+CoinDoctor bets 657 (All-in)
+bestlooser calls 605.05 (All-in)
+CLS calls 657
+** River ** [Kd]
+** Side Pot 1 Show Down ** [2s Qd 7h 3d Kd]
+CLS shows [As 6s Qc 3h] (Hi: Two Pair, Queens and Threes +K  Lo: 7632A)
+CoinDoctor shows [9c Qs 3s 4d] (Hi: Two Pair, Queens and Threes +K  Lo: None)
+CLS splits Hi Side Pot 1 (25.34) with Two Pair
+CoinDoctor splits Hi Side Pot 1 (25.34) with Two Pair
+CLS wins Lo Side Pot 1 (50.67) with 7632A
+Rake (2.55) Pot (103.90) Players (CLS: 51.95, CoinDoctor: 51.95, bestlooser: 0, AlphaWolf: 0)
+** Main Pot Show Down ** [2s Qd 7h 3d Kd]
+bestlooser shows [2h 5d 7s 2d] (Hi: a Flush, King high +Q532  Lo: None)
+bestlooser wins Hi Main Pot (1420.65) with a Flush
+CLS wins Lo Main Pot (1420.65) with 7632A
+Rake (72.85) Pot (2914.15) Players (CLS: 948.05, CoinDoctor: 948.05, bestlooser: 948.05, AlphaWolf: 70)
+** Deck ** [As 9c 2h 3c 6s Qs 5d 8d Qc 3s 7s 8c 3h 4d 2d 8s 2s Qd 7h 3d Kd]
+
+Hand #108513-45 - 2017-06-19 21:35:10
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (3259.52)
+Seat 2: CoinDoctor (25.34)
+Seat 3: bestlooser (1420.65)
+Seat 6: AlphaWolf (808.48)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [4 players]
+AlphaWolf calls 20
+CLS calls 20
+CoinDoctor raises to 25.34 (All-in)
+bestlooser raises to 116.02
+AlphaWolf calls 96.02
+CLS calls 96.02
+** Flop ** [5s 2h 4h]
+bestlooser bets 60
+AlphaWolf raises to 544.10
+CLS folds
+bestlooser folds
+AlphaWolf refunded 484.10
+** Turn ** [9d]
+** River ** [8d]
+AlphaWolf wins Side Pot 1 (382.24)
+Rake (9.80) Pot (392.04) Players (CLS: 90.68, CoinDoctor: 0, bestlooser: 150.68, AlphaWolf: 150.68)
+** Main Pot Show Down ** [5s 2h 4h 9d 8d]
+CoinDoctor shows [Qc 5d Qs 3d] (Hi: a Pair of Queens +985  Lo: 85432)
+AlphaWolf shows [2s 5c 3h Jd] (Hi: Two Pair, Fives and Deuces +9  Lo: 85432)
+AlphaWolf wins Hi Main Pot (49.43) with Two Pair
+CoinDoctor splits Lo Main Pot (24.72) with 85432
+AlphaWolf splits Lo Main Pot (24.71) with 85432
+Rake (2.50) Pot (101.36) Players (CLS: 25.34, CoinDoctor: 25.34, bestlooser: 25.34, AlphaWolf: 25.34)
+CoinDoctor adds 975.28 chips
+** Deck ** [Qc 6d 2s 7s 5d 9h 5c Kh Qs Ac 3h Qh 3d 4s Jd 7d 5s 2h 4h 9d 8d]
+
+Hand #108514-46 - 2017-06-19 21:36:52
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (3143.50)
+Seat 2: CoinDoctor (1000)
+Seat 3: bestlooser (1244.63)
+Seat 6: AlphaWolf (1088.84)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+AlphaWolf posts big blind 20
+** Hole Cards ** [4 players]
+CLS folds
+CoinDoctor raises to 70
+bestlooser folds
+AlphaWolf calls 50
+** Flop ** [Qc 2d As]
+AlphaWolf checks
+CoinDoctor bets 146.25
+AlphaWolf calls 146.25
+** Turn ** [Th]
+AlphaWolf checks
+CoinDoctor bets 431.45
+AlphaWolf calls 431.45
+** River ** [Tc]
+AlphaWolf bets 441.14 (All-in)
+CoinDoctor calls 352.30 (All-in)
+AlphaWolf refunded 88.84
+** Pot Show Down ** [Qc 2d As Th Tc]
+CoinDoctor shows [Ac 6c Ah 6d] (Hi: a Full House, Aces full of Tens  Lo: None)
+AlphaWolf shows [Td 5s 8s Qh] (Hi: a Full House, Tens full of Queens  Lo: None)
+CoinDoctor wins Pot (1959.75) with a Full House
+No low hand qualified
+Rake (50.25) Pot (2010) Players (CLS: 0, CoinDoctor: 1000, bestlooser: 10, AlphaWolf: 1000)
+** Deck ** [9h Td 3h Ac 9s 5s Kc 6c 8c 8s 9d Ah 4s Qh 4d 6d Qc 2d As Th Tc]
+
+Hand #108515-47 - 2017-06-19 21:38:12
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (3143.50)
+Seat 2: CoinDoctor (1959.75)
+Seat 3: bestlooser (1234.63)
+Seat 6: AlphaWolf (88.84)
+bestlooser has the dealer button
+AlphaWolf posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [4 players]
+CoinDoctor folds
+bestlooser raises to 70
+AlphaWolf raises to 88.84 (All-in)
+CLS calls 68.84
+bestlooser calls 18.84
+** Flop ** [Qh 4s 8h]
+CLS checks
+bestlooser bets 259.87
+CLS folds
+bestlooser refunded 259.87
+** Turn ** [Js]
+** River ** [Ks]
+** Pot Show Down ** [Qh 4s 8h Js Ks]
+bestlooser shows [Ah Ac 4c 2s] (Hi: a Pair of Aces +KQJ  Lo: None)
+AlphaWolf shows [8d 9d Ts Qc] (Hi: a Straight, Nine to King  Lo: None)
+AlphaWolf wins Pot (259.87) with a Straight
+No low hand qualified
+Rake (6.65) Pot (266.52) Players (CLS: 88.84, CoinDoctor: 0, bestlooser: 88.84, AlphaWolf: 88.84)
+** Deck ** [8d Ad 3d Ah 9d 4h 7s Ac Ts Jd 8s 4c Qc 5s Th 2s Qh 4s 8h Js Ks]
+
+Hand #108516-48 - 2017-06-19 21:38:58
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (3054.66)
+Seat 2: CoinDoctor (1959.75)
+Seat 3: bestlooser (1145.79)
+Seat 6: AlphaWolf (259.87)
+AlphaWolf has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [4 players]
+bestlooser raises to 70
+AlphaWolf raises to 240
+CLS calls 230
+CoinDoctor calls 220
+bestlooser calls 170
+** Flop ** [2h Qc 8s]
+CLS checks
+CoinDoctor checks
+bestlooser checks
+AlphaWolf bets 19.87 (All-in)
+CLS calls 19.87
+CoinDoctor calls 19.87
+bestlooser calls 19.87
+** Turn ** [8h]
+CLS checks
+CoinDoctor checks
+bestlooser checks
+** River ** [Kh]
+CLS checks
+CoinDoctor checks
+bestlooser checks
+** Pot Show Down ** [2h Qc 8s 8h Kh]
+CLS shows [Ah 3c Kd Ac] (Hi: Two Pair, Aces and Eights +K  Lo: None)
+CoinDoctor shows [7d 9c 5d Th] (Hi: a Pair of Eights +KT9  Lo: None)
+bestlooser shows [2s 9s Jh 5h] (Hi: a Flush, King high +J852  Lo: None)
+AlphaWolf shows [3h As 8c Js] (Hi: Three of a Kind, Eights +AK  Lo: None)
+bestlooser wins Pot (1013.53) with a Flush
+No low hand qualified
+Rake (25.95) Pot (1039.48) Players (CLS: 259.87, CoinDoctor: 259.87, bestlooser: 259.87, AlphaWolf: 259.87)
+** Deck ** [Ah 7d 2s 3h 3c 9c 9s As Kd 5d Jh 8c Ac Th 5h Js 2h Qc 8s 8h Kh]
+
+Hand #108517-49 - 2017-06-19 21:40:37
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2794.79)
+Seat 2: CoinDoctor (1699.88)
+Seat 3: bestlooser (1899.45)
+Seat 6: AlphaWolf (0) - sitting out
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+CLS folds
+AlphaWolf adds 1000 chips
+CoinDoctor calls 10
+bestlooser checks
+** Flop ** [Tc Jd 6s]
+CoinDoctor checks
+bestlooser checks
+** Turn ** [Ts]
+CoinDoctor bets 20
+bestlooser folds
+CoinDoctor refunded 20
+CoinDoctor wins Pot (39)
+Rake (1) Pot (40) Players (CLS: 0, CoinDoctor: 20, bestlooser: 20)
+** Deck ** [6d 7d 2d 7s 6c 3s Qd Kd Qc 2h 5d Td Tc Jd 6s Ts]
+
+Hand #108518-50 - 2017-06-19 21:41:25
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2794.79)
+Seat 2: CoinDoctor (1718.88)
+Seat 3: bestlooser (1879.45)
+Seat 6: AlphaWolf (1000)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+AlphaWolf posts big blind 20
+** Hole Cards ** [4 players]
+CLS calls 20
+CoinDoctor folds
+bestlooser calls 10
+AlphaWolf raises to 80
+CLS calls 60
+bestlooser calls 60
+** Flop ** [Qd Jc 4h]
+bestlooser checks
+AlphaWolf bets 234
+CLS folds
+bestlooser raises to 936
+AlphaWolf calls 686 (All-in)
+bestlooser refunded 16
+** Turn ** [Js]
+** River ** [Jh]
+** Pot Show Down ** [Qd Jc 4h Js Jh]
+bestlooser shows [Jd Qs 4s 6c] (Hi: Four of a Kind, Jacks +Q  Lo: None)
+AlphaWolf shows [As 9s 5h Ad] (Hi: a Full House, Jacks full of Aces  Lo: None)
+bestlooser wins Pot (2028) with Four of a Kind
+No low hand qualified
+Rake (52) Pot (2080) Players (CLS: 80, CoinDoctor: 0, bestlooser: 1000, AlphaWolf: 1000)
+** Deck ** [Jd As Tc Td Qs 9s 2c Qc 4s 5h 7d 3d 6c Ad 5c 5s Qd Jc 4h Js Jh]
+
+Hand #108519-51 - 2017-06-19 21:42:31
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2714.79)
+Seat 2: CoinDoctor (1718.88)
+Seat 3: bestlooser (2907.45)
+Seat 6: AlphaWolf (0) - sitting out
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+AlphaWolf adds 1000 chips
+bestlooser calls 20
+CLS calls 10
+CoinDoctor raises to 80
+bestlooser calls 60
+CLS folds
+** Flop ** [7h 5h Ac]
+CoinDoctor bets 175.50
+bestlooser folds
+CoinDoctor refunded 175.50
+CoinDoctor wins Pot (175.50)
+Rake (4.50) Pot (180) Players (CLS: 20, CoinDoctor: 80, bestlooser: 80)
+** Deck ** [Kd 4s Kh 8s 2c 9s 4h Jd Js Ts Ah Kc 7h 5h Ac]
+
+Hand #108520-52 - 2017-06-19 21:43:16
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2694.79)
+Seat 2: CoinDoctor (1814.38)
+Seat 3: bestlooser (2827.45)
+Seat 6: AlphaWolf (1000)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+AlphaWolf posts small blind 10
+** Hole Cards ** [4 players]
+AlphaWolf calls 20
+CLS calls 20
+CoinDoctor calls 10
+bestlooser checks
+** Flop ** [6h 4s 7d]
+CoinDoctor checks
+bestlooser checks
+AlphaWolf bets 87.75
+CLS calls 87.75
+CoinDoctor calls 87.75
+bestlooser folds
+** Turn ** [6c]
+CoinDoctor checks
+AlphaWolf bets 344.45
+CLS folds
+CoinDoctor calls 344.45
+** River ** [6d]
+CoinDoctor checks
+AlphaWolf bets 537.80 (All-in)
+CoinDoctor calls 537.80
+** Pot Show Down ** [6h 4s 7d 6c 6d]
+CoinDoctor shows [Jh 5d 9h 8h] (Hi: a Straight, Four to Eight  Lo: 87654)
+AlphaWolf shows [3h 6s Td 8c] (Hi: Four of a Kind, Sixes +T  Lo: 87643)
+AlphaWolf wins Hi Pot (1032.43) with Four of a Kind
+AlphaWolf wins Lo Pot (1032.42) with 87643
+Rake (52.90) Pot (2117.75) Players (CLS: 107.75, CoinDoctor: 990, bestlooser: 20, AlphaWolf: 1000)
+** Deck ** [Jh 8d 3h 2d 5d Qh 6s 7h 9h Ts Td 3s 8h Tc 8c 5s 6h 4s 7d 6c 6d]
+
+Hand #108521-53 - 2017-06-19 21:45:06
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2587.04)
+Seat 2: CoinDoctor (824.38)
+Seat 3: bestlooser (2807.45)
+Seat 6: AlphaWolf (2064.85)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+AlphaWolf posts big blind 20
+** Hole Cards ** [4 players]
+CLS calls 20
+CoinDoctor calls 20
+bestlooser calls 10
+AlphaWolf checks
+** Flop ** [3h 9d 2h]
+bestlooser checks
+AlphaWolf checks
+CLS bets 78
+CoinDoctor calls 78
+bestlooser folds
+AlphaWolf calls 78
+** Turn ** [Qh]
+AlphaWolf checks
+CLS bets 102.05
+CoinDoctor folds
+AlphaWolf calls 102.05
+** River ** [3c]
+AlphaWolf checks
+CLS bets 336.76
+AlphaWolf folds
+CLS refunded 336.76
+CLS wins Pot (505.15)
+Rake (12.95) Pot (518.10) Players (CLS: 200.05, CoinDoctor: 98, bestlooser: 20, AlphaWolf: 200.05)
+** Deck ** [As 6c 9h 5d 8h 9c 9s Jc 6s 4c 7h 5s Qd 4s 3d Js 3h 9d 2h Qh 3c]
+
+Hand #108522-54 - 2017-06-19 21:46:49
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2892.14)
+Seat 2: CoinDoctor (726.38)
+Seat 3: bestlooser (2787.45)
+Seat 6: AlphaWolf (1864.80)
+bestlooser has the dealer button
+AlphaWolf posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [4 players]
+CoinDoctor folds
+bestlooser raises to 70
+AlphaWolf raises to 120
+CLS folds
+bestlooser calls 50
+** Flop ** [Ah Tc 6s]
+AlphaWolf bets 253.50
+bestlooser calls 253.50
+** Turn ** [Ad]
+AlphaWolf bets 747.85
+bestlooser folds
+AlphaWolf refunded 747.85
+AlphaWolf wins Pot (747.85)
+Rake (19.15) Pot (767) Players (CLS: 20, CoinDoctor: 0, bestlooser: 373.50, AlphaWolf: 373.50)
+** Deck ** [Js 5d 2h 3d Ac 9d Kc 7d 9h Th 8d 4h 3h 6d 3s 4d Ah Tc 6s Ad]
+
+Hand #108523-55 - 2017-06-19 21:48:28
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2872.14)
+Seat 2: CoinDoctor (726.38)
+Seat 3: bestlooser (2413.95)
+Seat 6: AlphaWolf (2239.15)
+AlphaWolf has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [4 players]
+bestlooser calls 20
+AlphaWolf calls 20
+CLS raises to 80
+CoinDoctor calls 60
+bestlooser calls 60
+AlphaWolf calls 60
+** Flop ** [Ks 6h Jd]
+CLS checks
+CoinDoctor bets 312
+bestlooser calls 312
+AlphaWolf calls 312
+CLS folds
+** Turn ** [Qc]
+CoinDoctor bets 334.38 (All-in)
+bestlooser folds
+AlphaWolf calls 334.38
+** River ** [2c]
+** Pot Show Down ** [Ks 6h Jd Qc 2c]
+CoinDoctor shows [3d 7s Qh Kc] (Hi: Two Pair, Kings and Queens +J  Lo: None)
+AlphaWolf shows [7c Qd 2h Ac] (Hi: Two Pair, Queens and Deuces +K  Lo: None)
+CoinDoctor wins Pot (1876.66) with Two Pair
+No low hand qualified
+Rake (48.10) Pot (1924.76) Players (CLS: 80, CoinDoctor: 726.38, bestlooser: 392, AlphaWolf: 726.38)
+** Deck ** [2d 3d 9c 7c 8h 7s Qs Qd 9h Qh Ah 2h 4s Kc 9d Ac Ks 6h Jd Qc 2c]
+
+Hand #108524-56 - 2017-06-19 21:50:00
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2792.14)
+Seat 2: CoinDoctor (1876.66)
+Seat 3: bestlooser (2021.95)
+Seat 6: AlphaWolf (1512.77)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [4 players]
+AlphaWolf calls 20
+CLS folds
+CoinDoctor calls 10
+bestlooser raises to 80
+AlphaWolf raises to 140
+CoinDoctor folds
+bestlooser raises to 440
+AlphaWolf calls 300
+** Flop ** [4s 9h Ac]
+bestlooser bets 877.50
+AlphaWolf calls 877.50
+** Turn ** [Tc]
+bestlooser bets 704.45 (All-in)
+AlphaWolf calls 195.27 (All-in)
+bestlooser refunded 509.18
+** River ** [Qd]
+** Pot Show Down ** [4s 9h Ac Tc Qd]
+bestlooser shows [Ad 3s Kd 2s] (Hi: a Pair of Aces +KQT  Lo: None)
+AlphaWolf shows [5h 2d Qc 2h] (Hi: a Pair of Queens +AT5  Lo: None)
+bestlooser wins Pot (2969.44) with a Pair
+No low hand qualified
+Rake (76.10) Pot (3045.54) Players (CLS: 0, CoinDoctor: 20, bestlooser: 1512.77, AlphaWolf: 1512.77)
+** Deck ** [Td Ad 5h Jc 6h 3s 2d 3h 6d Kd Qc 9s 5c 2s 2h 7c 4s 9h Ac Tc Qd]
+
+Hand #108525-57 - 2017-06-19 21:51:15
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2792.14)
+Seat 2: CoinDoctor (1856.66)
+Seat 3: bestlooser (3478.62)
+Seat 6: AlphaWolf (0) - sitting out
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+AlphaWolf adds 1000 chips
+CoinDoctor raises to 70
+bestlooser folds
+CLS folds
+CoinDoctor refunded 50
+CoinDoctor wins Pot (50)
+Rake (0) Pot (50) Players (CLS: 20, CoinDoctor: 20, bestlooser: 10)
+** Deck ** [Js Ks 5d Ts 3h Kc 9s 6s Th 8s Jd Qc]
+
+Hand #108526-58 - 2017-06-19 21:51:42
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2772.14)
+Seat 2: CoinDoctor (1886.66)
+Seat 3: bestlooser (3468.62)
+Seat 6: AlphaWolf (1000)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser calls 20
+CLS calls 10
+CoinDoctor raises to 80
+bestlooser folds
+CLS folds
+CoinDoctor refunded 60
+CoinDoctor wins Pot (60)
+Rake (0) Pot (60) Players (CLS: 20, CoinDoctor: 20, bestlooser: 20)
+** Deck ** [4d 3h 6c Qd 4c 5d 5h 6h 7d 9c Ac 9d]
+
+Hand #108527-59 - 2017-06-19 21:52:22
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2752.14)
+Seat 2: CoinDoctor (1926.66)
+Seat 3: bestlooser (3448.62)
+Seat 6: AlphaWolf (1000)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+AlphaWolf posts big blind 20
+** Hole Cards ** [4 players]
+AlphaWolf raises to 40
+CLS calls 40
+CoinDoctor folds
+bestlooser calls 20
+** Flop ** [6d Ad 3c]
+bestlooser checks
+AlphaWolf checks
+CLS bets 126.75
+bestlooser calls 126.75
+AlphaWolf calls 126.75
+** Turn ** [Td]
+bestlooser checks
+AlphaWolf checks
+CLS checks
+** River ** [2h]
+bestlooser bets 497.50
+AlphaWolf folds
+CLS folds
+bestlooser refunded 497.50
+bestlooser wins Pot (497.50)
+Rake (12.75) Pot (510.25) Players (CLS: 166.75, CoinDoctor: 10, bestlooser: 166.75, AlphaWolf: 166.75)
+** Deck ** [6s 8c 7d Jc Js 4d 4s As 3h Tc 4h 9c 2d 5s Jh 7c 6d Ad 3c Td 2h]
+
+Hand #108528-60 - 2017-06-19 21:53:35
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2585.39)
+Seat 2: CoinDoctor (1916.66)
+Seat 3: bestlooser (3779.37)
+Seat 6: AlphaWolf (833.25)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+AlphaWolf posts big blind 20
+** Hole Cards ** [4 players]
+CLS calls 20
+CoinDoctor calls 20
+bestlooser calls 10
+AlphaWolf checks
+** Flop ** [Qs 7s 2h]
+bestlooser checks
+AlphaWolf bets 20
+CLS calls 20
+CoinDoctor folds
+bestlooser calls 20
+** Turn ** [Ts]
+bestlooser checks
+AlphaWolf checks
+CLS checks
+** River ** [9d]
+bestlooser checks
+AlphaWolf bets 20
+CLS calls 20
+bestlooser calls 20
+** Pot Show Down ** [Qs 7s 2h Ts 9d]
+CLS shows [9h 5d 8c Qd] (Hi: Two Pair, Queens and Nines +T  Lo: None)
+bestlooser shows [Ac Jc Kd 3s] (Hi: a Straight, Nine to King  Lo: None)
+AlphaWolf shows [Ks 4d 6s 7d] (Hi: a Flush, King high +QT76  Lo: None)
+AlphaWolf wins Pot (195) with a Flush
+No low hand qualified
+Rake (5) Pot (200) Players (CLS: 60, CoinDoctor: 20, bestlooser: 60, AlphaWolf: 60)
+** Deck ** [Ac Ks 9h 5c Jc 4d 5d Kc Kd 6s 8c 6h 3s 7d Qd 8s Qs 7s 2h Ts 9d]
+
+Hand #108529-61 - 2017-06-19 21:54:42
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2525.39)
+Seat 2: CoinDoctor (1896.66)
+Seat 3: bestlooser (3719.37)
+Seat 6: AlphaWolf (968.25)
+bestlooser has the dealer button
+AlphaWolf posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [4 players]
+CoinDoctor calls 20
+bestlooser folds
+AlphaWolf calls 10
+CLS raises to 60
+CoinDoctor calls 40
+AlphaWolf calls 40
+** Flop ** [Qd Th 6h]
+AlphaWolf checks
+CLS bets 117
+CoinDoctor folds
+AlphaWolf calls 117
+** Turn ** [2s]
+AlphaWolf checks
+CLS bets 201.82
+AlphaWolf calls 201.82
+** River ** [6c]
+AlphaWolf checks
+CLS checks
+** Pot Show Down ** [Qd Th 6h 2s 6c]
+CLS shows [As 9d Kd Qh] (Hi: Two Pair, Queens and Sixes +A  Lo: None)
+AlphaWolf shows [8c 8d 6d 3d] (Hi: Three of a Kind, Sixes +Q8  Lo: None)
+AlphaWolf wins Pot (797.24) with Three of a Kind
+No low hand qualified
+Rake (20.40) Pot (817.64) Players (CLS: 378.82, CoinDoctor: 60, bestlooser: 0, AlphaWolf: 378.82)
+** Deck ** [8c As 5h Ts 8d 9d Js Kh 6d Kd 5s Jd 3d Qh 2d 7c Qd Th 6h 2s 6c]
+
+Hand #108530-62 - 2017-06-19 21:55:42
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2146.57)
+Seat 2: CoinDoctor (1836.66)
+Seat 3: bestlooser (3719.37)
+Seat 6: AlphaWolf (1386.67)
+AlphaWolf has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [4 players]
+bestlooser calls 20
+AlphaWolf calls 20
+CLS calls 10
+CoinDoctor checks
+** Flop ** [Kd Qd 2c]
+CLS checks
+CoinDoctor checks
+bestlooser checks
+AlphaWolf checks
+** Turn ** [Ac]
+CLS bets 78
+CoinDoctor calls 78
+bestlooser folds
+AlphaWolf calls 78
+** River ** [Ah]
+CLS bets 153.07
+CoinDoctor folds
+AlphaWolf folds
+CLS refunded 153.07
+CLS wins Pot (306.15)
+Rake (7.85) Pot (314) Players (CLS: 98, CoinDoctor: 98, bestlooser: 20, AlphaWolf: 98)
+** Deck ** [6c 8s Jh Ks Th 7c 4h 8h Jc 3d Kc Jd 7d 5c 6s 3h Kd Qd 2c Ac Ah]
+
+Hand #108531-63 - 2017-06-19 21:57:23
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2354.72)
+Seat 2: CoinDoctor (1738.66)
+Seat 3: bestlooser (3699.37)
+Seat 6: AlphaWolf (1288.67)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [4 players]
+AlphaWolf raises to 40
+CLS calls 40
+CoinDoctor raises to 180
+bestlooser folds
+AlphaWolf calls 140
+CLS calls 140
+** Flop ** [8s 2d 6h]
+CoinDoctor checks
+AlphaWolf bets 546
+CLS folds
+CoinDoctor folds
+AlphaWolf refunded 546
+AlphaWolf wins Pot (546)
+Rake (14) Pot (560) Players (CLS: 180, CoinDoctor: 180, bestlooser: 20, AlphaWolf: 180)
+** Deck ** [Kc Kd Ts Ks Qc 6s Ah 3d Tc Td Ac 5h 9s 2h 5c 3c 8s 2d 6h]
+
+Hand #108532-64 - 2017-06-19 21:58:20
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2174.72)
+Seat 2: CoinDoctor (1558.66)
+Seat 3: bestlooser (3679.37)
+Seat 6: AlphaWolf (1654.67)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+AlphaWolf posts big blind 20
+** Hole Cards ** [4 players]
+CLS calls 20
+CoinDoctor calls 20
+bestlooser raises to 100
+AlphaWolf calls 80
+CLS calls 80
+CoinDoctor calls 80
+** Flop ** [2c Qd Qh]
+bestlooser checks
+AlphaWolf checks
+CLS checks
+CoinDoctor checks
+** Turn ** [Ac]
+bestlooser bets 390
+AlphaWolf calls 390
+CLS folds
+CoinDoctor calls 390
+** River ** [7s]
+bestlooser checks
+AlphaWolf bets 1164.67 (All-in)
+CoinDoctor calls 1068.66 (All-in)
+bestlooser folds
+CoinDoctor: "im gonna lose"
+AlphaWolf refunded 96.01
+** Pot Show Down ** [2c Qd Qh Ac 7s]
+CoinDoctor shows [As Jh 5d 8d] (Hi: Two Pair, Aces and Queens +J  Lo: 8752A)
+AlphaWolf shows [Qs Td Qc 5c] (Hi: Four of a Kind, Queens +A  Lo: None)
+AlphaWolf wins Hi Pot (1807.34) with Four of a Kind
+CoinDoctor wins Lo Pot (1807.33) with 8752A
+Rake (92.65) Pot (3707.32) Players (CLS: 100, CoinDoctor: 1558.66, bestlooser: 490, AlphaWolf: 1558.66)
+** Deck ** [3d Qs 3h As 2s Td 9d Jh 8h Qc Th 5d 7d 5c 4c 8d 2c Qd Qh Ac 7s]
+
+Hand #108535-65 - 2017-06-19 22:00:49
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2074.72)
+Seat 2: CoinDoctor (1807.33)
+Seat 3: bestlooser (3189.37)
+Seat 6: AlphaWolf (1903.35)
+bestlooser has the dealer button
+AlphaWolf posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [4 players]
+CoinDoctor folds
+bestlooser raises to 70
+AlphaWolf calls 60
+CLS calls 50
+** Flop ** [4h Ks Tc]
+AlphaWolf checks
+CLS checks
+bestlooser bets 204.75
+AlphaWolf calls 204.75
+CLS folds
+** Turn ** [5s]
+AlphaWolf checks
+bestlooser checks
+** River ** [9s]
+AlphaWolf checks
+bestlooser checks
+** Pot Show Down ** [4h Ks Tc 5s 9s]
+bestlooser shows [Ad Qh Qs 5h] (Hi: a Pair of Queens +KT9  Lo: None)
+AlphaWolf shows [5c Kd Jd Jh] (Hi: Two Pair, Kings and Fives +T  Lo: None)
+AlphaWolf wins Pot (604.05) with Two Pair
+No low hand qualified
+Rake (15.45) Pot (619.50) Players (CLS: 70, CoinDoctor: 0, bestlooser: 274.75, AlphaWolf: 274.75)
+** Deck ** [5c 7d 3s Ad Kd 2s 8h Qh Jd 7s Qc Qs Jh 6s 4d 5h 4h Ks Tc 5s 9s]
+
+Hand #108538-66 - 2017-06-19 22:02:02
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2004.72)
+Seat 2: CoinDoctor (1807.33)
+Seat 3: bestlooser (2914.62)
+Seat 6: AlphaWolf (2232.65)
+AlphaWolf has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [4 players]
+bestlooser raises to 70
+AlphaWolf calls 70
+CLS calls 60
+CoinDoctor calls 50
+** Flop ** [Kc 4s Jc]
+CLS checks
+CoinDoctor bets 100
+bestlooser folds
+AlphaWolf calls 100
+CLS calls 100
+** Turn ** [Ah]
+CLS checks
+CoinDoctor checks
+AlphaWolf checks
+** River ** [Tc]
+CLS bets 565.50
+CoinDoctor folds
+AlphaWolf folds
+CLS refunded 565.50
+CLS wins Pot (565.50)
+Rake (14.50) Pot (580) Players (CLS: 170, CoinDoctor: 170, bestlooser: 70, AlphaWolf: 170)
+** Deck ** [7d 7h Ac 4h 5s 5h 8d Qh Qc Kd 6d Qs 9c 8h 6s 3s Kc 4s Jc Ah Tc]
+
+Hand #108542-67 - 2017-06-19 22:03:15
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2400.22)
+Seat 2: CoinDoctor (1637.33)
+Seat 3: bestlooser (2844.62)
+Seat 6: AlphaWolf (2062.65)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [4 players]
+AlphaWolf calls 20
+CLS raises to 60
+CoinDoctor raises to 220
+bestlooser calls 200
+AlphaWolf calls 200
+CLS calls 160
+** Flop ** [Ad 6c 6h]
+CoinDoctor bets 858
+bestlooser calls 858
+AlphaWolf calls 858
+CLS raises to 2180.22 (All-in)
+CoinDoctor calls 559.33 (All-in)
+bestlooser calls 1322.22
+AlphaWolf calls 984.65 (All-in)
+** Turn ** [4s]
+** River ** [5h]
+** Side Pot 2 Show Down ** [Ad 6c 6h 4s 5h]
+CLS shows [6d 5d 9h 5s] (Hi: a Full House, Sixes full of Fives  Lo: None)
+bestlooser shows [8s 3s 8c 5c] (Hi: Two Pair, Eights and Sixes +A  Lo: 6543A)
+CLS wins Hi Side Pot 2 (329.15) with a Full House
+bestlooser wins Lo Side Pot 2 (329.14) with 6543A
+Rake (16.85) Pot (675.14) Players (CLS: 337.57, CoinDoctor: 0, bestlooser: 337.57, AlphaWolf: 0)
+** Side Pot 1 Show Down ** [Ad 6c 6h 4s 5h]
+AlphaWolf shows [Qh 3d 4d 2d] (Hi: a Straight, Deuce to Six  Lo: 5432A)
+CLS wins Hi Side Pot 1 (622.06) with a Full House
+AlphaWolf wins Lo Side Pot 1 (622.05) with 5432A
+Rake (31.85) Pot (1275.96) Players (CLS: 425.32, CoinDoctor: 0, bestlooser: 425.32, AlphaWolf: 425.32)
+** Main Pot Show Down ** [Ad 6c 6h 4s 5h]
+CoinDoctor shows [8d Ac Jd Qc] (Hi: Two Pair, Aces and Sixes +Q  Lo: 8654A)
+CLS wins Hi Main Pot (3192.81) with a Full House
+AlphaWolf wins Lo Main Pot (3192.81) with 5432A
+Rake (163.70) Pot (6549.32) Players (CLS: 1637.33, CoinDoctor: 1637.33, bestlooser: 1637.33, AlphaWolf: 1637.33)
+** Deck ** [8d 8s Qh 6d Ac 3s 3d 5d Jd 8c 4d 9h Qc 5c 2d 5s Ad 6c 6h 4s 5h]
+
+Hand #108548-68 - 2017-06-19 22:05:15
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (4144.02)
+Seat 2: CoinDoctor (0) - sitting out
+Seat 3: bestlooser (773.54)
+Seat 6: AlphaWolf (3814.86)
+bestlooser has the dealer button
+AlphaWolf posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor adds 1000 chips
+bestlooser raises to 70
+AlphaWolf calls 60
+CLS calls 50
+** Flop ** [Qd 5s 5c]
+AlphaWolf checks
+CLS bets 102.37
+bestlooser folds
+AlphaWolf folds
+CLS refunded 102.37
+CLS wins Pot (204.75)
+Rake (5.25) Pot (210) Players (CLS: 70, bestlooser: 70, AlphaWolf: 70)
+** Deck ** [7c Qs 8h 4h 6d Kc 2h 7s 3c Js 9c Qh Qd 5s 5c]
+
+Hand #108550-69 - 2017-06-19 22:06:24
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (4278.77)
+Seat 2: CoinDoctor (1000)
+Seat 3: bestlooser (703.54)
+Seat 6: AlphaWolf (3744.86)
+AlphaWolf has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [4 players]
+bestlooser folds
+AlphaWolf calls 20
+CLS calls 10
+CoinDoctor raises to 80
+AlphaWolf calls 60
+CLS calls 60
+** Flop ** [3h 8s Kh]
+CLS checks
+CoinDoctor bets 234
+AlphaWolf folds
+CLS folds
+CoinDoctor refunded 234
+CoinDoctor wins Pot (234)
+Rake (6) Pot (240) Players (CLS: 80, CoinDoctor: 80, bestlooser: 0, AlphaWolf: 80)
+** Deck ** [4s 8h 7d 9s Jh Ad 6d 2d Qd 4c 5d 6c 7s 2h Ts 7c 3h 8s Kh]
+
+Hand #108552-70 - 2017-06-19 22:07:29
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (4198.77)
+Seat 2: CoinDoctor (1154)
+Seat 3: bestlooser (703.54)
+Seat 6: AlphaWolf (3664.86)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [4 players]
+AlphaWolf calls 20
+CLS calls 20
+CoinDoctor calls 10
+bestlooser raises to 100
+AlphaWolf calls 80
+CLS calls 80
+CoinDoctor folds
+** Flop ** [6d 2c 2h]
+bestlooser bets 312
+AlphaWolf calls 312
+CLS folds
+** Turn ** [9h]
+bestlooser bets 291.54 (All-in)
+AlphaWolf calls 291.54
+** River ** [Kc]
+** Pot Show Down ** [6d 2c 2h 9h Kc]
+bestlooser shows [8s Jc As 6h] (Hi: Two Pair, Sixes and Deuces +A  Lo: None)
+AlphaWolf shows [Js 7s 4d Ah] (Hi: a Pair of Deuces +AKJ  Lo: None)
+bestlooser wins Pot (1488.93) with Two Pair
+No low hand qualified
+Rake (38.15) Pot (1527.08) Players (CLS: 100, CoinDoctor: 20, bestlooser: 703.54, AlphaWolf: 703.54)
+** Deck ** [5c 8s Js Qc 7h Jc 7s 4c 3h As 4d 4h Th 6h Ah Kd 6d 2c 2h 9h Kc]
+
+Hand #108553-71 - 2017-06-19 22:08:25
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (4098.77)
+Seat 2: CoinDoctor (1134)
+Seat 3: bestlooser (1488.93)
+Seat 6: AlphaWolf (2961.32)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+AlphaWolf posts big blind 20
+** Hole Cards ** [4 players]
+CLS folds
+CoinDoctor folds
+bestlooser raises to 60
+AlphaWolf raises to 180
+bestlooser calls 120
+** Flop ** [5h Kc Ad]
+bestlooser checks
+AlphaWolf bets 351
+bestlooser folds
+AlphaWolf refunded 351
+AlphaWolf wins Pot (351)
+Rake (9) Pot (360) Players (CLS: 0, CoinDoctor: 0, bestlooser: 180, AlphaWolf: 180)
+** Deck ** [Qd Jd 9h 8h Td Ac 2h 5d 8s 6d Jc 6c 4c As 3c Qc 5h Kc Ad]
+
+Hand #108555-72 - 2017-06-19 22:09:26
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (4098.77)
+Seat 2: CoinDoctor (1134)
+Seat 3: bestlooser (1308.93)
+Seat 6: AlphaWolf (3132.32)
+bestlooser has the dealer button
+AlphaWolf posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [4 players]
+CoinDoctor raises to 40
+bestlooser folds
+AlphaWolf calls 30
+CLS calls 20
+** Flop ** [Td 4c 8h]
+AlphaWolf checks
+CLS checks
+CoinDoctor checks
+** Turn ** [Jc]
+AlphaWolf checks
+CLS checks
+CoinDoctor checks
+** River ** [6s]
+AlphaWolf bets 117
+CLS folds
+CoinDoctor calls 117
+** Pot Show Down ** [Td 4c 8h Jc 6s]
+CoinDoctor shows [7s 4h Qs Ah] (Hi: a Pair of Fours +AJT  Lo: 8764A)
+AlphaWolf shows [7h 3c As 4d] (Hi: a Pair of Fours +AJT  Lo: 8643A)
+CoinDoctor splits Hi Pot (86.29) with a Pair
+AlphaWolf splits Hi Pot (86.29) with a Pair
+AlphaWolf wins Lo Pot (172.57) with 8643A
+Rake (8.85) Pot (354) Players (CLS: 40, CoinDoctor: 157, bestlooser: 0, AlphaWolf: 157)
+** Deck ** [7h Ac 7s Jh 3c 8c 4h 8s As Qd Qs Js 4d 5h Ah 2s Td 4c 8h Jc 6s]
+
+Hand #108557-73 - 2017-06-19 22:10:28
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (4058.77)
+Seat 2: CoinDoctor (1063.29)
+Seat 3: bestlooser (1308.93)
+Seat 6: AlphaWolf (3234.18)
+AlphaWolf has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [4 players]
+bestlooser folds
+AlphaWolf calls 20
+CLS calls 10
+CoinDoctor checks
+** Flop ** [Qc 8h Ks]
+CLS checks
+CoinDoctor checks
+AlphaWolf bets 20
+CLS folds
+CoinDoctor calls 20
+** Turn ** [Td]
+CoinDoctor checks
+AlphaWolf checks
+** River ** [8d]
+CoinDoctor checks
+AlphaWolf checks
+** Pot Show Down ** [Qc 8h Ks Td 8d]
+CoinDoctor shows [7s Qd 3h 4d] (Hi: Two Pair, Queens and Eights +7  Lo: None)
+AlphaWolf shows [Ac Tc 7h 5d] (Hi: Two Pair, Tens and Eights +A  Lo: None)
+CoinDoctor wins Pot (97.50) with Two Pair
+No low hand qualified
+Rake (2.50) Pot (100) Players (CLS: 20, CoinDoctor: 40, bestlooser: 0, AlphaWolf: 40)
+** Deck ** [Qs 7s Qh Ac Jh Qd Kd Tc 9s 3h Th 7h 4h 4d 9h 5d Qc 8h Ks Td 8d]
+
+Hand #108560-74 - 2017-06-19 22:11:29
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (4038.77)
+Seat 2: CoinDoctor (1120.79)
+Seat 3: bestlooser (1308.93)
+Seat 6: AlphaWolf (3194.18)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [4 players]
+AlphaWolf calls 20
+CLS calls 20
+CoinDoctor calls 10
+bestlooser raises to 100
+AlphaWolf calls 80
+CLS calls 80
+CoinDoctor calls 80
+** Flop ** [6h 3s 2h]
+CoinDoctor checks
+bestlooser bets 390
+AlphaWolf calls 390
+CLS folds
+CoinDoctor calls 390
+** Turn ** [8c]
+CoinDoctor checks
+bestlooser checks
+AlphaWolf checks
+** River ** [Qh]
+CoinDoctor checks
+bestlooser bets 818.93 (All-in)
+AlphaWolf calls 818.93
+CoinDoctor folds
+** Pot Show Down ** [6h 3s 2h 8c Qh]
+bestlooser shows [Ah 3h Qs 2c] (Hi: a Flush, Ace high +Q632  Lo: 8632A)
+AlphaWolf shows [6d Th Jc 3c] (Hi: Two Pair, Sixes and Threes +Q  Lo: None)
+bestlooser wins Hi Pot (1563.86) with a Flush
+bestlooser wins Lo Pot (1563.85) with 8632A
+Rake (80.15) Pot (3207.86) Players (CLS: 100, CoinDoctor: 490, bestlooser: 1308.93, AlphaWolf: 1308.93)
+** Deck ** [4c Ah 6d Ac 4h 3h Th Jd Td Qs Jc 2s 3d 2c 3c Kh 6h 3s 2h 8c Qh]
+
+Hand #108562-75 - 2017-06-19 22:12:58
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (3938.77)
+Seat 2: CoinDoctor (630.79)
+Seat 3: bestlooser (3127.71)
+Seat 6: AlphaWolf (1885.25)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+AlphaWolf posts big blind 20
+** Hole Cards ** [4 players]
+CLS calls 20
+CoinDoctor raises to 90
+bestlooser folds
+AlphaWolf raises to 300
+CLS folds
+CoinDoctor raises to 630.79 (All-in)
+AlphaWolf calls 330.79
+** Flop ** [8s 2c 4c]
+** Turn ** [5d]
+** River ** [Tc]
+** Pot Show Down ** [8s 2c 4c 5d Tc]
+CoinDoctor shows [Qd Ah Td Kc] (Hi: a Pair of Tens +A85  Lo: None)
+AlphaWolf shows [Kd Jh 9d Qs] (Hi: High Card King +QT85  Lo: None)
+CoinDoctor wins Pot (1259.33) with a Pair
+No low hand qualified
+Rake (32.25) Pot (1291.58) Players (CLS: 20, CoinDoctor: 630.79, bestlooser: 10, AlphaWolf: 630.79)
+** Deck ** [3s Kd 8d Qd Ts Jh Ac Ah 3c 9d Jd Td 9c Qs 6c Kc 8s 2c 4c 5d Tc]
+
+Hand #108564-76 - 2017-06-19 22:13:45
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (3918.77)
+Seat 2: CoinDoctor (1259.33)
+Seat 3: bestlooser (3117.71)
+Seat 6: AlphaWolf (1254.46)
+bestlooser has the dealer button
+AlphaWolf posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [4 players]
+CoinDoctor calls 20
+bestlooser calls 20
+AlphaWolf raises to 100
+CLS calls 80
+CoinDoctor calls 80
+bestlooser calls 80
+** Flop ** [3s 9c 6h]
+AlphaWolf checks
+CLS checks
+CoinDoctor checks
+bestlooser bets 390
+AlphaWolf calls 390
+CLS calls 390
+CoinDoctor calls 390
+** Turn ** [Jh]
+AlphaWolf checks
+CLS checks
+CoinDoctor bets 769.33 (All-in)
+bestlooser has timed out
+bestlooser folds
+AlphaWolf calls 764.46 (All-in)
+CLS calls 769.33
+** River ** [Kc]
+** Side Pot 1 Show Down ** [3s 9c 6h Jh Kc]
+CLS shows [5d 8s Th 4s] (Hi: High Card King +JT98  Lo: None)
+CoinDoctor shows [Js 5h Ac 3c] (Hi: Two Pair, Jacks and Threes +K  Lo: None)
+CoinDoctor wins Side Pot 1 (9.54) with Two Pair
+No low hand qualified
+Rake (0.20) Pot (9.74) Players (CLS: 4.87, CoinDoctor: 4.87, bestlooser: 0, AlphaWolf: 0)
+** Main Pot Show Down ** [3s 9c 6h Jh Kc]
+AlphaWolf shows [Tc 6d Kd Ah] (Hi: Two Pair, Kings and Sixes +J  Lo: None)
+AlphaWolf wins Main Pot (4147.08) with Two Pair
+No low hand qualified
+Rake (106.30) Pot (4253.38) Players (CLS: 1254.46, CoinDoctor: 1254.46, bestlooser: 490, AlphaWolf: 1254.46)
+** Deck ** [Tc 5d Js 3d 6d 8s 5h 2c Kd Th Ac 4h Ah 4s 3c 8d 3s 9c 6h Jh Kc]
+
+Hand #108569-77 - 2017-06-19 22:16:42
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2659.44)
+Seat 2: CoinDoctor (9.54) - sitting out
+Seat 3: bestlooser (2627.71)
+Seat 6: AlphaWolf (4147.08)
+AlphaWolf has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+AlphaWolf folds
+CLS raises to 60
+CoinDoctor adds 1990.46 chips
+bestlooser raises to 180
+CLS calls 120
+** Flop ** [Ks Qh Js]
+CLS bets 351
+bestlooser calls 351
+** Turn ** [Ts]
+CLS bets 260
+bestlooser calls 260
+** River ** [5c]
+CLS bets 220
+bestlooser raises to 1836.71 (All-in)
+CLS folds
+bestlooser refunded 1616.71
+bestlooser wins Pot (1971.45)
+Rake (50.55) Pot (2022) Players (CLS: 1011, bestlooser: 1011)
+** Deck ** [3h 8h 9c 9d 4s 2c Kh 6c Qd Qs 7s 5s Ks Qh Js Ts 5c]
+
+Hand #108573-78 - 2017-06-19 22:18:20
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1648.44)
+Seat 2: CoinDoctor (2000)
+Seat 3: bestlooser (3588.16)
+CLS has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [2 players]
+CLS raises to 60
+bestlooser folds
+CLS refunded 40
+CLS wins Pot (40)
+Rake (0) Pot (40) Players (CLS: 20, bestlooser: 20)
+** Deck ** [4d 4s Kc 7h 7s 6c Jd 9d]
+
+Hand #108575-79 - 2017-06-19 22:18:38
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1668.44)
+Seat 2: CoinDoctor (2000)
+Seat 3: bestlooser (3568.16)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser raises to 70
+CLS calls 60
+CoinDoctor calls 50
+** Flop ** [7h Tc 2s]
+CLS checks
+CoinDoctor checks
+bestlooser checks
+** Turn ** [9h]
+CLS bets 204.75
+CoinDoctor folds
+bestlooser calls 204.75
+** River ** [9d]
+CLS bets 604.05
+bestlooser folds
+CLS refunded 604.05
+CLS wins Pot (604.05)
+Rake (15.45) Pot (619.50) Players (CLS: 274.75, CoinDoctor: 70, bestlooser: 274.75)
+** Deck ** [9c 4s Qd 5c 3s Kc 6s 8s 2h Td 4d Qh 7h Tc 2s 9h 9d]
+
+Hand #108578-80 - 2017-06-19 22:20:18
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1997.74)
+Seat 2: CoinDoctor (1930)
+Seat 3: bestlooser (3293.41)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+CoinDoctor calls 10
+bestlooser raises to 80
+CLS calls 60
+CoinDoctor calls 60
+** Flop ** [3c 9s 2d]
+CoinDoctor bets 234
+bestlooser calls 234
+CLS folds
+** Turn ** [5d]
+CoinDoctor bets 690.30
+bestlooser folds
+CoinDoctor refunded 690.30
+CoinDoctor wins Pot (690.30)
+Rake (17.70) Pot (708) Players (CLS: 80, CoinDoctor: 314, bestlooser: 314)
+** Deck ** [Ks 4d 7h Qh 4c Tc 3h 5h 2h 9h 8c 5c 3c 9s 2d 5d]
+
+Hand #108581-81 - 2017-06-19 22:21:15
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1917.74)
+Seat 2: CoinDoctor (2306.30)
+Seat 3: bestlooser (2979.41)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor calls 20
+bestlooser raises to 80
+CLS calls 60
+CoinDoctor calls 60
+** Flop ** [7d Tc 8d]
+bestlooser checks
+CLS checks
+CoinDoctor checks
+** Turn ** [Kc]
+bestlooser checks
+CLS checks
+CoinDoctor bets 234
+bestlooser calls 234
+CLS folds
+** River ** [6c]
+bestlooser bets 690.30
+CoinDoctor folds
+bestlooser refunded 690.30
+bestlooser wins Pot (690.30)
+Rake (17.70) Pot (708) Players (CLS: 80, CoinDoctor: 314, bestlooser: 314)
+** Deck ** [2c 7h 6s 4d 3d Kh Ah 5s Jc 2d 6h 5d 7d Tc 8d Kc 6c]
+
+Hand #108584-82 - 2017-06-19 22:22:53
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1837.74)
+Seat 2: CoinDoctor (1992.30)
+Seat 3: bestlooser (3355.71)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser calls 20
+CLS calls 10
+CoinDoctor checks
+** Flop ** [Qd 8h 4h]
+CLS checks
+CoinDoctor bets 58.50
+bestlooser calls 58.50
+CLS folds
+** Turn ** [Ks]
+CoinDoctor checks
+bestlooser checks
+** River ** [5s]
+CoinDoctor checks
+bestlooser bets 172.60
+CoinDoctor calls 172.60
+** Pot Show Down ** [Qd 8h 4h Ks 5s]
+CoinDoctor shows [Ts 9h 6h As] (Hi: High Card Ace +KQT8  Lo: 8654A)
+bestlooser shows [3s 6s 7d 7s] (Hi: a Straight, Four to Eight  Lo: 86543)
+bestlooser wins Hi Pot (254.58) with a Straight
+CoinDoctor wins Lo Pot (254.57) with 8654A
+Rake (13.05) Pot (522.20) Players (CLS: 20, CoinDoctor: 251.10, bestlooser: 251.10)
+** Deck ** [3h Ts 3s 3c 9h 6s 7c 6h 7d 2h As 7s Qd 8h 4h Ks 5s]
+
+Hand #108585-83 - 2017-06-19 22:23:58
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1817.74)
+Seat 2: CoinDoctor (1995.77)
+Seat 3: bestlooser (3359.19)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+CoinDoctor raises to 80
+bestlooser calls 60
+CLS calls 60
+** Flop ** [8c 3h Ks]
+CoinDoctor bets 234
+bestlooser calls 234
+CLS folds
+** Turn ** [Ts]
+CoinDoctor bets 690.30
+bestlooser calls 690.30
+** River ** [3c]
+CoinDoctor bets 991.47 (All-in)
+bestlooser calls 991.47
+** Pot Show Down ** [8c 3h Ks Ts 3c]
+CoinDoctor shows [Kd 6d Kh 2d] (Hi: a Full House, Kings full of Threes  Lo: None)
+bestlooser shows [4h Tc 2h 3s] (Hi: a Full House, Threes full of Tens  Lo: None)
+CoinDoctor wins Pot (3969.79) with a Full House
+No low hand qualified
+Rake (101.75) Pot (4071.54) Players (CLS: 80, CoinDoctor: 1995.77, bestlooser: 1995.77)
+** Deck ** [Kd 4h Qd 6d Tc 7c Kh 2h Td 2d 3s 9s 8c 3h Ks Ts 3c]
+
+Hand #108586-84 - 2017-06-19 22:25:22
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1737.74)
+Seat 2: CoinDoctor (3969.79)
+Seat 3: bestlooser (1363.42)
+CoinDoctor has the dealer button
+bestlooser: "nh"
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor raises to 40
+bestlooser calls 30
+CLS calls 20
+** Flop ** [3c 5h 9h]
+bestlooser checks
+CLS bets 117
+CoinDoctor raises to 468
+bestlooser calls 468
+CLS calls 351
+** Turn ** [Qh]
+bestlooser checks
+CLS checks
+CoinDoctor checks
+** River ** [Ah]
+bestlooser bets 855.42 (All-in)
+CLS folds
+CoinDoctor calls 855.42
+** Pot Show Down ** [3c 5h 9h Qh Ah]
+CoinDoctor shows [Th 5d 5c As] (Hi: Three of a Kind, Fives +AQ  Lo: None)
+bestlooser shows [4s 4c Kc 6d] (Hi: a Pair of Fours +AQ9  Lo: 6543A)
+CoinDoctor wins Hi Pot (1577) with Three of a Kind
+bestlooser wins Lo Pot (1576.99) with 6543A
+Rake (80.85) Pot (3234.84) Players (CLS: 508, CoinDoctor: 1363.42, bestlooser: 1363.42)
+** Deck ** [4s 3s Th 4c 7h 5d Kc 9s 5c 6d 8c As 3c 5h 9h Qh Ah]
+
+Hand #108587-85 - 2017-06-19 22:26:49
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1229.74)
+Seat 2: CoinDoctor (4183.37)
+Seat 3: bestlooser (1576.99)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser calls 20
+CLS calls 10
+CoinDoctor checks
+** Flop ** [Kd Kc 2d]
+CLS checks
+CoinDoctor checks
+bestlooser checks
+** Turn ** [6d]
+CLS bets 58.50
+CoinDoctor calls 58.50
+bestlooser folds
+** River ** [5h]
+CLS bets 172.60
+CoinDoctor calls 172.60
+** Pot Show Down ** [Kd Kc 2d 6d 5h]
+CLS shows [2c Ks 2s 5c] (Hi: a Full House, Kings full of Fives  Lo: None)
+CoinDoctor shows [3d 7d Jh Qc] (Hi: a Flush, King high +7632  Lo: 76532)
+CLS wins Hi Pot (254.58) with a Full House
+CoinDoctor wins Lo Pot (254.57) with 76532
+Rake (13.05) Pot (522.20) Players (CLS: 251.10, CoinDoctor: 251.10, bestlooser: 20)
+** Deck ** [2c 3d 4s Ks 7d 7s 2s Jh Th 5c Qc 9c Kd Kc 2d 6d 5h]
+
+Hand #108588-86 - 2017-06-19 22:27:47
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1233.22)
+Seat 2: CoinDoctor (4186.84)
+Seat 3: bestlooser (1556.99)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+CoinDoctor raises to 80
+bestlooser raises to 260
+CLS folds
+CoinDoctor calls 180
+** Flop ** [9s 5d 6c]
+CoinDoctor bets 526.50
+bestlooser raises to 1296.99 (All-in)
+CoinDoctor calls 770.49
+** Turn ** [Kd]
+** River ** [Jh]
+** Pot Show Down ** [9s 5d 6c Kd Jh]
+CoinDoctor shows [4d 2s 3d Ah] (Hi: High Card Ace +KJ94  Lo: None)
+bestlooser shows [Ad 8d 8c Jc] (Hi: a Pair of Jacks +AK9  Lo: None)
+bestlooser wins Pot (3055.68) with a Pair
+No low hand qualified
+Rake (78.30) Pot (3133.98) Players (CLS: 20, CoinDoctor: 1556.99, bestlooser: 1556.99)
+** Deck ** [4d Ad Td 2s 8d 5h 3d 8c Qs Ah Jc 7s 9s 5d 6c Kd Jh]
+
+Hand #108589-87 - 2017-06-19 22:28:36
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1213.22)
+Seat 2: CoinDoctor (2629.85)
+Seat 3: bestlooser (3055.68)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor calls 20
+bestlooser raises to 80
+CLS calls 60
+CoinDoctor calls 60
+** Flop ** [7h Js 2s]
+bestlooser bets 234
+CLS calls 234
+CoinDoctor calls 234
+** Turn ** [Td]
+bestlooser checks
+CLS checks
+CoinDoctor checks
+** River ** [Ah]
+bestlooser bets 918.45
+CLS calls 899.22 (All-in)
+CoinDoctor folds
+bestlooser refunded 19.23
+** Pot Show Down ** [7h Js 2s Td Ah]
+CLS shows [Jh 6s As 4c] (Hi: Two Pair, Aces and Jacks +T  Lo: 7642A)
+bestlooser shows [3d 2d 4h 8c] (Hi: a Pair of Deuces +AJ8  Lo: 7432A)
+CLS wins Hi Pot (1335.97) with Two Pair
+bestlooser wins Lo Pot (1335.97) with 7432A
+Rake (68.50) Pot (2740.44) Players (CLS: 1213.22, CoinDoctor: 314, bestlooser: 1213.22)
+** Deck ** [3d Jh 8d 2d 6s 9s 4h As 8h 8c 4c Ks 7h Js 2s Td Ah]
+
+Hand #108590-88 - 2017-06-19 22:29:50
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1335.97)
+Seat 2: CoinDoctor (2315.85)
+Seat 3: bestlooser (3178.43)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser folds
+CLS calls 10
+CoinDoctor checks
+** Flop ** [Tc Ks 2c]
+CLS bets 39
+CoinDoctor calls 39
+** Turn ** [Js]
+CLS checks
+CoinDoctor bets 115.05
+CLS folds
+CoinDoctor refunded 115.05
+CoinDoctor wins Pot (115.05)
+Rake (2.95) Pot (118) Players (CLS: 59, CoinDoctor: 59, bestlooser: 0)
+** Deck ** [3c 6c 9h 7d 8c Jh 3d Kh 8h 9c Qc Qd Tc Ks 2c Js]
+
+Hand #108591-89 - 2017-06-19 22:31:10
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1276.97)
+Seat 2: CoinDoctor (2371.90)
+Seat 3: bestlooser (3178.43)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+CoinDoctor calls 10
+bestlooser checks
+** Flop ** [2d 7h 4h]
+CoinDoctor checks
+bestlooser checks
+CLS bets 58.50
+CoinDoctor calls 58.50
+bestlooser folds
+** Turn ** [2c]
+CoinDoctor checks
+CLS checks
+** River ** [Ad]
+CoinDoctor checks
+CLS checks
+** Pot Show Down ** [2d 7h 4h 2c Ad]
+CLS shows [9h Ac Qc Qh] (Hi: Two Pair, Aces and Deuces +Q  Lo: None)
+CoinDoctor shows [4s Qs Jc 6d] (Hi: Two Pair, Fours and Deuces +Q  Lo: 7642A)
+CLS wins Hi Pot (86.30) with Two Pair
+CoinDoctor wins Lo Pot (86.30) with 7642A
+Rake (4.40) Pot (177) Players (CLS: 78.50, CoinDoctor: 78.50, bestlooser: 20)
+** Deck ** [4s 8s 9h Qs Js Ac Jc Th Qc 6d 7d Qh 2d 7h 4h 2c Ad]
+
+Hand #108592-90 - 2017-06-19 22:32:16
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1284.77)
+Seat 2: CoinDoctor (2379.70)
+Seat 3: bestlooser (3158.43)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor raises to 60
+bestlooser folds
+CLS calls 40
+** Flop ** [Kd Jd Jh]
+CLS checks
+CoinDoctor checks
+** Turn ** [3c]
+CLS bets 126.75
+CoinDoctor calls 126.75
+** River ** [7c]
+CLS bets 124.65
+CoinDoctor raises to 500
+CLS folds
+CoinDoctor refunded 375.35
+CoinDoctor wins Pot (617)
+Rake (15.80) Pot (632.80) Players (CLS: 311.40, CoinDoctor: 311.40, bestlooser: 10)
+** Deck ** [8d As Kc Js 2d Jc 8s Qh 6d Ah Ks Ad Kd Jd Jh 3c 7c]
+
+Hand #108593-91 - 2017-06-19 22:33:12
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (973.37)
+Seat 2: CoinDoctor (2685.30)
+Seat 3: bestlooser (3148.43)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser raises to 70
+CLS calls 60
+CoinDoctor calls 50
+** Flop ** [Tc 9c Kc]
+CLS checks
+CoinDoctor checks
+bestlooser bets 204.75
+CLS folds
+CoinDoctor calls 204.75
+** Turn ** [Kd]
+CoinDoctor checks
+bestlooser bets 604.05
+CoinDoctor raises to 2410.55 (All-in)
+bestlooser folds
+CoinDoctor refunded 1806.50
+CoinDoctor wins Pot (1781.95)
+Rake (45.65) Pot (1827.60) Players (CLS: 70, CoinDoctor: 878.80, bestlooser: 878.80)
+** Deck ** [9d Ac 4c 8d 6h 7s 7d Qc Qs 8s Qh 5d Tc 9c Kc Kd]
+
+Hand #108594-92 - 2017-06-19 22:34:42
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (903.37)
+Seat 2: CoinDoctor (3588.45)
+Seat 3: bestlooser (2269.63)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+CoinDoctor calls 10
+bestlooser raises to 80
+CLS calls 60
+CoinDoctor folds
+** Flop ** [As 3d Ah]
+bestlooser bets 175.50
+CLS calls 175.50
+** Turn ** [Qd]
+bestlooser checks
+CLS bets 517.75
+bestlooser calls 517.75
+** River ** [Ks]
+bestlooser checks
+CLS checks
+** Pot Show Down ** [As 3d Ah Qd Ks]
+CLS shows [3h 5d 2h 5c] (Hi: Two Pair, Aces and Fives +K  Lo: None)
+bestlooser shows [8h 4s 9d 8d] (Hi: Two Pair, Aces and Eights +K  Lo: None)
+bestlooser wins Pot (1527.35) with Two Pair
+No low hand qualified
+Rake (39.15) Pot (1566.50) Players (CLS: 773.25, CoinDoctor: 20, bestlooser: 773.25)
+** Deck ** [Kc 8h 3h 4h 4s 5d 7s 9d 2h 3s 8d 5c As 3d Ah Qd Ks]
+
+Hand #108595-93 - 2017-06-19 22:35:41
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (130.12)
+Seat 2: CoinDoctor (3568.45)
+Seat 3: bestlooser (3023.73)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor raises to 60
+bestlooser raises to 200
+CLS calls 110.12 (All-in)
+CoinDoctor calls 140
+** Flop ** [3h Kh 7h]
+bestlooser checks
+CoinDoctor checks
+** Turn ** [Th]
+bestlooser checks
+CoinDoctor bets 120
+bestlooser folds
+CoinDoctor refunded 120
+** River ** [5c]
+CoinDoctor wins Side Pot 1 (136.31)
+Rake (3.45) Pot (139.76) Players (CLS: 0, CoinDoctor: 69.88, bestlooser: 69.88)
+** Main Pot Show Down ** [3h Kh 7h Th 5c]
+CLS shows [Qs 8c 2h 8s] (Hi: a Pair of Eights +KT7  Lo: 87532)
+CoinDoctor shows [Js 7s Jc 3s] (Hi: Two Pair, Sevens and Threes +K  Lo: None)
+CoinDoctor wins Hi Main Pot (190.31) with Two Pair
+CLS wins Lo Main Pot (190.30) with 87532
+Rake (9.75) Pot (390.36) Players (CLS: 130.12, CoinDoctor: 130.12, bestlooser: 130.12)
+** Deck ** [Jd Qs Js 7d 8c 7s Jh 2h Jc 3c 8s 3s 3h Kh 7h Th 5c]
+
+Hand #108596-94 - 2017-06-19 22:36:31
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (190.30)
+Seat 2: CoinDoctor (3695.07)
+Seat 3: bestlooser (2823.73)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser folds
+CLS raises to 60
+CoinDoctor calls 40
+** Flop ** [9s Ts 5c]
+CLS bets 117
+CoinDoctor calls 117
+** Turn ** [Jh]
+CLS bets 13.30 (All-in)
+CoinDoctor calls 13.30
+** River ** [Qc]
+** Pot Show Down ** [9s Ts 5c Jh Qc]
+CLS shows [6h 7s Ad 8c] (Hi: a Straight, Seven to Jack  Lo: None)
+CoinDoctor shows [6d Kc 2h Td] (Hi: a Straight, Nine to King  Lo: None)
+CoinDoctor wins Pot (371.10) with a Straight
+No low hand qualified
+Rake (9.50) Pot (380.60) Players (CLS: 190.30, CoinDoctor: 190.30, bestlooser: 0)
+CLS adds 1000 chips
+** Deck ** [6h 6d 8h 7s Kc Tc Ad 2h 2c 8c Td Ks 9s Ts 5c Jh Qc]
+
+Hand #108597-95 - 2017-06-19 22:37:05
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1000)
+Seat 2: CoinDoctor (3875.87)
+Seat 3: bestlooser (2823.73)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+CLS raises to 70
+CoinDoctor folds
+bestlooser raises to 220
+CLS calls 150
+** Flop ** [5c Qh 8d]
+bestlooser bets 438.75
+CLS raises to 780 (All-in)
+bestlooser calls 341.25
+** Turn ** [7c]
+** River ** [9c]
+** Pot Show Down ** [5c Qh 8d 7c 9c]
+CLS shows [4c Js Ah 2h] (Hi: High Card Ace +QJ98  Lo: 8752A)
+bestlooser shows [8h Ac 4d 5s] (Hi: Two Pair, Eights and Fives +Q  Lo: 8754A)
+bestlooser wins Hi Pot (979.88) with Two Pair
+CLS wins Lo Pot (979.87) with 8752A
+Rake (50.25) Pot (2010) Players (CLS: 1000, CoinDoctor: 10, bestlooser: 1000)
+** Deck ** [Tc 8h 4c 3h Ac Js Ks 4d Ah 9s 5s 2h 5c Qh 8d 7c 9c]
+
+Hand #108598-96 - 2017-06-19 22:37:44
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (979.87)
+Seat 2: CoinDoctor (3865.87)
+Seat 3: bestlooser (2803.61)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor folds
+bestlooser raises to 60
+CLS calls 40
+** Flop ** [Tc 9d Ad]
+bestlooser bets 117
+CLS folds
+bestlooser refunded 117
+bestlooser wins Pot (117)
+Rake (3) Pot (120) Players (CLS: 60, CoinDoctor: 0, bestlooser: 60)
+** Deck ** [Ks 9c 2d Qc 5d 4c 9h 6d 3c Th 5c 9s Tc 9d Ad]
+
+Hand #108599-97 - 2017-06-19 22:38:17
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (919.87)
+Seat 2: CoinDoctor (3865.87)
+Seat 3: bestlooser (2860.61)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser raises to 70
+CLS calls 60
+CoinDoctor calls 50
+** Flop ** [Ks 7s 8d]
+CLS bets 204.75
+CoinDoctor folds
+bestlooser calls 204.75
+** Turn ** [6s]
+CLS bets 402.70
+bestlooser calls 402.70
+** River ** [7d]
+CLS bets 242.42 (All-in)
+bestlooser calls 242.42
+** Pot Show Down ** [Ks 7s 8d 6s 7d]
+CLS shows [Js Td Kd 5s] (Hi: a Flush, King high +J765  Lo: None)
+bestlooser shows [4d 5d 6c 2d] (Hi: a Straight, Four to Eight  Lo: 87642)
+CLS wins Hi Pot (931.02) with a Flush
+bestlooser wins Lo Pot (931.02) with 87642
+Rake (47.70) Pot (1909.74) Players (CLS: 919.87, CoinDoctor: 70, bestlooser: 919.87)
+** Deck ** [Js Qc 4d Td 9c 5d Kd Jc 6c 5s 4s 2d Ks 7s 8d 6s 7d]
+
+Hand #108600-98 - 2017-06-19 22:39:16
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (931.02)
+Seat 2: CoinDoctor (3795.87)
+Seat 3: bestlooser (2871.76)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+CoinDoctor folds
+bestlooser raises to 60
+CLS calls 40
+** Flop ** [4h 6d Qh]
+bestlooser bets 126.75
+CLS folds
+bestlooser refunded 126.75
+bestlooser wins Pot (126.75)
+Rake (3.25) Pot (130) Players (CLS: 60, CoinDoctor: 10, bestlooser: 60)
+** Deck ** [Kc 2h 7c 3c 7s 7d 2d 6s Ks 9h 5c 9s 4h 6d Qh]
+
+Hand #108601-99 - 2017-06-19 22:39:47
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (871.02)
+Seat 2: CoinDoctor (3785.87)
+Seat 3: bestlooser (2938.51)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor calls 20
+bestlooser raises to 80
+CLS calls 60
+CoinDoctor calls 60
+** Flop ** [4d 4h Jd]
+bestlooser checks
+CLS bets 234
+CoinDoctor calls 234
+bestlooser folds
+** Turn ** [Tc]
+CLS bets 557.02 (All-in)
+CoinDoctor calls 557.02
+** River ** [Kc]
+** Pot Show Down ** [4d 4h Jd Tc Kc]
+CLS shows [Qc Jc 4c As] (Hi: a Full House, Fours full of Jacks  Lo: None)
+CoinDoctor shows [Qd 3d 8h 8s] (Hi: Two Pair, Eights and Fours +K  Lo: None)
+CLS wins Pot (1776.49) with a Full House
+No low hand qualified
+Rake (45.55) Pot (1822.04) Players (CLS: 871.02, CoinDoctor: 871.02, bestlooser: 80)
+** Deck ** [Ac Qc Qd Th Jc 3d 6h 4c 8h 2s As 8s 4d 4h Jd Tc Kc]
+
+Hand #108602-100 - 2017-06-19 22:40:36
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1776.49)
+Seat 2: CoinDoctor (2914.85)
+Seat 3: bestlooser (2858.51)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser raises to 70
+CLS calls 60
+CoinDoctor raises to 280
+bestlooser raises to 910
+CLS folds
+CoinDoctor calls 630
+** Flop ** [6c 5h 4c]
+CoinDoctor bets 1842.75
+bestlooser folds
+CoinDoctor refunded 1842.75
+CoinDoctor wins Pot (1842.75)
+Rake (47.25) Pot (1890) Players (CLS: 70, CoinDoctor: 910, bestlooser: 910)
+** Deck ** [Tc Jh Js 2c Jd Ad Jc 2d Ks 9s Th Ac 6c 5h 4c]
+
+Hand #108603-101 - 2017-06-19 22:41:35
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1706.49)
+Seat 2: CoinDoctor (3847.60)
+Seat 3: bestlooser (1948.51)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+CoinDoctor folds
+bestlooser raises to 70
+CLS calls 50
+** Flop ** [7d 9d 4s]
+bestlooser bets 146.25
+CLS folds
+bestlooser refunded 146.25
+bestlooser wins Pot (146.25)
+Rake (3.75) Pot (150) Players (CLS: 70, CoinDoctor: 10, bestlooser: 70)
+** Deck ** [Kh 5d Tc 9s Qd 2d 7c Ah 7h 2c Ts Kd 7d 9d 4s]
+
+Hand #108604-102 - 2017-06-19 22:42:06
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1636.49)
+Seat 2: CoinDoctor (3837.60)
+Seat 3: bestlooser (2024.76)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor raises to 70
+bestlooser calls 60
+CLS calls 50
+** Flop ** [Ks Tc Qh]
+bestlooser checks
+CLS bets 136.50
+CoinDoctor raises to 614.25
+bestlooser folds
+CLS folds
+CoinDoctor refunded 477.75
+CoinDoctor wins Pot (470.95)
+Rake (12.05) Pot (483) Players (CLS: 206.50, CoinDoctor: 206.50, bestlooser: 70)
+** Deck ** [8d Qc Ac 7h Kc Kd 8h Qs Th 9s 6h 3h Ks Tc Qh]
+
+Hand #108605-103 - 2017-06-19 22:43:10
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1429.99)
+Seat 2: CoinDoctor (4102.05)
+Seat 3: bestlooser (1954.76)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser raises to 70
+CLS calls 60
+CoinDoctor calls 50
+** Flop ** [6h 7d 9d]
+CLS checks
+CoinDoctor bets 204.75
+bestlooser calls 204.75
+CLS folds
+** Turn ** [Ad]
+CoinDoctor checks
+bestlooser bets 604.05
+CoinDoctor folds
+bestlooser refunded 604.05
+bestlooser wins Pot (604.05)
+Rake (15.45) Pot (619.50) Players (CLS: 70, CoinDoctor: 274.75, bestlooser: 274.75)
+** Deck ** [5h Jc 8d 9c 8h 5s As 5c Tc 5d Kh 7s 6h 7d 9d Ad]
+
+Hand #108606-104 - 2017-06-19 22:44:13
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1359.99)
+Seat 2: CoinDoctor (3827.30)
+Seat 3: bestlooser (2284.06)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+CoinDoctor calls 10
+bestlooser checks
+** Flop ** [6c 3h 7c]
+CoinDoctor checks
+bestlooser checks
+CLS bets 58.50
+CoinDoctor calls 58.50
+bestlooser has timed out
+bestlooser folds
+** Turn ** [Ac]
+CoinDoctor checks
+CLS checks
+** River ** [As]
+CoinDoctor bets 172.60
+CLS folds
+CoinDoctor refunded 172.60
+CoinDoctor wins Pot (172.60)
+Rake (4.40) Pot (177) Players (CLS: 78.50, CoinDoctor: 78.50, bestlooser: 20)
+** Deck ** [Kc Jd 2h Ad 7h 4h 8s 5d 2c 3c Qd 3s 6c 3h 7c Ac As]
+
+Hand #108607-105 - 2017-06-19 22:46:26
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1281.49)
+Seat 2: CoinDoctor (3921.40)
+Seat 3: bestlooser (2264.06)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor calls 20
+bestlooser calls 10
+CLS checks
+** Flop ** [Ad 9c Td]
+bestlooser checks
+CLS checks
+CoinDoctor checks
+** Turn ** [5d]
+bestlooser checks
+CLS checks
+CoinDoctor checks
+** River ** [Tc]
+bestlooser checks
+CLS checks
+CoinDoctor bets 58.50
+bestlooser folds
+CLS folds
+CoinDoctor refunded 58.50
+CoinDoctor wins Pot (58.50)
+Rake (1.50) Pot (60) Players (CLS: 20, CoinDoctor: 20, bestlooser: 20)
+** Deck ** [6c 9d Qs 8c Ks 4h 6s 6h Ts Kd 2s Kc Ad 9c Td 5d Tc]
+
+Hand #108608-106 - 2017-06-19 22:47:55
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (1261.49)
+Seat 2: CoinDoctor (3959.90)
+Seat 3: bestlooser (2244.06)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser folds
+CLS raises to 60
+CoinDoctor raises to 100
+CLS calls 40
+** Flop ** [9s Ad 9h]
+CLS bets 195
+CoinDoctor calls 195
+** Turn ** [5d]
+CLS bets 575.25
+CoinDoctor calls 575.25
+** River ** [6s]
+CLS bets 391.24 (All-in)
+CoinDoctor calls 391.24
+** Pot Show Down ** [9s Ad 9h 5d 6s]
+CLS shows [Kd Qd 9c Ts] (Hi: Three of a Kind, Nines +AK  Lo: None)
+CoinDoctor shows [As 6c Qh 5h] (Hi: Two Pair, Aces and Nines +Q  Lo: None)
+CLS wins Pot (2459.93) with Three of a Kind
+No low hand qualified
+Rake (63.05) Pot (2522.98) Players (CLS: 1261.49, CoinDoctor: 1261.49, bestlooser: 0)
+** Deck ** [Kd As 9d Qd 6c Jh 9c Qh 8d Ts 5h 2h 9s Ad 9h 5d 6s]
+
+Hand #108609-107 - 2017-06-19 22:48:57
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2459.93)
+Seat 2: CoinDoctor (2698.41)
+Seat 3: bestlooser (2244.06)
+CLS has the dealer button
+CoinDoctor posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [3 players]
+CLS calls 20
+CoinDoctor calls 10
+bestlooser raises to 80
+CLS calls 60
+CoinDoctor calls 60
+** Flop ** [Qs 6h As]
+CoinDoctor checks
+bestlooser bets 234
+CLS folds
+CoinDoctor folds
+bestlooser refunded 234
+bestlooser wins Pot (234)
+Rake (6) Pot (240) Players (CLS: 80, CoinDoctor: 80, bestlooser: 80)
+** Deck ** [4c 3s Qh 6c 2c 5h Jd Kh 3d 5c 4h Td Qs 6h As]
+
+Hand #108610-108 - 2017-06-19 22:49:39
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2379.93)
+Seat 2: CoinDoctor (2618.41)
+Seat 3: bestlooser (2398.06)
+CoinDoctor has the dealer button
+bestlooser posts small blind 10
+CLS posts big blind 20
+** Hole Cards ** [3 players]
+CoinDoctor calls 20
+bestlooser folds
+CLS checks
+** Flop ** [7s 6h 5d]
+CLS bets 48.75
+CoinDoctor raises to 195
+CLS calls 146.25
+** Turn ** [7c]
+CLS checks
+CoinDoctor bets 429
+CLS raises to 1716
+CoinDoctor raises to 2403.41 (All-in)
+CLS calls 448.93 (All-in)
+CoinDoctor refunded 238.48
+** River ** [3c]
+** Pot Show Down ** [7s 6h 5d 7c 3c]
+CLS shows [9s Th 4c 8h] (Hi: a Straight, Five to Nine  Lo: 86543)
+CoinDoctor shows [8s As 4h Qc] (Hi: a Straight, Four to Eight  Lo: 6543A)
+CLS wins Hi Pot (2325.33) with a Straight
+CoinDoctor wins Lo Pot (2325.33) with 6543A
+Rake (119.20) Pot (4769.86) Players (CLS: 2379.93, CoinDoctor: 2379.93, bestlooser: 10)
+** Deck ** [Kd 9s 8s 9h Th As 8d 4c 4h 3s 8h Qc 7s 6h 5d 7c 3c]
+
+Hand #108611-109 - 2017-06-19 22:50:41
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2325.33)
+Seat 2: CoinDoctor (2563.81)
+Seat 3: bestlooser (2388.06)
+bestlooser has the dealer button
+CLS posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [3 players]
+bestlooser folds
+CLS calls 10
+CoinDoctor: "time for dinner"
+CoinDoctor checks
+** Flop ** [3c 7h 6c]
+CLS checks
+CoinDoctor bets 39
+CLS folds
+CoinDoctor refunded 39
+CoinDoctor wins Pot (39)
+Rake (1) Pot (40) Players (CLS: 20, CoinDoctor: 20, bestlooser: 0)
+** Deck ** [Jc 4h 6d Td 3d 5h Kd 9h 6s 5s 3h Ks 3c 7h 6c]
+
+bestlooser: "later :)"
+Hand #108612-110 - 2017-06-19 22:51:20
+Game: PL Omaha Hi-Lo (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO8 04A
+Seat 1: CLS (2305.33)
+Seat 3: bestlooser (2388.06)
+CLS has the dealer button
+CLS posts small blind 10
+bestlooser posts big blind 20
+** Hole Cards ** [2 players]
+CLS folds
+bestlooser refunded 10
+bestlooser wins Pot (20)
+Rake (0) Pot (20) Players (CLS: 10, bestlooser: 10)
+** Deck ** [8s 8d 4h 2s 7d Kc 9h Td]
+
