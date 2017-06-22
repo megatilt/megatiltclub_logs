@@ -1,0 +1,29 @@
+﻿Hand #110943-1 - 2017-06-21 14:57:21
+Game: NL Hold'em (10000 - 20000) - Blinds 100/200
+Site: MegaTilt Club
+Table: NLHE 07A
+Seat 3: fAAntastic (20000)
+Seat 4: bspus (10000)
+fAAntastic has the dealer button
+fAAntastic posts small blind 100
+bspus posts big blind 200
+** Hole Cards ** [2 players]
+fAAntastic calls 100
+bspus checks
+** Flop ** [Qc As Jd]
+bspus checks
+fAAntastic checks
+** Turn ** [3s]
+bspus checks
+fAAntastic checks
+** River ** [5c]
+bspus checks
+fAAntastic bets 200
+bspus calls 200
+** Pot Show Down ** [Qc As Jd 3s 5c]
+fAAntastic shows [9s 8h] (High Card Ace +QJ98)
+bspus shows [6s Js] (a Pair of Jacks +AQ6)
+bspus wins Pot (780) with a Pair
+Rake (20) Pot (800) Players (fAAntastic: 400, bspus: 400)
+** Deck ** [6s 9s Js 8h Qc As Jd 3s 5c]
+
