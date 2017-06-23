@@ -1,0 +1,1776 @@
+﻿Starting tournament 2048
+
+Hand #111658-1 - 2017-06-22 08:00:32
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (1500) - sitting out
+Seat 2: bspus (1500)
+Seat 3: tagailog (1500) - sitting out
+Seat 4: JanzVill (1500)
+Seat 5: Buenaobra (1500)
+Seat 6: bestlooser (1500) - sitting out
+shtako has the dealer button
+bspus posts small blind 25
+tagailog posts big blind 50
+** Hole Cards ** [6 players]
+JanzVill folds
+Buenaobra calls 50
+bestlooser folds
+shtako folds
+bspus folds
+tagailog folds
+Buenaobra wins Pot (125)
+** Deck ** [4s 4c Qs Jd Ks 6h 9d 2d 7h 3c 5d 8h 8c Th Ac 8d Ah Qd 2s 4d 3s 7c 7d 9s]
+
+Hand #111660-2 - 2017-06-22 08:01:06
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (1500) - sitting out
+Seat 2: bspus (1475)
+Seat 3: tagailog (1450) - sitting out
+Seat 4: JanzVill (1500)
+Seat 5: Buenaobra (1575)
+Seat 6: bestlooser (1500) - sitting out
+bspus has the dealer button
+tagailog posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [6 players]
+Buenaobra has timed out
+Buenaobra folds
+bestlooser folds
+shtako folds
+JanzVill: "same?"
+bspus folds
+tagailog folds
+JanzVill refunded 25
+JanzVill wins Pot (50)
+** Deck ** [5c 9s As 8h 5h 7c 9d 6h Kd Ad 2s 6d 3c Ah Js 7h Jc Jh 4h 7d 8d 6s Td 2d]
+
+Hand #111662-3 - 2017-06-22 08:02:17
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (1500)
+Seat 2: bspus (1475)
+Seat 3: tagailog (1425)
+Seat 4: JanzVill (1525)
+Seat 5: Buenaobra (1575)
+Seat 6: bestlooser (1500) - sitting out
+tagailog has the dealer button
+JanzVill posts small blind 25
+Buenaobra posts big blind 50
+** Hole Cards ** [6 players]
+bestlooser folds
+shtako has timed out
+shtako folds
+bspus folds
+tagailog raises to 175
+JanzVill folds
+Buenaobra folds
+tagailog refunded 125
+tagailog wins Pot (125)
+** Deck ** [6s 7h 4s Qs 5c 3d Kd 3s Jc Qd 7d 2c 2s 8c 4h Qh Th 9c 2h 5s Tc 2d 5h Ah]
+
+Hand #111664-4 - 2017-06-22 08:03:19
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (1500)
+Seat 2: bspus (1475)
+Seat 3: tagailog (1500)
+Seat 4: JanzVill (1500)
+Seat 5: Buenaobra (1525)
+Seat 6: bestlooser (1500) - sitting out
+JanzVill has the dealer button
+Buenaobra posts small blind 25
+bestlooser posts big blind 50
+** Hole Cards ** [6 players]
+shtako folds
+bspus raises to 100
+tagailog folds
+JanzVill folds
+Buenaobra folds
+bestlooser raises to 325
+bspus raises to 1000
+bestlooser raises to 1500 (All-in)
+bspus calls 475 (All-in)
+bestlooser refunded 25
+** Flop ** [7c Ad 8d]
+** Turn ** [Tc]
+** River ** [Td]
+** Pot Show Down ** [7c Ad 8d Tc Td]
+bspus shows [Ks Qh 6s Qc] (Two Pair, Queens and Tens +A)
+bestlooser shows [5d 2c Kc Kh] (Two Pair, Kings and Tens +A)
+bestlooser wins Pot (2975) with Two Pair
+bspus finishes tournament in place #11
+** Deck ** [7d 5d Ah Ks 5c 2s 8h 2c 8c Qh Th 6c 9h Kc 5h 6s 9c Js 3h Kh 3s Qc Ac 9d 7c Ad 8d Tc Td]
+
+Hand #111667-5 - 2017-06-22 08:04:49
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (1500)
+Seat 3: tagailog (1500)
+Seat 4: JanzVill (1500)
+Seat 5: Buenaobra (1500)
+Seat 6: bestlooser (3000)
+Buenaobra has the dealer button
+bestlooser posts small blind 50
+shtako posts big blind 100
+** Hole Cards ** [5 players]
+tagailog folds
+JanzVill folds
+Buenaobra folds
+bestlooser calls 50
+shtako checks
+** Flop ** [9s Ts Jd]
+bestlooser bets 200
+shtako raises to 800
+bestlooser calls 600
+** Turn ** [7c]
+bestlooser checks
+shtako bets 600 (All-in)
+bestlooser calls 600
+** River ** [Ac]
+** Pot Show Down ** [9s Ts Jd 7c Ac]
+shtako shows [Qc Kd 2s 4s] (a Straight, Ten to Ace)
+bestlooser shows [7s Kc 2c 8c] (a Straight, Seven to Jack)
+shtako wins Pot (3000) with a Straight
+** Deck ** [7s Qc 6d 8d 2h Kc Kd Jc 6s 9c 2c 2s 8s 9h Qh 8c 4s 4c Qd Jh 9s Ts Jd 7c Ac]
+
+Hand #111669-6 - 2017-06-22 08:07:06
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (3000)
+Seat 3: tagailog (1500)
+Seat 4: JanzVill (1500)
+Seat 5: Buenaobra (1500)
+Seat 6: bestlooser (1500)
+bestlooser has the dealer button
+shtako posts small blind 75
+tagailog posts big blind 150
+** Hole Cards ** [5 players]
+JanzVill folds
+Buenaobra folds
+bestlooser folds
+shtako calls 75
+tagailog checks
+** Flop ** [Kd Qc 8d]
+shtako bets 300
+tagailog folds
+shtako refunded 300
+shtako wins Pot (300)
+** Deck ** [2c Qs Qh 8h Jc Js 4d 8s 4h 7d 9h 2h Ac 9s 2s Kc 9c 9d 5h 6h Kd Qc 8d]
+
+JanzVill moved to Table 1
+
+Hand #111672-7 - 2017-06-22 08:07:57
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (3150)
+Seat 3: tagailog (1350)
+Seat 5: Buenaobra (1500)
+Seat 6: bestlooser (1500)
+shtako has the dealer button
+tagailog posts small blind 75
+Buenaobra posts big blind 150
+** Hole Cards ** [4 players]
+bestlooser calls 150
+shtako folds
+tagailog folds
+Buenaobra checks
+** Flop ** [6c Kc 4d]
+Buenaobra bets 150
+bestlooser calls 150
+** Turn ** [5s]
+Buenaobra checks
+bestlooser checks
+** River ** [2h]
+Buenaobra checks
+bestlooser bets 150
+Buenaobra calls 150
+** Pot Show Down ** [6c Kc 4d 5s 2h]
+Buenaobra shows [5h 4s 7s Qh] (Two Pair, Fives and Fours +K)
+bestlooser shows [Jc Jh 3s Ac] (a Straight, Ace to Five)
+bestlooser wins Pot (975) with a Straight
+** Deck ** [Ts 5h Jc As 4h 4s Jh 7c 3d 7s 3s Js Ks Qh Ac 6d 6c Kc 4d 5s 2h]
+
+Hand #111676-8 - 2017-06-22 08:09:35
+Game: PL Omaha (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (3150)
+Seat 3: tagailog (1275)
+Seat 5: Buenaobra (1050)
+Seat 6: bestlooser (2025)
+tagailog has the dealer button
+Buenaobra posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [4 players]
+shtako calls 200
+tagailog folds
+Buenaobra calls 100
+bestlooser checks
+** Flop ** [Jh 9s Th]
+Buenaobra checks
+bestlooser checks
+shtako checks
+** Turn ** [Tc]
+Buenaobra checks
+bestlooser checks
+shtako bets 400
+Buenaobra folds
+bestlooser calls 400
+** River ** [Qh]
+bestlooser checks
+shtako bets 933
+betong moved from Table 1
+diamond moved from Table 1
+bestlooser calls 933
+** Pot Show Down ** [Jh 9s Th Tc Qh]
+shtako shows [Kc 9h 8c Ts] (a Full House, Tens full of Nines)
+bestlooser shows [2h 2c Kh 6s] (a Flush, King high +QJT2)
+shtako wins Pot (3266) with a Full House
+** Deck ** [6d 2h Kc Ac Jd 2c 9h 3h 4d Kh 8c 8h As 6s Ts Qs Jh 9s Th Tc Qh]
+
+Hand #111680-9 - 2017-06-22 08:11:36
+Game: PL Omaha (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (4883)
+Seat 2: betong (10125)
+Seat 3: tagailog (1275)
+Seat 4: diamond (375)
+Seat 5: Buenaobra (850)
+Seat 6: bestlooser (492)
+Buenaobra has the dealer button
+bestlooser posts small blind 100
+shtako posts big blind 200
+** Hole Cards ** [6 players]
+betong folds
+tagailog folds
+diamond raises to 375 (All-in)
+Buenaobra calls 375
+bestlooser raises to 492 (All-in)
+shtako calls 292
+Buenaobra calls 117
+** Flop ** [6s 6d 7h]
+shtako checks
+Buenaobra checks
+** Turn ** [9s]
+shtako bets 925
+Buenaobra calls 358 (All-in)
+shtako refunded 567
+** River ** [9c]
+** Side Pot 2 Show Down ** [6s 6d 7h 9s 9c]
+shtako shows [Jd 5d Kd 6h] (Three of a Kind, Sixes +K9)
+Buenaobra shows [Qd Qh 9h 8d] (Three of a Kind, Nines +Q7)
+Buenaobra wins Side Pot 2 (716) with Three of a Kind
+** Side Pot 1 Show Down ** [6s 6d 7h 9s 9c]
+bestlooser shows [Kh Qc 8s Js] (a Pair of Nines +KQ7)
+Buenaobra wins Side Pot 1 (351) with Three of a Kind
+** Main Pot Show Down ** [6s 6d 7h 9s 9c]
+diamond shows [Ad 3c 2c As] (Two Pair, Aces and Nines +7)
+Buenaobra wins Main Pot (1500) with Three of a Kind
+diamond finishes tournament in place #6
+bestlooser finishes tournament in place #5
+** Deck ** [Kh Jd 4h Qs Ad Qd Qc 5d 3s Ks 3c Qh 8s Kd 9d 7s 2c 9h Js 6h Jc 3d As 8d 6s 6d 7h 9s 9c]
+
+Hand #111681-10 - 2017-06-22 08:13:22
+Game: PL Omaha (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (4033)
+Seat 2: betong (10125)
+Seat 3: tagailog (1275)
+Seat 5: Buenaobra (2567)
+shtako has the dealer button
+shtako posts ante 25
+betong posts ante 25
+tagailog posts ante 25
+Buenaobra posts ante 25
+betong posts small blind 100
+tagailog posts big blind 200
+** Hole Cards ** [4 players]
+Buenaobra folds
+shtako folds
+betong has timed out
+betong folds
+tagailog refunded 100
+tagailog wins Pot (300)
+** Deck ** [As 9s Ah 3s 8h Ks Jd 6c 5c Kh 4h Th Td 7c 5s Ac]
+
+Hand #111682-11 - 2017-06-22 08:15:11
+Game: PL Omaha (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (4008)
+Seat 2: betong (10000) - sitting out
+Seat 3: tagailog (1450)
+Seat 5: Buenaobra (2542)
+betong has the dealer button
+shtako posts ante 25
+betong posts ante 25
+tagailog posts ante 25
+Buenaobra posts ante 25
+tagailog posts small blind 100
+Buenaobra posts big blind 200
+** Hole Cards ** [4 players]
+shtako folds
+betong folds
+tagailog raises to 400
+Buenaobra has timed out
+Buenaobra folds
+tagailog refunded 200
+tagailog wins Pot (500)
+** Deck ** [7d Ad 5c 9d 9s 6c 8d 2s Jc 6h 4s 2d Tc 7s Qc 8c]
+
+Hand #111683-12 - 2017-06-22 08:16:03
+Game: PL Omaha (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (3983)
+Seat 2: betong (9975) - sitting out
+Seat 3: tagailog (1725)
+Seat 5: Buenaobra (2317) - sitting out
+tagailog has the dealer button
+shtako posts ante 25
+betong posts ante 25
+tagailog posts ante 25
+Buenaobra posts ante 25
+Buenaobra posts small blind 200
+shtako posts big blind 400
+** Hole Cards ** [4 players]
+betong folds
+tagailog calls 400
+Buenaobra calls 200
+shtako checks
+** Flop ** [2s Tc 4h]
+Buenaobra checks
+shtako checks
+tagailog bets 400
+Buenaobra folds
+shtako folds
+tagailog refunded 400
+tagailog wins Pot (1300)
+** Deck ** [7s 3d Ks 5s 7h Jd 6h Js 3s Qd Kd Jc 3h 6c 5d Kh 2s Tc 4h]
+
+Hand #111684-13 - 2017-06-22 08:17:16
+Game: PL Omaha (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (3558)
+Seat 2: betong (9950)
+Seat 3: tagailog (2600)
+Seat 5: Buenaobra (1892)
+Buenaobra has the dealer button
+shtako posts ante 25
+betong posts ante 25
+tagailog posts ante 25
+Buenaobra posts ante 25
+shtako posts small blind 200
+betong posts big blind 400
+** Hole Cards ** [4 players]
+tagailog folds
+Buenaobra folds
+shtako calls 200
+betong checks
+** Flop ** [6h Td Qc]
+shtako checks
+betong checks
+** Turn ** [Tc]
+shtako bets 400
+betong folds
+shtako refunded 400
+shtako wins Pot (900)
+** Deck ** [Qh 7h Th 2c Jh 2s 2d Jc 6s 3s Ks 3h Qs 9c 7d 5d 6h Td Qc Tc]
+
+Hand #111685-14 - 2017-06-22 08:18:09
+Game: PL Omaha (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (4033)
+Seat 2: betong (9525)
+Seat 3: tagailog (2575)
+Seat 5: Buenaobra (1867)
+shtako has the dealer button
+shtako posts ante 25
+betong posts ante 25
+tagailog posts ante 25
+Buenaobra posts ante 25
+betong posts small blind 200
+tagailog posts big blind 400
+** Hole Cards ** [4 players]
+Buenaobra folds
+shtako calls 400
+betong calls 200
+tagailog checks
+** Flop ** [2h 5s 3s]
+betong checks
+tagailog checks
+shtako checks
+** Turn ** [Th]
+betong checks
+tagailog bets 400
+shtako folds
+betong calls 400
+** River ** [Ah]
+betong checks
+tagailog bets 1750 (All-in)
+betong calls 1750
+** Pot Show Down ** [2h 5s 3s Th Ah]
+betong shows [Js Tc 6s As] (Two Pair, Aces and Tens +5)
+tagailog shows [6h Jh 8c 4d] (a Flush, Ace high +JT62)
+tagailog wins Pot (5600) with a Flush
+** Deck ** [Js 6h Ad Qd Tc Jh 7s Kc 6s 8c 8h 6c As 4d 5h 9c 2h 5s 3s Th Ah]
+
+Hand #111686-15 - 2017-06-22 08:19:35
+Game: PL Omaha (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (3608)
+Seat 2: betong (6950)
+Seat 3: tagailog (5600)
+Seat 5: Buenaobra (1842)
+betong has the dealer button
+shtako posts ante 50
+betong posts ante 50
+tagailog posts ante 50
+Buenaobra posts ante 50
+tagailog posts small blind 300
+Buenaobra posts big blind 600
+** Hole Cards ** [4 players]
+shtako raises to 2300
+betong raises to 6900 (All-in)
+tagailog folds
+Buenaobra calls 1192 (All-in)
+shtako calls 1258 (All-in)
+betong refunded 3342
+** Flop ** [Qh 5s Qd]
+** Turn ** [5h]
+** River ** [2h]
+** Side Pot 1 Show Down ** [Qh 5s Qd 5h 2h]
+shtako shows [6d 8h Ah 7d] (a Flush, Ace high +Q852)
+betong shows [Td 6s Ts Kd] (Two Pair, Queens and Tens +5)
+shtako wins Side Pot 1 (3532) with a Flush
+** Main Pot Show Down ** [Qh 5s Qd 5h 2h]
+Buenaobra shows [2c Th Ad 9d] (Two Pair, Queens and Deuces +A)
+shtako wins Main Pot (5876) with a Flush
+Buenaobra finishes tournament in place #4 and wins 200 chips
+** Deck ** [8s 2c 6d Td Ac Th 8h 6s 3d Ad Ah Ts Qc 9d 7d Kd Qh 5s Qd 5h 2h]
+
+Hand #111687-16 - 2017-06-22 08:20:15
+Game: PL Omaha (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (9408)
+Seat 2: betong (3342)
+Seat 3: tagailog (5250)
+tagailog has the dealer button
+shtako posts ante 50
+betong posts ante 50
+tagailog posts ante 50
+shtako posts small blind 300
+betong posts big blind 600
+** Hole Cards ** [3 players]
+tagailog has timed out
+tagailog folds
+shtako folds
+betong refunded 300
+betong wins Pot (750)
+** Deck ** [Jh 7h 3d 8d 8c 3h 9s 6d 4d 2c Ah Kh]
+
+Hand #111688-17 - 2017-06-22 08:21:33
+Game: PL Omaha (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (9058)
+Seat 2: betong (3742)
+Seat 3: tagailog (5200) - sitting out
+shtako has the dealer button
+shtako posts ante 50
+betong posts ante 50
+tagailog posts ante 50
+betong posts small blind 400
+tagailog posts big blind 800
+** Hole Cards ** [3 players]
+shtako raises to 2950
+betong raises to 3692 (All-in)
+tagailog folds
+shtako calls 742
+** Flop ** [Td 2c 4s]
+** Turn ** [Kd]
+** River ** [8d]
+** Pot Show Down ** [Td 2c 4s Kd 8d]
+shtako shows [Th Kh 4h Ac] (Two Pair, Kings and Tens +8)
+betong shows [Qc 2h 2s 7c] (Three of a Kind, Deuces +KT)
+betong wins Pot (8334) with Three of a Kind
+** Deck ** [Qc Ts Th 2h Ad Kh 2s 9d 4h 7c 9s Ac Td 2c 4s Kd 8d]
+
+Hand #111689-18 - 2017-06-22 08:22:03
+Game: PL Omaha (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (5316)
+Seat 2: betong (8334)
+Seat 3: tagailog (4350)
+betong has the dealer button
+shtako posts ante 50
+betong posts ante 50
+tagailog posts ante 50
+tagailog posts small blind 400
+shtako posts big blind 800
+** Hole Cards ** [3 players]
+betong folds
+tagailog calls 400
+shtako checks
+** Flop ** [Ah 4c Jh]
+tagailog checks
+shtako bets 800
+tagailog folds
+shtako refunded 800
+shtako wins Pot (1750)
+** Deck ** [Qs Ks 6d 2c 5h Qh Kd Qc 7h Jd 3s Kc Ah 4c Jh]
+
+Hand #111690-19 - 2017-06-22 08:22:40
+Game: PL Omaha (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (6216)
+Seat 2: betong (8284)
+Seat 3: tagailog (3500)
+tagailog has the dealer button
+shtako posts ante 50
+betong posts ante 50
+tagailog posts ante 50
+shtako posts small blind 400
+betong posts big blind 800
+** Hole Cards ** [3 players]
+tagailog folds
+shtako calls 400
+betong raises to 2550
+shtako folds
+betong refunded 1750
+betong wins Pot (1750)
+** Deck ** [8d 6c 4d 4s Jd 9s 7c 9c 6s Td 6d 3s]
+
+Hand #111691-20 - 2017-06-22 08:23:05
+Game: PL Omaha (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (5366)
+Seat 2: betong (9184)
+Seat 3: tagailog (3450)
+shtako has the dealer button
+shtako posts ante 50
+betong posts ante 50
+tagailog posts ante 50
+betong posts small blind 400
+tagailog posts big blind 800
+** Hole Cards ** [3 players]
+shtako folds
+betong calls 400
+tagailog checks
+** Flop ** [Kc 6s Ac]
+betong bets 1750
+tagailog has timed out
+tagailog folds
+betong refunded 1750
+betong wins Pot (1750)
+** Deck ** [5c 8s Qh Ah 7d Js 2s 8d 4c Jh 7c Tc Kc 6s Ac]
+
+Hand #111692-21 - 2017-06-22 08:24:25
+Game: PL Omaha (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (5316)
+Seat 2: betong (10084)
+Seat 3: tagailog (2600) - sitting out
+betong has the dealer button
+shtako posts ante 50
+betong posts ante 50
+tagailog posts ante 50
+tagailog posts small blind 400
+shtako posts big blind 800
+** Hole Cards ** [3 players]
+betong folds
+tagailog folds
+shtako refunded 400
+shtako wins Pot (950)
+** Deck ** [Ad 3d 3s 3h 4c 8c 6d Ks 9c Kd 7h Qc]
+
+Hand #111693-22 - 2017-06-22 08:24:36
+Game: PL Omaha (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (5816)
+Seat 2: betong (10034)
+Seat 3: tagailog (2150) - sitting out
+tagailog has the dealer button
+shtako posts ante 75
+betong posts ante 75
+tagailog posts ante 75
+shtako posts small blind 600
+betong posts big blind 1200
+** Hole Cards ** [3 players]
+tagailog folds
+shtako folds
+betong refunded 600
+betong wins Pot (1425)
+** Deck ** [6s 5c Qc 7h 6h 8c 5d Kd Ts 3s 6d 3h]
+
+Hand #111694-23 - 2017-06-22 08:25:05
+Game: PL Omaha (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (5141)
+Seat 2: betong (10784)
+Seat 3: tagailog (2075)
+shtako has the dealer button
+shtako posts ante 75
+betong posts ante 75
+tagailog posts ante 75
+betong posts small blind 600
+tagailog posts big blind 1200
+** Hole Cards ** [3 players]
+shtako folds
+betong raises to 2400
+tagailog calls 800 (All-in)
+betong refunded 400
+** Flop ** [Kh 7c Ks]
+** Turn ** [5s]
+** River ** [Ac]
+** Pot Show Down ** [Kh 7c Ks 5s Ac]
+betong shows [9s 3h 8h As] (Two Pair, Aces and Kings +9)
+tagailog shows [Qs 4d Js 8d] (a Pair of Kings +AQJ)
+betong wins Pot (4225) with Two Pair
+tagailog finishes tournament in place #3 and wins 400 chips
+** Deck ** [9s Qs 4h 3h 4d Kd 8h Js 3s As 8d Jc Kh 7c Ks 5s Ac]
+
+Hand #111695-24 - 2017-06-22 08:25:38
+Game: PL Omaha (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (5066)
+Seat 2: betong (12934)
+betong has the dealer button
+shtako posts ante 75
+betong posts ante 75
+betong posts small blind 600
+shtako posts big blind 1200
+** Hole Cards ** [2 players]
+betong raises to 3750
+shtako raises to 4991 (All-in)
+betong calls 1241
+** Flop ** [Js Th 5c]
+** Turn ** [4c]
+** River ** [Qs]
+** Pot Show Down ** [Js Th 5c 4c Qs]
+shtako shows [4s 8h 9h 2d] (a Straight, Eight to Queen)
+betong shows [9c Qc 5d 2c] (Two Pair, Queens and Fives +J)
+shtako wins Pot (10132) with a Straight
+** Deck ** [4s 9c 8h Qc 9h 5d 2d 2c Js Th 5c 4c Qs]
+
+Hand #111696-25 - 2017-06-22 08:26:03
+Game: PL Omaha (0+0) - Blinds 600/1200 Ante 75
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: shtako (10132)
+Seat 2: betong (7868)
+shtako has the dealer button
+shtako posts ante 75
+betong posts ante 75
+shtako posts small blind 600
+betong posts big blind 1200
+** Hole Cards ** [2 players]
+shtako raises to 3750
+betong raises to 7793 (All-in)
+shtako calls 4043
+** Flop ** [9s Kd Ac]
+** Turn ** [Qc]
+** River ** [Js]
+** Pot Show Down ** [9s Kd Ac Qc Js]
+shtako shows [As 8s Kc 7h] (Two Pair, Aces and Kings +Q)
+betong shows [2s Jc 3s Qs] (Two Pair, Queens and Jacks +A)
+shtako wins Pot (15736) with Two Pair
+betong finishes tournament in place #2 and wins 600 chips
+shtako finishes tournament in place #1 and wins 800 chips
+** Deck ** [2s As Jc 8s 3s Kc Qs 7h 9s Kd Ac Qc Js]
+
+Starting tournament 2052
+
+Hand #111861-1 - 2017-06-22 12:00:32
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: Buenaobra (1500)
+Seat 2: djodjo87 (1500)
+Seat 3: diamond (1500)
+Seat 4: ROBERTO (1500) - sitting out
+Seat 5: bspus (1500)
+Seat 6: Prince (1500)
+Buenaobra has the dealer button
+djodjo87 posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [6 players]
+ROBERTO folds
+bspus has timed out
+bspus folds
+Prince folds
+Buenaobra folds
+djodjo87 folds
+diamond refunded 25
+diamond wins Pot (50)
+** Deck ** [4d Tc 6c 5h 2s Kh Td 7h 5d Ah 2h 3h 6s Qd 3c 9d Jh 8h 7s Js Jc 9s 3s 3d]
+
+Hand #111863-2 - 2017-06-22 12:02:28
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: Buenaobra (1500)
+Seat 2: djodjo87 (1475)
+Seat 3: diamond (1525)
+Seat 4: ROBERTO (1500)
+Seat 5: bspus (1500)
+Seat 6: Prince (1500)
+djodjo87 has the dealer button
+diamond posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [6 players]
+bspus folds
+Prince folds
+Buenaobra folds
+djodjo87 folds
+diamond has timed out
+diamond folds
+ROBERTO refunded 25
+ROBERTO wins Pot (50)
+** Deck ** [9h 6h 5c 7h Kh 2s Ah 2c 4h Js 8h Qc 4c Ts 7d Th 9d 6d Ad 6c 5d 7c 7s Jd]
+
+Hand #111866-3 - 2017-06-22 12:03:42
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: Buenaobra (1500)
+Seat 2: djodjo87 (1475)
+Seat 3: diamond (1500) - sitting out
+Seat 4: ROBERTO (1525)
+Seat 5: bspus (1500)
+Seat 6: Prince (1500)
+diamond has the dealer button
+ROBERTO posts small blind 50
+bspus posts big blind 100
+** Hole Cards ** [6 players]
+Prince folds
+Buenaobra folds
+djodjo87 folds
+diamond folds
+ROBERTO calls 50
+bspus checks
+** Flop ** [9s 6d 6c]
+ROBERTO checks
+bspus bets 100
+ROBERTO folds
+bspus refunded 100
+bspus wins Pot (200)
+** Deck ** [4c Td 7s Jd 9c 7h Ks Tc 2c 3s 5d Js Jc 3c Kh 4s 5h 5s Qs Th 4h Ac 3d Ts 9s 6d 6c]
+
+Hand #111867-4 - 2017-06-22 12:04:31
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: Buenaobra (1500)
+Seat 2: djodjo87 (1475)
+Seat 3: diamond (1500) - sitting out
+Seat 4: ROBERTO (1425)
+Seat 5: bspus (1600)
+Seat 6: Prince (1500)
+ROBERTO has the dealer button
+bspus posts small blind 50
+Prince posts big blind 100
+** Hole Cards ** [6 players]
+Buenaobra folds
+djodjo87 folds
+diamond folds
+ROBERTO folds
+bspus calls 50
+Prince checks
+** Flop ** [8d 6c Js]
+bspus bets 100
+Prince calls 100
+** Turn ** [As]
+bspus bets 100
+Prince calls 100
+** River ** [3h]
+bspus checks
+Prince bets 200
+bspus calls 200
+** Pot Show Down ** [8d 6c Js As 3h]
+bspus shows [Ts 9h Ad Qs] (a Pair of Aces +QJ8)
+Prince shows [Kd Jc 6h 4c] (Two Pair, Jacks and Sixes +A)
+Prince wins Pot (1000) with Two Pair
+** Deck ** [Ts Kd 3c 7s Qh Jd 9h Jc 6s 7c Kh 2d Ad 6h 4d 2c 4h Tc Qs 4c 5d 5h 5c 8s 8d 6c Js As 3h]
+
+Hand #111869-5 - 2017-06-22 12:05:47
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: Buenaobra (1500)
+Seat 2: djodjo87 (1475)
+Seat 3: diamond (1500) - sitting out
+Seat 4: ROBERTO (1425)
+Seat 5: bspus (1100)
+Seat 6: Prince (2000)
+bspus has the dealer button
+Prince posts small blind 50
+Buenaobra posts big blind 100
+** Hole Cards ** [6 players]
+djodjo87 folds
+diamond folds
+ROBERTO calls 100
+bspus raises to 300
+Prince folds
+Buenaobra folds
+ROBERTO calls 200
+** Flop ** [2h 5c 4h]
+ROBERTO checks
+bspus bets 100
+ROBERTO calls 100
+** Turn ** [3s]
+ROBERTO checks
+bspus bets 700 (All-in)
+ROBERTO folds
+bspus refunded 700
+bspus wins Pot (950)
+** Deck ** [3c 9c Kc Jc 8d 9d Ad Qh 2d As Kd Js 5s 7h Jh 6d Tc Th Jd 7d 9h 8h Ac 4s 2h 5c 4h 3s]
+
+Hand #111871-6 - 2017-06-22 12:07:02
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: Buenaobra (1400)
+Seat 2: djodjo87 (1475)
+Seat 3: diamond (1500) - sitting out
+Seat 4: ROBERTO (1025)
+Seat 5: bspus (1650)
+Seat 6: Prince (1950)
+Prince has the dealer button
+Buenaobra posts small blind 75
+djodjo87 posts big blind 150
+** Hole Cards ** [6 players]
+diamond folds
+ROBERTO folds
+bspus folds
+Prince folds
+Buenaobra calls 75
+djodjo87 checks
+** Flop ** [4s Qs 8h]
+Buenaobra bets 150
+djodjo87 raises to 750
+Buenaobra raises to 1250 (All-in)
+djodjo87 calls 500
+** Turn ** [Jc]
+** River ** [2h]
+** Pot Show Down ** [4s Qs 8h Jc 2h]
+Buenaobra shows [Jh 5s Td 8s] (Two Pair, Jacks and Eights +Q)
+djodjo87 shows [Kd 6h 8c 8d] (Three of a Kind, Eights +QJ)
+djodjo87 wins Pot (2800) with Three of a Kind
+Buenaobra finishes tournament in place #11
+** Deck ** [Jh Kd 9s 3d Th 2c 5s 6h Jd 5d 4d 6c Td 8c 3c Qc 9d 7h 8s 8d 2s Kc 5h Js 4s Qs 8h Jc 2h]
+
+Hand #111872-7 - 2017-06-22 12:08:18
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (2875)
+Seat 3: diamond (1500) - sitting out
+Seat 4: ROBERTO (1025)
+Seat 5: bspus (1650)
+Seat 6: Prince (1950)
+djodjo87 has the dealer button
+diamond posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [5 players]
+bspus folds
+Prince raises to 300
+djodjo87 folds
+diamond folds
+ROBERTO calls 150
+** Flop ** [4c 8d 5h]
+ROBERTO checks
+Prince bets 337
+ROBERTO calls 337
+** Turn ** [Qc]
+ROBERTO checks
+Prince bets 674
+ROBERTO calls 388 (All-in)
+Prince refunded 286
+** River ** [2s]
+** Pot Show Down ** [4c 8d 5h Qc 2s]
+ROBERTO shows [Js 9d Kc 7c] (High Card King +QJ85)
+Prince shows [8c Qh Ah 6h] (Two Pair, Queens and Eights +5)
+Prince wins Pot (2125) with Two Pair
+ROBERTO finishes tournament in place #10
+** Deck ** [9h Js 8s 8c 3c 9s 9d Jc Qh 8h Ts Kc 2c Ah Qd 7d 7c Qs 6h 3s 4c 8d 5h Qc 2s]
+
+Hand #111874-8 - 2017-06-22 12:09:16
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (2875)
+Seat 3: diamond (1425) - sitting out
+Seat 5: bspus (1650)
+Seat 6: Prince (3050)
+diamond has the dealer button
+bspus posts small blind 75
+Prince posts big blind 150
+** Hole Cards ** [4 players]
+djodjo87 folds
+diamond folds
+bspus calls 75
+Prince checks
+** Flop ** [8c 6s 6h]
+bspus checks
+Prince bets 150
+bspus folds
+Prince refunded 150
+Prince wins Pot (300)
+** Deck ** [8h 2c Kc Tc Qc 9c Jh 9s Td 3h Qh Ah 5h 4h 7s 7c 8c 6s 6h]
+
+Hand #111877-9 - 2017-06-22 12:10:38
+Game: PL Omaha (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (2875)
+Seat 3: diamond (1425) - sitting out
+Seat 5: bspus (1500)
+Seat 6: Prince (3200)
+bspus has the dealer button
+Prince posts small blind 100
+djodjo87 posts big blind 200
+** Hole Cards ** [4 players]
+diamond folds
+bspus folds
+Prince raises to 400
+djodjo87 has timed out
+djodjo87 folds
+Prince refunded 200
+Prince wins Pot (400)
+** Deck ** [Th Kc 7d 3s Js 7c 4c 5d 7s 4h 6s Jd 9h Ts Qc 8s]
+
+Hand #111878-10 - 2017-06-22 12:11:22
+Game: PL Omaha (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (2675) - sitting out
+Seat 3: diamond (1425) - sitting out
+Seat 5: bspus (1500)
+Seat 6: Prince (3400)
+Prince has the dealer button
+djodjo87 posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [4 players]
+bspus raises to 700
+Prince folds
+djodjo87 folds
+diamond folds
+bspus refunded 500
+bspus wins Pot (500)
+** Deck ** [9s Qc 8h Qd 8s Td Js 4s 3s 4d Ks Jh Jd 4h Th 9d]
+
+Hand #111879-11 - 2017-06-22 12:11:44
+Game: PL Omaha (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (2575)
+Seat 3: diamond (1225) - sitting out
+Seat 5: bspus (1800)
+Seat 6: Prince (3400)
+djodjo87 has the dealer button
+diamond posts small blind 100
+bspus posts big blind 200
+** Hole Cards ** [4 players]
+Prince folds
+djodjo87 calls 200
+diamond folds
+bspus checks
+** Flop ** [7h 4c 3d]
+bspus checks
+djodjo87 checks
+** Turn ** [6h]
+bspus checks
+djodjo87 bets 200
+bspus calls 200
+** River ** [8c]
+bspus checks
+djodjo87 bets 400
+bspus folds
+djodjo87 refunded 400
+djodjo87 wins Pot (900)
+** Deck ** [Ad Jd 3h Th 6s 6c Ts 5c 9d 4s 5s 9h 8s Qc 3c 9s 7h 4c 3d 6h 8c]
+
+Hand #111881-12 - 2017-06-22 12:13:05
+Game: PL Omaha (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (3075)
+Seat 3: diamond (1125) - sitting out
+Seat 5: bspus (1400)
+Seat 6: Prince (3400)
+diamond has the dealer button
+djodjo87 posts ante 25
+diamond posts ante 25
+bspus posts ante 25
+Prince posts ante 25
+bspus posts small blind 100
+Prince posts big blind 200
+** Hole Cards ** [4 players]
+djodjo87 folds
+diamond folds
+bspus calls 100
+Prince checks
+** Flop ** [Qs 5s Tc]
+bspus checks
+Prince bets 200
+bspus folds
+Prince refunded 200
+Prince wins Pot (500)
+** Deck ** [7d 3c Qd Jh 7h Kd 7s As 7c 2s Kc 4d Ad 4h 5d 9c Qs 5s Tc]
+
+Hand #111883-13 - 2017-06-22 12:13:38
+Game: PL Omaha (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (3050)
+Seat 3: diamond (1100) - sitting out
+Seat 5: bspus (1175)
+Seat 6: Prince (3675)
+bspus has the dealer button
+djodjo87 posts ante 25
+diamond posts ante 25
+bspus posts ante 25
+Prince posts ante 25
+Prince posts small blind 100
+djodjo87 posts big blind 200
+** Hole Cards ** [4 players]
+diamond folds
+bspus folds
+Prince raises to 400
+djodjo87 calls 200
+** Flop ** [Kd 2c As]
+Prince bets 450
+djodjo87 folds
+Prince refunded 450
+Prince wins Pot (900)
+** Deck ** [8s Jh Kh 6h Js 9s 3h Ks 3c 7c 6c 8h Ts 4s 4c Qd Kd 2c As]
+
+Hand #111884-14 - 2017-06-22 12:14:23
+Game: PL Omaha (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (2625)
+Seat 3: diamond (1075) - sitting out
+Seat 5: bspus (1150)
+Seat 6: Prince (4150)
+Prince has the dealer button
+djodjo87 posts ante 25
+diamond posts ante 25
+bspus posts ante 25
+Prince posts ante 25
+djodjo87 posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [4 players]
+bspus raises to 800
+Prince folds
+djodjo87 folds
+diamond folds
+bspus refunded 600
+bspus wins Pot (600)
+** Deck ** [Jd 6h Kd Jc Kc 2c 5d Qd 7d Ad 6s 2s 2d 4s 3s 5c]
+
+Hand #111886-15 - 2017-06-22 12:14:44
+Game: PL Omaha (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (2500)
+Seat 3: diamond (850) - sitting out
+Seat 5: bspus (1525)
+Seat 6: Prince (4125)
+djodjo87 has the dealer button
+djodjo87 posts ante 25
+diamond posts ante 25
+bspus posts ante 25
+Prince posts ante 25
+diamond posts small blind 100
+bspus posts big blind 200
+** Hole Cards ** [4 players]
+Prince folds
+djodjo87 folds
+diamond folds
+bspus refunded 100
+bspus wins Pot (300)
+** Deck ** [3s As 2c Jd Ah 7c Jc 5s Jh Qd 9d 4c Qh 6d 4s 6s]
+
+Hand #111887-16 - 2017-06-22 12:14:59
+Game: PL Omaha (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (2475)
+Seat 3: diamond (725) - sitting out
+Seat 5: bspus (1700)
+Seat 6: Prince (4100)
+diamond has the dealer button
+djodjo87 posts ante 25
+diamond posts ante 25
+bspus posts ante 25
+Prince posts ante 25
+bspus posts small blind 100
+Prince posts big blind 200
+** Hole Cards ** [4 players]
+djodjo87 folds
+diamond folds
+bspus calls 100
+Prince checks
+** Flop ** [3d 5c 8d]
+bspus bets 500
+Prince folds
+bspus refunded 500
+bspus wins Pot (500)
+** Deck ** [7c As Ks 6h 9s Kh 5h 9c 2d 7s 2s 3c Qd 3s 9h 2h 3d 5c 8d]
+
+Hand #111888-17 - 2017-06-22 12:15:27
+Game: PL Omaha (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (2450)
+Seat 3: diamond (700) - sitting out
+Seat 5: bspus (1975)
+Seat 6: Prince (3875)
+bspus has the dealer button
+djodjo87 posts ante 25
+diamond posts ante 25
+bspus posts ante 25
+Prince posts ante 25
+Prince posts small blind 100
+djodjo87 posts big blind 200
+** Hole Cards ** [4 players]
+diamond folds
+bspus folds
+Prince raises to 400
+djodjo87 raises to 1300
+Prince folds
+djodjo87 refunded 900
+djodjo87 wins Pot (900)
+** Deck ** [3s 6c 7d 2c Ks 4d 5c 8c 4s As 7s Th 6s 5s Ad 3h]
+
+Hand #111890-18 - 2017-06-22 12:15:52
+Game: PL Omaha (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (2925)
+Seat 3: diamond (675) - sitting out
+Seat 5: bspus (1950)
+Seat 6: Prince (3450)
+Prince has the dealer button
+djodjo87 posts ante 25
+diamond posts ante 25
+bspus posts ante 25
+Prince posts ante 25
+djodjo87 posts small blind 200
+diamond posts big blind 400
+** Hole Cards ** [4 players]
+bspus calls 400
+Prince folds
+djodjo87 raises to 1700
+diamond folds
+bspus raises to 1925 (All-in)
+djodjo87 calls 225
+** Flop ** [6h Kc 2s]
+** Turn ** [5h]
+** River ** [2d]
+** Pot Show Down ** [6h Kc 2s 5h 2d]
+djodjo87 shows [4s Qd Qc 8d] (Two Pair, Queens and Deuces +K)
+bspus shows [5c Ad 2h 5s] (a Full House, Fives full of Deuces)
+bspus wins Pot (4350) with a Full House
+** Deck ** [4s 7s 5c Ks Qd Kd Ad 3c Qc Ts 2h 7c 8d Qh 5s Js 6h Kc 2s 5h 2d]
+
+Hand #111891-19 - 2017-06-22 12:16:34
+Game: PL Omaha (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (975)
+Seat 3: diamond (250) - sitting out
+Seat 5: bspus (4350)
+Seat 6: Prince (3425)
+djodjo87 has the dealer button
+djodjo87 posts ante 25
+diamond posts ante 25
+bspus posts ante 25
+Prince posts ante 25
+diamond posts small blind 200
+bspus posts big blind 400
+** Hole Cards ** [4 players]
+Prince folds
+djodjo87 raises to 950 (All-in)
+diamond folds
+bspus folds
+djodjo87 refunded 550
+djodjo87 wins Pot (1100)
+** Deck ** [Qc 3d Jd 8h 4s Th Jc Ts 2d 2c 6h Js 6d 2h 7s Kc]
+
+Hand #111893-20 - 2017-06-22 12:17:01
+Game: PL Omaha (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 2: djodjo87 (1650)
+Seat 3: diamond (25) - sitting out
+Seat 5: bspus (3925)
+Seat 6: Prince (3400)
+diamond has the dealer button
+djodjo87 posts ante 25
+diamond posts ante 25 (All-in)
+bspus posts ante 25
+Prince posts ante 25
+bspus posts small blind 200
+Prince posts big blind 400
+** Hole Cards ** [4 players]
+djodjo87 raises to 1500
+diamond folds
+bspus folds
+Prince folds
+djodjo87 refunded 1100
+djodjo87 wins Side Pot 1 (1000)
+djodjo87 wins Main Pot (100)
+diamond finishes tournament in place #7
+** Deck ** [7s 3s 8s 3d Kd 8h 8d Td As Qc Ts Qh 6h Th 7h 5d]
+
+djodjo87 moved to Table 1
+
+bspus moved to Table 1
+
+Prince moved to Table 1
+
+Starting tournament 2056
+
+Hand #112109-1 - 2017-06-22 16:00:32
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1500) - sitting out
+Seat 2: tuan (1500)
+Seat 4: scambust (1500)
+Seat 5: JanzVill (1500)
+bestlooser has the dealer button
+tuan posts small blind 25
+scambust posts big blind 50
+** Hole Cards ** [4 players]
+JanzVill calls 50
+bestlooser calls 50
+tuan calls 25
+scambust checks
+** Flop ** [5c 8c Qc]
+tuan checks
+scambust checks
+JanzVill checks
+bestlooser bets 50
+tuan folds
+scambust folds
+JanzVill calls 50
+** Turn ** [6d]
+JanzVill checks
+bestlooser bets 200
+JanzVill folds
+bestlooser refunded 200
+bestlooser wins Pot (300)
+** Deck ** [3s 3h Ad 9c As 7h Kh Js Qh Th 5d 6c Jh 2s 8s 7s 5c 8c Qc 6d]
+
+Hand #112112-2 - 2017-06-22 16:02:21
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1700)
+Seat 2: tuan (1450)
+Seat 4: scambust (1450)
+Seat 5: JanzVill (1400)
+tuan has the dealer button
+scambust posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [4 players]
+bestlooser folds
+tuan folds
+scambust calls 25
+JanzVill checks
+** Flop ** [3c 8s 8d]
+scambust bets 50
+JanzVill calls 50
+** Turn ** [7s]
+scambust bets 50
+JanzVill calls 50
+** River ** [8h]
+scambust bets 300
+JanzVill calls 300
+** Pot Show Down ** [3c 8s 8d 7s 8h]
+scambust shows [Ts 5h Qh 4d] (Three of a Kind, Eights +QT)
+JanzVill shows [3s 5c 6h Ad] (Three of a Kind, Eights +A6)
+JanzVill wins Pot (900) with Three of a Kind
+** Deck ** [Ts 3s 9d Jc 5h 5c Qc 2h Qh 6h As 8c 4d Ad 5d 6s 3c 8s 8d 7s 8h]
+
+Hand #112115-3 - 2017-06-22 16:05:00
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1700)
+Seat 2: tuan (1450)
+Seat 4: scambust (1000)
+Seat 5: JanzVill (1850)
+scambust has the dealer button
+JanzVill posts small blind 50
+bestlooser posts big blind 100
+** Hole Cards ** [4 players]
+tuan folds
+scambust folds
+JanzVill calls 50
+bestlooser checks
+** Flop ** [4c Ks Qs]
+JanzVill checks
+bestlooser checks
+** Turn ** [Ts]
+JanzVill bets 100
+bestlooser folds
+JanzVill refunded 100
+JanzVill wins Pot (200)
+** Deck ** [As Js 7d Tc 4h 2h 3c 6s Jc 3h 7h Qc Jh Td 5c 4d 4c Ks Qs Ts]
+
+Hand #112117-4 - 2017-06-22 16:06:07
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1600)
+Seat 2: tuan (1450)
+Seat 4: scambust (1000)
+Seat 5: JanzVill (1950)
+JanzVill has the dealer button
+bestlooser posts small blind 50
+tuan posts big blind 100
+** Hole Cards ** [4 players]
+scambust calls 100
+JanzVill folds
+bestlooser calls 50
+tuan checks
+** Flop ** [3s 5d Jc]
+bestlooser checks
+tuan checks
+scambust bets 300
+bestlooser folds
+tuan folds
+scambust refunded 300
+scambust wins Pot (300)
+** Deck ** [9c 6h 7d 3h Tc Kc Ad Qd Qs 6d Jh 7h 2c 8s 4h 5s 3s 5d Jc]
+
+Hand #112118-5 - 2017-06-22 16:07:00
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1500)
+Seat 2: tuan (1350)
+Seat 4: scambust (1200)
+Seat 5: JanzVill (1950)
+bestlooser has the dealer button
+tuan posts small blind 75
+scambust posts big blind 150
+** Hole Cards ** [4 players]
+JanzVill calls 150
+bestlooser has timed out
+bestlooser folds
+tuan calls 75
+scambust checks
+** Flop ** [Qs 8s Th]
+tuan checks
+scambust bets 450
+JanzVill folds
+tuan folds
+scambust refunded 450
+scambust wins Pot (450)
+** Deck ** [As 4c Ah 2c 3d Qc Td 8c 9s 6d 6h 7h 3s Ac 5h 5c Qs 8s Th]
+
+Hand #112121-6 - 2017-06-22 16:09:25
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1500)
+Seat 2: tuan (1200)
+Seat 4: scambust (1500)
+Seat 5: JanzVill (1800)
+tuan has the dealer button
+scambust posts small blind 75
+JanzVill posts big blind 150
+** Hole Cards ** [4 players]
+bestlooser folds
+tuan folds
+scambust calls 75
+JanzVill checks
+** Flop ** [Ks Jh 6d]
+scambust bets 300
+JanzVill folds
+scambust refunded 300
+scambust wins Pot (300)
+** Deck ** [7c Qc 8d As Jc 3d Td 2s 5h 5d Qs 2h Kc 9c 7h 2c Ks Jh 6d]
+
+Hand #112125-7 - 2017-06-22 16:10:30
+Game: PL Omaha (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1500)
+Seat 2: tuan (1200)
+Seat 4: scambust (1650)
+Seat 5: JanzVill (1650)
+scambust has the dealer button
+JanzVill posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [4 players]
+tuan calls 200
+scambust calls 200
+JanzVill raises to 1000
+bestlooser folds
+tuan folds
+scambust folds
+JanzVill refunded 800
+JanzVill wins Pot (800)
+** Deck ** [Ts 2h 6c 4h Ks 7d Kd 5c Jd Kc Ac Jc 8s 9h Qh 5d]
+
+Hand #112128-8 - 2017-06-22 16:11:18
+Game: PL Omaha (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1300)
+Seat 2: tuan (1000)
+Seat 4: scambust (1450)
+Seat 5: JanzVill (2250)
+JanzVill has the dealer button
+bestlooser posts small blind 100
+tuan posts big blind 200
+** Hole Cards ** [4 players]
+scambust calls 200
+CoinDoctor moved from Table 1
+sajuuk moved from Table 1
+JanzVill calls 200
+bestlooser raises to 1000
+tuan folds
+scambust folds
+JanzVill folds
+bestlooser refunded 800
+bestlooser wins Pot (800)
+** Deck ** [3c 7h 2c 8s Qc 6s 5c Ad Qs Jd 3d 8d Ac 7s 2h 9d]
+
+Hand #112131-9 - 2017-06-22 16:12:41
+Game: PL Omaha (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1900)
+Seat 2: tuan (800)
+Seat 3: sajuuk (2000)
+Seat 4: scambust (1250)
+Seat 5: JanzVill (2050)
+Seat 6: CoinDoctor (4000)
+bestlooser has the dealer button
+bestlooser posts ante 25
+tuan posts ante 25
+sajuuk posts ante 25
+scambust posts ante 25
+JanzVill posts ante 25
+CoinDoctor posts ante 25
+tuan posts small blind 100
+sajuuk posts big blind 200
+** Hole Cards ** [6 players]
+scambust calls 200
+JanzVill folds
+CoinDoctor folds
+bestlooser folds
+tuan folds
+sajuuk checks
+** Flop ** [5c 6h 9h]
+sajuuk checks
+scambust checks
+** Turn ** [8c]
+sajuuk bets 650
+scambust folds
+sajuuk refunded 650
+sajuuk wins Pot (650)
+** Deck ** [Jc 6s Ac 3d Qs Jd 9c 8h Qd 8d 2c 3s 5s Ad 2s Qh 4h 7d 4c Ts Td 7h 2d Kd 5c 6h 9h 8c]
+
+Hand #112133-10 - 2017-06-22 16:13:53
+Game: PL Omaha (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1875)
+Seat 2: tuan (675)
+Seat 3: sajuuk (2425)
+Seat 4: scambust (1025)
+Seat 5: JanzVill (2025)
+Seat 6: CoinDoctor (3975)
+tuan has the dealer button
+bestlooser posts ante 25
+tuan posts ante 25
+sajuuk posts ante 25
+scambust posts ante 25
+JanzVill posts ante 25
+CoinDoctor posts ante 25
+sajuuk posts small blind 100
+scambust posts big blind 200
+** Hole Cards ** [6 players]
+JanzVill folds
+CoinDoctor calls 200
+bestlooser folds
+tuan folds
+sajuuk calls 100
+scambust checks
+** Flop ** [Ad Kd 3s]
+sajuuk checks
+scambust checks
+CoinDoctor bets 750
+sajuuk calls 750
+scambust folds
+** Turn ** [6h]
+sajuuk checks
+CoinDoctor bets 2250
+sajuuk calls 1450 (All-in)
+CoinDoctor refunded 800
+** River ** [2d]
+** Pot Show Down ** [Ad Kd 3s 6h 2d]
+sajuuk shows [Jc 5d 9d 2c] (a Flush, Ace high +K952)
+CoinDoctor shows [3h Ac 8h Jh] (Two Pair, Aces and Threes +K)
+sajuuk wins Pot (5150) with a Flush
+** Deck ** [Jc 7s 4h 3h 7c 5h 5d 4d Ks Ac 8s 4c 9d 8c Td 8h Qd 2s 2c Ts Th Jh 8d 3c Ad Kd 3s 6h 2d]
+
+Hand #112135-11 - 2017-06-22 16:15:12
+Game: PL Omaha (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1850)
+Seat 2: tuan (650)
+Seat 3: sajuuk (5150)
+Seat 4: scambust (800)
+Seat 5: JanzVill (2000)
+Seat 6: CoinDoctor (1550)
+sajuuk has the dealer button
+bestlooser posts ante 25
+tuan posts ante 25
+sajuuk posts ante 25
+scambust posts ante 25
+JanzVill posts ante 25
+CoinDoctor posts ante 25
+scambust posts small blind 100
+JanzVill posts big blind 200
+** Hole Cards ** [6 players]
+CoinDoctor folds
+bestlooser folds
+tuan folds
+sajuuk raises to 400
+scambust folds
+JanzVill folds
+sajuuk refunded 200
+sajuuk wins Pot (650)
+** Deck ** [2h 8s 9h Kd Qd 5s Ks As 5h 2d 5c 4s 4d 8c Ts 6s 7s 9c Tc 4h Js Ad Td 4c]
+
+Hand #112137-12 - 2017-06-22 16:16:06
+Game: PL Omaha (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1825)
+Seat 2: tuan (625)
+Seat 3: sajuuk (5575)
+Seat 4: scambust (675)
+Seat 5: JanzVill (1775)
+Seat 6: CoinDoctor (1525)
+scambust has the dealer button
+bestlooser posts ante 25
+tuan posts ante 25
+sajuuk posts ante 25
+scambust posts ante 25
+JanzVill posts ante 25
+CoinDoctor posts ante 25
+JanzVill posts small blind 200
+CoinDoctor posts big blind 400
+** Hole Cards ** [6 players]
+bestlooser folds
+tuan folds
+sajuuk raises to 800
+scambust calls 650 (All-in)
+JanzVill folds
+CoinDoctor folds
+sajuuk refunded 150
+** Flop ** [Js 6c 4d]
+** Turn ** [3c]
+** River ** [3h]
+** Pot Show Down ** [Js 6c 4d 3c 3h]
+sajuuk shows [9s 3s 6d 8d] (a Full House, Threes full of Sixes)
+scambust shows [Td Tc 5s 6s] (Two Pair, Tens and Threes +J)
+sajuuk wins Pot (2050) with a Full House
+scambust finishes tournament in place #6
+** Deck ** [Qc 7h Jd Qs 9s Td 7c Kh 2s 4c 3s Tc Ah 9c 2c As 6d 5s 9d 7s 7d 8h 8d 6s Js 6c 4d 3c 3h]
+
+Hand #112139-13 - 2017-06-22 16:17:04
+Game: PL Omaha (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (1800)
+Seat 2: tuan (600)
+Seat 3: sajuuk (6950)
+Seat 5: JanzVill (1550)
+Seat 6: CoinDoctor (1100)
+JanzVill has the dealer button
+bestlooser posts ante 25
+tuan posts ante 25
+sajuuk posts ante 25
+JanzVill posts ante 25
+CoinDoctor posts ante 25
+CoinDoctor posts small blind 200
+bestlooser posts big blind 400
+** Hole Cards ** [5 players]
+tuan folds
+sajuuk raises to 800
+JanzVill folds
+CoinDoctor folds
+bestlooser raises to 1775 (All-in)
+sajuuk calls 975
+** Flop ** [Jc Ac Kd]
+** Turn ** [5c]
+** River ** [Tc]
+** Pot Show Down ** [Jc Ac Kd 5c Tc]
+bestlooser shows [Kh 9h Ah Kc] (Three of a Kind, Kings +AJ)
+sajuuk shows [Jd 5d 2h 2c] (Two Pair, Jacks and Fives +A)
+bestlooser wins Pot (3875) with Three of a Kind
+** Deck ** [Jh Kh 4s Jd 4h 7d 9h Qc 5d 4d Th Ah 5h 2h 8s 3d Kc 6h 2c Ad Jc Ac Kd 5c Tc]
+
+Hand #112141-14 - 2017-06-22 16:17:57
+Game: PL Omaha (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (3875)
+Seat 2: tuan (575)
+Seat 3: sajuuk (5150)
+Seat 5: JanzVill (1525)
+Seat 6: CoinDoctor (875)
+CoinDoctor has the dealer button
+bestlooser posts ante 25
+tuan posts ante 25
+sajuuk posts ante 25
+JanzVill posts ante 25
+CoinDoctor posts ante 25
+bestlooser posts small blind 200
+tuan posts big blind 400
+** Hole Cards ** [5 players]
+sajuuk folds
+JanzVill folds
+CoinDoctor folds
+bestlooser raises to 800
+tuan calls 150 (All-in)
+bestlooser refunded 250
+** Flop ** [Qs 3c Jd]
+** Turn ** [Td]
+** River ** [Kc]
+** Pot Show Down ** [Qs 3c Jd Td Kc]
+bestlooser shows [3h 4h Kd 3s] (Three of a Kind, Threes +KQ)
+tuan shows [6c 8c 5h 2d] (High Card King +QJ86)
+bestlooser wins Pot (1225) with Three of a Kind
+tuan finishes tournament in place #5
+** Deck ** [3h 6c 9h 9d Qc 4h 8c 5c 8d 7c Kd 5h Jc 2h 8s 3s 2d 6s 7h 6h Qs 3c Jd Td Kc]
+
+Hand #112143-15 - 2017-06-22 16:18:41
+Game: PL Omaha (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (4525)
+Seat 3: sajuuk (5125)
+Seat 5: JanzVill (1500)
+Seat 6: CoinDoctor (850)
+bestlooser has the dealer button
+bestlooser posts ante 50
+sajuuk posts ante 50
+JanzVill posts ante 50
+CoinDoctor posts ante 50
+sajuuk posts small blind 300
+JanzVill posts big blind 600
+** Hole Cards ** [4 players]
+CoinDoctor raises to 800 (All-in)
+bestlooser has timed out
+bestlooser folds
+sajuuk calls 500
+JanzVill calls 200
+** Flop ** [Qd 6c Qc]
+sajuuk bets 600
+JanzVill raises to 650 (All-in)
+sajuuk calls 50
+** Turn ** [3s]
+** River ** [5s]
+** Side Pot 1 Show Down ** [Qd 6c Qc 3s 5s]
+sajuuk shows [6d 6s 7h 8s] (a Full House, Sixes full of Queens)
+JanzVill shows [Qh 2c 4d 2h] (a Straight, Deuce to Six)
+sajuuk wins Side Pot 1 (1300) with a Full House
+** Main Pot Show Down ** [Qd 6c Qc 3s 5s]
+CoinDoctor shows [As 7c Jd 9s] (a Pair of Queens +AJ6)
+sajuuk wins Main Pot (2600) with a Full House
+CoinDoctor finishes tournament in place #4 and wins 200 chips
+JanzVill finishes tournament in place #3 and wins 400 chips
+** Deck ** [6d Qh As Qs 6s 2c 7c 3d 7h 4d Jd 3c 8s 2h 9s Jc Qd 6c Qc 3s 5s]
+
+Hand #112145-16 - 2017-06-22 16:20:19
+Game: PL Omaha (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (4475)
+Seat 3: sajuuk (7525)
+sajuuk has the dealer button
+bestlooser posts ante 50
+sajuuk posts ante 50
+sajuuk posts small blind 300
+bestlooser posts big blind 600
+** Hole Cards ** [2 players]
+sajuuk raises to 1200
+bestlooser calls 600
+** Flop ** [5d 3h 7d]
+bestlooser checks
+sajuuk bets 2500
+bestlooser calls 2500
+** Turn ** [Js]
+bestlooser checks
+sajuuk bets 1200
+bestlooser calls 725 (All-in)
+sajuuk refunded 475
+** River ** [6s]
+** Pot Show Down ** [5d 3h 7d Js 6s]
+bestlooser shows [4c 7s Th 2c] (a Straight, Three to Seven)
+sajuuk shows [6c 6h 9c Qc] (Three of a Kind, Sixes +J7)
+bestlooser wins Pot (8950) with a Straight
+** Deck ** [4c 6c 7s 6h Th 9c 2c Qc 5d 3h 7d Js 6s]
+
+Hand #112147-17 - 2017-06-22 16:21:37
+Game: PL Omaha (0+0) - Blinds 400/800 Ante 50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: bestlooser (8950)
+Seat 3: sajuuk (3050)
+bestlooser has the dealer button
+bestlooser posts ante 50
+sajuuk posts ante 50
+bestlooser posts small blind 400
+sajuuk posts big blind 800
+** Hole Cards ** [2 players]
+bestlooser raises to 2500
+sajuuk raises to 3000 (All-in)
+bestlooser calls 500
+** Flop ** [Qd 7d 6c]
+** Turn ** [Th]
+** River ** [8c]
+** Pot Show Down ** [Qd 7d 6c Th 8c]
+bestlooser shows [3h Ac Qh 9s] (a Pair of Queens +AT8)
+sajuuk shows [Jd 3d Ah 7s] (a Pair of Sevens +AQT)
+bestlooser wins Pot (6100) with a Pair
+sajuuk finishes tournament in place #2 and wins 600 chips
+bestlooser finishes tournament in place #1 and wins 800 chips
+** Deck ** [Jd 3h 3d Ac Ah Qh 7s 9s Qd 7d 6c Th 8c]
+
