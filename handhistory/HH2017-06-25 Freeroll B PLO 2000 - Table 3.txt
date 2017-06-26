@@ -1,0 +1,104 @@
+﻿Starting tournament 2120
+
+Hand #115151-1 - 2017-06-25 08:00:30
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 3
+Seat 2: bestlooser (1500)
+Seat 3: tuan (1500) - sitting out
+Seat 4: crazyjack (1500)
+Seat 6: betong (1500)
+bestlooser has the dealer button
+tuan posts small blind 25
+crazyjack posts big blind 50
+** Hole Cards ** [4 players]
+betong folds
+bestlooser calls 50
+tuan calls 25
+crazyjack raises to 200
+bestlooser calls 150
+tuan calls 150
+** Flop ** [3c 8h 3s]
+tuan checks
+crazyjack checks
+bestlooser checks
+** Turn ** [9h]
+tuan bets 600
+crazyjack folds
+bestlooser folds
+tuan refunded 600
+tuan wins Pot (600)
+** Deck ** [Jh 6c 2d 4s 2c 9c 4c 6d 2h Ac 9s 5d Jc Kd As 5s 3c 8h 3s 9h]
+
+Hand #115155-2 - 2017-06-25 08:01:55
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 3
+Seat 2: bestlooser (1300)
+Seat 3: tuan (1900)
+Seat 4: crazyjack (1300)
+Seat 6: betong (1500)
+tuan has the dealer button
+crazyjack posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [4 players]
+bestlooser raises to 175
+tuan folds
+crazyjack calls 150
+betong folds
+** Flop ** [9h Ad 5c]
+crazyjack bets 50
+bestlooser raises to 550
+crazyjack raises to 1125 (All-in)
+bestlooser calls 575 (All-in)
+** Turn ** [7h]
+** River ** [5d]
+** Pot Show Down ** [9h Ad 5c 7h 5d]
+bestlooser shows [8c 9d Qc Tc] (Two Pair, Nines and Fives +Q)
+crazyjack shows [6h 6s 8h Ac] (a Straight, Five to Nine)
+crazyjack wins Pot (2650) with a Straight
+bestlooser finishes tournament in place #13
+** Deck ** [6h 8d 8c 8s 6s Jh 9d Kc 8h 5s Qc 3h Ac 6d Tc 2d 9h Ad 5c 7h 5d]
+
+tuan moved to Table 2
+
+crazyjack moved to Table 2
+
+betong moved to Table 1
+
+Starting tournament 2124
+
+Hand #115472-1 - 2017-06-25 12:00:44
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 3
+Seat 1: JanzVill (1500)
+Seat 2: diamond (1500)
+Seat 5: Efyang (1500) - sitting out
+Seat 6: Fookets (1500)
+JanzVill has the dealer button
+diamond posts small blind 25
+Efyang posts big blind 50
+** Hole Cards ** [4 players]
+Fookets raises to 175
+JanzVill folds
+diamond folds
+Efyang raises to 550
+Fookets raises to 1500 (All-in)
+Efyang calls 950 (All-in)
+** Flop ** [Kc 6c 8h]
+** Turn ** [4h]
+** River ** [8c]
+** Pot Show Down ** [Kc 6c 8h 4h 8c]
+Efyang shows [6s 5c 5d 3c] (a Flush, King high +8653)
+Fookets shows [Qd Qc 7c Qs] (a Flush, King high +Q876)
+Fookets wins Pot (3025) with a Flush
+Efyang finishes tournament in place #13
+** Deck ** [4s 6s Qd 9c 8s 5c Qc Ks 2h 5d 7c 9s Td 3c Qs 3s Kc 6c 8h 4h 8c]
+
+Fookets moved to Table 2
+
+JanzVill moved to Table 2
+
+diamond moved to Table 1
+
