@@ -1,0 +1,102 @@
+﻿Hand #120130-1 - 2017-06-28 19:57:31
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: Zendek (400)
+Seat 4: bspus (200)
+bspus has the dealer button
+bspus posts small blind 2
+Zendek posts big blind 4
+** Hole Cards ** [2 players]
+bspus calls 2
+Zendek raises to 12
+bspus calls 8
+** Flop ** [6h 6d Ac]
+Zendek bets 12
+bspus folds
+Zendek refunded 12
+Zendek wins Pot (23.40)
+Rake (0.60) Pot (24) Players (Zendek: 12, bspus: 12)
+** Deck ** [7s 8c Ts 4d 6h 6d Ac]
+
+Hand #120131-2 - 2017-06-28 19:58:14
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: Zendek (411.40)
+Seat 4: bspus (188)
+Zendek has the dealer button
+Zendek posts small blind 2
+bspus posts big blind 4
+** Hole Cards ** [2 players]
+Zendek raises to 12
+bspus calls 8
+** Flop ** [5h 2h 6h]
+bspus checks
+Zendek checks
+** Turn ** [8c]
+bspus bets 4
+Zendek calls 4
+** River ** [4d]
+bspus bets 4
+Zendek calls 4
+** Pot Show Down ** [5h 2h 6h 8c 4d]
+Zendek shows [5c 9c] (a Pair of Fives +986)
+bspus shows [6s 8s] (Two Pair, Eights and Sixes +5)
+bspus wins Pot (39) with Two Pair
+Rake (1) Pot (40) Players (Zendek: 20, bspus: 20)
+** Deck ** [6s 5c 8s 9c 5h 2h 6h 8c 4d]
+
+Hand #120132-3 - 2017-06-28 19:58:54
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: Zendek (391.40)
+Seat 4: bspus (207)
+bspus has the dealer button
+bspus posts small blind 2
+Zendek posts big blind 4
+** Hole Cards ** [2 players]
+bspus calls 2
+Zendek raises to 12
+bspus calls 8
+** Flop ** [5d Ks Js]
+Zendek bets 12
+bspus folds
+Zendek refunded 12
+Zendek wins Pot (23.40)
+Rake (0.60) Pot (24) Players (Zendek: 12, bspus: 12)
+** Deck ** [7s Th Qs 8c 5d Ks Js]
+
+Hand #120133-4 - 2017-06-28 19:59:25
+Game: NL Hold'em (200 - 400) - Blinds 2/4
+Site: MegaTilt Club
+Table: NLHE 02A
+Seat 2: Zendek (402.80)
+Seat 4: bspus (195)
+Zendek has the dealer button
+Zendek posts small blind 2
+bspus posts big blind 4
+** Hole Cards ** [2 players]
+Zendek calls 2
+bspus raises to 8
+Zendek calls 4
+** Flop ** [6c 6s 2h]
+bspus checks
+Zendek bets 7.80
+bspus calls 7.80
+** Turn ** [Tc]
+bspus checks
+Zendek bets 20.56
+bspus calls 20.56
+** River ** [Jc]
+bspus checks
+Zendek bets 47.28
+bspus calls 47.28
+** Pot Show Down ** [6c 6s 2h Tc Jc]
+Zendek shows [3h 4d] (a Pair of Sixes +JT4)
+bspus shows [Js Kh] (Two Pair, Jacks and Sixes +K)
+bspus wins Pot (163.13) with Two Pair
+Rake (4.15) Pot (167.28) Players (Zendek: 83.64, bspus: 83.64)
+** Deck ** [Js 3h Kh 4d 6c 6s 2h Tc Jc]
+

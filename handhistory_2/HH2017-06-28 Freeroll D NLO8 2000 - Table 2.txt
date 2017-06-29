@@ -1,0 +1,939 @@
+﻿Starting tournament 2190
+
+Hand #119536-1 - 2017-06-28 06:00:42
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: AlphaWolf (1500) - sitting out
+Seat 4: Protek (1500) - sitting out
+Seat 5: DollaHolla (1500)
+Seat 6: dumyx (1500)
+AlphaWolf has the dealer button
+Protek posts small blind 25
+DollaHolla posts big blind 50
+** Hole Cards ** [4 players]
+dumyx folds
+AlphaWolf calls 50
+Protek folds
+DollaHolla checks
+** Flop ** [Qh 6h 3c]
+DollaHolla checks
+AlphaWolf checks
+** Turn ** [Ts]
+DollaHolla checks
+AlphaWolf bets 50
+DollaHolla calls 50
+** River ** [Ac]
+DollaHolla checks
+AlphaWolf bets 225
+DollaHolla calls 225
+** Pot Show Down ** [Qh 6h 3c Ts Ac]
+AlphaWolf shows [Ks 2d Jd Qc] (Hi: a Straight, Ten to Ace  Lo: None)
+DollaHolla shows [Qd 4s 7s 3s] (Hi: Two Pair, Queens and Threes +A  Lo: 7643A)
+AlphaWolf wins Hi Pot (338) with a Straight
+DollaHolla wins Lo Pot (337) with 7643A
+** Deck ** [5c Qd 8d Ks Qs 4s Tc 2d 5h 7s 8s Jd 7d 3s As Qc Qh 6h 3c Ts Ac]
+
+Hand #119538-2 - 2017-06-28 06:01:48
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: AlphaWolf (1513)
+Seat 4: Protek (1475)
+Seat 5: DollaHolla (1512)
+Seat 6: dumyx (1500)
+Protek has the dealer button
+DollaHolla posts small blind 25
+dumyx posts big blind 50
+** Hole Cards ** [4 players]
+AlphaWolf calls 50
+Protek folds
+DollaHolla calls 25
+dumyx checks
+** Flop ** [Ts 3c Ah]
+DollaHolla checks
+dumyx checks
+AlphaWolf checks
+** Turn ** [Th]
+DollaHolla checks
+dumyx checks
+AlphaWolf bets 50
+DollaHolla folds
+dumyx folds
+AlphaWolf refunded 50
+AlphaWolf wins Pot (150)
+** Deck ** [4d 4h 2h 5h 3s 2d Kh 7h Kd 5d 8h Ks Qc 9d Qd 8s Ts 3c Ah Th]
+
+Hand #119540-3 - 2017-06-28 06:03:14
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: AlphaWolf (1613)
+Seat 4: Protek (1475)
+Seat 5: DollaHolla (1462)
+Seat 6: dumyx (1450)
+DollaHolla has the dealer button
+dumyx posts small blind 25
+AlphaWolf posts big blind 50
+** Hole Cards ** [4 players]
+Protek raises to 175
+DollaHolla folds
+dumyx folds
+AlphaWolf calls 125
+** Flop ** [8d 7h Qd]
+AlphaWolf checks
+Protek bets 375
+AlphaWolf calls 375
+** Turn ** [As]
+AlphaWolf checks
+Protek bets 375
+AlphaWolf raises to 750
+Protek raises to 925 (All-in)
+AlphaWolf calls 175
+** River ** [Ts]
+** Pot Show Down ** [8d 7h Qd As Ts]
+AlphaWolf shows [3c 6h 9s 2h] (Hi: a Straight, Six to Ten  Lo: 8732A)
+Protek shows [Kd 7c Ac Ad] (Hi: Three of a Kind, Aces +QT  Lo: None)
+AlphaWolf wins Hi Pot (1488) with a Straight
+AlphaWolf wins Lo Pot (1487) with 8732A
+Protek finishes tournament in place #8
+** Deck ** [Qs 3c Kd Qh Jh 6h 7c 9c 2s 9s Ac 2c 2d 2h Ad Td 8d 7h Qd As Ts]
+
+Hand #119542-4 - 2017-06-28 06:04:30
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: AlphaWolf (3113)
+Seat 5: DollaHolla (1462)
+Seat 6: dumyx (1425)
+dumyx has the dealer button
+AlphaWolf posts small blind 50
+DollaHolla posts big blind 100
+** Hole Cards ** [3 players]
+dumyx folds
+AlphaWolf folds
+DollaHolla refunded 50
+DollaHolla wins Pot (100)
+** Deck ** [2s Ks Qh 8d Qd 7s 4s 4d 5d Ts Ac 9c]
+
+Hand #119543-5 - 2017-06-28 06:04:53
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: AlphaWolf (3063)
+Seat 5: DollaHolla (1512)
+Seat 6: dumyx (1425)
+AlphaWolf has the dealer button
+DollaHolla posts small blind 50
+dumyx posts big blind 100
+** Hole Cards ** [3 players]
+AlphaWolf folds
+DollaHolla calls 50
+dumyx raises to 200
+DollaHolla calls 100
+** Flop ** [Td 7h 2h]
+DollaHolla bets 100
+dumyx raises to 200
+DollaHolla raises to 1312 (All-in)
+dumyx calls 1025 (All-in)
+DollaHolla refunded 87
+** Turn ** [Ad]
+** River ** [5h]
+** Pot Show Down ** [Td 7h 2h Ad 5h]
+DollaHolla shows [4h Th 8d Kd] (Hi: a Flush, Ten high +7542  Lo: 8542A)
+dumyx shows [Jh As Js 8h] (Hi: a Flush, Jack high +8752  Lo: 8752A)
+dumyx wins Hi Pot (1425) with a Flush
+DollaHolla wins Lo Pot (1425) with 8542A
+** Deck ** [4h Jh 2s Th As 9h 8d Js Qd Kd 8h 6s Td 7h 2h Ad 5h]
+
+Hand #119545-6 - 2017-06-28 06:05:57
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: AlphaWolf (3063)
+Seat 5: DollaHolla (1512)
+Seat 6: dumyx (1425)
+DollaHolla has the dealer button
+dumyx posts small blind 50
+AlphaWolf posts big blind 100
+** Hole Cards ** [3 players]
+DollaHolla calls 100
+dumyx calls 50
+AlphaWolf checks
+** Flop ** [Ah 8d 8s]
+dumyx bets 100
+AlphaWolf calls 100
+DollaHolla folds
+** Turn ** [Kh]
+dumyx bets 100
+AlphaWolf calls 100
+** River ** [2h]
+dumyx checks
+AlphaWolf checks
+** Pot Show Down ** [Ah 8d 8s Kh 2h]
+AlphaWolf shows [Jc 2d 7s 6c] (Hi: Two Pair, Eights and Deuces +J  Lo: 8762A)
+dumyx shows [Js 5s Ad Qc] (Hi: Two Pair, Aces and Eights +Q  Lo: None)
+dumyx wins Hi Pot (350) with Two Pair
+AlphaWolf wins Lo Pot (350) with 8762A
+** Deck ** [Js Jc 9h 5s 2d 5h Ad 7s Kc Qc 6c 9d Ah 8d 8s Kh 2h]
+
+DollaHolla moved to Table 1
+
+dumyx moved to Table 1
+
+AlphaWolf moved to Table 1
+
+Starting tournament 2194
+
+Hand #119629-1 - 2017-06-28 10:00:42
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: tuan (1500) - sitting out
+Seat 2: yanyan (1500)
+Seat 3: dmanicus (1500) - sitting out
+Seat 4: brokedummy (1500) - sitting out
+Seat 6: Efyang (1500) - sitting out
+tuan has the dealer button
+yanyan posts small blind 25
+dmanicus posts big blind 50
+** Hole Cards ** [5 players]
+brokedummy folds
+Efyang folds
+tuan folds
+yanyan raises to 100
+dmanicus folds
+yanyan refunded 50
+yanyan wins Pot (100)
+** Deck ** [Qs 6d 6s 3d 4c 5d Jd 7c Th Kh 8c 3c Ts Tc Jh Ac Qc 7d Td 4h]
+
+Hand #119631-2 - 2017-06-28 10:00:54
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: tuan (1500) - sitting out
+Seat 2: yanyan (1550)
+Seat 3: dmanicus (1450) - sitting out
+Seat 4: brokedummy (1500) - sitting out
+Seat 6: Efyang (1500) - sitting out
+yanyan has the dealer button
+dmanicus posts small blind 25
+brokedummy posts big blind 50
+** Hole Cards ** [5 players]
+Efyang folds
+tuan folds
+yanyan calls 50
+dmanicus folds
+brokedummy folds
+yanyan wins Pot (125)
+** Deck ** [5d Ts 8h Ad 9d 9c Jd Td Ac 6s As 3h Th 9s Qd 6c 2c 8d Jc Kd]
+
+Hand #119633-3 - 2017-06-28 10:01:09
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: tuan (1500) - sitting out
+Seat 2: yanyan (1625)
+Seat 3: dmanicus (1425) - sitting out
+Seat 4: brokedummy (1450) - sitting out
+Seat 6: Efyang (1500) - sitting out
+dmanicus has the dealer button
+brokedummy posts small blind 25
+Efyang posts big blind 50
+** Hole Cards ** [5 players]
+tuan folds
+yanyan calls 50
+dmanicus folds
+brokedummy folds
+Efyang folds
+yanyan wins Pot (125)
+** Deck ** [4h Ac 6h 3d As Ks 2s 9c 3s Qh Jd 7d 5c 8h Ah Kc 2h 4c Ad 5s]
+
+Hand #119635-4 - 2017-06-28 10:01:19
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: tuan (1500) - sitting out
+Seat 2: yanyan (1700)
+Seat 3: dmanicus (1425) - sitting out
+Seat 4: brokedummy (1425) - sitting out
+Seat 6: Efyang (1450) - sitting out
+brokedummy has the dealer button
+Efyang posts small blind 25
+tuan posts big blind 50
+** Hole Cards ** [5 players]
+yanyan calls 50
+dmanicus folds
+brokedummy folds
+Efyang folds
+tuan folds
+yanyan wins Pot (125)
+** Deck ** [Td Ah Kd Jc 8c 2d 2s Kc Ks 3h 4h 6h 3c Js 8s 7d 5h 9d 3d Ad]
+
+Hand #119636-5 - 2017-06-28 10:01:30
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: tuan (1450) - sitting out
+Seat 2: yanyan (1775)
+Seat 3: dmanicus (1425) - sitting out
+Seat 4: brokedummy (1425) - sitting out
+Seat 6: Efyang (1425) - sitting out
+Efyang has the dealer button
+tuan posts small blind 25
+yanyan posts big blind 50
+** Hole Cards ** [5 players]
+dmanicus folds
+brokedummy folds
+Efyang folds
+tuan folds
+yanyan refunded 25
+yanyan wins Pot (50)
+** Deck ** [Tc 6c Js Qh 8s Ts 7d As 4s 5h 7h Qs Ah 7c Jd Ad 5d 5c 9c 3c]
+
+Hand #119637-6 - 2017-06-28 10:01:38
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: tuan (1425) - sitting out
+Seat 2: yanyan (1800)
+Seat 3: dmanicus (1425) - sitting out
+Seat 4: brokedummy (1425) - sitting out
+Seat 6: Efyang (1425)
+tuan has the dealer button
+yanyan posts small blind 25
+dmanicus posts big blind 50
+** Hole Cards ** [5 players]
+brokedummy folds
+Efyang folds
+tuan folds
+yanyan calls 25
+dmanicus folds
+yanyan wins Pot (100)
+** Deck ** [2c 5c Qd Td 4c 2d Qh 6d 3s Tc Ks 9d Ac 9c 4s Kd Qc Js Qs 2s]
+
+Hand #119638-7 - 2017-06-28 10:01:57
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: tuan (1425) - sitting out
+Seat 2: yanyan (1850)
+Seat 3: dmanicus (1375) - sitting out
+Seat 4: brokedummy (1425) - sitting out
+Seat 6: Efyang (1425)
+yanyan has the dealer button
+dmanicus posts small blind 25
+brokedummy posts big blind 50
+** Hole Cards ** [5 players]
+Efyang raises to 1425 (All-in)
+tuan folds
+yanyan folds
+dmanicus folds
+brokedummy folds
+Efyang refunded 1375
+Efyang wins Pot (125)
+** Deck ** [Qc Jd Ts 8c Js 8h 6h 3h 4h 8d 2h Jh Kh 4s 6d Ad 3d 6s 2s Td]
+
+Hand #119640-8 - 2017-06-28 10:02:25
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: tuan (1425)
+Seat 2: yanyan (1850)
+Seat 3: dmanicus (1350) - sitting out
+Seat 4: brokedummy (1375) - sitting out
+Seat 6: Efyang (1500)
+dmanicus has the dealer button
+brokedummy posts small blind 25
+Efyang posts big blind 50
+** Hole Cards ** [5 players]
+tuan calls 50
+yanyan calls 50
+dmanicus folds
+brokedummy folds
+Efyang checks
+** Flop ** [Ad 3h Kc]
+Efyang bets 1450 (All-in)
+tuan folds
+yanyan folds
+Efyang refunded 1450
+Efyang wins Pot (175)
+Efyang shows [2d 8d 3d Th]
+Efyang: "hahahaha"
+** Deck ** [9d 2d Qd Ah Kd 7h 8d 4s Qs Qh Ks 3d 8s 5c 6c 2h Th Qc Tc Kh Ad 3h Kc]
+
+Hand #119643-9 - 2017-06-28 10:03:17
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: tuan (1375)
+Seat 2: yanyan (1800)
+Seat 3: dmanicus (1350) - sitting out
+Seat 4: brokedummy (1350) - sitting out
+Seat 6: Efyang (1625)
+brokedummy has the dealer button
+Efyang posts small blind 25
+tuan posts big blind 50
+** Hole Cards ** [5 players]
+yanyan calls 50
+dmanicus folds
+brokedummy folds
+Efyang folds
+tuan checks
+** Flop ** [5s 6h Jd]
+tuan checks
+yanyan bets 50
+tuan has timed out
+tuan folds
+yanyan refunded 50
+yanyan wins Pot (125)
+Absent player dmanicus removed from tournament
+** Deck ** [4s 2s Tc 9d 6s 7s Kh Ac 6d 3s 5c Ah Qc 3d 9s 3h 8c Qd 8s 7c 5s 6h Jd]
+
+Hand #119647-10 - 2017-06-28 10:05:49
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: tuan (1325) - sitting out
+Seat 2: yanyan (1875)
+Seat 4: brokedummy (1350)
+Seat 6: Efyang (1600)
+Efyang has the dealer button
+tuan posts small blind 50
+yanyan posts big blind 100
+** Hole Cards ** [4 players]
+brokedummy calls 100
+Efyang raises to 1600 (All-in)
+tuan folds
+yanyan folds
+brokedummy calls 1250 (All-in)
+Efyang refunded 250
+** Flop ** [Js Jc 8h]
+** Turn ** [2c]
+** River ** [Th]
+** Pot Show Down ** [Js Jc 8h 2c Th]
+brokedummy shows [2s 7c Qs Qd] (Hi: Two Pair, Queens and Jacks +T  Lo: None)
+Efyang shows [9s Tc 9h 8d] (Hi: Two Pair, Jacks and Tens +9  Lo: None)
+brokedummy wins Pot (2850) with Two Pair
+No low hand qualified
+** Deck ** [6s Jh 2s 9s 4s Td 7c Tc 4h 8s Qs 9h 5h Kc Qd 8d Js Jc 8h 2c Th]
+
+Hand #119650-11 - 2017-06-28 10:06:52
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: tuan (1275) - sitting out
+Seat 2: yanyan (1775)
+Seat 4: brokedummy (2850)
+Seat 6: Efyang (250)
+tuan has the dealer button
+yanyan posts small blind 75
+brokedummy posts big blind 150
+** Hole Cards ** [4 players]
+Efyang raises to 250 (All-in)
+tuan folds
+yanyan calls 175
+brokedummy calls 100
+** Flop ** [Ts Td Tc]
+yanyan checks
+brokedummy checks
+** Turn ** [8c]
+yanyan checks
+brokedummy bets 375
+yanyan folds
+brokedummy refunded 375
+** River ** [4c]
+** Pot Show Down ** [Ts Td Tc 8c 4c]
+brokedummy shows [5d Ad Qh 8s] (Hi: Three of a Kind, Tens +AQ  Lo: None)
+Efyang shows [5h Jd Kd Ks] (Hi: a Full House, Tens full of Kings  Lo: None)
+Efyang wins Pot (750) with a Full House
+No low hand qualified
+** Deck ** [9c 5d 5h Ah Qs Ad Jd Th As Qh Kd 2c 5s 8s Ks 7c Ts Td Tc 8c 4c]
+
+Hand #119653-12 - 2017-06-28 10:08:03
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: tuan (1275) - sitting out
+Seat 2: yanyan (1525)
+Seat 4: brokedummy (2600)
+Seat 6: Efyang (750)
+yanyan has the dealer button
+brokedummy posts small blind 75
+Efyang posts big blind 150
+** Hole Cards ** [4 players]
+tuan folds
+yanyan calls 150
+brokedummy calls 75
+Efyang raises to 750 (All-in)
+yanyan raises to 1525 (All-in)
+brokedummy calls 1375
+** Flop ** [Jc Js Ad]
+** Turn ** [7h]
+** River ** [9d]
+** Side Pot 1 Show Down ** [Jc Js Ad 7h 9d]
+yanyan shows [Qd 8d 7d 6c] (Hi: Two Pair, Jacks and Sevens +Q  Lo: None)
+brokedummy shows [Qc 2d Td Ac] (Hi: Two Pair, Aces and Jacks +Q  Lo: None)
+brokedummy wins Side Pot 1 (1550) with Two Pair
+No low hand qualified
+** Main Pot Show Down ** [Jc Js Ad 7h 9d]
+Efyang shows [Tc Jd 5s Kh] (Hi: Three of a Kind, Jacks +AK  Lo: None)
+Efyang wins Main Pot (2250) with Three of a Kind
+No low hand qualified
+yanyan finishes tournament in place #7
+** Deck ** [Qc Tc Ts Qd 2d Jd 9c 8d Td 5s 4h 7d Ac Kh Th 6c Jc Js Ad 7h 9d]
+
+tuan moved to Table 1
+
+brokedummy moved to Table 1
+
+Efyang moved to Table 1
+
+Starting tournament 2198
+
+Hand #119914-1 - 2017-06-28 14:00:42
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: bspus (1500)
+Seat 2: brokedummy (1500) - sitting out
+Seat 4: Alvinmore59 (1500) - sitting out
+bspus has the dealer button
+brokedummy posts small blind 25
+Alvinmore59 posts big blind 50
+** Hole Cards ** [3 players]
+bspus calls 50
+brokedummy calls 25
+Alvinmore59 folds
+** Flop ** [2d 6h Ah]
+brokedummy checks
+bspus checks
+** Turn ** [6s]
+brokedummy bets 50
+bspus raises to 1450 (All-in)
+brokedummy folds
+bspus refunded 1400
+bspus wins Pot (250)
+** Deck ** [Ks Th 8c 7d Qs 2s 7h 4h Td Tc 8d 5c 2d 6h Ah 6s]
+
+Hand #119915-2 - 2017-06-28 14:01:24
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: bspus (1650)
+Seat 2: brokedummy (1400)
+Seat 4: Alvinmore59 (1450)
+brokedummy has the dealer button
+Alvinmore59 posts small blind 25
+bspus posts big blind 50
+** Hole Cards ** [3 players]
+brokedummy calls 50
+Alvinmore59 raises to 1450 (All-in)
+bspus folds
+brokedummy calls 1350 (All-in)
+Alvinmore59 refunded 50
+** Flop ** [Ad 8c Qc]
+** Turn ** [Qd]
+** River ** [9h]
+** Pot Show Down ** [Ad 8c Qc Qd 9h]
+brokedummy shows [6s Js Jc 9c] (Hi: Two Pair, Queens and Jacks +A  Lo: None)
+Alvinmore59 shows [Ts 9d Th As] (Hi: Two Pair, Aces and Queens +T  Lo: None)
+Alvinmore59 wins Pot (2850) with Two Pair
+No low hand qualified
+brokedummy finishes tournament in place #7
+** Deck ** [Ts Jh 6s 9d 3h Js Th 9s Jc As 7d 9c Ad 8c Qc Qd 9h]
+
+Alvinmore59 moved to Table 1
+
+bspus moved to Table 1
+
+Starting tournament 2202
+
+Hand #120048-1 - 2017-06-28 18:00:42
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: Prince (1500) - sitting out
+Seat 4: JanzVill (1500)
+Seat 5: gimmemoney (1500)
+Prince has the dealer button
+JanzVill posts small blind 25
+gimmemoney posts big blind 50
+** Hole Cards ** [3 players]
+Prince folds
+JanzVill calls 25
+gimmemoney checks
+** Flop ** [2d 6s 4s]
+JanzVill checks
+gimmemoney checks
+** Turn ** [Jc]
+JanzVill bets 50
+gimmemoney folds
+JanzVill refunded 50
+JanzVill wins Pot (100)
+** Deck ** [Qc 7c Kh Qd Qs Kc Th 7h 7s Tc 5h Ts 2d 6s 4s Jc]
+
+Hand #120049-2 - 2017-06-28 18:01:25
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: Prince (1500)
+Seat 4: JanzVill (1550)
+Seat 5: gimmemoney (1450)
+JanzVill has the dealer button
+gimmemoney posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [3 players]
+JanzVill calls 50
+gimmemoney calls 25
+Prince checks
+** Flop ** [4c 8d 2d]
+gimmemoney checks
+Prince checks
+JanzVill checks
+** Turn ** [Ah]
+gimmemoney checks
+Prince bets 75
+JanzVill folds
+gimmemoney folds
+Prince refunded 75
+Prince wins Pot (150)
+** Deck ** [9d Kh Td 7h 3c 8s Qs Th 6c 3s 6h Kc 4c 8d 2d Ah]
+
+Hand #120051-3 - 2017-06-28 18:02:51
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: Prince (1600)
+Seat 4: JanzVill (1500)
+Seat 5: gimmemoney (1400)
+gimmemoney has the dealer button
+Prince posts small blind 25
+JanzVill posts big blind 50
+** Hole Cards ** [3 players]
+gimmemoney calls 50
+Prince folds
+JanzVill checks
+** Flop ** [8c 3d 8h]
+JanzVill bets 50
+gimmemoney folds
+JanzVill refunded 50
+JanzVill wins Pot (125)
+** Deck ** [2s 6h Js 9h 5h Qh 5d 8s Th 5c Qd 2h 8c 3d 8h]
+
+Hand #120053-4 - 2017-06-28 18:03:23
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: Prince (1575)
+Seat 4: JanzVill (1575)
+Seat 5: gimmemoney (1350)
+Prince has the dealer button
+JanzVill posts small blind 25
+gimmemoney posts big blind 50
+** Hole Cards ** [3 players]
+Prince raises to 150
+JanzVill folds
+gimmemoney folds
+Prince refunded 100
+Prince wins Pot (125)
+** Deck ** [Ac 7s 5s 8s Jc 3d 7h 4d 7c 9c 8d Qs]
+
+Hand #120054-5 - 2017-06-28 18:04:02
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: Prince (1650)
+Seat 4: JanzVill (1550)
+Seat 5: gimmemoney (1300)
+JanzVill has the dealer button
+gimmemoney posts small blind 50
+Prince posts big blind 100
+** Hole Cards ** [3 players]
+JanzVill raises to 1550 (All-in)
+gimmemoney folds
+Prince folds
+JanzVill refunded 1450
+JanzVill wins Pot (250)
+** Deck ** [Qc As 6s Jc Kc 7s 9s Kh Ks 5s 9d Ah]
+
+Hand #120055-6 - 2017-06-28 18:04:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: Prince (1550)
+Seat 4: JanzVill (1700)
+Seat 5: gimmemoney (1250)
+gimmemoney has the dealer button
+Prince posts small blind 50
+JanzVill posts big blind 100
+** Hole Cards ** [3 players]
+gimmemoney calls 100
+Prince raises to 200
+JanzVill calls 100
+gimmemoney calls 100
+** Flop ** [3s Td 9h]
+Prince bets 400
+JanzVill folds
+gimmemoney folds
+Prince refunded 400
+Prince wins Pot (600)
+** Deck ** [3h 5s Kd Js 7s 4h 5c 6d As Ac 7c 9d 3s Td 9h]
+
+Hand #120058-7 - 2017-06-28 18:05:42
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: Prince (1950)
+Seat 4: JanzVill (1500)
+Seat 5: gimmemoney (1050)
+Prince has the dealer button
+JanzVill posts small blind 50
+gimmemoney posts big blind 100
+** Hole Cards ** [3 players]
+Prince folds
+JanzVill raises to 1500 (All-in)
+gimmemoney calls 950 (All-in)
+JanzVill refunded 450
+** Flop ** [9c 5d Ac]
+** Turn ** [Ah]
+** River ** [Qd]
+** Pot Show Down ** [9c 5d Ac Ah Qd]
+JanzVill shows [Jc Qc 3s 6d] (Hi: Two Pair, Aces and Queens +J  Lo: None)
+gimmemoney shows [Qs Td 8d Qh] (Hi: a Full House, Queens full of Aces  Lo: None)
+gimmemoney wins Pot (2100) with a Full House
+No low hand qualified
+** Deck ** [Jc Qs 8c Qc Td 7c 3s 8d Jd 6d Qh 4h 9c 5d Ac Ah Qd]
+
+Hand #120059-8 - 2017-06-28 18:06:18
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: Prince (1950)
+Seat 4: JanzVill (450)
+Seat 5: gimmemoney (2100)
+JanzVill has the dealer button
+gimmemoney posts small blind 50
+Prince posts big blind 100
+** Hole Cards ** [3 players]
+JanzVill raises to 450 (All-in)
+gimmemoney folds
+Prince calls 350
+** Flop ** [5c Tc Jh]
+** Turn ** [Ks]
+** River ** [Kh]
+** Pot Show Down ** [5c Tc Jh Ks Kh]
+Prince shows [7s As 6c 5h] (Hi: Two Pair, Kings and Fives +A  Lo: None)
+JanzVill shows [Qd Qh 7c 8d] (Hi: Two Pair, Kings and Queens +J  Lo: None)
+JanzVill wins Pot (950) with Two Pair
+No low hand qualified
+** Deck ** [4h 7s Qd 9s As Qh 3h 6c 7c 5s 5h 8d 5c Tc Jh Ks Kh]
+
+Hand #120061-9 - 2017-06-28 18:06:59
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: Prince (1500)
+Seat 4: JanzVill (950)
+Seat 5: gimmemoney (2050)
+gimmemoney has the dealer button
+Prince posts small blind 75
+JanzVill posts big blind 150
+** Hole Cards ** [3 players]
+gimmemoney folds
+Prince folds
+JanzVill refunded 75
+JanzVill wins Pot (150)
+** Deck ** [5c 6d 9c Kd Jh 7d 8h Qs 5h 7c Td Ks]
+
+Hand #120062-10 - 2017-06-28 18:07:19
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: Prince (1425)
+Seat 4: JanzVill (1025)
+Seat 5: gimmemoney (2050)
+Prince has the dealer button
+JanzVill posts small blind 75
+gimmemoney posts big blind 150
+** Hole Cards ** [3 players]
+Prince raises to 450
+JanzVill folds
+gimmemoney folds
+Prince refunded 300
+Prince wins Pot (375)
+** Deck ** [Qc Ac Ad Kc 6d 8s 5d Ts 7h 9d 9c 5h]
+
+Hand #120063-11 - 2017-06-28 18:07:52
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: Prince (1650)
+Seat 4: JanzVill (950)
+Seat 5: gimmemoney (1900)
+JanzVill has the dealer button
+gimmemoney posts small blind 75
+Prince posts big blind 150
+** Hole Cards ** [3 players]
+JanzVill raises to 950 (All-in)
+gimmemoney folds
+Prince folds
+JanzVill refunded 800
+JanzVill wins Pot (375)
+** Deck ** [6s 5s 7d 6h Qh Ad 7s Kh 5c Ts 3h Ac]
+
+Hand #120065-12 - 2017-06-28 18:08:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: Prince (1500)
+Seat 4: JanzVill (1175)
+Seat 5: gimmemoney (1825)
+gimmemoney has the dealer button
+Prince posts small blind 75
+JanzVill posts big blind 150
+** Hole Cards ** [3 players]
+gimmemoney calls 150
+Prince calls 75
+JanzVill checks
+** Flop ** [5s Qc 2h]
+Prince checks
+JanzVill checks
+gimmemoney checks
+** Turn ** [Jd]
+Prince bets 225
+JanzVill raises to 1025 (All-in)
+gimmemoney folds
+Prince calls 800
+** River ** [4d]
+** Pot Show Down ** [5s Qc 2h Jd 4d]
+Prince shows [Qh 8c Qs 5h] (Hi: Three of a Kind, Queens +J5  Lo: None)
+JanzVill shows [6s 5c 9s Jc] (Hi: Two Pair, Jacks and Fives +Q  Lo: None)
+Prince wins Pot (2500) with Three of a Kind
+No low hand qualified
+JanzVill finishes tournament in place #7
+** Deck ** [Qh 6s Ts 8c 5c Ah Qs 9s 4s 5h Jc Kc 5s Qc 2h Jd 4d]
+
+gimmemoney moved to Table 1
+
+Prince moved to Table 1
+
+Starting tournament 2206
+
+Hand #120187-1 - 2017-06-28 22:00:41
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 2: betong (1500) - sitting out
+Seat 3: ajaxmoor (1500)
+Seat 5: Alvinmore59 (1500)
+Seat 6: bestlooser (1500) - sitting out
+betong has the dealer button
+ajaxmoor posts small blind 25
+Alvinmore59 posts big blind 50
+** Hole Cards ** [4 players]
+bestlooser folds
+betong folds
+ajaxmoor raises to 1500 (All-in)
+Alvinmore59 folds
+ajaxmoor refunded 1450
+ajaxmoor wins Pot (100)
+** Deck ** [Ad Jc 7h 9s Ks 9d 8d Kc Td 4s Jd Ac 2h 4d Qd Kh]
+
+Hand #120189-2 - 2017-06-28 22:01:00
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 2: betong (1500) - sitting out
+Seat 3: ajaxmoor (1550)
+Seat 5: Alvinmore59 (1450)
+Seat 6: bestlooser (1500) - sitting out
+ajaxmoor has the dealer button
+Alvinmore59 posts small blind 25
+bestlooser posts big blind 50
+** Hole Cards ** [4 players]
+betong folds
+ajaxmoor calls 50
+Alvinmore59 calls 25
+bestlooser checks
+** Flop ** [6h 4d Kd]
+Alvinmore59 bets 1400 (All-in)
+bestlooser folds
+ajaxmoor folds
+Alvinmore59 refunded 1400
+Alvinmore59 wins Pot (150)
+** Deck ** [Td Js 9s 3d Qd Kc As Qs 4h Jc 7d Ah Jd Ts 3h 7h 6h 4d Kd]
+
+Hand #120191-3 - 2017-06-28 22:01:50
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 2: betong (1500) - sitting out
+Seat 3: ajaxmoor (1500)
+Seat 5: Alvinmore59 (1550)
+Seat 6: bestlooser (1450)
+Alvinmore59 has the dealer button
+bestlooser posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [4 players]
+ajaxmoor calls 50
+Alvinmore59 calls 50
+bestlooser has timed out
+bestlooser folds
+betong checks
+** Flop ** [Tc 9d 7d]
+betong bets 175
+ajaxmoor calls 175
+Alvinmore59 raises to 1500 (All-in)
+betong calls 1275 (All-in)
+ajaxmoor calls 1275 (All-in)
+Alvinmore59 refunded 50
+** Turn ** [8s]
+** River ** [Jd]
+** Pot Show Down ** [Tc 9d 7d 8s Jd]
+betong shows [Th Kc 3s 9h] (Hi: a Straight, Seven to Jack  Lo: None)
+ajaxmoor shows [5d 8d Js 6c] (Hi: a Flush, Jack high +9875  Lo: None)
+Alvinmore59 shows [8h Td 9s Ts] (Hi: a Straight, Seven to Jack  Lo: None)
+ajaxmoor wins Pot (4525) with a Flush
+No low hand qualified
+betong finishes tournament in place #8
+** Deck ** [Ks Th 5d 8h 4c Kc 8d Td 6s 3s Js 9s Qc 9h 6c Ts Tc 9d 7d 8s Jd]
+
+Hand #120194-4 - 2017-06-28 22:03:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 3: ajaxmoor (4525)
+Seat 5: Alvinmore59 (50)
+Seat 6: bestlooser (1425)
+bestlooser has the dealer button
+ajaxmoor posts small blind 25
+Alvinmore59 posts big blind 50 (All-in)
+** Hole Cards ** [3 players]
+bestlooser calls 50
+ajaxmoor raises to 150
+bestlooser calls 100
+** Flop ** [Ks 3d 5s]
+ajaxmoor bets 200
+bestlooser calls 200
+** Turn ** [4s]
+ajaxmoor bets 200
+bestlooser calls 200
+** River ** [Jd]
+ajaxmoor checks
+bestlooser bets 875 (All-in)
+ajaxmoor folds
+bestlooser refunded 875
+bestlooser wins Side Pot 1 (1000)
+** Main Pot Show Down ** [Ks 3d 5s 4s Jd]
+Alvinmore59 shows [3h As 7d 7c] (Hi: a Pair of Sevens +KJ5  Lo: 7543A)
+bestlooser shows [6h 8s 2h 8d] (Hi: a Straight, Deuce to Six  Lo: 65432)
+bestlooser wins Hi Main Pot (75) with a Straight
+bestlooser wins Lo Main Pot (75) with 65432
+Alvinmore59 finishes tournament in place #7
+** Deck ** [5d 3h 6h Tc As 8s Kd 7d 2h 5c 7c 8d Ks 3d 5s 4s Jd]
+
+bestlooser moved to Table 1
+
+ajaxmoor moved to Table 1
+

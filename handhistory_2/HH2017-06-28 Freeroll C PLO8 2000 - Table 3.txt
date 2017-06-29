@@ -1,0 +1,626 @@
+﻿Starting tournament 2197
+
+Hand #119804-1 - 2017-06-28 13:00:42
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (1500)
+Seat 2: diamond (1500)
+Seat 5: dumyx (1500)
+Seat 6: rodmouvi (1500) - sitting out
+tuan has the dealer button
+diamond posts small blind 25
+dumyx posts big blind 50
+** Hole Cards ** [4 players]
+rodmouvi folds
+tuan calls 50
+diamond folds
+dumyx checks
+** Flop ** [5d Qh 2h]
+dumyx bets 50
+tuan calls 50
+** Turn ** [As]
+dumyx bets 100
+tuan calls 100
+** River ** [Kh]
+dumyx bets 100
+tuan calls 100
+** Pot Show Down ** [5d Qh 2h As Kh]
+tuan shows [Ah 7d 4s 9d] (Hi: a Pair of Aces +KQ9  Lo: 7542A)
+dumyx shows [3s 5s Jc 5h] (Hi: Three of a Kind, Fives +AK  Lo: None)
+dumyx wins Hi Pot (313) with Three of a Kind
+tuan wins Lo Pot (312) with 7542A
+** Deck ** [Td 3s Ad Ah Kd 5s 7h 7d 7s Jc 9c 4s Qd 5h 3c 9d 5d Qh 2h As Kh]
+
+Hand #119806-2 - 2017-06-28 13:01:47
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (1512)
+Seat 2: diamond (1475)
+Seat 5: dumyx (1513)
+Seat 6: rodmouvi (1500) - sitting out
+diamond has the dealer button
+dumyx posts small blind 25
+rodmouvi posts big blind 50
+** Hole Cards ** [4 players]
+tuan calls 50
+diamond folds
+dumyx raises to 200
+rodmouvi folds
+tuan calls 150
+** Flop ** [Ks 9d Jh]
+dumyx bets 50
+tuan folds
+dumyx refunded 50
+dumyx wins Pot (450)
+** Deck ** [Kd Th Qh Js Qd 9h 4d 3h Qs 4s 2d 8d 4h 7d 6h Kc Ks 9d Jh]
+
+Hand #119808-3 - 2017-06-28 13:02:23
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (1312)
+Seat 2: diamond (1475)
+Seat 5: dumyx (1763)
+Seat 6: rodmouvi (1450) - sitting out
+dumyx has the dealer button
+rodmouvi posts small blind 25
+tuan posts big blind 50
+** Hole Cards ** [4 players]
+diamond folds
+dumyx calls 50
+rodmouvi folds
+tuan raises to 175
+dumyx calls 125
+** Flop ** [Ad Ah Jh]
+tuan bets 375
+dumyx folds
+tuan refunded 375
+tuan wins Pot (375)
+scambust moved from Table 2
+PINGOT moved from Table 2
+** Deck ** [9s Ac Ts 9h 2d Kh 5d 8c 6c 2s 4c 9c 6s 2c Qh 5h Ad Ah Jh]
+
+Hand #119809-4 - 2017-06-28 13:02:51
+Game: PL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (1512)
+Seat 2: diamond (1475)
+Seat 3: scambust (1475) - sitting out
+Seat 4: PINGOT (1475) - sitting out
+Seat 5: dumyx (1588)
+Seat 6: rodmouvi (1425) - sitting out
+rodmouvi has the dealer button
+tuan posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [6 players]
+scambust folds
+PINGOT folds
+dumyx calls 50
+rodmouvi folds
+tuan calls 25
+diamond checks
+** Flop ** [4d 2c Jd]
+tuan checks
+diamond checks
+dumyx bets 100
+tuan folds
+diamond calls 100
+** Turn ** [5c]
+diamond checks
+dumyx bets 100
+diamond calls 100
+** River ** [5h]
+diamond checks
+dumyx checks
+** Pot Show Down ** [4d 2c Jd 5c 5h]
+diamond shows [Ac 9h 4c 2d] (Hi: Two Pair, Fives and Fours +A  Lo: None)
+dumyx shows [Td Ad 7h Ks] (Hi: a Pair of Fives +AKJ  Lo: 7542A)
+diamond wins Hi Pot (275) with Two Pair
+dumyx wins Lo Pot (275) with 7542A
+** Deck ** [9c Ac Jc Qc Td 7s 7c 9h Kc Qd Ad 9d 7d 4c 8d 4h 7h 3s 6c 2d Th 6d Ks Kh 4d 2c Jd 5c 5h]
+
+Hand #119812-5 - 2017-06-28 13:03:57
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (1462)
+Seat 2: diamond (1500)
+Seat 3: scambust (1475) - sitting out
+Seat 4: PINGOT (1475)
+Seat 5: dumyx (1613)
+Seat 6: rodmouvi (1425) - sitting out
+tuan has the dealer button
+diamond posts small blind 50
+scambust posts big blind 100
+** Hole Cards ** [6 players]
+PINGOT has timed out
+PINGOT folds
+dumyx folds
+rodmouvi folds
+tuan calls 100
+diamond folds
+scambust folds
+tuan wins Pot (250)
+** Deck ** [4s 9c 4c Ks Ah 5d 8h 6s Td 9d Jc 6c 8s 4h 7s 3s 7d Jd 7h 8d 7c 5s 2h 5c]
+
+Hand #119813-6 - 2017-06-28 13:04:39
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (1612)
+Seat 2: diamond (1450)
+Seat 3: scambust (1375) - sitting out
+Seat 4: PINGOT (1475) - sitting out
+Seat 5: dumyx (1613)
+Seat 6: rodmouvi (1425) - sitting out
+diamond has the dealer button
+scambust posts small blind 50
+PINGOT posts big blind 100
+** Hole Cards ** [6 players]
+dumyx calls 100
+rodmouvi folds
+tuan folds
+diamond folds
+scambust folds
+PINGOT folds
+dumyx wins Pot (250)
+** Deck ** [3d 4h Ks 4c 6s 4d 5d 5h Td Ts 8d 8c Kc 3h Tc 9s 5c 7d 6h 2d Ac 5s Qs 7s]
+
+Hand #119815-7 - 2017-06-28 13:05:08
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (1612)
+Seat 2: diamond (1450)
+Seat 3: scambust (1325) - sitting out
+Seat 4: PINGOT (1375) - sitting out
+Seat 5: dumyx (1763)
+Seat 6: rodmouvi (1425) - sitting out
+scambust has the dealer button
+PINGOT posts small blind 50
+dumyx posts big blind 100
+** Hole Cards ** [6 players]
+rodmouvi folds
+tuan folds
+diamond folds
+scambust folds
+PINGOT folds
+dumyx refunded 50
+dumyx wins Pot (100)
+** Deck ** [3s Ts Ad 5d Qd 7c 2s Ks 4h 9h 3c Ac Jc 2c 7h 4s Jd Tc 9c Th Ah 6h 5h 4c]
+
+Hand #119816-8 - 2017-06-28 13:05:21
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (1612)
+Seat 2: diamond (1450)
+Seat 3: scambust (1325) - sitting out
+Seat 4: PINGOT (1325) - sitting out
+Seat 5: dumyx (1813)
+Seat 6: rodmouvi (1425) - sitting out
+PINGOT has the dealer button
+dumyx posts small blind 50
+rodmouvi posts big blind 100
+** Hole Cards ** [6 players]
+tuan folds
+diamond folds
+scambust folds
+PINGOT folds
+dumyx calls 50
+rodmouvi folds
+dumyx wins Pot (200)
+** Deck ** [3d Ac Kh 3s 9h 6s 8s 5s Qd 9s 2d Th 3c 4c 2h Ts As Tc Td 4h 8c 4s 6c 5c]
+
+Hand #119817-9 - 2017-06-28 13:05:37
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (1612)
+Seat 2: diamond (1450)
+Seat 3: scambust (1325) - sitting out
+Seat 4: PINGOT (1325) - sitting out
+Seat 5: dumyx (1913)
+Seat 6: rodmouvi (1325) - sitting out
+dumyx has the dealer button
+rodmouvi posts small blind 50
+tuan posts big blind 100
+** Hole Cards ** [6 players]
+diamond folds
+scambust calls 100
+PINGOT folds
+dumyx calls 100
+rodmouvi folds
+tuan checks
+** Flop ** [8c 3h 7d]
+tuan checks
+scambust checks
+dumyx bets 300
+tuan folds
+scambust folds
+dumyx refunded 300
+dumyx wins Pot (350)
+Absent player rodmouvi removed from tournament
+** Deck ** [2s 9s 8h 9d 5s Ac Kh Jc Kd 7s 6h 5h 7c 8d Ad Jd 4d 6c Jh 4c Tc 6d 8s 9c 8c 3h 7d]
+
+Hand #119819-10 - 2017-06-28 13:06:34
+Game: PL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (1512)
+Seat 2: diamond (1450)
+Seat 3: scambust (1225)
+Seat 4: PINGOT (1325) - sitting out
+Seat 5: dumyx (2163)
+tuan has the dealer button
+diamond posts small blind 50
+scambust posts big blind 100
+** Hole Cards ** [5 players]
+PINGOT folds
+dumyx folds
+tuan calls 100
+diamond folds
+scambust checks
+** Flop ** [6d Kc 8d]
+scambust bets 100
+tuan folds
+scambust refunded 100
+scambust wins Pot (250)
+** Deck ** [7s 9d 7h Ks 8s 5c 5d 2d Jh As 4d 6s 2h 4c 3c 4h Qd 3d 3s 9h 6d Kc 8d]
+
+Hand #119822-11 - 2017-06-28 13:07:31
+Game: PL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (1412)
+Seat 2: diamond (1400)
+Seat 3: scambust (1375)
+Seat 4: PINGOT (1325) - sitting out
+Seat 5: dumyx (2163)
+diamond has the dealer button
+scambust posts small blind 75
+PINGOT posts big blind 150
+** Hole Cards ** [5 players]
+dumyx calls 150
+tuan raises to 675
+diamond folds
+scambust calls 600
+PINGOT folds
+dumyx folds
+** Flop ** [Ts 7c 3d]
+scambust bets 700 (All-in)
+tuan calls 700
+** Turn ** [4c]
+** River ** [8s]
+** Pot Show Down ** [Ts 7c 3d 4c 8s]
+tuan shows [Ad As 6d 3h] (Hi: a Pair of Aces +T87  Lo: 7643A)
+scambust shows [4s Ac Td 2c] (Hi: Two Pair, Tens and Fours +8  Lo: 7432A)
+scambust wins Hi Pot (1525) with Two Pair
+scambust wins Lo Pot (1525) with 7432A
+** Deck ** [4s Jc 9s Ad Tc Ac 5s 6s As 8d Td Qs Ks 6d 7h 2c Jh Jd 3h 9c Ts 7c 3d 4c 8s]
+
+Hand #119824-12 - 2017-06-28 13:08:29
+Game: PL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (37)
+Seat 2: diamond (1400)
+Seat 3: scambust (3050)
+Seat 4: PINGOT (1175) - sitting out
+Seat 5: dumyx (2013)
+scambust has the dealer button
+PINGOT posts small blind 75
+dumyx posts big blind 150
+** Hole Cards ** [5 players]
+tuan calls 37 (All-in)
+diamond folds
+scambust calls 150
+PINGOT folds
+dumyx checks
+** Flop ** [3c 5c 8h]
+dumyx checks
+scambust checks
+** Turn ** [Qh]
+dumyx bets 150
+scambust folds
+dumyx refunded 150
+** River ** [8d]
+dumyx wins Side Pot 1 (264)
+** Main Pot Show Down ** [3c 5c 8h Qh 8d]
+tuan shows [Js 6h Ah 4d] (Hi: a Pair of Eights +AQJ  Lo: 8543A)
+dumyx shows [6c Kc 3h Th] (Hi: Two Pair, Eights and Threes +K  Lo: None)
+dumyx wins Hi Main Pot (74) with Two Pair
+tuan wins Lo Main Pot (74) with 8543A
+** Deck ** [6s 6c Js 4h 4s Ac Kc 6h Ks 4c Ts 3h Ah 5s 2d Jc Th 4d 5d 9s 3c 5c 8h Qh 8d]
+
+Hand #119825-13 - 2017-06-28 13:09:17
+Game: PL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (74)
+Seat 2: diamond (1400)
+Seat 3: scambust (2900)
+Seat 4: PINGOT (1100) - sitting out
+Seat 5: dumyx (2201)
+PINGOT has the dealer button
+dumyx posts small blind 75
+tuan posts big blind 74 (All-in)
+** Hole Cards ** [5 players]
+diamond folds
+scambust calls 150
+PINGOT folds
+dumyx calls 75
+** Flop ** [Ac Tc 8d]
+dumyx checks
+scambust bets 150
+dumyx folds
+scambust refunded 150
+** Turn ** [Ad]
+** River ** [As]
+scambust wins Side Pot 1 (152)
+** Main Pot Show Down ** [Ac Tc 8d Ad As]
+tuan shows [9d 4s 6c Jh] (Hi: Three of a Kind, Aces +J9  Lo: None)
+scambust shows [9h 6h 4h 5h] (Hi: Three of a Kind, Aces +96  Lo: None)
+tuan wins Main Pot (222) with Three of a Kind
+No low hand qualified
+** Deck ** [2s 9d Js 9h 5c 2h 4s Qh 6h 6d Ks 6c 9s 4h Qc 4d Jh 3c 5h Jc Ac Tc 8d Ad As]
+
+diamond moved to Table 1
+
+Hand #119829-14 - 2017-06-28 13:10:24
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 1: tuan (222)
+Seat 3: scambust (2902)
+Seat 4: PINGOT (1100) - sitting out
+Seat 5: dumyx (2051)
+dumyx has the dealer button
+tuan posts small blind 100
+scambust posts big blind 200
+** Hole Cards ** [4 players]
+PINGOT folds
+dumyx folds
+tuan raises to 222 (All-in)
+scambust calls 22
+** Flop ** [5c Qh 5s]
+** Turn ** [4c]
+** River ** [9c]
+** Pot Show Down ** [5c Qh 5s 4c 9c]
+tuan shows [4s 2c Js 7s] (Hi: Two Pair, Fives and Fours +J  Lo: None)
+scambust shows [2s Qd Kc 9h] (Hi: Two Pair, Queens and Nines +5  Lo: None)
+scambust wins Pot (444) with Two Pair
+No low hand qualified
+tuan finishes tournament in place #8
+** Deck ** [4s 2s Tc Th 2c Qd 8c 5h Js Kc 3d 7d 7s 9h 8d 3c 5c Qh 5s 4c 9c]
+
+Hand #119830-15 - 2017-06-28 13:10:50
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 3: scambust (3124)
+Seat 4: PINGOT (1100) - sitting out
+Seat 5: dumyx (2051)
+scambust has the dealer button
+PINGOT posts small blind 100
+dumyx posts big blind 200
+** Hole Cards ** [3 players]
+scambust raises to 400
+PINGOT folds
+dumyx folds
+scambust refunded 200
+scambust wins Pot (500)
+** Deck ** [2d 2s 8s Ah 4h Kd 6s 9h 6d Js Qh Ad]
+
+Hand #119833-16 - 2017-06-28 13:11:10
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 3: scambust (3424)
+Seat 4: PINGOT (1000) - sitting out
+Seat 5: dumyx (1851)
+PINGOT has the dealer button
+dumyx posts small blind 100
+scambust posts big blind 200
+** Hole Cards ** [3 players]
+PINGOT folds
+dumyx raises to 400
+scambust raises to 600
+dumyx raises to 1800
+scambust calls 1200
+** Flop ** [7d 5h 3s]
+dumyx bets 51 (All-in)
+scambust calls 51
+** Turn ** [5c]
+** River ** [4s]
+** Pot Show Down ** [7d 5h 3s 5c 4s]
+scambust shows [3c 4d Jd Ac] (Hi: Two Pair, Fives and Fours +A  Lo: 7543A)
+dumyx shows [Kc Qd Kh 3h] (Hi: Two Pair, Kings and Fives +7  Lo: None)
+dumyx wins Hi Pot (1851) with Two Pair
+scambust wins Lo Pot (1851) with 7543A
+** Deck ** [Kc 3c 9h Qd 4d Jc Kh Jd Th 3h Ac 9c 7d 5h 3s 5c 4s]
+
+Hand #119834-17 - 2017-06-28 13:11:45
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 3: scambust (3424)
+Seat 4: PINGOT (1000) - sitting out
+Seat 5: dumyx (1851)
+dumyx has the dealer button
+scambust posts small blind 100
+PINGOT posts big blind 200
+** Hole Cards ** [3 players]
+dumyx folds
+scambust raises to 400
+PINGOT folds
+scambust refunded 200
+scambust wins Pot (400)
+** Deck ** [Qc 3s Th 8d 5s 5h Ac Js 7c 2s 4d Ad]
+
+Hand #119836-18 - 2017-06-28 13:12:05
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 3: scambust (3624)
+Seat 4: PINGOT (800) - sitting out
+Seat 5: dumyx (1851)
+scambust has the dealer button
+PINGOT posts small blind 100
+dumyx posts big blind 200
+** Hole Cards ** [3 players]
+scambust folds
+PINGOT folds
+dumyx refunded 100
+dumyx wins Pot (200)
+** Deck ** [Kd Kc 6d 2s Th 2h As 4c Jd Ac 5s 3d]
+
+Hand #119837-19 - 2017-06-28 13:12:18
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 3: scambust (3624)
+Seat 4: PINGOT (700) - sitting out
+Seat 5: dumyx (1951)
+PINGOT has the dealer button
+dumyx posts small blind 100
+scambust posts big blind 200
+** Hole Cards ** [3 players]
+PINGOT folds
+dumyx calls 100
+scambust checks
+** Flop ** [5h 4d Ts]
+dumyx bets 200
+scambust calls 200
+** Turn ** [8c]
+dumyx bets 200
+scambust calls 200
+** River ** [Qd]
+dumyx checks
+scambust checks
+** Pot Show Down ** [5h 4d Ts 8c Qd]
+scambust shows [4c 2h 5s 6h] (Hi: Two Pair, Fives and Fours +Q  Lo: 86542)
+dumyx shows [Qc Ac 4s Th] (Hi: Two Pair, Queens and Tens +8  Lo: None)
+dumyx wins Hi Pot (600) with Two Pair
+scambust wins Lo Pot (600) with 86542
+** Deck ** [Qc 4c 7s Ac 2h 7c 4s 5s 9c Th 6h 5c 5h 4d Ts 8c Qd]
+
+Hand #119839-20 - 2017-06-28 13:12:54
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 3: scambust (3624)
+Seat 4: PINGOT (700) - sitting out
+Seat 5: dumyx (1951)
+dumyx has the dealer button
+scambust posts ante 25
+PINGOT posts ante 25
+dumyx posts ante 25
+scambust posts small blind 100
+PINGOT posts big blind 200
+** Hole Cards ** [3 players]
+dumyx folds
+scambust raises to 400
+PINGOT folds
+scambust refunded 200
+scambust wins Pot (475)
+** Deck ** [Tc Th 6c Js 7s 3s 6h Ac 6s 4c As Qc]
+
+Hand #119840-21 - 2017-06-28 13:13:09
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 3: scambust (3874)
+Seat 4: PINGOT (475) - sitting out
+Seat 5: dumyx (1926)
+scambust has the dealer button
+scambust posts ante 25
+PINGOT posts ante 25
+dumyx posts ante 25
+PINGOT posts small blind 100
+dumyx posts big blind 200
+** Hole Cards ** [3 players]
+scambust folds
+PINGOT folds
+dumyx refunded 100
+dumyx wins Pot (275)
+** Deck ** [9d Td 5d Jh 7h 2c 5c 8d Kd Js Ah 7d]
+
+Hand #119842-22 - 2017-06-28 13:13:24
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 3: scambust (3849)
+Seat 4: PINGOT (350) - sitting out
+Seat 5: dumyx (2076)
+PINGOT has the dealer button
+scambust posts ante 25
+PINGOT posts ante 25
+dumyx posts ante 25
+dumyx posts small blind 100
+scambust posts big blind 200
+** Hole Cards ** [3 players]
+PINGOT folds
+dumyx calls 100
+scambust checks
+** Flop ** [7s 5c 2c]
+dumyx checks
+scambust bets 475
+dumyx folds
+scambust refunded 475
+scambust wins Pot (475)
+** Deck ** [2s Td Qh Ad 7h Ts Qd Qs Kh Jc 8c 6c 7s 5c 2c]
+
+Hand #119843-23 - 2017-06-28 13:13:58
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 3: scambust (4099)
+Seat 4: PINGOT (325) - sitting out
+Seat 5: dumyx (1851)
+dumyx has the dealer button
+scambust posts ante 25
+PINGOT posts ante 25
+dumyx posts ante 25
+scambust posts small blind 100
+PINGOT posts big blind 200
+** Hole Cards ** [3 players]
+dumyx calls 200
+scambust calls 100
+PINGOT folds
+** Flop ** [4c Qd 2c]
+scambust checks
+dumyx bets 200
+scambust folds
+dumyx refunded 200
+dumyx wins Pot (675)
+** Deck ** [3h Kh 8h Th As Qh 9s 5s Jd 3s Kc Ks 4c Qd 2c]
+
+Hand #119847-24 - 2017-06-28 13:14:27
+Game: PL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll C PLO8 2000 - Table 3
+Seat 3: scambust (3874)
+Seat 4: PINGOT (100) - sitting out
+Seat 5: dumyx (2301)
+scambust has the dealer button
+scambust posts ante 25
+PINGOT posts ante 25
+dumyx posts ante 25
+PINGOT posts small blind 75 (All-in)
+dumyx posts big blind 200
+** Hole Cards ** [3 players]
+scambust folds
+PINGOT folds
+dumyx refunded 125
+dumyx wins Pot (225)
+PINGOT finishes tournament in place #7
+** Deck ** [5d 7d 5c Qs 8h Jd 2d 7s Td 9h 9c 4h]
+
+scambust moved to Table 1
+
+dumyx moved to Table 1
+
