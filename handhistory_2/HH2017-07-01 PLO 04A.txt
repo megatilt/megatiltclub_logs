@@ -1,0 +1,397 @@
+﻿Hand #123597-1 - 2017-07-01 14:16:33
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (1000)
+Seat 5: brokedummy (1000)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 10
+brokedummy posts big blind 20
+** Hole Cards ** [2 players]
+CoinDoctor raises to 40
+brokedummy calls 20
+** Flop ** [Td 2h Jc]
+brokedummy checks
+CoinDoctor bets 60
+brokedummy calls 60
+** Turn ** [3c]
+brokedummy checks
+CoinDoctor bets 160
+brokedummy calls 160
+** River ** [Jd]
+brokedummy checks
+CoinDoctor checks
+** Pot Show Down ** [Td 2h Jc 3c Jd]
+CoinDoctor shows [9c Qd 6c 9d] (Two Pair, Jacks and Nines +T)
+brokedummy shows [5s 8h Ad As] (Two Pair, Aces and Jacks +T)
+brokedummy wins Pot (507) with Two Pair
+Rake (13) Pot (520) Players (CoinDoctor: 260, brokedummy: 260)
+** Deck ** [5s 9c 8h Qd Ad 6c As 9d Td 2h Jc 3c Jd]
+
+Hand #123600-2 - 2017-07-01 14:17:32
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (740)
+Seat 5: brokedummy (1247)
+brokedummy has the dealer button
+brokedummy posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [2 players]
+brokedummy calls 10
+CoinDoctor checks
+** Flop ** [4d 8d 9h]
+CoinDoctor checks
+brokedummy bets 20
+CoinDoctor folds
+brokedummy refunded 20
+brokedummy wins Pot (39)
+Rake (1) Pot (40) Players (CoinDoctor: 20, brokedummy: 20)
+** Deck ** [3d 6s 3h 8s 5h 8c Qc As 4d 8d 9h]
+
+Hand #123601-3 - 2017-07-01 14:17:57
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (720)
+Seat 5: brokedummy (1266)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 10
+brokedummy posts big blind 20
+** Hole Cards ** [2 players]
+CoinDoctor folds
+brokedummy refunded 10
+brokedummy wins Pot (20)
+Rake (0) Pot (20) Players (CoinDoctor: 10, brokedummy: 10)
+** Deck ** [2c 7c 5c Qs 6c 5h 7d 3c]
+
+Hand #123602-4 - 2017-07-01 14:18:13
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (710)
+Seat 5: brokedummy (1276)
+brokedummy has the dealer button
+brokedummy posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [2 players]
+brokedummy calls 10
+CoinDoctor checks
+** Flop ** [5d 2h 7d]
+CoinDoctor checks
+brokedummy checks
+** Turn ** [Kd]
+CoinDoctor checks
+brokedummy checks
+** River ** [Kh]
+CoinDoctor checks
+brokedummy checks
+** Pot Show Down ** [5d 2h 7d Kd Kh]
+CoinDoctor shows [Qd Ts 7h 8s] (Two Pair, Kings and Sevens +Q)
+brokedummy shows [Th 3s 3d Jc] (Two Pair, Kings and Threes +7)
+CoinDoctor wins Pot (39) with Two Pair
+Rake (1) Pot (40) Players (CoinDoctor: 20, brokedummy: 20)
+** Deck ** [Qd Th Ts 3s 7h 3d 8s Jc 5d 2h 7d Kd Kh]
+
+Hand #123604-5 - 2017-07-01 14:18:44
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (729)
+Seat 5: brokedummy (1256)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 10
+brokedummy posts big blind 20
+** Hole Cards ** [2 players]
+CoinDoctor calls 10
+brokedummy checks
+** Flop ** [Ts 3c 4s]
+brokedummy bets 20
+CoinDoctor calls 20
+** Turn ** [As]
+brokedummy checks
+CoinDoctor checks
+** River ** [Tc]
+brokedummy checks
+CoinDoctor bets 60
+brokedummy folds
+CoinDoctor refunded 60
+CoinDoctor wins Pot (78)
+Rake (2) Pot (80) Players (CoinDoctor: 40, brokedummy: 40)
+** Deck ** [7d Td 4c 4h Ks 6s 8c Ac Ts 3c 4s As Tc]
+
+Hand #123608-6 - 2017-07-01 14:19:31
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (767)
+Seat 5: brokedummy (1216)
+brokedummy has the dealer button
+brokedummy posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [2 players]
+brokedummy calls 10
+CoinDoctor checks
+** Flop ** [Qc 3c 2h]
+CoinDoctor bets 20
+brokedummy calls 20
+** Turn ** [8s]
+CoinDoctor bets 40
+brokedummy calls 40
+** River ** [2d]
+CoinDoctor checks
+brokedummy checks
+** Pot Show Down ** [Qc 3c 2h 8s 2d]
+CoinDoctor shows [Jh 9c 8c Ad] (Two Pair, Eights and Deuces +A)
+brokedummy shows [5d 5c Qs Ah] (Two Pair, Queens and Deuces +A)
+brokedummy wins Pot (156) with Two Pair
+Rake (4) Pot (160) Players (CoinDoctor: 80, brokedummy: 80)
+** Deck ** [Jh 5d 9c 5c 8c Qs Ad Ah Qc 3c 2h 8s 2d]
+
+Hand #123610-7 - 2017-07-01 14:20:25
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (687)
+Seat 5: brokedummy (1292)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 10
+brokedummy posts big blind 20
+** Hole Cards ** [2 players]
+CoinDoctor calls 10
+brokedummy checks
+** Flop ** [4h Ad Jd]
+brokedummy bets 20
+CoinDoctor calls 20
+** Turn ** [Th]
+brokedummy bets 20
+CoinDoctor calls 20
+** River ** [Qd]
+brokedummy bets 20
+CoinDoctor raises to 100
+brokedummy calls 80
+** Pot Show Down ** [4h Ad Jd Th Qd]
+CoinDoctor shows [Ks 8c 6s Tc] (a Straight, Ten to Ace)
+brokedummy shows [2s 7d 3h 8d] (a Flush, Ace high +QJ87)
+brokedummy wins Pot (312) with a Flush
+Rake (8) Pot (320) Players (CoinDoctor: 160, brokedummy: 160)
+** Deck ** [2s Ks 7d 8c 3h 6s 8d Tc 4h Ad Jd Th Qd]
+
+Hand #123613-8 - 2017-07-01 14:21:15
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (527)
+Seat 5: brokedummy (1444)
+brokedummy has the dealer button
+brokedummy posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [2 players]
+brokedummy calls 10
+CoinDoctor checks
+** Flop ** [2h 9d 3d]
+CoinDoctor checks
+brokedummy checks
+** Turn ** [6h]
+CoinDoctor checks
+brokedummy checks
+** River ** [Ah]
+CoinDoctor checks
+brokedummy bets 20
+CoinDoctor folds
+brokedummy refunded 20
+brokedummy wins Pot (39)
+Rake (1) Pot (40) Players (CoinDoctor: 20, brokedummy: 20)
+** Deck ** [Kc 7h Qc 8s Js Td 8h Ad 2h 9d 3d 6h Ah]
+
+Hand #123614-9 - 2017-07-01 14:21:44
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (507)
+Seat 5: brokedummy (1463)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 10
+brokedummy posts big blind 20
+** Hole Cards ** [2 players]
+CoinDoctor raises to 40
+brokedummy calls 20
+** Flop ** [6h 2c Ac]
+brokedummy checks
+CoinDoctor checks
+** Turn ** [8c]
+brokedummy checks
+CoinDoctor checks
+** River ** [Qd]
+brokedummy checks
+CoinDoctor checks
+** Pot Show Down ** [6h 2c Ac 8c Qd]
+CoinDoctor shows [9h Ts Jc 9s] (a Pair of Nines +AQ8)
+brokedummy shows [7c 8h Js 5h] (a Pair of Eights +AQJ)
+CoinDoctor wins Pot (78) with a Pair
+Rake (2) Pot (80) Players (CoinDoctor: 40, brokedummy: 40)
+** Deck ** [7c 9h 8h Ts Js Jc 5h 9s 6h 2c Ac 8c Qd]
+
+Hand #123617-10 - 2017-07-01 14:22:39
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (545)
+Seat 5: brokedummy (1423)
+brokedummy has the dealer button
+brokedummy posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [2 players]
+brokedummy calls 10
+CoinDoctor checks
+** Flop ** [8h Qh Tc]
+CoinDoctor checks
+brokedummy checks
+** Turn ** [Kh]
+CoinDoctor checks
+brokedummy checks
+** River ** [3s]
+CoinDoctor checks
+brokedummy bets 20
+CoinDoctor calls 20
+** Pot Show Down ** [8h Qh Tc Kh 3s]
+CoinDoctor shows [4s Js 8c 6h] (a Pair of Eights +KQJ)
+brokedummy shows [Td Jc 5d As] (a Straight, Ten to Ace)
+brokedummy wins Pot (78) with a Straight
+Rake (2) Pot (80) Players (CoinDoctor: 40, brokedummy: 40)
+** Deck ** [4s Td Js Jc 8c 5d 6h As 8h Qh Tc Kh 3s]
+
+Hand #123620-11 - 2017-07-01 14:23:20
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (505)
+Seat 3: Bourne (1000)
+Seat 5: brokedummy (1461) - sitting out
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 10
+Bourne posts big blind 20
+** Hole Cards ** [2 players]
+CoinDoctor calls 10
+Bourne checks
+** Flop ** [Js 2h Kc]
+Bourne bets 39
+CoinDoctor folds
+Bourne refunded 39
+Bourne wins Pot (39)
+Rake (1) Pot (40) Players (CoinDoctor: 20, Bourne: 20)
+** Deck ** [6c 5s Jd 3c Qd 5c Kh 8h Js 2h Kc]
+
+Hand #123623-12 - 2017-07-01 14:23:57
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (485)
+Seat 3: Bourne (1019)
+Seat 5: brokedummy (1461) - sitting out
+Bourne has the dealer button
+Bourne posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [2 players]
+Bourne calls 10
+CoinDoctor raises to 40
+Bourne calls 20
+** Flop ** [8d Td Ts]
+CoinDoctor checks
+Bourne checks
+** Turn ** [As]
+CoinDoctor bets 60
+Bourne raises to 120
+CoinDoctor calls 60
+** River ** [Kh]
+CoinDoctor checks
+Bourne bets 312
+CoinDoctor folds
+Bourne refunded 312
+Bourne wins Pot (312)
+Rake (8) Pot (320) Players (CoinDoctor: 160, Bourne: 160)
+** Deck ** [6s 9d Ac 6d 7h Qc 7s 5d 8d Td Ts As Kh]
+
+Hand #123627-13 - 2017-07-01 14:25:12
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (325)
+Seat 3: Bourne (1171)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 10
+Bourne posts big blind 20
+** Hole Cards ** [2 players]
+CoinDoctor calls 10
+Bourne checks
+** Flop ** [Jh 8s 8c]
+Bourne checks
+CoinDoctor checks
+** Turn ** [Qc]
+Bourne checks
+CoinDoctor checks
+** River ** [6c]
+Bourne checks
+CoinDoctor checks
+** Pot Show Down ** [Jh 8s 8c Qc 6c]
+CoinDoctor shows [5c 7d 2h 5s] (Two Pair, Eights and Fives +Q)
+Bourne shows [3h Ac 4h 2c] (a Flush, Ace high +Q862)
+Bourne wins Pot (39) with a Flush
+Rake (1) Pot (40) Players (CoinDoctor: 20, Bourne: 20)
+** Deck ** [3h 5c Ac 7d 4h 2h 2c 5s Jh 8s 8c Qc 6c]
+
+Hand #123630-14 - 2017-07-01 14:25:57
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (305)
+Seat 3: Bourne (1190)
+Bourne has the dealer button
+Bourne posts small blind 10
+CoinDoctor posts big blind 20
+** Hole Cards ** [2 players]
+Bourne raises to 60
+CoinDoctor calls 40
+** Flop ** [4h Qd 8s]
+CoinDoctor checks
+Bourne checks
+** Turn ** [Ah]
+CoinDoctor checks
+Bourne bets 58.50
+CoinDoctor folds
+Bourne refunded 58.50
+Bourne wins Pot (117)
+Rake (3) Pot (120) Players (CoinDoctor: 60, Bourne: 60)
+** Deck ** [3d Kh Qh Ad Kc Ts 5c 6s 4h Qd 8s Ah]
+
+Hand #123633-15 - 2017-07-01 14:26:35
+Game: PL Omaha (1000 - 2000) - Blinds 10/20
+Site: MegaTilt Club
+Table: PLO 04A
+Seat 2: CoinDoctor (245)
+Seat 3: Bourne (1247)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 10
+Bourne posts big blind 20
+** Hole Cards ** [2 players]
+CoinDoctor raises to 40
+Bourne calls 20
+** Flop ** [7s 4s Ad]
+Bourne checks
+CoinDoctor bets 40
+Bourne calls 40
+** Turn ** [2s]
+Bourne checks
+CoinDoctor checks
+** River ** [Kh]
+Bourne bets 156
+CoinDoctor raises to 165 (All-in)
+Bourne calls 9
+** Pot Show Down ** [7s 4s Ad 2s Kh]
+CoinDoctor shows [Kd Qs Ah 9s] (a Flush, Queen high +9742)
+Bourne shows [Ks 9c 6s 6d] (a Flush, King high +7642)
+Bourne wins Pot (477.75) with a Flush
+Rake (12.25) Pot (490) Players (CoinDoctor: 245, Bourne: 245)
+** Deck ** [Ks Kd 9c Qs 6s Ah 6d 9s 7s 4s Ad 2s Kh]
+
+CoinDoctor: "gg"
