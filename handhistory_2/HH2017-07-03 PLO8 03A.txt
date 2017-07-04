@@ -1,0 +1,907 @@
+﻿Hand #125913-1 - 2017-07-03 01:44:00
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (500)
+Seat 3: brokedummy (1000)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy calls 5
+CLS checks
+** Flop ** [Kd As 5d]
+CLS checks
+brokedummy checks
+** Turn ** [9h]
+CLS bets 19.50
+brokedummy calls 19.50
+** River ** [8c]
+CLS checks
+brokedummy bets 57.55
+CLS folds
+brokedummy refunded 57.55
+brokedummy wins Pot (57.55)
+Rake (1.45) Pot (59) Players (CLS: 29.50, brokedummy: 29.50)
+** Deck ** [2c Qd 5s 7c Tc 6s 9d Ad Kd As 5d 9h 8c]
+
+Hand #125915-2 - 2017-07-03 01:44:53
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (470.50)
+Seat 3: brokedummy (1028.05)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS calls 5
+brokedummy checks
+** Flop ** [Qs Kc Td]
+brokedummy bets 10
+CLS raises to 49.50
+brokedummy folds
+CLS refunded 39.50
+CLS wins Pot (39)
+Rake (1) Pot (40) Players (CLS: 20, brokedummy: 20)
+** Deck ** [3s 3c 8d 5c Th Jd 9s 9d Qs Kc Td]
+
+Hand #125916-3 - 2017-07-03 01:45:23
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (489.50)
+Seat 3: brokedummy (1008.05)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy calls 5
+CLS raises to 30
+brokedummy calls 20
+** Flop ** [As Qh 9c]
+CLS checks
+brokedummy checks
+** Turn ** [7d]
+CLS bets 58.50
+brokedummy calls 58.50
+** River ** [Ac]
+CLS checks
+brokedummy checks
+** Pot Show Down ** [As Qh 9c 7d Ac]
+CLS shows [Qs 8h 2s 8c] (Hi: Two Pair, Aces and Queens +8  Lo: None)
+brokedummy shows [Th 7h 4c 2d] (Hi: Two Pair, Aces and Sevens +T  Lo: None)
+CLS wins Pot (172.60) with Two Pair
+No low hand qualified
+Rake (4.40) Pot (177) Players (CLS: 88.50, brokedummy: 88.50)
+** Deck ** [Qs Th 8h 7h 2s 4c 8c 2d As Qh 9c 7d Ac]
+
+Hand #125918-4 - 2017-07-03 01:46:14
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (573.60)
+Seat 3: brokedummy (919.55)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS raises to 30
+brokedummy calls 20
+** Flop ** [Qc 2h Td]
+brokedummy checks
+CLS checks
+** Turn ** [2d]
+brokedummy bets 10
+CLS folds
+brokedummy refunded 10
+brokedummy wins Pot (58.50)
+Rake (1.50) Pot (60) Players (CLS: 30, brokedummy: 30)
+** Deck ** [Th 8h 9c 6d 6h 9s 5c 8c Qc 2h Td 2d]
+
+Hand #125920-5 - 2017-07-03 01:46:51
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (543.60)
+Seat 3: brokedummy (948.05)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy calls 5
+CLS raises to 30
+brokedummy calls 20
+** Flop ** [Ad 2s 4c]
+CLS bets 58.50
+brokedummy calls 58.50
+** Turn ** [Kh]
+CLS bets 172.60
+brokedummy calls 172.60
+** River ** [7h]
+CLS checks
+brokedummy bets 509.15
+CLS calls 282.50 (All-in)
+brokedummy refunded 226.65
+** Pot Show Down ** [Ad 2s 4c Kh 7h]
+CLS shows [Ah Tc 9h 4s] (Hi: Two Pair, Aces and Fours +K  Lo: None)
+brokedummy shows [7c 9d 3c 6c] (Hi: a Pair of Sevens +AK9  Lo: 6432A)
+CLS wins Hi Pot (530.03) with Two Pair
+brokedummy wins Lo Pot (530.02) with 6432A
+Rake (27.15) Pot (1087.20) Players (CLS: 543.60, brokedummy: 543.60)
+** Deck ** [Ah 7c Tc 9d 9h 3c 4s 6c Ad 2s 4c Kh 7h]
+
+Hand #125922-6 - 2017-07-03 01:47:57
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (530.03)
+Seat 3: brokedummy (934.47)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS raises to 30
+brokedummy calls 20
+** Flop ** [4c 4s Jh]
+brokedummy checks
+CLS bets 58.50
+brokedummy calls 58.50
+** Turn ** [As]
+brokedummy bets 172.60
+CLS folds
+brokedummy refunded 172.60
+brokedummy wins Pot (172.60)
+Rake (4.40) Pot (177) Players (CLS: 88.50, brokedummy: 88.50)
+** Deck ** [Kd 9s Ad 8d 3d 6c Tc Jd 4c 4s Jh As]
+
+Hand #125924-7 - 2017-07-03 01:48:57
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (441.53)
+Seat 3: brokedummy (1018.57)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy calls 5
+CLS checks
+** Flop ** [2s 6d 5d]
+CLS bets 19.50
+brokedummy calls 19.50
+** Turn ** [Jh]
+CLS bets 57.55
+brokedummy calls 57.55
+** River ** [Ah]
+CLS checks
+brokedummy bets 169.75
+CLS calls 169.75
+** Pot Show Down ** [2s 6d 5d Jh Ah]
+CLS shows [5h Qs 9c 5c] (Hi: Three of a Kind, Fives +AJ  Lo: None)
+brokedummy shows [9s Ad Qd 6c] (Hi: Two Pair, Aces and Sixes +J  Lo: None)
+CLS wins Pot (500.80) with Three of a Kind
+No low hand qualified
+Rake (12.80) Pot (513.60) Players (CLS: 256.80, brokedummy: 256.80)
+** Deck ** [5h 9s Qs Ad 9c Qd 5c 6c 2s 6d 5d Jh Ah]
+
+Hand #125926-8 - 2017-07-03 01:49:50
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (685.53)
+Seat 3: brokedummy (761.77)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS calls 5
+brokedummy checks
+** Flop ** [5h 8h 5s]
+brokedummy bets 10
+CLS folds
+brokedummy refunded 10
+brokedummy wins Pot (19.50)
+Rake (0.50) Pot (20) Players (CLS: 10, brokedummy: 10)
+** Deck ** [Jh Ks 7h 9s Ah 9c 8c 2h 5h 8h 5s]
+
+Hand #125927-9 - 2017-07-03 01:50:12
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (675.53)
+Seat 3: brokedummy (771.27)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy folds
+CLS refunded 5
+CLS wins Pot (10)
+Rake (0) Pot (10) Players (CLS: 5, brokedummy: 5)
+** Deck ** [8s Jc 3c 3s 8h Qh Ad 9d]
+
+Hand #125928-10 - 2017-07-03 01:50:26
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (680.53)
+Seat 3: brokedummy (766.27)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS raises to 30
+brokedummy raises to 90
+CLS calls 60
+** Flop ** [As 8s Qd]
+brokedummy bets 175.50
+CLS folds
+brokedummy refunded 175.50
+brokedummy wins Pot (175.50)
+Rake (4.50) Pot (180) Players (CLS: 90, brokedummy: 90)
+** Deck ** [Ad 2h Jd Ah 3c 7h 2c 7d As 8s Qd]
+
+Hand #125930-11 - 2017-07-03 01:51:07
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (590.53)
+Seat 3: brokedummy (851.77)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy calls 5
+CLS checks
+** Flop ** [5s 5h Kc]
+CLS bets 19.50
+brokedummy calls 19.50
+** Turn ** [9d]
+CLS bets 57.55
+brokedummy calls 57.55
+** River ** [3s]
+CLS checks
+brokedummy checks
+** Pot Show Down ** [5s 5h Kc 9d 3s]
+CLS shows [Ks 3h Th 9s] (Hi: Two Pair, Kings and Nines +5  Lo: None)
+brokedummy shows [Js Jc 8h 8c] (Hi: Two Pair, Jacks and Fives +K  Lo: None)
+CLS wins Pot (169.75) with Two Pair
+No low hand qualified
+Rake (4.35) Pot (174.10) Players (CLS: 87.05, brokedummy: 87.05)
+** Deck ** [Ks Js 3h Jc Th 8h 9s 8c 5s 5h Kc 9d 3s]
+
+Hand #125932-12 - 2017-07-03 01:52:09
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (673.23)
+Seat 3: brokedummy (764.72)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS calls 5
+brokedummy checks
+** Flop ** [Kd 9s 5d]
+brokedummy bets 10
+CLS raises to 49.50
+brokedummy calls 39.50
+** Turn ** [Jh]
+brokedummy bets 116.05
+CLS folds
+brokedummy refunded 116.05
+brokedummy wins Pot (116.05)
+Rake (2.95) Pot (119) Players (CLS: 59.50, brokedummy: 59.50)
+** Deck ** [4h 7h Js Ks 2d 4c Jd Td Kd 9s 5d Jh]
+
+Hand #125934-13 - 2017-07-03 01:53:04
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (613.73)
+Seat 3: brokedummy (821.27)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy calls 5
+CLS checks
+** Flop ** [4c 5s 2c]
+CLS checks
+brokedummy bets 10
+CLS folds
+brokedummy refunded 10
+brokedummy wins Pot (19.50)
+Rake (0.50) Pot (20) Players (CLS: 10, brokedummy: 10)
+** Deck ** [Kd Qh 4s 3d 7d 2s 7s 6h 4c 5s 2c]
+
+Hand #125935-14 - 2017-07-03 01:53:27
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (603.73)
+Seat 3: brokedummy (830.77)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS raises to 30
+brokedummy folds
+CLS refunded 20
+CLS wins Pot (20)
+Rake (0) Pot (20) Players (CLS: 10, brokedummy: 10)
+** Deck ** [4s Qd 7d Jd 8h Jh Qs 9d]
+
+Hand #125936-15 - 2017-07-03 01:53:47
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (613.73)
+Seat 3: brokedummy (820.77)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy calls 5
+CLS checks
+** Flop ** [Js Qh 4h]
+CLS checks
+brokedummy bets 10
+CLS folds
+brokedummy refunded 10
+brokedummy wins Pot (19.50)
+Rake (0.50) Pot (20) Players (CLS: 10, brokedummy: 10)
+** Deck ** [3s 5c 7c 2s Ks Jh 2h 4d Js Qh 4h]
+
+Hand #125938-16 - 2017-07-03 01:54:10
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (603.73)
+Seat 3: brokedummy (830.27)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS calls 5
+brokedummy checks
+** Flop ** [Qc 5c Ad]
+brokedummy bets 10
+CLS folds
+brokedummy refunded 10
+brokedummy wins Pot (19.50)
+Rake (0.50) Pot (20) Players (CLS: 10, brokedummy: 10)
+** Deck ** [Jc 9s 8c 5d 7c Kh Qh 8h Qc 5c Ad]
+
+Hand #125939-17 - 2017-07-03 01:54:34
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (593.73)
+Seat 3: brokedummy (839.77)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy calls 5
+CLS raises to 30
+brokedummy calls 20
+** Flop ** [6h 3s Ac]
+CLS checks
+brokedummy bets 58.50
+CLS folds
+brokedummy refunded 58.50
+brokedummy wins Pot (58.50)
+Rake (1.50) Pot (60) Players (CLS: 30, brokedummy: 30)
+** Deck ** [Td 6s Jc Ad 6c 8s Jd Tc 6h 3s Ac]
+
+Hand #125940-18 - 2017-07-03 01:55:05
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (563.73)
+Seat 3: brokedummy (868.27)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS calls 5
+brokedummy checks
+** Flop ** [5h 5c Js]
+brokedummy bets 19.50
+CLS folds
+brokedummy refunded 19.50
+brokedummy wins Pot (19.50)
+Rake (0.50) Pot (20) Players (CLS: 10, brokedummy: 10)
+** Deck ** [Kc Qh 8c 2d 5d 6s Qc Kh 5h 5c Js]
+
+Hand #125941-19 - 2017-07-03 01:55:38
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (553.73)
+Seat 3: brokedummy (877.77)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy raises to 30
+CLS calls 20
+** Flop ** [4s As 4h]
+CLS checks
+brokedummy bets 20
+CLS calls 20
+** Turn ** [4d]
+CLS bets 97.50
+brokedummy calls 97.50
+** River ** [Kd]
+CLS bets 287.65
+brokedummy calls 287.65
+** Pot Show Down ** [4s As 4h 4d Kd]
+CLS shows [Kc 9c 9s Ts] (Hi: a Full House, Fours full of Nines  Lo: None)
+brokedummy shows [7d 2h Ac Qh] (Hi: Three of a Kind, Fours +AQ  Lo: None)
+CLS wins Pot (848.55) with a Full House
+No low hand qualified
+Rake (21.75) Pot (870.30) Players (CLS: 435.15, brokedummy: 435.15)
+** Deck ** [Kc 7d 9c 2h 9s Ac Ts Qh 4s As 4h 4d Kd]
+
+Hand #125943-20 - 2017-07-03 01:56:56
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (967.13)
+Seat 3: brokedummy (442.62)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS calls 5
+brokedummy raises to 20
+CLS calls 10
+** Flop ** [Qs 9c Kc]
+brokedummy bets 10
+CLS raises to 69
+brokedummy calls 59
+** Turn ** [Ks]
+brokedummy checks
+CLS bets 173.55
+brokedummy calls 173.55
+** River ** [8s]
+brokedummy checks
+CLS checks
+** Pot Show Down ** [Qs 9c Kc Ks 8s]
+CLS shows [Qc 5d Jd Th] (Hi: a Straight, Nine to King  Lo: None)
+brokedummy shows [Ad 8h Ah 6c] (Hi: Two Pair, Aces and Kings +Q  Lo: None)
+CLS wins Pot (512) with a Straight
+No low hand qualified
+Rake (13.10) Pot (525.10) Players (CLS: 262.55, brokedummy: 262.55)
+** Deck ** [Ad Qc 8h 5d Ah Jd 6c Th Qs 9c Kc Ks 8s]
+
+Hand #125945-21 - 2017-07-03 01:57:55
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (1216.58)
+Seat 3: brokedummy (180.07)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy calls 5
+CLS raises to 30
+brokedummy calls 20
+** Flop ** [5d 9c 5c]
+CLS checks
+brokedummy bets 58.50
+CLS folds
+brokedummy refunded 58.50
+brokedummy wins Pot (58.50)
+Rake (1.50) Pot (60) Players (CLS: 30, brokedummy: 30)
+** Deck ** [Ks 8s Ad 3c 4s Qs Th Jh 5d 9c 5c]
+
+Hand #125947-22 - 2017-07-03 01:58:47
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (1186.58)
+Seat 3: brokedummy (208.57)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS calls 5
+brokedummy checks
+** Flop ** [7c 8d 9c]
+brokedummy bets 10
+CLS raises to 49.50
+brokedummy folds
+CLS refunded 39.50
+CLS wins Pot (39)
+Rake (1) Pot (40) Players (CLS: 20, brokedummy: 20)
+** Deck ** [4s Jc Ks 4c 3d Js 9h 9s 7c 8d 9c]
+
+Hand #125948-23 - 2017-07-03 01:59:15
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (1205.58)
+Seat 3: brokedummy (188.57)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy raises to 20
+CLS calls 10
+** Flop ** [6d Td 5h]
+CLS bets 39
+brokedummy calls 39
+** Turn ** [Qs]
+CLS bets 115.05
+brokedummy calls 115.05
+** River ** [8d]
+CLS bets 339.40
+brokedummy calls 14.52 (All-in)
+CLS refunded 324.88
+** Pot Show Down ** [6d Td 5h Qs 8d]
+CLS shows [Kh Ts 5s 4d] (Hi: Two Pair, Tens and Fives +Q  Lo: None)
+brokedummy shows [7h 4c 9c Ac] (Hi: a Straight, Six to Ten  Lo: 8654A)
+brokedummy wins Hi Pot (183.87) with a Straight
+brokedummy wins Lo Pot (183.87) with 8654A
+Rake (9.40) Pot (377.14) Players (CLS: 188.57, brokedummy: 188.57)
+** Deck ** [Kh 7h Ts 4c 5s 9c 4d Ac 6d Td 5h Qs 8d]
+
+Hand #125951-24 - 2017-07-03 02:00:44
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (1017.01)
+Seat 3: brokedummy (367.74)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS raises to 30
+brokedummy calls 20
+** Flop ** [7h 7s Qc]
+brokedummy checks
+CLS bets 58.50
+brokedummy folds
+CLS refunded 58.50
+CLS wins Pot (58.50)
+Rake (1.50) Pot (60) Players (CLS: 30, brokedummy: 30)
+** Deck ** [Td As 8s 7c Js Jh 5c 6s 7h 7s Qc]
+
+Hand #125955-25 - 2017-07-03 02:01:48
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (1045.51)
+Seat 3: brokedummy (337.74)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy raises to 20
+CLS calls 10
+** Flop ** [Ac 9d 5d]
+CLS checks
+brokedummy bets 39
+CLS calls 39
+** Turn ** [Kh]
+CLS checks
+brokedummy checks
+** River ** [Tc]
+CLS checks
+brokedummy checks
+** Pot Show Down ** [Ac 9d 5d Kh Tc]
+CLS shows [8c Ts 7h 3h] (Hi: a Pair of Tens +AK8  Lo: None)
+brokedummy shows [8s Td Qd Ks] (Hi: Two Pair, Kings and Tens +A  Lo: None)
+brokedummy wins Pot (115.05) with Two Pair
+No low hand qualified
+Rake (2.95) Pot (118) Players (CLS: 59, brokedummy: 59)
+** Deck ** [8c 8s Ts Td 7h Qd 3h Ks Ac 9d 5d Kh Tc]
+
+Hand #125957-26 - 2017-07-03 02:02:51
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (986.51)
+Seat 3: brokedummy (393.79)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS raises to 30
+brokedummy calls 20
+** Flop ** [4d 4c 4h]
+brokedummy checks
+CLS bets 58.50
+brokedummy calls 58.50
+** Turn ** [9h]
+brokedummy checks
+CLS bets 172.60
+brokedummy raises to 305.29 (All-in)
+CLS calls 132.69
+** River ** [7s]
+** Pot Show Down ** [4d 4c 4h 9h 7s]
+CLS shows [6h 9s Ks Ac] (Hi: Three of a Kind, Fours +AK  Lo: None)
+brokedummy shows [Ah 2s Jh Kd] (Hi: Three of a Kind, Fours +AK  Lo: None)
+CLS splits Pot (383.96) with Three of a Kind
+brokedummy splits Pot (383.97) with Three of a Kind
+No low hand qualified
+Rake (19.65) Pot (787.58) Players (CLS: 393.79, brokedummy: 393.79)
+** Deck ** [Ah 6h 2s 9s Jh Ks Kd Ac 4d 4c 4h 9h 7s]
+
+Hand #125960-27 - 2017-07-03 02:04:09
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (976.68)
+Seat 3: brokedummy (383.97)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy raises to 30
+CLS calls 20
+** Flop ** [Qd Ac 8s]
+CLS checks
+brokedummy bets 58.50
+CLS folds
+brokedummy refunded 58.50
+brokedummy wins Pot (58.50)
+Rake (1.50) Pot (60) Players (CLS: 30, brokedummy: 30)
+** Deck ** [2d 8c Td Kd 5d Kc 2c 3c Qd Ac 8s]
+
+Hand #125963-28 - 2017-07-03 02:04:57
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (946.68)
+Seat 3: brokedummy (412.47)
+CLS has the dealer button
+CLS posts small blind 5
+brokedummy posts big blind 10
+** Hole Cards ** [2 players]
+CLS calls 5
+brokedummy checks
+** Flop ** [8c Ah 6h]
+brokedummy bets 10
+CLS calls 10
+** Turn ** [2h]
+brokedummy bets 39
+CLS folds
+brokedummy refunded 39
+brokedummy wins Pot (39)
+Rake (1) Pot (40) Players (CLS: 20, brokedummy: 20)
+** Deck ** [7h 9d 7c 5s Jd 4h Kh 6d 8c Ah 6h 2h]
+
+Hand #125966-29 - 2017-07-03 02:05:50
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: CLS (926.68)
+Seat 3: brokedummy (431.47)
+brokedummy has the dealer button
+brokedummy posts small blind 5
+CLS posts big blind 10
+** Hole Cards ** [2 players]
+brokedummy raises to 30
+CLS raises to 90
+brokedummy calls 60
+** Flop ** [Ks Qs As]
+CLS checks
+brokedummy checks
+** Turn ** [Ah]
+CLS bets 175.50
+brokedummy calls 175.50
+** River ** [3d]
+CLS bets 517.75
+brokedummy calls 165.97 (All-in)
+CLS refunded 351.78
+** Pot Show Down ** [Ks Qs As Ah 3d]
+CLS shows [Kh Jd 4s Ac] (Hi: a Full House, Aces full of Kings  Lo: None)
+brokedummy shows [8d Ad Qc Qd] (Hi: a Full House, Aces full of Queens  Lo: None)
+CLS wins Pot (841.39) with a Full House
+No low hand qualified
+Rake (21.55) Pot (862.94) Players (CLS: 431.47, brokedummy: 431.47)
+** Deck ** [Kh 8d Jd Ad 4s Qc Ac Qd Ks Qs As Ah 3d]
+
+Hand #126982-1 - 2017-07-03 19:47:30
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: thedok (500)
+Seat 5: Prince (500)
+Prince has the dealer button
+Prince posts small blind 5
+thedok posts big blind 10
+** Hole Cards ** [2 players]
+Prince raises to 20
+thedok calls 10
+** Flop ** [7c 5h Qc]
+thedok checks
+Prince checks
+** Turn ** [Th]
+thedok checks
+Prince bets 19.50
+thedok calls 19.50
+** River ** [Ah]
+thedok bets 77.05
+Prince calls 77.05
+** Pot Show Down ** [7c 5h Qc Th Ah]
+thedok shows [4d 4s Tc Jd] (Hi: a Pair of Tens +AQJ  Lo: None)
+Prince shows [Ts 7h 8d 3s] (Hi: Two Pair, Tens and Sevens +A  Lo: 8753A)
+Prince wins Hi Pot (113.65) with Two Pair
+Prince wins Lo Pot (113.65) with 8753A
+Rake (5.80) Pot (233.10) Players (thedok: 116.55, Prince: 116.55)
+** Deck ** [4d Ts 4s 7h Tc 8d Jd 3s 7c 5h Qc Th Ah]
+
+Hand #126983-2 - 2017-07-03 19:48:28
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: thedok (383.45)
+Seat 5: Prince (610.75)
+thedok has the dealer button
+thedok posts small blind 5
+Prince posts big blind 10
+** Hole Cards ** [2 players]
+thedok calls 5
+Prince checks
+** Flop ** [Qd 2d 3c]
+Prince checks
+thedok checks
+** Turn ** [5h]
+Prince bets 10
+thedok calls 10
+** River ** [Ks]
+Prince bets 39
+thedok folds
+Prince refunded 39
+Prince wins Pot (39)
+Rake (1) Pot (40) Players (thedok: 20, Prince: 20)
+** Deck ** [8c Jd 8d 5d Ad 7h 4c 7c Qd 2d 3c 5h Ks]
+
+Hand #126984-3 - 2017-07-03 19:49:01
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: thedok (363.45)
+Seat 5: Prince (629.75)
+Prince has the dealer button
+Prince posts small blind 5
+thedok posts big blind 10
+** Hole Cards ** [2 players]
+Prince raises to 20
+thedok folds
+Prince refunded 10
+Prince wins Pot (20)
+Rake (0) Pot (20) Players (thedok: 10, Prince: 10)
+** Deck ** [6s 5s Jd Js 3s 6d 8c 8h]
+
+Hand #126985-4 - 2017-07-03 19:49:14
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: thedok (353.45)
+Seat 5: Prince (639.75)
+thedok has the dealer button
+thedok posts small blind 5
+Prince posts big blind 10
+** Hole Cards ** [2 players]
+thedok calls 5
+Prince checks
+** Flop ** [7h 2s Kd]
+Prince checks
+thedok checks
+** Turn ** [Ah]
+Prince bets 13
+thedok calls 13
+** River ** [5h]
+Prince bets 29.90
+thedok calls 29.90
+** Pot Show Down ** [7h 2s Kd Ah 5h]
+thedok shows [5c 2d 6h 7c] (Hi: Two Pair, Sevens and Fives +A  Lo: 7652A)
+Prince shows [8s Qs Kc 7d] (Hi: Two Pair, Kings and Sevens +A  Lo: 8752A)
+Prince wins Hi Pot (51.60) with Two Pair
+thedok wins Lo Pot (51.60) with 7652A
+Rake (2.60) Pot (105.80) Players (thedok: 52.90, Prince: 52.90)
+** Deck ** [8s 5c Qs 2d Kc 6h 7d 7c 7h 2s Kd Ah 5h]
+
+Hand #126986-5 - 2017-07-03 19:49:59
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: thedok (352.15)
+Seat 5: Prince (638.45)
+Prince has the dealer button
+Prince posts small blind 5
+thedok posts big blind 10
+** Hole Cards ** [2 players]
+Prince raises to 20
+thedok calls 10
+** Flop ** [Th 2h Kh]
+thedok checks
+Prince checks
+** Turn ** [2c]
+thedok bets 10
+Prince calls 10
+** River ** [4d]
+thedok checks
+Prince bets 58.50
+thedok calls 58.50
+** Pot Show Down ** [Th 2h Kh 2c 4d]
+thedok shows [3s 9c 9d Ts] (Hi: Two Pair, Tens and Deuces +9  Lo: None)
+Prince shows [Qd 7s 2s 4h] (Hi: a Full House, Deuces full of Fours  Lo: None)
+Prince wins Pot (172.60) with a Full House
+No low hand qualified
+Rake (4.40) Pot (177) Players (thedok: 88.50, Prince: 88.50)
+** Deck ** [3s Qd 9c 7s 9d 2s Ts 4h Th 2h Kh 2c 4d]
+
+Hand #126987-6 - 2017-07-03 19:50:50
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: thedok (263.65)
+Seat 5: Prince (722.55)
+thedok has the dealer button
+thedok posts small blind 5
+Prince posts big blind 10
+** Hole Cards ** [2 players]
+thedok: "luck ran out"
+thedok calls 5
+Prince checks
+** Flop ** [9s Qd 6h]
+Prince: "yeah lol"
+Prince checks
+thedok checks
+** Turn ** [Qc]
+Prince bets 10
+thedok calls 10
+** River ** [6d]
+Prince bets 39
+thedok raises to 156
+Prince folds
+thedok refunded 117
+thedok wins Pot (115.05)
+Rake (2.95) Pot (118) Players (thedok: 59, Prince: 59)
+** Deck ** [5c Qh 5h Td 3s 8c Th 8s 9s Qd 6h Qc 6d]
+
+Hand #126988-7 - 2017-07-03 19:51:44
+Game: PL Omaha Hi-Lo (500 - 1000) - Blinds 5/10
+Site: MegaTilt Club
+Table: PLO8 03A
+Seat 2: thedok (319.70)
+Seat 5: Prince (663.55)
+Prince has the dealer button
+Prince posts small blind 5
+thedok posts big blind 10
+** Hole Cards ** [2 players]
+Prince raises to 20
+thedok calls 10
+** Flop ** [6c 7d 9c]
+thedok checks
+Prince bets 26
+thedok calls 26
+** Turn ** [Th]
+thedok checks
+Prince checks
+** River ** [Kh]
+thedok bets 89.70
+Prince raises to 358.80
+thedok calls 184 (All-in)
+Prince refunded 85.10
+** Pot Show Down ** [6c 7d 9c Th Kh]
+thedok shows [4d Ac 8h Ad] (Hi: a Pair of Aces +KT9  Lo: None)
+Prince shows [Kc 7c 8c 4c] (Hi: a Straight, Six to Ten  Lo: None)
+Prince wins Pot (623.45) with a Straight
+No low hand qualified
+Rake (15.95) Pot (639.40) Players (thedok: 319.70, Prince: 319.70)
+** Deck ** [4d Kc Ac 7c 8h 8c Ad 4c 6c 7d 9c Th Kh]
+
+thedok: "c ya"
+thedok: "lol"
+Prince: "gg"
+thedok: "na"
