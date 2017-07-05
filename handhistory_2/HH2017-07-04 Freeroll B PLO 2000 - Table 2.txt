@@ -1,0 +1,104 @@
+﻿Starting tournament 2343
+
+Hand #127714-1 - 2017-07-04 16:00:38
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: rodmouvi (1500)
+Seat 3: ROBERTO (1500) - sitting out
+Seat 5: bspus (1500)
+Seat 6: scambust (1500)
+rodmouvi has the dealer button
+ROBERTO posts small blind 25
+bspus posts big blind 50
+** Hole Cards ** [4 players]
+scambust calls 50
+rodmouvi folds
+ROBERTO folds
+bspus checks
+** Flop ** [Qd 9d 6s]
+bspus bets 50
+scambust calls 50
+** Turn ** [9s]
+bspus bets 50
+scambust calls 50
+** River ** [7c]
+bspus bets 325
+scambust calls 325
+** Pot Show Down ** [Qd 9d 6s 9s 7c]
+bspus shows [8s 5c 7d Qh] (a Straight, Five to Nine)
+scambust shows [3c Ac 6d 7s] (Two Pair, Nines and Sevens +A)
+bspus wins Pot (975) with a Straight
+** Deck ** [2s 8s 3c 6c 2d 5c Ac 5h Ad 7d 6d 4s 5d Qh 7s Ts Qd 9d 6s 9s 7c]
+
+Hand #127716-2 - 2017-07-04 16:01:39
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: rodmouvi (1500)
+Seat 3: ROBERTO (1475) - sitting out
+Seat 5: bspus (2000)
+Seat 6: scambust (1025)
+ROBERTO has the dealer button
+bspus posts small blind 25
+scambust posts big blind 50
+** Hole Cards ** [4 players]
+rodmouvi calls 50
+ROBERTO folds
+bspus calls 25
+scambust checks
+** Flop ** [4h 8h Ad]
+bspus checks
+scambust checks
+rodmouvi checks
+** Turn ** [9d]
+bspus checks
+scambust checks
+rodmouvi checks
+** River ** [5s]
+bspus checks
+scambust checks
+rodmouvi checks
+** Pot Show Down ** [4h 8h Ad 9d 5s]
+rodmouvi shows [6d 8s 9s Qs] (Two Pair, Nines and Eights +A)
+bspus shows [Ts 5h Ks 3h] (a Pair of Fives +AK9)
+scambust shows [2d Td 4c Qc] (a Pair of Fours +AQ9)
+rodmouvi wins Pot (150) with Two Pair
+** Deck ** [Ts 2d 6d 2c 5h Td 8s 7d Ks 4c 9s Js 3h Qc Qs 5c 4h 8h Ad 9d 5s]
+
+Hand #127719-3 - 2017-07-04 16:04:26
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: rodmouvi (1600)
+Seat 3: ROBERTO (1475) - sitting out
+Seat 5: bspus (1950)
+Seat 6: scambust (975)
+bspus has the dealer button
+scambust posts small blind 50
+rodmouvi posts big blind 100
+** Hole Cards ** [4 players]
+ROBERTO folds
+bspus calls 100
+scambust calls 50
+rodmouvi checks
+** Flop ** [Qc 6c Th]
+scambust checks
+rodmouvi checks
+bspus checks
+** Turn ** [Ad]
+scambust folds
+rodmouvi checks
+bspus bets 300
+rodmouvi folds
+bspus refunded 300
+bspus wins Pot (300)
+Absent player ROBERTO removed from tournament
+** Deck ** [Ks 8d 9h Ah 7s 3s 7d 5d 9s 3d Qd Ac 4c Kh 5s 6s Qc 6c Th Ad]
+
+bspus moved to Table 1
+
+scambust moved to Table 1
+
+rodmouvi moved to Table 1
+

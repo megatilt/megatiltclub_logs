@@ -1,0 +1,3602 @@
+﻿Starting tournament 2330
+
+Hand #127361-1 - 2017-07-04 03:00:39
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (1500)
+Seat 4: betong (1500)
+Seat 6: ROBERTO (1500)
+diamond has the dealer button
+betong posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [3 players]
+diamond folds
+betong calls 25
+ROBERTO checks
+** Flop ** [Tc 9c Kd]
+betong bets 1450 (All-in)
+ROBERTO folds
+betong refunded 1450
+betong wins Pot (100)
+** Deck ** [5c Ks 5d 9h 3d 6h Tc 9c Kd]
+
+Hand #127363-2 - 2017-07-04 03:01:17
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (1500)
+Seat 4: betong (1550)
+Seat 6: ROBERTO (1450)
+betong has the dealer button
+ROBERTO posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [3 players]
+betong folds
+ROBERTO calls 25
+diamond checks
+** Flop ** [6h 6c 4h]
+ROBERTO checks
+diamond checks
+** Turn ** [Tc]
+ROBERTO checks
+diamond checks
+** River ** [As]
+ROBERTO bets 50
+diamond calls 50
+** Pot Show Down ** [6h 6c 4h Tc As]
+diamond shows [Ts 2h] (Two Pair, Tens and Sixes +A)
+ROBERTO shows [Ac Qc] (Two Pair, Aces and Sixes +Q)
+ROBERTO wins Pot (200) with Two Pair
+** Deck ** [Ac Ts 8d Qc 2h 3d 6h 6c 4h Tc As]
+
+Hand #127365-3 - 2017-07-04 03:02:06
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (1400)
+Seat 4: betong (1550)
+Seat 6: ROBERTO (1550)
+ROBERTO has the dealer button
+diamond posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [3 players]
+ROBERTO folds
+diamond folds
+betong refunded 25
+betong wins Pot (50)
+** Deck ** [3h 3c Th Td Qc 7s]
+
+Hand #127366-4 - 2017-07-04 03:02:17
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (1375)
+Seat 4: betong (1575)
+Seat 6: ROBERTO (1550)
+diamond has the dealer button
+betong posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [3 players]
+diamond folds
+betong calls 25
+ROBERTO checks
+** Flop ** [Jc Qs Tc]
+betong checks
+ROBERTO checks
+** Turn ** [4h]
+betong checks
+ROBERTO bets 50
+betong calls 50
+** River ** [2h]
+betong checks
+ROBERTO checks
+** Pot Show Down ** [Jc Qs Tc 4h 2h]
+betong shows [7d 9s] (High Card Queen +JT97)
+ROBERTO shows [3h Qc] (a Pair of Queens +JT4)
+ROBERTO wins Pot (200) with a Pair
+** Deck ** [7d 3h 9c 9s Qc 6h Jc Qs Tc 4h 2h]
+
+Hand #127367-5 - 2017-07-04 03:03:57
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (1375)
+Seat 4: betong (1475)
+Seat 6: ROBERTO (1650)
+betong has the dealer button
+ROBERTO posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [3 players]
+betong folds
+ROBERTO folds
+diamond refunded 50
+diamond wins Pot (100)
+** Deck ** [7d 5d 3d 2d Jd 9h]
+
+Hand #127368-6 - 2017-07-04 03:04:10
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (1425)
+Seat 4: betong (1475)
+Seat 6: ROBERTO (1600)
+ROBERTO has the dealer button
+diamond posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [3 players]
+ROBERTO folds
+diamond calls 50
+betong raises to 1475 (All-in)
+diamond calls 1325 (All-in)
+betong refunded 50
+** Flop ** [Kc Qh 2c]
+** Turn ** [5s]
+** River ** [4s]
+** Pot Show Down ** [Kc Qh 2c 5s 4s]
+diamond shows [Jc Js] (a Pair of Jacks +KQ5)
+betong shows [As Th] (High Card Ace +KQT5)
+diamond wins Pot (2850) with a Pair
+** Deck ** [Jc As 4d Js Th 3s Kc Qh 2c 5s 4s]
+
+Hand #127369-7 - 2017-07-04 03:04:42
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (2850)
+Seat 4: betong (50)
+Seat 6: ROBERTO (1600)
+diamond has the dealer button
+betong posts small blind 50 (All-in)
+ROBERTO posts big blind 100
+** Hole Cards ** [3 players]
+diamond calls 100
+ROBERTO checks
+** Flop ** [4d 3c 6c]
+ROBERTO checks
+diamond checks
+** Turn ** [5s]
+ROBERTO checks
+diamond checks
+** River ** [2d]
+ROBERTO checks
+diamond checks
+** Side Pot 1 Show Down ** [4d 3c 6c 5s 2d]
+diamond shows [Ad Ah] (a Straight, Deuce to Six)
+ROBERTO shows [9h Qd] (a Straight, Deuce to Six)
+diamond splits Side Pot 1 (50) with a Straight
+ROBERTO splits Side Pot 1 (50) with a Straight
+** Main Pot Show Down ** [4d 3c 6c 5s 2d]
+betong shows [5h 4h] (a Straight, Deuce to Six)
+diamond splits Main Pot (50) with a Straight
+betong splits Main Pot (50) with a Straight
+ROBERTO splits Main Pot (50) with a Straight
+** Deck ** [5h 9h Ad 4h Qd Ah 4d 3c 6c 5s 2d]
+
+Hand #127370-8 - 2017-07-04 03:05:19
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (2850)
+Seat 4: betong (50)
+Seat 6: ROBERTO (1600)
+betong has the dealer button
+ROBERTO posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [3 players]
+betong calls 50 (All-in)
+ROBERTO calls 50
+diamond checks
+** Flop ** [2d 7s 7h]
+ROBERTO checks
+diamond checks
+** Turn ** [5d]
+ROBERTO checks
+diamond checks
+** River ** [9d]
+ROBERTO checks
+diamond bets 100
+ROBERTO folds
+diamond refunded 100
+diamond wins Side Pot 1 (100)
+** Main Pot Show Down ** [2d 7s 7h 5d 9d]
+diamond shows [5h 9s] (Two Pair, Nines and Sevens +5)
+betong shows [4c 5c] (Two Pair, Sevens and Fives +9)
+diamond wins Main Pot (150) with Two Pair
+betong finishes tournament in place #3
+** Deck ** [Kc 5h 4c Jh 9s 5c 2d 7s 7h 5d 9d]
+
+Hand #127371-9 - 2017-07-04 03:05:59
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (3000)
+Seat 6: ROBERTO (1500)
+ROBERTO has the dealer button
+ROBERTO posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [2 players]
+ROBERTO folds
+diamond refunded 50
+diamond wins Pot (100)
+** Deck ** [6d 4h 6h 2h]
+
+Hand #127372-10 - 2017-07-04 03:06:09
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (3050)
+Seat 6: ROBERTO (1450)
+diamond has the dealer button
+diamond posts small blind 50
+ROBERTO posts big blind 100
+** Hole Cards ** [2 players]
+diamond folds
+ROBERTO refunded 50
+ROBERTO wins Pot (100)
+** Deck ** [7d 2h Ad 8c]
+
+Hand #127373-11 - 2017-07-04 03:06:20
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (3000)
+Seat 6: ROBERTO (1500)
+ROBERTO has the dealer button
+ROBERTO posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [2 players]
+ROBERTO calls 50
+diamond checks
+** Flop ** [8s 8h 7c]
+diamond checks
+ROBERTO checks
+** Turn ** [Jd]
+diamond checks
+ROBERTO checks
+** River ** [3d]
+diamond checks
+ROBERTO checks
+** Pot Show Down ** [8s 8h 7c Jd 3d]
+diamond shows [9s 6h] (a Pair of Eights +J97)
+ROBERTO shows [Qc Tc] (a Pair of Eights +QJT)
+ROBERTO wins Pot (200) with a Pair
+** Deck ** [9s Qc 6h Tc 8s 8h 7c Jd 3d]
+
+Hand #127374-12 - 2017-07-04 03:06:55
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (2900)
+Seat 6: ROBERTO (1600)
+diamond has the dealer button
+diamond posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [2 players]
+diamond raises to 2900 (All-in)
+ROBERTO folds
+diamond refunded 2750
+diamond wins Pot (300)
+** Deck ** [2h 7s Qh Qd]
+
+Hand #127375-13 - 2017-07-04 03:07:09
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (3050)
+Seat 6: ROBERTO (1450)
+ROBERTO has the dealer button
+ROBERTO posts small blind 75
+diamond posts big blind 150
+** Hole Cards ** [2 players]
+ROBERTO raises to 300
+diamond folds
+ROBERTO refunded 150
+ROBERTO wins Pot (300)
+** Deck ** [9c Ts 3c Kc]
+
+Hand #127376-14 - 2017-07-04 03:07:32
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (2900)
+Seat 6: ROBERTO (1600)
+diamond has the dealer button
+diamond posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [2 players]
+diamond raises to 2900 (All-in)
+ROBERTO folds
+diamond refunded 2750
+diamond wins Pot (300)
+** Deck ** [3s Kd 2h 4d]
+
+Hand #127377-15 - 2017-07-04 03:07:58
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: diamond (3050)
+Seat 6: ROBERTO (1450)
+ROBERTO has the dealer button
+ROBERTO posts small blind 75
+diamond posts big blind 150
+** Hole Cards ** [2 players]
+ROBERTO calls 75
+diamond checks
+** Flop ** [3s Ts 6c]
+diamond checks
+ROBERTO checks
+** Turn ** [Qd]
+diamond checks
+ROBERTO checks
+** River ** [Kc]
+diamond bets 2900 (All-in)
+ROBERTO calls 1300 (All-in)
+diamond refunded 1600
+** Pot Show Down ** [3s Ts 6c Qd Kc]
+diamond shows [Jc 9s] (a Straight, Nine to King)
+ROBERTO shows [8s Kd] (a Pair of Kings +QT8)
+diamond wins Pot (2900) with a Straight
+ROBERTO finishes tournament in place #2 and wins 800 chips
+diamond finishes tournament in place #1 and wins 1200 chips
+** Deck ** [Jc 8s 9s Kd 3s Ts 6c Qd Kc]
+
+Starting tournament 2334
+
+Hand #127444-1 - 2017-07-04 07:00:38
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 2: diamond (1500)
+Seat 3: scambust (1500) - sitting out
+Seat 4: betong (1500)
+diamond has the dealer button
+scambust posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [3 players]
+diamond folds
+scambust folds
+betong refunded 25
+betong wins Pot (50)
+** Deck ** [4s 9c 6s 9h Jh As]
+
+Hand #127445-2 - 2017-07-04 07:00:49
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 2: diamond (1500)
+Seat 3: scambust (1475) - sitting out
+Seat 4: betong (1525)
+scambust has the dealer button
+betong posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [3 players]
+scambust folds
+betong calls 25
+diamond checks
+** Flop ** [9s Td Kd]
+betong checks
+diamond checks
+** Turn ** [Qd]
+betong checks
+diamond checks
+** River ** [7s]
+betong checks
+diamond checks
+** Pot Show Down ** [9s Td Kd Qd 7s]
+diamond shows [Ac 4d] (High Card Ace +KQT9)
+betong shows [6s 9c] (a Pair of Nines +KQT)
+betong wins Pot (100) with a Pair
+** Deck ** [6s Ac Js 9c 4d 4h 9s Td Kd Qd 7s]
+
+Hand #127446-3 - 2017-07-04 07:01:17
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 2: diamond (1450)
+Seat 3: scambust (1475) - sitting out
+Seat 4: betong (1575)
+betong has the dealer button
+diamond posts small blind 25
+scambust posts big blind 50
+** Hole Cards ** [3 players]
+betong raises to 175
+diamond folds
+scambust folds
+betong refunded 125
+betong wins Pot (125)
+** Deck ** [9s Jd Tc 3c 9d Ts]
+
+Hand #127447-4 - 2017-07-04 07:01:35
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 2: diamond (1425)
+Seat 3: scambust (1425) - sitting out
+Seat 4: betong (1650)
+diamond has the dealer button
+scambust posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [3 players]
+diamond folds
+scambust folds
+betong refunded 25
+betong wins Pot (50)
+** Deck ** [7d Td Jc As Kh 9s]
+
+Hand #127448-5 - 2017-07-04 07:01:45
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 2: diamond (1425)
+Seat 3: scambust (1400) - sitting out
+Seat 4: betong (1675)
+scambust has the dealer button
+betong posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [3 players]
+scambust folds
+betong calls 25
+diamond checks
+** Flop ** [6h Ts 6d]
+betong checks
+diamond checks
+** Turn ** [Tc]
+betong checks
+diamond checks
+** River ** [9d]
+betong checks
+diamond checks
+** Pot Show Down ** [6h Ts 6d Tc 9d]
+diamond shows [4h Ac] (Two Pair, Tens and Sixes +A)
+betong shows [8s Jd] (Two Pair, Tens and Sixes +J)
+diamond wins Pot (100) with Two Pair
+** Deck ** [8s 4h 8c Jd Ac 5h 6h Ts 6d Tc 9d]
+
+Hand #127449-6 - 2017-07-04 07:02:17
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 2: diamond (1475)
+Seat 3: scambust (1400)
+Seat 4: betong (1625)
+betong has the dealer button
+diamond posts small blind 25
+scambust posts big blind 50
+** Hole Cards ** [3 players]
+betong folds
+diamond folds
+scambust refunded 25
+scambust wins Pot (50)
+** Deck ** [7h Jd 6c 2d 2c Qd]
+
+Hand #127450-7 - 2017-07-04 07:02:28
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 2: diamond (1450)
+Seat 3: scambust (1425)
+Seat 4: betong (1625)
+diamond has the dealer button
+scambust posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [3 players]
+diamond folds
+scambust folds
+betong refunded 25
+betong wins Pot (50)
+** Deck ** [Td 7c Jh 4s 5d Kc]
+
+Hand #127451-8 - 2017-07-04 07:02:44
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 2: diamond (1450)
+Seat 3: scambust (1400)
+Seat 4: betong (1650)
+scambust has the dealer button
+betong posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [3 players]
+scambust calls 50
+betong calls 25
+diamond checks
+** Flop ** [5c 8c 7c]
+betong checks
+diamond checks
+scambust bets 1350 (All-in)
+betong folds
+diamond folds
+scambust refunded 1350
+scambust wins Pot (150)
+** Deck ** [8d 2d Ks Jh 2s 8s 5c 8c 7c]
+
+Hand #127452-9 - 2017-07-04 07:03:19
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 2: diamond (1400)
+Seat 3: scambust (1500)
+Seat 4: betong (1600)
+betong has the dealer button
+diamond posts small blind 25
+scambust posts big blind 50
+** Hole Cards ** [3 players]
+betong folds
+diamond folds
+scambust refunded 25
+scambust wins Pot (50)
+** Deck ** [8c 2c 6h 7d 3c 5s]
+
+Hand #127453-10 - 2017-07-04 07:03:34
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 2: diamond (1375)
+Seat 3: scambust (1525)
+Seat 4: betong (1600)
+diamond has the dealer button
+scambust posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [3 players]
+diamond raises to 1375 (All-in)
+scambust raises to 1525 (All-in)
+betong folds
+scambust refunded 150
+** Flop ** [3d 9c 7s]
+** Turn ** [Ac]
+** River ** [9s]
+** Pot Show Down ** [3d 9c 7s Ac 9s]
+diamond shows [Td Qd] (a Pair of Nines +AQT)
+scambust shows [Kc Ks] (Two Pair, Kings and Nines +A)
+scambust wins Pot (2800) with Two Pair
+diamond finishes tournament in place #3
+** Deck ** [Kc Js Td Ks 4s Qd 3d 9c 7s Ac 9s]
+
+Hand #127454-11 - 2017-07-04 07:04:00
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: scambust (2950)
+Seat 4: betong (1550)
+scambust has the dealer button
+scambust posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [2 players]
+scambust raises to 200
+betong raises to 1550 (All-in)
+scambust folds
+betong refunded 1350
+betong wins Pot (400)
+** Deck ** [Qh Js 8h 7d]
+
+Hand #127455-12 - 2017-07-04 07:04:18
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: scambust (2750)
+Seat 4: betong (1750)
+betong has the dealer button
+betong posts small blind 50
+scambust posts big blind 100
+** Hole Cards ** [2 players]
+betong raises to 1750 (All-in)
+scambust folds
+betong refunded 1650
+betong wins Pot (200)
+** Deck ** [4c Qd 8h Ts]
+
+Hand #127456-13 - 2017-07-04 07:04:30
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: scambust (2650)
+Seat 4: betong (1850)
+scambust has the dealer button
+scambust posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [2 players]
+scambust folds
+betong refunded 50
+betong wins Pot (100)
+** Deck ** [Td Tc 2d 7s]
+
+Hand #127457-14 - 2017-07-04 07:04:43
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: scambust (2600)
+Seat 4: betong (1900)
+betong has the dealer button
+betong posts small blind 50
+scambust posts big blind 100
+** Hole Cards ** [2 players]
+betong raises to 1900 (All-in)
+scambust folds
+betong refunded 1800
+betong wins Pot (200)
+** Deck ** [Kc Kh 4s 9s]
+
+Hand #127458-15 - 2017-07-04 07:04:57
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: scambust (2500)
+Seat 4: betong (2000)
+scambust has the dealer button
+scambust posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [2 players]
+scambust calls 50
+betong raises to 2000 (All-in)
+scambust folds
+betong refunded 1900
+betong wins Pot (200)
+** Deck ** [5d 6d Qd 9d]
+
+Hand #127459-16 - 2017-07-04 07:05:15
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: scambust (2400)
+Seat 4: betong (2100)
+betong has the dealer button
+betong posts small blind 50
+scambust posts big blind 100
+** Hole Cards ** [2 players]
+betong raises to 2100 (All-in)
+scambust folds
+betong refunded 2000
+betong wins Pot (200)
+** Deck ** [2h 2d 9d 3d]
+
+Hand #127460-17 - 2017-07-04 07:05:31
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: scambust (2300)
+Seat 4: betong (2200)
+scambust has the dealer button
+scambust posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [2 players]
+scambust folds
+betong refunded 50
+betong wins Pot (100)
+** Deck ** [8s 3d 8d 5s]
+
+Hand #127461-18 - 2017-07-04 07:05:42
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: scambust (2250)
+Seat 4: betong (2250)
+betong has the dealer button
+betong posts small blind 50
+scambust posts big blind 100
+** Hole Cards ** [2 players]
+betong raises to 2250 (All-in)
+scambust calls 2150 (All-in)
+** Flop ** [Th Qs Kd]
+** Turn ** [Tc]
+** River ** [7d]
+** Pot Show Down ** [Th Qs Kd Tc 7d]
+scambust shows [8h Ad] (a Pair of Tens +AKQ)
+betong shows [2c 9s] (a Pair of Tens +KQ9)
+scambust wins Pot (4500) with a Pair
+betong finishes tournament in place #2 and wins 800 chips
+scambust finishes tournament in place #1 and wins 1200 chips
+** Deck ** [8h 2c Ad 9s Th Qs Kd Tc 7d]
+
+Starting tournament 2338
+
+Hand #127526-1 - 2017-07-04 11:00:38
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (1500) - sitting out
+Seat 4: brokedummy (1500)
+Seat 6: tuan (1500)
+thedok has the dealer button
+brokedummy posts small blind 25
+tuan posts big blind 50
+** Hole Cards ** [3 players]
+thedok folds
+brokedummy calls 25
+tuan checks
+** Flop ** [7d 6c Kd]
+brokedummy checks
+tuan checks
+** Turn ** [4d]
+brokedummy bets 50
+tuan calls 50
+** River ** [9c]
+brokedummy checks
+tuan bets 50
+brokedummy folds and shows [Ad 5s]
+tuan refunded 50
+tuan wins Pot (200)
+** Deck ** [Ad 4h 2s 5s 9s 6s 7d 6c Kd 4d 9c]
+
+Hand #127527-2 - 2017-07-04 11:01:22
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (1500)
+Seat 4: brokedummy (1400)
+Seat 6: tuan (1600)
+brokedummy has the dealer button
+tuan posts small blind 25
+thedok posts big blind 50
+** Hole Cards ** [3 players]
+brokedummy folds
+tuan raises to 100
+thedok calls 50
+** Flop ** [Ks 6h 8c]
+tuan bets 100
+thedok calls 100
+** Turn ** [Jh]
+tuan bets 266
+thedok calls 266
+** River ** [Ad]
+tuan bets 50
+thedok calls 50
+** Pot Show Down ** [Ks 6h 8c Jh Ad]
+thedok shows [8h Js] (Two Pair, Jacks and Eights +A)
+tuan shows [Qs Kd] (a Pair of Kings +AQJ)
+thedok wins Pot (1032) with Two Pair
+** Deck ** [Qs 8h 5c Kd Js 9d Ks 6h 8c Jh Ad]
+
+Hand #127528-3 - 2017-07-04 11:02:05
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (2016)
+Seat 4: brokedummy (1400)
+Seat 6: tuan (1084)
+tuan has the dealer button
+thedok posts small blind 25
+brokedummy posts big blind 50
+** Hole Cards ** [3 players]
+tuan folds
+thedok calls 25
+brokedummy checks
+** Flop ** [9s 3d 8c]
+thedok checks
+brokedummy checks
+** Turn ** [Ad]
+thedok checks
+brokedummy checks
+** River ** [3h]
+thedok checks
+brokedummy checks
+** Pot Show Down ** [9s 3d 8c Ad 3h]
+thedok shows [Tc Kc] (a Pair of Threes +AKT)
+brokedummy shows [Jh Qs] (a Pair of Threes +AQJ)
+thedok wins Pot (100) with a Pair
+** Deck ** [Tc Jh 2h Kc Qs 8s 9s 3d 8c Ad 3h]
+
+Hand #127529-4 - 2017-07-04 11:02:47
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (2066)
+Seat 4: brokedummy (1350)
+Seat 6: tuan (1084)
+thedok has the dealer button
+brokedummy posts small blind 25
+tuan posts big blind 50
+** Hole Cards ** [3 players]
+thedok calls 50
+brokedummy calls 25
+tuan checks
+** Flop ** [Qd 3c Qc]
+brokedummy checks
+tuan checks
+thedok checks
+** Turn ** [Kh]
+brokedummy checks
+tuan bets 50
+thedok folds
+brokedummy calls 50
+** River ** [Tc]
+brokedummy checks
+tuan bets 100
+brokedummy calls 100
+** Pot Show Down ** [Qd 3c Qc Kh Tc]
+brokedummy shows [Ks 6d] (Two Pair, Kings and Queens +T)
+tuan shows [9c Qs] (Three of a Kind, Queens +KT)
+tuan wins Pot (450) with Three of a Kind
+** Deck ** [Ks 9c 7h 6d Qs 4h Qd 3c Qc Kh Tc]
+
+Hand #127530-5 - 2017-07-04 11:03:47
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (2016)
+Seat 4: brokedummy (1150)
+Seat 6: tuan (1334)
+brokedummy has the dealer button
+tuan posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [3 players]
+brokedummy folds
+tuan calls 50
+thedok checks
+** Flop ** [4s 3c 6d]
+tuan bets 100
+thedok folds
+tuan refunded 100
+tuan wins Pot (200)
+** Deck ** [5h As 2h 4h 9c Kd 4s 3c 6d]
+
+Hand #127531-6 - 2017-07-04 11:04:21
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (1916)
+Seat 4: brokedummy (1150)
+Seat 6: tuan (1434)
+tuan has the dealer button
+thedok posts small blind 50
+brokedummy posts big blind 100
+** Hole Cards ** [3 players]
+tuan raises to 200
+thedok folds
+brokedummy calls 100
+** Flop ** [9c 6h Kd]
+brokedummy checks
+tuan bets 300
+brokedummy folds
+tuan refunded 300
+tuan wins Pot (450)
+** Deck ** [2c 3c Ah Td As Ad 9c 6h Kd]
+
+Hand #127532-7 - 2017-07-04 11:04:51
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (1866)
+Seat 4: brokedummy (950)
+Seat 6: tuan (1684)
+thedok has the dealer button
+brokedummy posts small blind 50
+tuan posts big blind 100
+** Hole Cards ** [3 players]
+thedok calls 100
+brokedummy calls 50
+tuan raises to 500
+thedok folds
+brokedummy folds
+tuan refunded 400
+tuan wins Pot (300)
+** Deck ** [9s Ad 7s 3s Ks 3d]
+
+Hand #127533-8 - 2017-07-04 11:05:50
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (1766)
+Seat 4: brokedummy (850)
+Seat 6: tuan (1884)
+brokedummy has the dealer button
+tuan posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [3 players]
+brokedummy folds
+tuan calls 50
+thedok checks
+** Flop ** [Kh 8c Js]
+tuan checks
+thedok checks
+** Turn ** [6h]
+tuan checks
+thedok checks
+** River ** [2s]
+tuan checks
+thedok bets 1666 (All-in)
+tuan folds
+thedok refunded 1666
+thedok wins Pot (200)
+** Deck ** [5s 6s Qc 4s 6d 7s Kh 8c Js 6h 2s]
+
+Hand #127534-9 - 2017-07-04 11:06:30
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (1866)
+Seat 4: brokedummy (850)
+Seat 6: tuan (1784)
+tuan has the dealer button
+thedok posts small blind 50
+brokedummy posts big blind 100
+** Hole Cards ** [3 players]
+tuan folds
+thedok calls 50
+brokedummy checks
+** Flop ** [Qd Ad 8h]
+thedok checks
+brokedummy bets 200
+thedok folds
+brokedummy refunded 200
+brokedummy wins Pot (200)
+** Deck ** [3h 5c Kh 9d Th 6c Qd Ad 8h]
+
+Hand #127535-10 - 2017-07-04 11:07:01
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (1766)
+Seat 4: brokedummy (950)
+Seat 6: tuan (1784)
+thedok has the dealer button
+brokedummy posts small blind 75
+tuan posts big blind 150
+** Hole Cards ** [3 players]
+thedok calls 150
+brokedummy folds
+tuan checks
+** Flop ** [Jd 7d 6c]
+tuan checks
+thedok checks
+** Turn ** [2d]
+tuan checks
+thedok checks
+** River ** [Qs]
+tuan bets 150
+thedok calls 150
+** Pot Show Down ** [Jd 7d 6c 2d Qs]
+thedok shows [Js 4c] (a Pair of Jacks +Q76)
+tuan shows [Qd Tc] (a Pair of Queens +JT7)
+tuan wins Pot (675) with a Pair
+** Deck ** [4d Qd Js 7c Tc 4c Jd 7d 6c 2d Qs]
+
+Hand #127536-11 - 2017-07-04 11:07:37
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (1466)
+Seat 4: brokedummy (875)
+Seat 6: tuan (2159)
+brokedummy has the dealer button
+tuan posts small blind 75
+thedok posts big blind 150
+** Hole Cards ** [3 players]
+brokedummy folds
+tuan calls 75
+thedok checks
+** Flop ** [6c 9s As]
+tuan bets 150
+thedok calls 150
+** Turn ** [3d]
+tuan checks
+thedok checks
+** River ** [Td]
+tuan bets 300
+thedok calls 300
+** Pot Show Down ** [6c 9s As 3d Td]
+thedok shows [Qc Kd] (High Card Ace +KQT9)
+tuan shows [Ts 6d] (Two Pair, Tens and Sixes +A)
+tuan wins Pot (1200) with Two Pair
+** Deck ** [Ts Qc 2d 6d Kd Kh 6c 9s As 3d Td]
+
+Hand #127537-12 - 2017-07-04 11:08:25
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (866)
+Seat 4: brokedummy (875)
+Seat 6: tuan (2759)
+tuan has the dealer button
+thedok posts small blind 75
+brokedummy posts big blind 150
+** Hole Cards ** [3 players]
+tuan folds
+thedok raises to 866 (All-in)
+brokedummy folds
+thedok refunded 716
+thedok wins Pot (300)
+** Deck ** [As 3c 9h 6d 9s 2c]
+
+Hand #127538-13 - 2017-07-04 11:08:41
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (1016)
+Seat 4: brokedummy (725)
+Seat 6: tuan (2759)
+thedok has the dealer button
+brokedummy posts small blind 75
+tuan posts big blind 150
+** Hole Cards ** [3 players]
+thedok calls 150
+brokedummy calls 75
+tuan checks
+** Flop ** [8s 5h 4h]
+brokedummy bets 575 (All-in)
+tuan folds
+thedok folds
+brokedummy refunded 575
+brokedummy wins Pot (450)
+** Deck ** [Kd 2d 6c 8h Ks Jh 8s 5h 4h]
+
+Hand #127539-14 - 2017-07-04 11:09:28
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (866)
+Seat 4: brokedummy (1025)
+Seat 6: tuan (2609)
+brokedummy has the dealer button
+tuan posts small blind 75
+thedok posts big blind 150
+** Hole Cards ** [3 players]
+brokedummy folds
+tuan calls 75
+thedok checks
+** Flop ** [2h Th Kc]
+tuan checks
+thedok checks
+** Turn ** [9d]
+tuan checks
+thedok checks
+** River ** [Jd]
+tuan bets 150
+thedok folds
+tuan refunded 150
+tuan wins Pot (300)
+** Deck ** [Jc 5s 8d 5h 8h 6d 2h Th Kc 9d Jd]
+
+Hand #127540-15 - 2017-07-04 11:10:06
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: thedok (716)
+Seat 4: brokedummy (1025)
+Seat 6: tuan (2759)
+tuan has the dealer button
+thedok posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [3 players]
+tuan calls 200
+thedok raises to 716 (All-in)
+brokedummy folds
+tuan calls 516
+** Flop ** [5c Qd Ks]
+** Turn ** [6d]
+** River ** [2d]
+** Pot Show Down ** [5c Qd Ks 6d 2d]
+thedok shows [4c 5h] (a Pair of Fives +KQ6)
+tuan shows [Kc 8c] (a Pair of Kings +Q86)
+tuan wins Pot (1632) with a Pair
+thedok finishes tournament in place #3
+** Deck ** [4c 5d Kc 5h 7h 8c 5c Qd Ks 6d 2d]
+
+Hand #127541-16 - 2017-07-04 11:10:32
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 4: brokedummy (825)
+Seat 6: tuan (3675)
+brokedummy has the dealer button
+brokedummy posts small blind 100
+tuan posts big blind 200
+** Hole Cards ** [2 players]
+brokedummy raises to 825 (All-in)
+tuan folds
+brokedummy refunded 625
+brokedummy wins Pot (400)
+** Deck ** [8s Kc Jh 4h]
+
+Hand #127542-17 - 2017-07-04 11:10:47
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 4: brokedummy (1025)
+Seat 6: tuan (3475)
+tuan has the dealer button
+tuan posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+tuan raises to 400
+brokedummy folds
+tuan refunded 200
+tuan wins Pot (400)
+** Deck ** [9c Ac 4d 3s]
+
+Hand #127543-18 - 2017-07-04 11:11:16
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 4: brokedummy (825)
+Seat 6: tuan (3675)
+brokedummy has the dealer button
+brokedummy posts small blind 100
+tuan posts big blind 200
+** Hole Cards ** [2 players]
+brokedummy folds
+tuan refunded 100
+tuan wins Pot (200)
+** Deck ** [6d 3h 8d 6c]
+
+Hand #127544-19 - 2017-07-04 11:11:26
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 4: brokedummy (725)
+Seat 6: tuan (3775)
+tuan has the dealer button
+tuan posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+tuan calls 100
+brokedummy raises to 725 (All-in)
+tuan folds
+brokedummy refunded 525
+brokedummy wins Pot (400)
+** Deck ** [As 4d 4s Ts]
+
+Hand #127545-20 - 2017-07-04 11:11:42
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 4: brokedummy (925)
+Seat 6: tuan (3575)
+brokedummy has the dealer button
+brokedummy posts small blind 100
+tuan posts big blind 200
+** Hole Cards ** [2 players]
+brokedummy raises to 925 (All-in)
+tuan folds
+brokedummy refunded 725
+brokedummy wins Pot (400)
+** Deck ** [5d Kh 8d 2s]
+
+Hand #127546-21 - 2017-07-04 11:11:56
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 4: brokedummy (1125)
+Seat 6: tuan (3375)
+tuan has the dealer button
+tuan posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+tuan raises to 400
+brokedummy raises to 1125 (All-in)
+tuan calls 725
+** Flop ** [2c 5d Kc]
+** Turn ** [Qh]
+** River ** [8d]
+** Pot Show Down ** [2c 5d Kc Qh 8d]
+brokedummy shows [Ad Jc] (High Card Ace +KQJ8)
+tuan shows [Ts Js] (High Card King +QJT8)
+brokedummy wins Pot (2250) with High Card
+** Deck ** [Ad Ts Jc Js 2c 5d Kc Qh 8d]
+
+Hand #127547-22 - 2017-07-04 11:12:20
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 4: brokedummy (2250)
+Seat 6: tuan (2250)
+brokedummy has the dealer button
+brokedummy posts small blind 100
+tuan posts big blind 200
+** Hole Cards ** [2 players]
+brokedummy raises to 400
+tuan raises to 2250 (All-in)
+brokedummy folds
+tuan refunded 1850
+tuan wins Pot (800)
+** Deck ** [3d 9h As Td]
+
+Hand #127548-23 - 2017-07-04 11:12:40
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 4: brokedummy (1850)
+Seat 6: tuan (2650)
+tuan has the dealer button
+brokedummy posts ante 25
+tuan posts ante 25
+tuan posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+tuan raises to 2625 (All-in)
+brokedummy calls 1625 (All-in)
+tuan refunded 800
+** Flop ** [4d Tc 7c]
+** Turn ** [6h]
+** River ** [Qd]
+** Pot Show Down ** [4d Tc 7c 6h Qd]
+brokedummy shows [5h Ac] (High Card Ace +QT76)
+tuan shows [Jc Jh] (a Pair of Jacks +QT7)
+tuan wins Pot (3700) with a Pair
+brokedummy finishes tournament in place #2 and wins 800 chips
+tuan finishes tournament in place #1 and wins 1200 chips
+** Deck ** [5h Jc Ac Jh 4d Tc 7c 6h Qd]
+
+Starting tournament 2342
+
+Hand #127645-1 - 2017-07-04 15:00:38
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1500)
+Seat 2: CoinDoctor (1500)
+Seat 4: Numerous64 (1500)
+Seat 6: Prince (1500) - sitting out
+rodmouvi has the dealer button
+CoinDoctor posts small blind 25
+Numerous64 posts big blind 50
+** Hole Cards ** [4 players]
+Prince folds
+rodmouvi folds
+CoinDoctor folds
+Numerous64 refunded 25
+Numerous64 wins Pot (50)
+** Deck ** [2s 7h 7d 7c 8h Ah Th 2c]
+
+Hand #127647-2 - 2017-07-04 15:01:10
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1500)
+Seat 2: CoinDoctor (1475)
+Seat 4: Numerous64 (1525)
+Seat 6: Prince (1500) - sitting out
+CoinDoctor has the dealer button
+Numerous64 posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [4 players]
+rodmouvi folds
+CoinDoctor folds
+Numerous64 calls 25
+Prince folds
+Numerous64 wins Pot (100)
+** Deck ** [7d 8c 3h 3d Js 3s Kd Jc]
+
+Hand #127648-3 - 2017-07-04 15:01:33
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1500)
+Seat 2: CoinDoctor (1475)
+Seat 4: Numerous64 (1575)
+Seat 6: Prince (1450) - sitting out
+Numerous64 has the dealer button
+Prince posts small blind 25
+rodmouvi posts big blind 50
+** Hole Cards ** [4 players]
+CoinDoctor folds
+Numerous64 calls 50
+Prince folds
+rodmouvi checks
+** Flop ** [Jh 8d Tc]
+rodmouvi checks
+Numerous64 checks
+** Turn ** [Qh]
+rodmouvi checks
+Numerous64 bets 50
+rodmouvi calls 50
+** River ** [2s]
+rodmouvi checks
+Numerous64 bets 100
+rodmouvi folds
+Numerous64 refunded 100
+Numerous64 wins Pot (225)
+** Deck ** [Qs Kh 5c 9c 5d 7c 9s Ac Jh 8d Tc Qh 2s]
+
+Hand #127650-4 - 2017-07-04 15:02:32
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1400)
+Seat 2: CoinDoctor (1475)
+Seat 4: Numerous64 (1700)
+Seat 6: Prince (1425)
+Prince has the dealer button
+rodmouvi posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [4 players]
+Numerous64 folds
+Prince raises to 100
+rodmouvi folds
+CoinDoctor calls 50
+** Flop ** [Ts Kh Ac]
+CoinDoctor bets 50
+Prince folds
+CoinDoctor refunded 50
+CoinDoctor wins Pot (225)
+** Deck ** [8c Ad Td 7c 6s 4h 3d 9c Ts Kh Ac]
+
+Hand #127653-5 - 2017-07-04 15:03:26
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1375)
+Seat 2: CoinDoctor (1600)
+Seat 4: Numerous64 (1700)
+Seat 6: Prince (1325)
+rodmouvi has the dealer button
+CoinDoctor posts small blind 25
+Numerous64 posts big blind 50
+** Hole Cards ** [4 players]
+Prince folds
+rodmouvi calls 50
+CoinDoctor raises to 100
+Numerous64 folds
+rodmouvi calls 50
+** Flop ** [5c Js 3d]
+CoinDoctor checks
+rodmouvi bets 50
+CoinDoctor folds
+rodmouvi refunded 50
+rodmouvi wins Pot (250)
+** Deck ** [Ad 9d 7d As 6s 8d 6d 3c 5c Js 3d]
+
+Hand #127655-6 - 2017-07-04 15:04:19
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1525)
+Seat 2: CoinDoctor (1500)
+Seat 4: Numerous64 (1650)
+Seat 6: Prince (1325)
+CoinDoctor has the dealer button
+Numerous64 posts small blind 50
+Prince posts big blind 100
+** Hole Cards ** [4 players]
+rodmouvi calls 100
+CoinDoctor folds
+Numerous64 folds
+Prince checks
+** Flop ** [Jd 6h 8s]
+Prince checks
+rodmouvi checks
+** Turn ** [4d]
+Prince bets 100
+rodmouvi calls 100
+** River ** [6d]
+Prince bets 100
+rodmouvi folds
+Prince refunded 100
+Prince wins Pot (450)
+** Deck ** [3d Jc Qd 3s 9c Qh Tc 7c Jd 6h 8s 4d 6d]
+
+Hand #127657-7 - 2017-07-04 15:04:56
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1325)
+Seat 2: CoinDoctor (1500)
+Seat 4: Numerous64 (1600)
+Seat 6: Prince (1575)
+Numerous64 has the dealer button
+Prince posts small blind 50
+rodmouvi posts big blind 100
+** Hole Cards ** [4 players]
+CoinDoctor folds
+Numerous64 folds
+Prince raises to 200
+rodmouvi folds
+Prince refunded 100
+Prince wins Pot (200)
+** Deck ** [7d 3c 8c Ts 6d 5d 9s 7h]
+
+Hand #127658-8 - 2017-07-04 15:05:16
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1225)
+Seat 2: CoinDoctor (1500)
+Seat 4: Numerous64 (1600)
+Seat 6: Prince (1675)
+Prince has the dealer button
+rodmouvi posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [4 players]
+Numerous64 calls 100
+Prince folds
+rodmouvi folds
+CoinDoctor checks
+** Flop ** [5h 2c Th]
+CoinDoctor checks
+Numerous64 bets 100
+CoinDoctor folds
+Numerous64 refunded 100
+Numerous64 wins Pot (250)
+** Deck ** [8s Kd 7d 8h 5d 3s Ac Kc 5h 2c Th]
+
+Hand #127660-9 - 2017-07-04 15:06:10
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1175)
+Seat 2: CoinDoctor (1400)
+Seat 4: Numerous64 (1750)
+Seat 6: Prince (1675)
+rodmouvi has the dealer button
+CoinDoctor posts small blind 50
+Numerous64 posts big blind 100
+** Hole Cards ** [4 players]
+Prince folds
+rodmouvi folds
+CoinDoctor folds
+Numerous64 refunded 50
+Numerous64 wins Pot (100)
+** Deck ** [2d 2c Jh 3s Qc 6h 8c 9s]
+
+Hand #127661-10 - 2017-07-04 15:06:31
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1175)
+Seat 2: CoinDoctor (1350)
+Seat 4: Numerous64 (1800)
+Seat 6: Prince (1675)
+CoinDoctor has the dealer button
+Numerous64 posts small blind 50
+Prince posts big blind 100
+** Hole Cards ** [4 players]
+rodmouvi raises to 1175 (All-in)
+CoinDoctor folds
+Numerous64 folds
+Prince folds
+rodmouvi refunded 1075
+rodmouvi wins Pot (250)
+** Deck ** [Ac Tc Ah 7c 7h 2s 8d Kh]
+
+Hand #127663-11 - 2017-07-04 15:06:56
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1325)
+Seat 2: CoinDoctor (1350)
+Seat 4: Numerous64 (1750)
+Seat 6: Prince (1575)
+Numerous64 has the dealer button
+Prince posts small blind 75
+rodmouvi posts big blind 150
+** Hole Cards ** [4 players]
+CoinDoctor folds
+Numerous64 folds
+Prince raises to 300
+rodmouvi folds
+Prince refunded 150
+Prince wins Pot (300)
+** Deck ** [Jd 6h Ts 2c 5h 3d 8d 4c]
+
+Hand #127664-12 - 2017-07-04 15:07:15
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1175)
+Seat 2: CoinDoctor (1350)
+Seat 4: Numerous64 (1750)
+Seat 6: Prince (1725)
+Prince has the dealer button
+rodmouvi posts small blind 75
+CoinDoctor posts big blind 150
+** Hole Cards ** [4 players]
+Numerous64 folds
+Prince folds
+rodmouvi raises to 1175 (All-in)
+CoinDoctor folds
+rodmouvi refunded 1025
+rodmouvi wins Pot (300)
+** Deck ** [9c 5h Jc 6c 6h Ts 7s Qd]
+
+Hand #127666-13 - 2017-07-04 15:07:39
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1325)
+Seat 2: CoinDoctor (1200)
+Seat 4: Numerous64 (1750)
+Seat 6: Prince (1725)
+rodmouvi has the dealer button
+CoinDoctor posts small blind 75
+Numerous64 posts big blind 150
+** Hole Cards ** [4 players]
+Prince folds
+rodmouvi folds
+CoinDoctor raises to 1200 (All-in)
+Numerous64 folds
+CoinDoctor refunded 1050
+CoinDoctor wins Pot (300)
+** Deck ** [7h 2c 6s 9h 7s 9d 4s Tc]
+
+Hand #127668-14 - 2017-07-04 15:07:59
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1325)
+Seat 2: CoinDoctor (1350)
+Seat 4: Numerous64 (1600)
+Seat 6: Prince (1725)
+CoinDoctor has the dealer button
+Numerous64 posts small blind 75
+Prince posts big blind 150
+** Hole Cards ** [4 players]
+rodmouvi folds
+CoinDoctor calls 150
+Numerous64 folds
+Prince checks
+** Flop ** [5c Ks 4d]
+Prince checks
+CoinDoctor checks
+** Turn ** [7s]
+Prince checks
+CoinDoctor checks
+** River ** [2s]
+Prince checks
+CoinDoctor bets 150
+Prince calls 150
+** Pot Show Down ** [5c Ks 4d 7s 2s]
+CoinDoctor shows [Ac 3s] (a Straight, Ace to Five)
+Prince shows [Jh 2c] (a Pair of Deuces +KJ7)
+CoinDoctor wins Pot (675) with a Straight
+** Deck ** [5h Jh 7h Ac 4c 2c 6d 3s 5c Ks 4d 7s 2s]
+
+Hand #127670-15 - 2017-07-04 15:09:00
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1325)
+Seat 2: CoinDoctor (1725)
+Seat 4: Numerous64 (1525)
+Seat 6: Prince (1425)
+Numerous64 has the dealer button
+Prince posts small blind 75
+rodmouvi posts big blind 150
+** Hole Cards ** [4 players]
+CoinDoctor folds
+Numerous64 calls 150
+Prince folds
+rodmouvi checks
+** Flop ** [8h Ac 9c]
+rodmouvi checks
+Numerous64 bets 150
+rodmouvi folds
+Numerous64 refunded 150
+Numerous64 wins Pot (375)
+** Deck ** [2c 2s 6s 8d 6d Qd Qh Qc 8h Ac 9c]
+
+Hand #127672-16 - 2017-07-04 15:09:24
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1175)
+Seat 2: CoinDoctor (1725)
+Seat 4: Numerous64 (1750)
+Seat 6: Prince (1350)
+Prince has the dealer button
+rodmouvi posts small blind 75
+CoinDoctor posts big blind 150
+** Hole Cards ** [4 players]
+Numerous64 calls 150
+Prince raises to 450
+rodmouvi raises to 1175 (All-in)
+CoinDoctor folds
+Numerous64 folds
+Prince folds
+rodmouvi refunded 725
+rodmouvi wins Pot (1200)
+** Deck ** [Ts Ks Qd 5h 9s 6c 8h Ah]
+
+Hand #127674-17 - 2017-07-04 15:10:08
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1925)
+Seat 2: CoinDoctor (1575)
+Seat 4: Numerous64 (1600)
+Seat 6: Prince (900)
+rodmouvi has the dealer button
+CoinDoctor posts small blind 100
+Numerous64 posts big blind 200
+** Hole Cards ** [4 players]
+Prince folds
+rodmouvi folds
+CoinDoctor calls 100
+Numerous64 checks
+** Flop ** [Td Jh Kd]
+CoinDoctor checks
+Numerous64 checks
+** Turn ** [Jc]
+CoinDoctor checks
+Numerous64 checks
+** River ** [9c]
+CoinDoctor checks
+Numerous64 bets 200
+CoinDoctor folds
+Numerous64 refunded 200
+Numerous64 wins Pot (400)
+** Deck ** [4c 9d 6d 7s 3s 4s 7c 2s Td Jh Kd Jc 9c]
+
+Hand #127677-18 - 2017-07-04 15:11:30
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1925)
+Seat 2: CoinDoctor (1375)
+Seat 4: Numerous64 (1800)
+Seat 6: Prince (900)
+CoinDoctor has the dealer button
+Numerous64 posts small blind 100
+Prince posts big blind 200
+** Hole Cards ** [4 players]
+rodmouvi folds
+CoinDoctor folds
+Numerous64 calls 100
+Prince raises to 900 (All-in)
+Numerous64 calls 700
+** Flop ** [4d Jh 6s]
+** Turn ** [9h]
+** River ** [Kc]
+** Pot Show Down ** [4d Jh 6s 9h Kc]
+Numerous64 shows [As 7d] (High Card Ace +KJ97)
+Prince shows [Ad Kh] (a Pair of Kings +AJ9)
+Prince wins Pot (1800) with a Pair
+** Deck ** [As Ad 8d 8s 7d Kh 5d Ac 4d Jh 6s 9h Kc]
+
+Hand #127679-19 - 2017-07-04 15:12:09
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1925)
+Seat 2: CoinDoctor (1375)
+Seat 4: Numerous64 (900)
+Seat 6: Prince (1800)
+Numerous64 has the dealer button
+Prince posts small blind 100
+rodmouvi posts big blind 200
+** Hole Cards ** [4 players]
+CoinDoctor folds
+Numerous64 raises to 900 (All-in)
+Prince folds
+rodmouvi folds
+Numerous64 refunded 700
+Numerous64 wins Pot (500)
+** Deck ** [3s 6h Kc 4h 2d 8s 4d Ah]
+
+Hand #127680-20 - 2017-07-04 15:12:39
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1725)
+Seat 2: CoinDoctor (1375)
+Seat 4: Numerous64 (1200)
+Seat 6: Prince (1700)
+Prince has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+Numerous64 posts ante 25
+Prince posts ante 25
+rodmouvi posts small blind 100
+CoinDoctor posts big blind 200
+** Hole Cards ** [4 players]
+Numerous64 folds
+Prince folds
+rodmouvi raises to 1700 (All-in)
+CoinDoctor folds
+rodmouvi refunded 1500
+rodmouvi wins Pot (500)
+** Deck ** [7d 8c 5s Ks 5d Qh Th 8s]
+
+Hand #127682-21 - 2017-07-04 15:13:08
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (2000)
+Seat 2: CoinDoctor (1150)
+Seat 4: Numerous64 (1175)
+Seat 6: Prince (1675)
+rodmouvi has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+Numerous64 posts ante 25
+Prince posts ante 25
+CoinDoctor posts small blind 100
+Numerous64 posts big blind 200
+** Hole Cards ** [4 players]
+Prince raises to 600
+rodmouvi folds
+CoinDoctor folds
+Numerous64 raises to 1150 (All-in)
+Prince calls 550
+** Flop ** [Js 6c Qh]
+** Turn ** [5c]
+** River ** [8c]
+** Pot Show Down ** [Js 6c Qh 5c 8c]
+Numerous64 shows [Qs Jc] (Two Pair, Queens and Jacks +8)
+Prince shows [Ah Kd] (High Card Ace +KQJ8)
+Numerous64 wins Pot (2500) with Two Pair
+** Deck ** [9h Qs Ah 8h Td Jc Kd 3h Js 6c Qh 5c 8c]
+
+Hand #127683-22 - 2017-07-04 15:13:47
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1975)
+Seat 2: CoinDoctor (1025)
+Seat 4: Numerous64 (2500)
+Seat 6: Prince (500)
+CoinDoctor has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+Numerous64 posts ante 25
+Prince posts ante 25
+Numerous64 posts small blind 100
+Prince posts big blind 200
+** Hole Cards ** [4 players]
+rodmouvi folds
+CoinDoctor folds
+Numerous64 calls 100
+Prince raises to 475 (All-in)
+Numerous64 folds
+Prince refunded 275
+Prince wins Pot (500)
+** Deck ** [6d 8c 5d 9c 9h As 4h 6c]
+
+Hand #127685-23 - 2017-07-04 15:14:12
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1950)
+Seat 2: CoinDoctor (1000)
+Seat 4: Numerous64 (2275)
+Seat 6: Prince (775)
+Numerous64 has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+Numerous64 posts ante 25
+Prince posts ante 25
+Prince posts small blind 100
+rodmouvi posts big blind 200
+** Hole Cards ** [4 players]
+CoinDoctor folds
+Numerous64 calls 200
+Prince folds
+rodmouvi checks
+** Flop ** [Qc 8c 7h]
+rodmouvi bets 600
+Numerous64 folds
+rodmouvi refunded 600
+rodmouvi wins Pot (600)
+** Deck ** [3h 2h Kh Ac 9s 8h 5c 5d Qc 8c 7h]
+
+Hand #127686-24 - 2017-07-04 15:14:44
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (2325)
+Seat 2: CoinDoctor (975)
+Seat 4: Numerous64 (2050)
+Seat 6: Prince (650)
+Prince has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+Numerous64 posts ante 25
+Prince posts ante 25
+rodmouvi posts small blind 100
+CoinDoctor posts big blind 200
+** Hole Cards ** [4 players]
+Numerous64 folds
+Prince raises to 625 (All-in)
+rodmouvi folds
+CoinDoctor folds
+Prince refunded 425
+Prince wins Pot (600)
+** Deck ** [7s Th Js Kh 3h Kc 2h 9h]
+
+Hand #127687-25 - 2017-07-04 15:15:07
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (2200)
+Seat 2: CoinDoctor (750)
+Seat 4: Numerous64 (2025)
+Seat 6: Prince (1025)
+rodmouvi has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+Numerous64 posts ante 25
+Prince posts ante 25
+CoinDoctor posts small blind 100
+Numerous64 posts big blind 200
+** Hole Cards ** [4 players]
+Prince raises to 1000 (All-in)
+rodmouvi folds
+CoinDoctor calls 625 (All-in)
+Numerous64 calls 800
+** Flop ** [5d 7c 2d]
+** Turn ** [Th]
+** River ** [5s]
+** Side Pot 1 Show Down ** [5d 7c 2d Th 5s]
+Numerous64 shows [As 8d] (a Pair of Fives +AT8)
+Prince shows [Ks Qc] (a Pair of Fives +KQT)
+Numerous64 wins Side Pot 1 (550) with a Pair
+** Main Pot Show Down ** [5d 7c 2d Th 5s]
+CoinDoctor shows [Ac 5c] (Three of a Kind, Fives +AT)
+CoinDoctor wins Main Pot (2275) with Three of a Kind
+Prince finishes tournament in place #4
+** Deck ** [Ac As Ks 3d 5c 8d Qc 9h 5d 7c 2d Th 5s]
+
+Hand #127689-26 - 2017-07-04 15:15:41
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (2175)
+Seat 2: CoinDoctor (2275)
+Seat 4: Numerous64 (1550)
+CoinDoctor has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+Numerous64 posts ante 25
+Numerous64 posts small blind 200
+rodmouvi posts big blind 400
+** Hole Cards ** [3 players]
+CoinDoctor folds
+Numerous64 raises to 1525 (All-in)
+rodmouvi calls 1125
+** Flop ** [7s Jc 9c]
+** Turn ** [Tc]
+** River ** [Ah]
+** Pot Show Down ** [7s Jc 9c Tc Ah]
+rodmouvi shows [Kd Ad] (a Pair of Aces +KJT)
+Numerous64 shows [Ks Jd] (a Pair of Jacks +AKT)
+rodmouvi wins Pot (3125) with a Pair
+Numerous64 finishes tournament in place #3 and wins 400 chips
+** Deck ** [Ks Kd 9d Jd Ad 4s 7s Jc 9c Tc Ah]
+
+Hand #127690-27 - 2017-07-04 15:16:09
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (3750)
+Seat 2: CoinDoctor (2250)
+rodmouvi has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+rodmouvi posts small blind 200
+CoinDoctor posts big blind 400
+** Hole Cards ** [2 players]
+rodmouvi raises to 3725 (All-in)
+CoinDoctor calls 1825 (All-in)
+rodmouvi refunded 1500
+** Flop ** [8d Qs 8c]
+** Turn ** [3s]
+** River ** [Td]
+** Pot Show Down ** [8d Qs 8c 3s Td]
+rodmouvi shows [Jc Ks] (a Pair of Eights +KQJ)
+CoinDoctor shows [Ad 8s] (Three of a Kind, Eights +AQ)
+CoinDoctor wins Pot (4500) with Three of a Kind
+** Deck ** [Ad Jc 8s Ks 8d Qs 8c 3s Td]
+
+Hand #127692-28 - 2017-07-04 15:16:38
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (1500)
+Seat 2: CoinDoctor (4500)
+CoinDoctor has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+CoinDoctor posts small blind 200
+rodmouvi posts big blind 400
+** Hole Cards ** [2 players]
+CoinDoctor calls 200
+rodmouvi raises to 1475 (All-in)
+CoinDoctor calls 1075
+** Flop ** [Qd 3d 8h]
+** Turn ** [Qh]
+** River ** [3c]
+** Pot Show Down ** [Qd 3d 8h Qh 3c]
+rodmouvi shows [As 9d] (Two Pair, Queens and Threes +A)
+CoinDoctor shows [5d Kc] (Two Pair, Queens and Threes +K)
+rodmouvi wins Pot (3000) with Two Pair
+** Deck ** [As 5d 9d Kc Qd 3d 8h Qh 3c]
+
+Hand #127693-29 - 2017-07-04 15:17:06
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (3000)
+Seat 2: CoinDoctor (3000)
+rodmouvi has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+rodmouvi posts small blind 200
+CoinDoctor posts big blind 400
+** Hole Cards ** [2 players]
+rodmouvi folds
+CoinDoctor refunded 200
+CoinDoctor wins Pot (450)
+** Deck ** [7s 3h Qd 2d]
+
+Hand #127694-30 - 2017-07-04 15:17:18
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (2775)
+Seat 2: CoinDoctor (3225)
+CoinDoctor has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+CoinDoctor posts small blind 200
+rodmouvi posts big blind 400
+** Hole Cards ** [2 players]
+CoinDoctor folds
+rodmouvi refunded 200
+rodmouvi wins Pot (450)
+** Deck ** [9s Js Qc 3d]
+
+Hand #127696-31 - 2017-07-04 15:17:32
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (3000)
+Seat 2: CoinDoctor (3000)
+rodmouvi has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+rodmouvi posts small blind 200
+CoinDoctor posts big blind 400
+** Hole Cards ** [2 players]
+rodmouvi raises to 2975 (All-in)
+CoinDoctor folds
+rodmouvi refunded 2575
+rodmouvi wins Pot (850)
+** Deck ** [6d Jh 5d 5h]
+
+Hand #127698-32 - 2017-07-04 15:17:53
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (3425)
+Seat 2: CoinDoctor (2575)
+CoinDoctor has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+CoinDoctor posts small blind 200
+rodmouvi posts big blind 400
+** Hole Cards ** [2 players]
+CoinDoctor folds
+rodmouvi refunded 200
+rodmouvi wins Pot (450)
+** Deck ** [7s 7c 3h Qs]
+
+Hand #127699-33 - 2017-07-04 15:18:08
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (3650)
+Seat 2: CoinDoctor (2350)
+rodmouvi has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+rodmouvi posts small blind 200
+CoinDoctor posts big blind 400
+** Hole Cards ** [2 players]
+rodmouvi raises to 3625 (All-in)
+CoinDoctor folds
+rodmouvi refunded 3225
+rodmouvi wins Pot (850)
+** Deck ** [Kd Js 2h 7h]
+
+Hand #127701-34 - 2017-07-04 15:18:32
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (4075)
+Seat 2: CoinDoctor (1925)
+CoinDoctor has the dealer button
+rodmouvi posts ante 25
+CoinDoctor posts ante 25
+CoinDoctor posts small blind 200
+rodmouvi posts big blind 400
+** Hole Cards ** [2 players]
+CoinDoctor folds
+rodmouvi refunded 200
+rodmouvi wins Pot (450)
+** Deck ** [2s Qh 8h 3d]
+
+Hand #127703-35 - 2017-07-04 15:18:43
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (4300)
+Seat 2: CoinDoctor (1700)
+rodmouvi has the dealer button
+rodmouvi posts ante 50
+CoinDoctor posts ante 50
+rodmouvi posts small blind 300
+CoinDoctor posts big blind 600
+** Hole Cards ** [2 players]
+rodmouvi raises to 2400
+CoinDoctor folds
+rodmouvi refunded 1800
+rodmouvi wins Pot (1300)
+** Deck ** [4d 7c 2s Js]
+
+Hand #127704-36 - 2017-07-04 15:19:01
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (4950)
+Seat 2: CoinDoctor (1050)
+CoinDoctor has the dealer button
+rodmouvi posts ante 50
+CoinDoctor posts ante 50
+CoinDoctor posts small blind 300
+rodmouvi posts big blind 600
+** Hole Cards ** [2 players]
+CoinDoctor folds
+rodmouvi refunded 300
+rodmouvi wins Pot (700)
+** Deck ** [2d Jh 8s 4h]
+
+Hand #127706-37 - 2017-07-04 15:19:14
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: rodmouvi (5300)
+Seat 2: CoinDoctor (700)
+rodmouvi has the dealer button
+rodmouvi posts ante 50
+CoinDoctor posts ante 50
+rodmouvi posts small blind 300
+CoinDoctor posts big blind 600
+** Hole Cards ** [2 players]
+rodmouvi raises to 1200
+CoinDoctor calls 50 (All-in)
+rodmouvi refunded 550
+** Flop ** [6s 6h 6d]
+** Turn ** [4c]
+** River ** [5d]
+** Pot Show Down ** [6s 6h 6d 4c 5d]
+rodmouvi shows [2d Ah] (Three of a Kind, Sixes +A5)
+CoinDoctor shows [Ks Qh] (Three of a Kind, Sixes +KQ)
+rodmouvi wins Pot (1400) with Three of a Kind
+CoinDoctor finishes tournament in place #2 and wins 600 chips
+rodmouvi finishes tournament in place #1 and wins 1000 chips
+** Deck ** [Ks 2d Qh Ah 6s 6h 6d 4c 5d]
+
+Starting tournament 2346
+
+Hand #127785-1 - 2017-07-04 19:00:38
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1500) - sitting out
+Seat 2: Defecator (1500) - sitting out
+Seat 3: Prince (1500)
+Seat 4: shtako (1500) - sitting out
+ROBERTO has the dealer button
+Defecator posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [4 players]
+shtako folds
+ROBERTO folds
+Defecator folds
+Prince refunded 25
+Prince wins Pot (50)
+** Deck ** [7s Kh 4s Jd Qd Td Jh Qh]
+
+Hand #127786-2 - 2017-07-04 19:00:46
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1500) - sitting out
+Seat 2: Defecator (1475) - sitting out
+Seat 3: Prince (1525)
+Seat 4: shtako (1500) - sitting out
+Defecator has the dealer button
+Prince posts small blind 25
+shtako posts big blind 50
+** Hole Cards ** [4 players]
+ROBERTO folds
+Defecator folds
+Prince raises to 100
+shtako folds
+Prince refunded 50
+Prince wins Pot (100)
+** Deck ** [5c Tc Qc 9h 2s Kh 7d 3s]
+
+Hand #127787-3 - 2017-07-04 19:00:57
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1500) - sitting out
+Seat 2: Defecator (1475) - sitting out
+Seat 3: Prince (1575)
+Seat 4: shtako (1450) - sitting out
+Prince has the dealer button
+shtako posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [4 players]
+Defecator folds
+Prince raises to 100
+shtako folds
+ROBERTO folds
+Prince refunded 50
+Prince wins Pot (125)
+** Deck ** [As Ah Kc 9d 8s 9c 2s Tc]
+
+Hand #127788-4 - 2017-07-04 19:01:06
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1450) - sitting out
+Seat 2: Defecator (1475) - sitting out
+Seat 3: Prince (1650)
+Seat 4: shtako (1425) - sitting out
+shtako has the dealer button
+ROBERTO posts small blind 25
+Defecator posts big blind 50
+** Hole Cards ** [4 players]
+Prince raises to 100
+shtako folds
+ROBERTO folds
+Defecator folds
+Prince refunded 50
+Prince wins Pot (125)
+** Deck ** [3s 7d 4s 3d Qs 5s Qc 6d]
+
+Hand #127789-5 - 2017-07-04 19:01:15
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1425) - sitting out
+Seat 2: Defecator (1425) - sitting out
+Seat 3: Prince (1725)
+Seat 4: shtako (1425) - sitting out
+ROBERTO has the dealer button
+Defecator posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [4 players]
+shtako folds
+ROBERTO folds
+Defecator folds
+Prince refunded 25
+Prince wins Pot (50)
+** Deck ** [Kc 4c 9s Js Tc 8s 6h 7s]
+
+Hand #127790-6 - 2017-07-04 19:01:22
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1425) - sitting out
+Seat 2: Defecator (1400) - sitting out
+Seat 3: Prince (1750)
+Seat 4: shtako (1425) - sitting out
+Defecator has the dealer button
+Prince posts small blind 25
+shtako posts big blind 50
+** Hole Cards ** [4 players]
+ROBERTO folds
+Defecator folds
+Prince raises to 100
+shtako folds
+Prince refunded 50
+Prince wins Pot (100)
+** Deck ** [6d 3s 3c Tc 8c 6h Ac Kc]
+
+Hand #127791-7 - 2017-07-04 19:01:31
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1425) - sitting out
+Seat 2: Defecator (1400) - sitting out
+Seat 3: Prince (1800)
+Seat 4: shtako (1375) - sitting out
+Prince has the dealer button
+shtako posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [4 players]
+Defecator folds
+Prince raises to 100
+shtako folds
+ROBERTO folds
+Prince refunded 50
+Prince wins Pot (125)
+** Deck ** [8s Jd 2s Ks Ac 6h 5s 9s]
+
+Hand #127792-8 - 2017-07-04 19:01:40
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1375) - sitting out
+Seat 2: Defecator (1400) - sitting out
+Seat 3: Prince (1875)
+Seat 4: shtako (1350) - sitting out
+shtako has the dealer button
+ROBERTO posts small blind 25
+Defecator posts big blind 50
+** Hole Cards ** [4 players]
+Prince raises to 100
+shtako folds
+ROBERTO folds
+Defecator folds
+Prince refunded 50
+Prince wins Pot (125)
+** Deck ** [6c Ac Tc Jd Ks 8c Jc 6d]
+
+Hand #127793-9 - 2017-07-04 19:01:49
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1350)
+Seat 2: Defecator (1350) - sitting out
+Seat 3: Prince (1950)
+Seat 4: shtako (1350) - sitting out
+ROBERTO has the dealer button
+Defecator posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [4 players]
+shtako folds
+ROBERTO folds
+Defecator folds
+Prince refunded 25
+Prince wins Pot (50)
+** Deck ** [5c 5s Ah 6c Td Tc Qs 3d]
+
+Hand #127794-10 - 2017-07-04 19:01:58
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1350)
+Seat 2: Defecator (1325) - sitting out
+Seat 3: Prince (1975)
+Seat 4: shtako (1350) - sitting out
+Defecator has the dealer button
+Prince posts small blind 25
+shtako posts big blind 50
+** Hole Cards ** [4 players]
+ROBERTO calls 50
+Defecator folds
+Prince calls 25
+shtako folds
+** Flop ** [6d 8c 8d]
+Prince checks
+ROBERTO checks
+** Turn ** [7c]
+Prince bets 50
+ROBERTO calls 50
+** River ** [Kh]
+Prince bets 125
+ROBERTO calls 125
+** Pot Show Down ** [6d 8c 8d 7c Kh]
+ROBERTO shows [Kc Jc] (Two Pair, Kings and Eights +J)
+Prince shows [Th 8h] (Three of a Kind, Eights +KT)
+Prince wins Pot (500) with Three of a Kind
+** Deck ** [Th 9s Kc Ad 8h 6h Jc Jd 6d 8c 8d 7c Kh]
+
+Hand #127795-11 - 2017-07-04 19:02:33
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1125)
+Seat 2: Defecator (1325) - sitting out
+Seat 3: Prince (2250)
+Seat 4: shtako (1300) - sitting out
+Prince has the dealer button
+shtako posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [4 players]
+Defecator folds
+Prince folds
+shtako folds
+ROBERTO refunded 25
+ROBERTO wins Pot (50)
+** Deck ** [7s Th 7c 5c Qd Ks 3s 7d]
+
+Hand #127796-12 - 2017-07-04 19:02:43
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1150)
+Seat 2: Defecator (1325) - sitting out
+Seat 3: Prince (2250)
+Seat 4: shtako (1275)
+shtako has the dealer button
+ROBERTO posts small blind 25
+Defecator posts big blind 50
+** Hole Cards ** [4 players]
+Prince raises to 100
+shtako calls 100
+ROBERTO folds
+Defecator folds
+** Flop ** [3d 2d 9s]
+Prince bets 137
+shtako calls 137
+** Turn ** [9h]
+Prince checks
+shtako bets 274
+Prince calls 274
+** River ** [Kh]
+Prince checks
+shtako checks
+** Pot Show Down ** [3d 2d 9s 9h Kh]
+Prince shows [Jd Js] (Two Pair, Jacks and Nines +K)
+shtako shows [Ah 3c] (Two Pair, Nines and Threes +A)
+Prince wins Pot (1097) with Two Pair
+** Deck ** [5d 5s Jd Ah 8h 4d Js 3c 3d 2d 9s 9h Kh]
+
+Hand #127797-13 - 2017-07-04 19:03:38
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1125)
+Seat 2: Defecator (1275) - sitting out
+Seat 3: Prince (2836)
+Seat 4: shtako (764)
+ROBERTO has the dealer button
+Defecator posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [4 players]
+shtako folds
+ROBERTO folds
+Defecator folds
+Prince refunded 25
+Prince wins Pot (50)
+** Deck ** [6c 6h 4h Ks 5c Jd Jh 2h]
+
+Hand #127798-14 - 2017-07-04 19:03:49
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1125)
+Seat 2: Defecator (1250) - sitting out
+Seat 3: Prince (2861)
+Seat 4: shtako (764)
+Defecator has the dealer button
+Prince posts small blind 50
+shtako posts big blind 100
+** Hole Cards ** [4 players]
+ROBERTO folds
+Defecator folds
+Prince raises to 200
+shtako calls 100
+** Flop ** [Qs Th 3d]
+Prince bets 200
+shtako folds
+Prince refunded 200
+Prince wins Pot (400)
+** Deck ** [2h Kh 6s 6d 7h 2s Js Kc Qs Th 3d]
+
+Hand #127799-15 - 2017-07-04 19:04:26
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1125)
+Seat 2: Defecator (1250) - sitting out
+Seat 3: Prince (3061)
+Seat 4: shtako (564)
+Prince has the dealer button
+shtako posts small blind 50
+ROBERTO posts big blind 100
+** Hole Cards ** [4 players]
+Defecator folds
+Prince raises to 200
+shtako folds
+ROBERTO folds
+Prince refunded 100
+Prince wins Pot (250)
+** Deck ** [5d 9c Ac Qs Jd 5h Td Ah]
+
+Hand #127800-16 - 2017-07-04 19:04:39
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1025)
+Seat 2: Defecator (1250) - sitting out
+Seat 3: Prince (3211)
+Seat 4: shtako (514)
+shtako has the dealer button
+ROBERTO posts small blind 50
+Defecator posts big blind 100
+** Hole Cards ** [4 players]
+Prince raises to 200
+shtako folds
+ROBERTO calls 150
+Defecator folds
+** Flop ** [Ac 8h 7s]
+ROBERTO bets 100
+Prince calls 100
+** Turn ** [7c]
+ROBERTO checks
+Prince bets 466
+ROBERTO raises to 725 (All-in)
+Prince calls 259
+** River ** [2h]
+** Pot Show Down ** [Ac 8h 7s 7c 2h]
+ROBERTO shows [7d Ad] (a Full House, Sevens full of Aces)
+Prince shows [4c As] (Two Pair, Aces and Sevens +8)
+ROBERTO wins Pot (2150) with a Full House
+** Deck ** [7d 8d 4c 5c Ad Ks As Qd Ac 8h 7s 7c 2h]
+
+Hand #127801-17 - 2017-07-04 19:05:23
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2150)
+Seat 2: Defecator (1150) - sitting out
+Seat 3: Prince (2186)
+Seat 4: shtako (514)
+ROBERTO has the dealer button
+Defecator posts small blind 50
+Prince posts big blind 100
+** Hole Cards ** [4 players]
+shtako folds
+ROBERTO folds
+Defecator folds
+Prince refunded 50
+Prince wins Pot (100)
+** Deck ** [6d 3s Ts Kd 8d Tc 7c 2h]
+
+Hand #127802-18 - 2017-07-04 19:05:39
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2150)
+Seat 2: Defecator (1100) - sitting out
+Seat 3: Prince (2236)
+Seat 4: shtako (514)
+Defecator has the dealer button
+Prince posts small blind 50
+shtako posts big blind 100
+** Hole Cards ** [4 players]
+ROBERTO calls 100
+Defecator folds
+Prince folds
+shtako checks
+** Flop ** [Js Qc Jc]
+shtako checks
+ROBERTO bets 100
+shtako calls 100
+** Turn ** [2s]
+shtako checks
+ROBERTO bets 100
+shtako calls 100
+** River ** [Ks]
+shtako checks
+ROBERTO checks
+** Pot Show Down ** [Js Qc Jc 2s Ks]
+ROBERTO shows [Ah Ac] (Two Pair, Aces and Jacks +K)
+shtako shows [Qd 6d] (Two Pair, Queens and Jacks +K)
+ROBERTO wins Pot (650) with Two Pair
+Absent player Defecator removed from tournament
+** Deck ** [9h Qd Ah 4c 7d 6d Ac 3d Js Qc Jc 2s Ks]
+
+Hand #127803-19 - 2017-07-04 19:06:44
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2500)
+Seat 3: Prince (2186)
+Seat 4: shtako (214)
+Prince has the dealer button
+shtako posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [3 players]
+Prince folds
+shtako folds
+ROBERTO refunded 75
+ROBERTO wins Pot (150)
+** Deck ** [6d 5d 7h 3h Tc 8c]
+
+Hand #127804-20 - 2017-07-04 19:06:55
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2575)
+Seat 3: Prince (2186)
+Seat 4: shtako (139)
+shtako has the dealer button
+ROBERTO posts small blind 75
+Prince posts big blind 150
+** Hole Cards ** [3 players]
+shtako calls 139 (All-in)
+ROBERTO folds
+Prince refunded 11
+** Flop ** [Qd 2h Qh]
+** Turn ** [3s]
+** River ** [9s]
+** Pot Show Down ** [Qd 2h Qh 3s 9s]
+Prince shows [Jc 9c] (Two Pair, Queens and Nines +J)
+shtako shows [Th Ad] (a Pair of Queens +AT9)
+Prince wins Pot (353) with Two Pair
+shtako finishes tournament in place #3
+** Deck ** [Jh Jc Th 3h 9c Ad Qd 2h Qh 3s 9s]
+
+Hand #127805-21 - 2017-07-04 19:07:12
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2500)
+Seat 3: Prince (2400)
+ROBERTO has the dealer button
+ROBERTO posts small blind 75
+Prince posts big blind 150
+** Hole Cards ** [2 players]
+ROBERTO folds
+Prince refunded 75
+Prince wins Pot (150)
+** Deck ** [8s 3c As 7d]
+
+Hand #127806-22 - 2017-07-04 19:07:24
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2425)
+Seat 3: Prince (2475)
+Prince has the dealer button
+Prince posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [2 players]
+Prince raises to 300
+ROBERTO calls 150
+** Flop ** [6h 9h 7d]
+ROBERTO checks
+Prince checks
+** Turn ** [4c]
+ROBERTO checks
+Prince bets 300
+ROBERTO folds
+Prince refunded 300
+Prince wins Pot (600)
+** Deck ** [Qd Ac Th 4s 6h 9h 7d 4c]
+
+Hand #127807-23 - 2017-07-04 19:07:55
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2125)
+Seat 3: Prince (2775)
+ROBERTO has the dealer button
+ROBERTO posts small blind 75
+Prince posts big blind 150
+** Hole Cards ** [2 players]
+ROBERTO folds
+Prince refunded 75
+Prince wins Pot (150)
+** Deck ** [5h 3s 7d Qc]
+
+Hand #127808-24 - 2017-07-04 19:08:05
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2050)
+Seat 3: Prince (2850)
+Prince has the dealer button
+Prince posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [2 players]
+Defecator: "I guess my sound was down, sob"
+Prince raises to 300
+ROBERTO calls 150
+** Flop ** [Ts 3h 9c]
+ROBERTO checks
+Prince bets 300
+ROBERTO calls 300
+** Turn ** [2d]
+ROBERTO checks
+Prince checks
+** River ** [9h]
+ROBERTO checks
+Prince checks
+** Pot Show Down ** [Ts 3h 9c 2d 9h]
+ROBERTO shows [8h Ks] (a Pair of Nines +KT8)
+Prince shows [4c Jc] (a Pair of Nines +JT4)
+ROBERTO wins Pot (1200) with a Pair
+** Deck ** [8h 4c Ks Jc Ts 3h 9c 2d 9h]
+
+Hand #127809-25 - 2017-07-04 19:08:44
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2650)
+Seat 3: Prince (2250)
+ROBERTO has the dealer button
+ROBERTO posts small blind 75
+Prince posts big blind 150
+** Hole Cards ** [2 players]
+ROBERTO folds
+Prince refunded 75
+Prince wins Pot (150)
+** Deck ** [5d 4h 7d 8c]
+
+Hand #127810-26 - 2017-07-04 19:08:53
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2575)
+Seat 3: Prince (2325)
+Prince has the dealer button
+Prince posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [2 players]
+Prince folds
+ROBERTO refunded 75
+ROBERTO wins Pot (150)
+** Deck ** [7s 4s 5h 5c]
+
+Hand #127811-27 - 2017-07-04 19:09:04
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2650)
+Seat 3: Prince (2250)
+ROBERTO has the dealer button
+ROBERTO posts small blind 75
+Prince posts big blind 150
+** Hole Cards ** [2 players]
+ROBERTO calls 75
+Prince checks
+** Flop ** [6s 9s 5d]
+Prince checks
+ROBERTO bets 300
+Prince folds
+ROBERTO refunded 300
+ROBERTO wins Pot (300)
+** Deck ** [2c Kc 6d 9d 6s 9s 5d]
+
+Hand #127812-28 - 2017-07-04 19:09:22
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2800)
+Seat 3: Prince (2100)
+Prince has the dealer button
+Prince posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [2 players]
+Prince raises to 300
+ROBERTO calls 150
+** Flop ** [Jd 2s 5d]
+ROBERTO checks
+Prince checks
+** Turn ** [9d]
+ROBERTO checks
+Prince bets 300
+ROBERTO folds
+Prince refunded 300
+Prince wins Pot (600)
+** Deck ** [Kh 8c 6c Qs Jd 2s 5d 9d]
+
+Hand #127813-29 - 2017-07-04 19:09:47
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2500)
+Seat 3: Prince (2400)
+ROBERTO has the dealer button
+ROBERTO posts small blind 100
+Prince posts big blind 200
+** Hole Cards ** [2 players]
+ROBERTO calls 100
+Prince checks
+** Flop ** [9s 2s 2h]
+Prince checks
+ROBERTO checks
+** Turn ** [6s]
+Prince bets 200
+ROBERTO calls 200
+** River ** [8h]
+Prince checks
+ROBERTO bets 600
+Prince folds
+ROBERTO refunded 600
+ROBERTO wins Pot (800)
+** Deck ** [Jc 5s 4c Ks 9s 2s 2h 6s 8h]
+
+Hand #127814-30 - 2017-07-04 19:10:24
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (2900)
+Seat 3: Prince (2000)
+Prince has the dealer button
+Prince posts small blind 100
+ROBERTO posts big blind 200
+** Hole Cards ** [2 players]
+Prince raises to 400
+ROBERTO raises to 2900 (All-in)
+Prince folds
+ROBERTO refunded 2500
+ROBERTO wins Pot (800)
+** Deck ** [9s 3h As 5h]
+
+Hand #127815-31 - 2017-07-04 19:10:37
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (3300)
+Seat 3: Prince (1600)
+ROBERTO has the dealer button
+ROBERTO posts small blind 100
+Prince posts big blind 200
+** Hole Cards ** [2 players]
+ROBERTO calls 100
+Prince raises to 1600 (All-in)
+ROBERTO calls 1400
+** Flop ** [9h 4c 5s]
+** Turn ** [Jd]
+** River ** [4h]
+** Pot Show Down ** [9h 4c 5s Jd 4h]
+ROBERTO shows [8d Kd] (a Pair of Fours +KJ9)
+Prince shows [Qh 9d] (Two Pair, Nines and Fours +Q)
+Prince wins Pot (3200) with Two Pair
+** Deck ** [Qh 8d 9d Kd 9h 4c 5s Jd 4h]
+
+Hand #127816-32 - 2017-07-04 19:11:01
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1700)
+Seat 3: Prince (3200)
+Prince has the dealer button
+Prince posts small blind 100
+ROBERTO posts big blind 200
+** Hole Cards ** [2 players]
+Prince raises to 3200 (All-in)
+ROBERTO folds
+Prince refunded 3000
+Prince wins Pot (400)
+** Deck ** [2h 6h Ts Ks]
+
+Hand #127817-33 - 2017-07-04 19:11:13
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1500)
+Seat 3: Prince (3400)
+ROBERTO has the dealer button
+ROBERTO posts small blind 100
+Prince posts big blind 200
+** Hole Cards ** [2 players]
+ROBERTO folds
+Prince refunded 100
+Prince wins Pot (200)
+** Deck ** [7s 2d Ah 5h]
+
+Hand #127818-34 - 2017-07-04 19:11:23
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1400)
+Seat 3: Prince (3500)
+Prince has the dealer button
+Prince posts small blind 100
+ROBERTO posts big blind 200
+** Hole Cards ** [2 players]
+Prince folds
+ROBERTO refunded 100
+ROBERTO wins Pot (200)
+** Deck ** [7h 7c 5h 2d]
+
+Hand #127819-35 - 2017-07-04 19:11:33
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: ROBERTO (1500)
+Seat 3: Prince (3400)
+ROBERTO has the dealer button
+ROBERTO posts small blind 100
+Prince posts big blind 200
+** Hole Cards ** [2 players]
+ROBERTO calls 100
+Prince raises to 3400 (All-in)
+ROBERTO calls 1300 (All-in)
+Prince refunded 1900
+** Flop ** [Qc Td 3s]
+** Turn ** [7c]
+** River ** [Ts]
+** Pot Show Down ** [Qc Td 3s 7c Ts]
+ROBERTO shows [As Ks] (a Pair of Tens +AKQ)
+Prince shows [8h 8d] (Two Pair, Tens and Eights +Q)
+Prince wins Pot (3000) with Two Pair
+ROBERTO finishes tournament in place #2 and wins 800 chips
+Prince finishes tournament in place #1 and wins 1200 chips
+** Deck ** [8h As 8d Ks Qc Td 3s 7c Ts]
+
+Starting tournament 2350
+
+Hand #127998-1 - 2017-07-04 23:00:38
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 2: tuan (1500)
+Seat 3: brokedummy (1500)
+Seat 4: diamond (1500)
+Seat 5: betong (1500)
+tuan has the dealer button
+brokedummy posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [4 players]
+betong folds
+tuan raises to 250
+brokedummy folds
+diamond raises to 1500 (All-in)
+tuan calls 1250 (All-in)
+** Flop ** [7d 7s 2h]
+** Turn ** [8s]
+** River ** [9d]
+** Pot Show Down ** [7d 7s 2h 8s 9d]
+tuan shows [3d 3h] (Two Pair, Sevens and Threes +9)
+diamond shows [Jh Jd] (Two Pair, Jacks and Sevens +9)
+diamond wins Pot (3025) with Two Pair
+tuan finishes tournament in place #8
+** Deck ** [4d Jh 3c 3d Qs Jd 7h 3h 7d 7s 2h 8s 9d]
+
+Hand #128005-2 - 2017-07-04 23:01:20
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: brokedummy (1475)
+Seat 4: diamond (3025)
+Seat 5: betong (1500)
+brokedummy has the dealer button
+diamond posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [3 players]
+brokedummy folds
+diamond folds
+betong refunded 25
+betong wins Pot (50)
+** Deck ** [9s 3h 6c 4s 8s Ks]
+
+Hand #128007-3 - 2017-07-04 23:01:35
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: brokedummy (1475)
+Seat 4: diamond (3000)
+Seat 5: betong (1525)
+diamond has the dealer button
+betong posts small blind 25
+brokedummy posts big blind 50
+** Hole Cards ** [3 players]
+diamond folds
+betong calls 25
+brokedummy checks
+** Flop ** [Qd 8h 5s]
+betong checks
+brokedummy checks
+** Turn ** [5c]
+betong checks
+brokedummy bets 100
+betong folds
+brokedummy refunded 100
+brokedummy wins Pot (100)
+** Deck ** [4d 4c 9s 2d 5d 4s Qd 8h 5s 5c]
+
+Hand #128013-4 - 2017-07-04 23:02:28
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: brokedummy (1525)
+Seat 4: diamond (3000)
+Seat 5: betong (1475)
+betong has the dealer button
+brokedummy posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [3 players]
+betong folds
+brokedummy calls 25
+diamond checks
+** Flop ** [3s As 7d]
+brokedummy checks
+diamond checks
+** Turn ** [2h]
+brokedummy checks
+diamond checks
+** River ** [Ad]
+brokedummy checks
+diamond checks
+** Pot Show Down ** [3s As 7d 2h Ad]
+brokedummy shows [Tc 8h] (a Pair of Aces +T87)
+diamond shows [Ah 8d] (Three of a Kind, Aces +87)
+diamond wins Pot (100) with Three of a Kind
+** Deck ** [Tc Ah 5d 8h 8d Kc 3s As 7d 2h Ad]
+
+Hand #128019-5 - 2017-07-04 23:03:11
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: brokedummy (1475)
+Seat 4: diamond (3050)
+Seat 5: betong (1475)
+brokedummy has the dealer button
+diamond posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [3 players]
+brokedummy calls 50
+diamond folds
+betong checks
+** Flop ** [3d 7c Qs]
+betong checks
+brokedummy checks
+** Turn ** [Tc]
+betong checks
+brokedummy checks
+** River ** [6s]
+betong checks
+brokedummy checks
+** Pot Show Down ** [3d 7c Qs Tc 6s]
+brokedummy shows [3s Ah] (a Pair of Threes +AQT)
+betong shows [Js 4h] (High Card Queen +JT76)
+brokedummy wins Pot (125) with a Pair
+** Deck ** [4c Js 3s Kh 4h Ah 3d 7c Qs Tc 6s]
+
+Hand #128023-6 - 2017-07-04 23:04:05
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: brokedummy (1550)
+Seat 4: diamond (3025)
+Seat 5: betong (1425)
+diamond has the dealer button
+betong posts small blind 50
+brokedummy posts big blind 100
+** Hole Cards ** [3 players]
+diamond folds
+betong calls 50
+brokedummy checks
+** Flop ** [5d 6h 3c]
+betong checks
+brokedummy checks
+** Turn ** [9s]
+betong checks
+brokedummy checks
+** River ** [4c]
+betong checks
+brokedummy bets 100
+betong raises to 1325 (All-in)
+brokedummy calls 1225
+** Pot Show Down ** [5d 6h 3c 9s 4c]
+brokedummy shows [2h Jc] (a Straight, Deuce to Six)
+betong shows [2s 6s] (a Straight, Deuce to Six)
+brokedummy splits Pot (1425) with a Straight
+betong splits Pot (1425) with a Straight
+** Deck ** [2s 2h 3d 6s Jc Qh 5d 6h 3c 9s 4c]
+
+Hand #128033-7 - 2017-07-04 23:05:32
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 3: brokedummy (1550)
+Seat 4: diamond (3025)
+Seat 5: betong (1425)
+betong has the dealer button
+brokedummy posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [3 players]
+ROBERTO moved from Table 2
+Prince moved from Table 2
+es2thekay moved from Table 2
+betong folds
+brokedummy folds
+diamond refunded 50
+diamond wins Pot (100)
+** Deck ** [4c 9s Jd Th Tc 4d]
+
+Hand #128034-8 - 2017-07-04 23:05:47
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (1750)
+Seat 2: es2thekay (1800)
+Seat 3: brokedummy (1500)
+Seat 4: diamond (3075)
+Seat 5: betong (1425)
+Seat 6: ROBERTO (1275)
+brokedummy has the dealer button
+diamond posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [6 players]
+ROBERTO calls 100
+Prince folds
+es2thekay folds
+brokedummy folds
+diamond folds
+betong checks
+** Flop ** [9c Ks As]
+betong checks
+ROBERTO bets 200
+betong has timed out
+betong folds
+ROBERTO refunded 200
+ROBERTO wins Pot (250)
+** Deck ** [7h 9h Ac 9s Jh 4d Tc 8c Jc 3d 8s 7s 9c Ks As]
+
+Hand #128038-9 - 2017-07-04 23:07:00
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (1750)
+Seat 2: es2thekay (1800)
+Seat 3: brokedummy (1500)
+Seat 4: diamond (3025)
+Seat 5: betong (1325)
+Seat 6: ROBERTO (1425)
+diamond has the dealer button
+betong posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [6 players]
+Prince folds
+es2thekay folds
+brokedummy folds
+diamond folds
+betong raises to 1325 (All-in)
+ROBERTO folds
+betong refunded 1175
+betong wins Pot (300)
+** Deck ** [9d 8s Th 9s Js Jc 9c 2h 3c 8h 4h 3s]
+
+Hand #128041-10 - 2017-07-04 23:07:51
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (1750)
+Seat 2: es2thekay (1800)
+Seat 3: brokedummy (1500)
+Seat 4: diamond (3025)
+Seat 5: betong (1475)
+Seat 6: ROBERTO (1275)
+betong has the dealer button
+ROBERTO posts small blind 75
+Prince posts big blind 150
+** Hole Cards ** [6 players]
+es2thekay calls 150
+brokedummy calls 150
+diamond folds
+betong folds
+ROBERTO folds
+Prince checks
+** Flop ** [Kh Tc Kd]
+Prince checks
+es2thekay checks
+brokedummy bets 300
+Prince folds
+es2thekay folds
+brokedummy refunded 300
+brokedummy wins Pot (525)
+** Deck ** [Jc 5d Jh As 9h Ts 6s 3s 5h 2s 8h 3d Kh Tc Kd]
+
+Hand #128044-11 - 2017-07-04 23:08:40
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (1600)
+Seat 2: es2thekay (1650)
+Seat 3: brokedummy (1875)
+Seat 4: diamond (3025)
+Seat 5: betong (1475)
+Seat 6: ROBERTO (1200)
+ROBERTO has the dealer button
+Prince posts small blind 75
+es2thekay posts big blind 150
+** Hole Cards ** [6 players]
+brokedummy folds
+diamond folds
+betong folds
+ROBERTO folds
+Prince raises to 300
+es2thekay calls 150
+** Flop ** [Kc Td 8h]
+Prince bets 300
+es2thekay calls 300
+** Turn ** [8c]
+Prince bets 1000 (All-in)
+es2thekay calls 1000
+** River ** [4h]
+** Pot Show Down ** [Kc Td 8h 8c 4h]
+Prince shows [Ks 7c] (Two Pair, Kings and Eights +T)
+es2thekay shows [9s 7h] (a Pair of Eights +KT9)
+Prince wins Pot (3200) with Two Pair
+** Deck ** [Ks 9s 3c Jd 2c 2d 7c 7h 4s 8d 6d 5d Kc Td 8h 8c 4h]
+
+Hand #128047-12 - 2017-07-04 23:09:30
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (3200)
+Seat 2: es2thekay (50)
+Seat 3: brokedummy (1875)
+Seat 4: diamond (3025)
+Seat 5: betong (1475)
+Seat 6: ROBERTO (1200)
+Prince has the dealer button
+es2thekay posts small blind 50 (All-in)
+brokedummy posts big blind 150
+** Hole Cards ** [6 players]
+diamond folds
+betong raises to 1475 (All-in)
+ROBERTO folds
+Prince folds
+brokedummy folds
+betong refunded 1325
+** Flop ** [8s 7s Td]
+** Turn ** [4d]
+** River ** [9c]
+betong wins Side Pot 1 (200)
+** Main Pot Show Down ** [8s 7s Td 4d 9c]
+es2thekay shows [Jc Qs] (a Straight, Eight to Queen)
+betong shows [3s 3c] (a Pair of Threes +T98)
+es2thekay wins Main Pot (150) with a Straight
+** Deck ** [Jc 4s 9h 3s 4h 7h Qs 8d Ac 3c As 9d 8s 7s Td 4d 9c]
+
+Hand #128050-13 - 2017-07-04 23:10:02
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (3200)
+Seat 2: es2thekay (150)
+Seat 3: brokedummy (1725)
+Seat 4: diamond (3025)
+Seat 5: betong (1525)
+Seat 6: ROBERTO (1200)
+es2thekay has the dealer button
+brokedummy posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [6 players]
+betong folds
+ROBERTO calls 200
+Prince folds
+es2thekay calls 150 (All-in)
+brokedummy folds
+diamond checks
+** Flop ** [6h 7s Tc]
+diamond checks
+ROBERTO bets 400
+diamond calls 400
+** Turn ** [3c]
+diamond checks
+ROBERTO bets 400
+diamond folds
+ROBERTO refunded 400
+** River ** [6d]
+ROBERTO wins Side Pot 1 (900)
+** Main Pot Show Down ** [6h 7s Tc 3c 6d]
+es2thekay shows [9s 9d] (Two Pair, Nines and Sixes +T)
+ROBERTO shows [Qs Qc] (Two Pair, Queens and Sixes +T)
+ROBERTO wins Main Pot (550) with Two Pair
+es2thekay finishes tournament in place #6
+** Deck ** [3s 8h 3h Qs 2s 9s 7c 5c As Qc 5s 9d 6h 7s Tc 3c 6d]
+
+Hand #128054-14 - 2017-07-04 23:11:24
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (3200)
+Seat 3: brokedummy (1625)
+Seat 4: diamond (2425)
+Seat 5: betong (1525)
+Seat 6: ROBERTO (2050)
+brokedummy has the dealer button
+diamond posts small blind 100
+betong posts big blind 200
+** Hole Cards ** [5 players]
+ROBERTO folds
+Prince raises to 400
+brokedummy folds
+diamond folds
+betong calls 200
+** Flop ** [9c 5h 8h]
+betong bets 1125 (All-in)
+Prince folds
+betong refunded 1125
+betong wins Pot (900)
+** Deck ** [Kd 8c 7s Ks 9s 3c Td Jc Jd Ac 9c 5h 8h]
+
+Hand #128057-15 - 2017-07-04 23:11:58
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (2800)
+Seat 3: brokedummy (1625)
+Seat 4: diamond (2325)
+Seat 5: betong (2025)
+Seat 6: ROBERTO (2050)
+diamond has the dealer button
+betong posts small blind 100
+ROBERTO posts big blind 200
+** Hole Cards ** [5 players]
+Prince folds
+brokedummy calls 200
+diamond folds
+betong has timed out
+betong folds
+ROBERTO checks
+** Flop ** [6d Td 8h]
+ROBERTO checks
+brokedummy bets 1425 (All-in)
+ROBERTO folds
+brokedummy refunded 1425
+brokedummy wins Pot (500)
+** Deck ** [Ah Ac 5c Th 3s 6h 3d Tc Qh 6s 6d Td 8h]
+
+Hand #128061-16 - 2017-07-04 23:13:02
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (2800)
+Seat 3: brokedummy (1925)
+Seat 4: diamond (2325)
+Seat 5: betong (1925)
+Seat 6: ROBERTO (1850)
+betong has the dealer button
+Prince posts ante 25
+brokedummy posts ante 25
+diamond posts ante 25
+betong posts ante 25
+ROBERTO posts ante 25
+ROBERTO posts small blind 100
+Prince posts big blind 200
+** Hole Cards ** [5 players]
+brokedummy raises to 1900 (All-in)
+diamond raises to 2300 (All-in)
+betong folds
+ROBERTO folds
+Prince folds
+diamond refunded 400
+** Flop ** [6d 2s Qs]
+** Turn ** [5h]
+** River ** [6c]
+** Pot Show Down ** [6d 2s Qs 5h 6c]
+brokedummy shows [Qc Ad] (Two Pair, Queens and Sixes +A)
+diamond shows [Kd Ac] (a Pair of Sixes +AKQ)
+brokedummy wins Pot (4225) with Two Pair
+** Deck ** [4c 9d Qc Kd Jh 8s Ks Ad Ac 6h 6d 2s Qs 5h 6c]
+
+Hand #128064-17 - 2017-07-04 23:13:44
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (2575)
+Seat 3: brokedummy (4225)
+Seat 4: diamond (400)
+Seat 5: betong (1900)
+Seat 6: ROBERTO (1725)
+ROBERTO has the dealer button
+Prince posts ante 25
+brokedummy posts ante 25
+diamond posts ante 25
+betong posts ante 25
+ROBERTO posts ante 25
+Prince posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [5 players]
+diamond folds
+betong folds
+ROBERTO folds
+brokedummy: "proof of luck"
+Prince folds
+brokedummy refunded 100
+brokedummy wins Pot (325)
+** Deck ** [7h 3c Td 9s 2s Ts Kc 8s Jh 6h]
+
+Hand #128067-18 - 2017-07-04 23:14:32
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (2450)
+Seat 3: brokedummy (4425)
+Seat 4: diamond (375)
+Seat 5: betong (1875)
+Seat 6: ROBERTO (1700)
+Prince has the dealer button
+Prince posts ante 25
+brokedummy posts ante 25
+diamond posts ante 25
+betong posts ante 25
+ROBERTO posts ante 25
+brokedummy posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [5 players]
+betong folds
+ROBERTO folds
+Prince folds
+brokedummy folds
+diamond refunded 100
+diamond wins Pot (325)
+** Deck ** [Jc 3s 2s 8s 3d 7h 5c Jd 9s 9c]
+
+Hand #128069-19 - 2017-07-04 23:14:56
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (2425)
+Seat 3: brokedummy (4300)
+Seat 4: diamond (575)
+Seat 5: betong (1850)
+Seat 6: ROBERTO (1675)
+brokedummy has the dealer button
+Prince posts ante 25
+brokedummy posts ante 25
+diamond posts ante 25
+betong posts ante 25
+ROBERTO posts ante 25
+diamond posts small blind 100
+betong posts big blind 200
+** Hole Cards ** [5 players]
+ROBERTO folds
+Prince folds
+brokedummy folds
+diamond raises to 550 (All-in)
+betong calls 350
+** Flop ** [Ac Qh Td]
+** Turn ** [Qs]
+** River ** [5h]
+** Pot Show Down ** [Ac Qh Td Qs 5h]
+diamond shows [Jc 6c] (a Pair of Queens +AJT)
+betong shows [Ks 3c] (a Pair of Queens +AKT)
+betong wins Pot (1225) with a Pair
+diamond finishes tournament in place #5
+** Deck ** [Jc Ks 5d 9c Th 6c 3c 8h Tc Js Ac Qh Td Qs 5h]
+
+Hand #128071-20 - 2017-07-04 23:15:33
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (2400)
+Seat 3: brokedummy (4275)
+Seat 5: betong (2500)
+Seat 6: ROBERTO (1650)
+betong has the dealer button
+Prince posts ante 25
+brokedummy posts ante 25
+betong posts ante 25
+ROBERTO posts ante 25
+ROBERTO posts small blind 100
+Prince posts big blind 200
+** Hole Cards ** [4 players]
+brokedummy folds
+betong folds
+ROBERTO calls 100
+Prince raises to 2375 (All-in)
+ROBERTO folds
+Prince refunded 2175
+Prince wins Pot (500)
+** Deck ** [3c Ah Jd Kd Ad 4d 5c 6d]
+
+Hand #128073-21 - 2017-07-04 23:16:03
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (2675)
+Seat 3: brokedummy (4250)
+Seat 5: betong (2475)
+Seat 6: ROBERTO (1425)
+ROBERTO has the dealer button
+Prince posts ante 25
+brokedummy posts ante 25
+betong posts ante 25
+ROBERTO posts ante 25
+Prince posts small blind 200
+brokedummy posts big blind 400
+** Hole Cards ** [4 players]
+betong folds
+ROBERTO calls 400
+Prince folds
+brokedummy checks
+** Flop ** [Th Qs 9s]
+brokedummy checks
+ROBERTO checks
+** Turn ** [7s]
+brokedummy checks
+ROBERTO checks
+** River ** [3s]
+brokedummy checks
+ROBERTO checks
+** Pot Show Down ** [Th Qs 9s 7s 3s]
+brokedummy shows [8h Ah] (High Card Ace +QT98)
+ROBERTO shows [Kd 5d] (High Card King +QT97)
+brokedummy wins Pot (1100) with High Card
+** Deck ** [7d 8h 6s Kd 2d Ah Ac 5d Th Qs 9s 7s 3s]
+
+Hand #128076-22 - 2017-07-04 23:17:08
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (2450)
+Seat 3: brokedummy (4925)
+Seat 5: betong (2450)
+Seat 6: ROBERTO (1000)
+Prince has the dealer button
+Prince posts ante 25
+brokedummy posts ante 25
+betong posts ante 25
+ROBERTO posts ante 25
+brokedummy posts small blind 200
+betong posts big blind 400
+** Hole Cards ** [4 players]
+ROBERTO folds
+Prince folds
+brokedummy calls 200
+betong checks
+** Flop ** [4h 8h 6c]
+brokedummy checks
+betong checks
+** Turn ** [5s]
+brokedummy checks
+betong bets 900
+brokedummy folds
+betong refunded 900
+betong wins Pot (900)
+** Deck ** [3d 2d Kd Jh Td 7d 7s 2c 4h 8h 6c 5s]
+
+Hand #128080-23 - 2017-07-04 23:18:21
+Game: NL Hold'em (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (2425)
+Seat 3: brokedummy (4500)
+Seat 5: betong (2925)
+Seat 6: ROBERTO (975)
+brokedummy has the dealer button
+Prince posts ante 25
+brokedummy posts ante 25
+betong posts ante 25
+ROBERTO posts ante 25
+betong posts small blind 200
+ROBERTO posts big blind 400
+** Hole Cards ** [4 players]
+Prince folds
+brokedummy folds
+betong calls 200
+ROBERTO checks
+** Flop ** [Qd 4h 5s]
+betong checks
+ROBERTO checks
+** Turn ** [3c]
+betong checks
+ROBERTO checks
+** River ** [Kd]
+betong checks
+ROBERTO checks
+** Pot Show Down ** [Qd 4h 5s 3c Kd]
+betong shows [3d Jh] (a Pair of Threes +KQJ)
+ROBERTO shows [7d 9h] (High Card King +Q975)
+betong wins Pot (900) with a Pair
+** Deck ** [3d 7d Kh 6s Jh 9h 9s 7h Qd 4h 5s 3c Kd]
+
+Hand #128083-24 - 2017-07-04 23:19:44
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (2400)
+Seat 3: brokedummy (4475)
+Seat 5: betong (3400)
+Seat 6: ROBERTO (550)
+betong has the dealer button
+Prince posts ante 50
+brokedummy posts ante 50
+betong posts ante 50
+ROBERTO posts ante 50
+ROBERTO posts small blind 300
+Prince posts big blind 600
+** Hole Cards ** [4 players]
+brokedummy folds
+betong folds
+ROBERTO calls 200 (All-in)
+Prince refunded 100
+** Flop ** [7h 5d 8c]
+** Turn ** [7d]
+** River ** [9d]
+** Pot Show Down ** [7h 5d 8c 7d 9d]
+Prince shows [Qc Kd] (a Pair of Sevens +KQ9)
+ROBERTO shows [Qh 4s] (a Pair of Sevens +Q98)
+Prince wins Pot (1200) with a Pair
+ROBERTO finishes tournament in place #4 and wins 200 chips
+** Deck ** [Qh Qc 6h 2s 4s Kd Th Ah 7h 5d 8c 7d 9d]
+
+Hand #128085-25 - 2017-07-04 23:20:08
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (3050)
+Seat 3: brokedummy (4425)
+Seat 5: betong (3350)
+Prince has the dealer button
+Prince posts ante 50
+brokedummy posts ante 50
+betong posts ante 50
+brokedummy posts small blind 300
+betong posts big blind 600
+** Hole Cards ** [3 players]
+Prince raises to 3000 (All-in)
+brokedummy folds
+betong calls 2400
+** Flop ** [9c 7d Ah]
+** Turn ** [Kh]
+** River ** [6d]
+** Pot Show Down ** [9c 7d Ah Kh 6d]
+Prince shows [4c Ad] (a Pair of Aces +K97)
+betong shows [Jh 3c] (High Card Ace +KJ97)
+Prince wins Pot (6450) with a Pair
+** Deck ** [2h Jh 4c 7h 3c Ad 9c 7d Ah Kh 6d]
+
+Hand #128086-26 - 2017-07-04 23:20:33
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (6450)
+Seat 3: brokedummy (4075)
+Seat 5: betong (300)
+brokedummy has the dealer button
+Prince posts ante 50
+brokedummy posts ante 50
+betong posts ante 50
+betong posts small blind 250 (All-in)
+Prince posts big blind 600
+** Hole Cards ** [3 players]
+brokedummy folds
+Prince refunded 350
+** Flop ** [2d Qh 6s]
+** Turn ** [4h]
+** River ** [9c]
+** Pot Show Down ** [2d Qh 6s 4h 9c]
+Prince shows [4c 7c] (a Pair of Fours +Q97)
+betong shows [8h 6d] (a Pair of Sixes +Q98)
+betong wins Pot (650) with a Pair
+** Deck ** [8h 4c 9d 6d 7c Tc 2d Qh 6s 4h 9c]
+
+Hand #128089-27 - 2017-07-04 23:20:50
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (6150)
+Seat 3: brokedummy (4025)
+Seat 5: betong (650)
+betong has the dealer button
+Prince posts ante 50
+brokedummy posts ante 50
+betong posts ante 50
+Prince posts small blind 300
+brokedummy posts big blind 600
+** Hole Cards ** [3 players]
+betong folds
+Prince raises to 6100 (All-in)
+brokedummy calls 3375 (All-in)
+Prince refunded 2125
+** Flop ** [2h 9h 7s]
+** Turn ** [Kh]
+** River ** [Th]
+** Pot Show Down ** [2h 9h 7s Kh Th]
+Prince shows [Kd Jh] (a Flush, King high +JT92)
+brokedummy shows [7h 7d] (a Flush, King high +T972)
+Prince wins Pot (8100) with a Flush
+brokedummy finishes tournament in place #3 and wins 400 chips
+** Deck ** [Kd 7h 5s Jh 7d 3s 2h 9h 7s Kh Th]
+
+Hand #128091-28 - 2017-07-04 23:21:14
+Game: NL Hold'em (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 1
+Seat 1: Prince (10225)
+Seat 5: betong (600)
+Prince has the dealer button
+Prince posts ante 50
+betong posts ante 50
+Prince posts small blind 300
+betong posts big blind 550 (All-in)
+** Hole Cards ** [2 players]
+Prince calls 300
+Prince refunded 50
+** Flop ** [7d Ks 7h]
+** Turn ** [6c]
+** River ** [6h]
+** Pot Show Down ** [7d Ks 7h 6c 6h]
+Prince shows [Ah Kd] (Two Pair, Kings and Sevens +A)
+betong shows [2h 8c] (Two Pair, Sevens and Sixes +K)
+Prince wins Pot (1200) with Two Pair
+betong finishes tournament in place #2 and wins 600 chips
+Prince finishes tournament in place #1 and wins 800 chips
+** Deck ** [2h Ah 8c Kd 7d Ks 7h 6c 6h]
+
