@@ -1,0 +1,191 @@
+﻿Starting tournament 2351
+
+Hand #128106-1 - 2017-07-05 00:00:37
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: CoinDoctor (1500)
+Seat 2: tuan (1500)
+Seat 4: Defecator (1500) - sitting out
+Seat 6: betong (1500)
+CoinDoctor has the dealer button
+tuan posts small blind 25
+Defecator posts big blind 50
+** Hole Cards ** [4 players]
+betong folds
+CoinDoctor calls 50
+tuan folds
+Defecator checks
+** Flop ** [2s 5c 6c]
+Defecator bets 125
+CoinDoctor calls 125
+** Turn ** [4c]
+Defecator checks
+CoinDoctor checks
+** River ** [Ks]
+Defecator bets 375
+CoinDoctor folds
+Defecator refunded 375
+Defecator wins Pot (375)
+** Deck ** [6s Ac Kd Jh 4d 3d 8c Qh 2c Qc Th Jc Td Tc 9c 7h 2s 5c 6c 4c Ks]
+
+Hand #128109-2 - 2017-07-05 00:01:45
+Game: PL Omaha (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: CoinDoctor (1325)
+Seat 2: tuan (1475)
+Seat 4: Defecator (1700)
+Seat 6: betong (1500)
+tuan has the dealer button
+Defecator posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [4 players]
+CoinDoctor raises to 100
+tuan folds
+Defecator calls 75
+betong has timed out
+betong folds
+** Flop ** [Jc 6c Qs]
+Defecator checks
+CoinDoctor checks
+** Turn ** [2c]
+Defecator bets 125
+CoinDoctor calls 125
+** River ** [Kh]
+Defecator bets 200
+CoinDoctor calls 200
+** Pot Show Down ** [Jc 6c Qs 2c Kh]
+CoinDoctor shows [6d 3c Ks Ah] (Two Pair, Kings and Sixes +Q)
+Defecator shows [8h 7h 8s 3h] (a Pair of Eights +KQJ)
+CoinDoctor wins Pot (900) with Two Pair
+** Deck ** [8h 9d 6d Ac 7h 5c 3c 2s 8s 8d Ks 4d 3h Tc Ah Td Jc 6c Qs 2c Kh]
+
+Hand #128114-3 - 2017-07-05 00:03:48
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: CoinDoctor (1800)
+Seat 2: tuan (1475)
+Seat 4: Defecator (1275)
+Seat 6: betong (1450)
+Defecator has the dealer button
+betong posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [4 players]
+tuan calls 100
+Defecator calls 100
+betong calls 50
+CoinDoctor checks
+** Flop ** [8h 6c Ts]
+betong checks
+CoinDoctor checks
+tuan checks
+Defecator bets 200
+betong calls 200
+CoinDoctor calls 200
+tuan folds
+** Turn ** [3d]
+betong checks
+CoinDoctor checks
+Defecator bets 600
+betong folds
+CoinDoctor calls 600
+** River ** [7d]
+CoinDoctor checks
+Defecator bets 300
+CoinDoctor calls 300
+** Pot Show Down ** [8h 6c Ts 3d 7d]
+CoinDoctor shows [Kc Qd Qh Qc] (a Pair of Queens +T87)
+Defecator shows [Kd 9h 8d Th] (a Straight, Six to Ten)
+Defecator wins Pot (2800) with a Straight
+** Deck ** [2s Kc Js Kd Ad Qd Qs 9h 8s Qh 4h 8d 5h Qc Ac Th 8h 6c Ts 3d 7d]
+
+Hand #128121-4 - 2017-07-05 00:06:19
+Game: PL Omaha (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: CoinDoctor (600)
+Seat 2: tuan (1375)
+Seat 4: Defecator (2875)
+Seat 6: betong (1150)
+betong has the dealer button
+CoinDoctor posts small blind 50
+tuan posts big blind 100
+** Hole Cards ** [4 players]
+Defecator folds
+betong raises to 200
+CoinDoctor folds
+tuan calls 100
+** Flop ** [6h Qs 3c]
+tuan bets 450
+betong raises to 950 (All-in)
+tuan calls 500
+** Turn ** [Kh]
+** River ** [Td]
+** Pot Show Down ** [6h Qs 3c Kh Td]
+tuan shows [5h 6c 3h As] (Two Pair, Sixes and Threes +K)
+betong shows [5d 2h 6d 5s] (a Pair of Sixes +KQ5)
+tuan wins Pot (2350) with Two Pair
+betong finishes tournament in place #8
+** Deck ** [2d 5h Jh 5d Jc 6c 2c 2h 7s 3h 5c 6d 9h As Ts 5s 6h Qs 3c Kh Td]
+
+Hand #128123-5 - 2017-07-05 00:07:20
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: CoinDoctor (550)
+Seat 2: tuan (2575)
+Seat 4: Defecator (2875)
+CoinDoctor has the dealer button
+tuan posts small blind 75
+Defecator posts big blind 150
+** Hole Cards ** [3 players]
+CoinDoctor folds
+tuan calls 75
+Defecator checks
+** Flop ** [Th 2c Js]
+tuan bets 300
+Defecator folds
+tuan refunded 300
+tuan wins Pot (300)
+** Deck ** [Jc 9h Qc 7h 3h 6s 2s 9s 8h 8s As 6h Th 2c Js]
+
+Hand #128125-6 - 2017-07-05 00:08:02
+Game: PL Omaha (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll B PLO 2000 - Table 2
+Seat 1: CoinDoctor (550)
+Seat 2: tuan (2725)
+Seat 4: Defecator (2725)
+tuan has the dealer button
+Defecator posts small blind 75
+CoinDoctor posts big blind 150
+** Hole Cards ** [3 players]
+tuan calls 150
+Defecator calls 75
+CoinDoctor checks
+** Flop ** [Jh Tc 5c]
+Defecator checks
+CoinDoctor checks
+tuan checks
+** Turn ** [4s]
+Defecator bets 300
+CoinDoctor has timed out
+CoinDoctor folds
+tuan calls 300
+** River ** [Kc]
+Defecator checks
+tuan checks
+** Pot Show Down ** [Jh Tc 5c 4s Kc]
+tuan shows [Th 9s 8c Kh] (Two Pair, Kings and Tens +J)
+Defecator shows [5h 2s 4h Ah] (Two Pair, Fives and Fours +K)
+tuan wins Pot (1050) with Two Pair
+** Deck ** [5h 7s Th 2s Ad 9s 4h 6s 8c Ah 2d Kh Jh Tc 5c 4s Kc]
+
+tuan moved to Table 1
+
+Defecator moved to Table 1
+
+CoinDoctor moved to Table 1
+
