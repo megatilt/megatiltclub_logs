@@ -1,0 +1,467 @@
+﻿Starting tournament 2398
+
+Hand #130007-1 - 2017-07-06 23:00:36
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (1500) - sitting out
+Seat 3: bestlooser (1500)
+Seat 5: ROBERTO (1500)
+Seat 6: brokedummy (1500)
+CoinDoctor has the dealer button
+bestlooser posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [4 players]
+brokedummy folds
+CoinDoctor folds
+bestlooser calls 25
+ROBERTO checks
+** Flop ** [8d 7s 3d]
+bestlooser checks
+ROBERTO checks
+** Turn ** [6h]
+bestlooser bets 50
+ROBERTO calls 50
+** River ** [7d]
+bestlooser checks
+ROBERTO checks
+** Pot Show Down ** [8d 7s 3d 6h 7d]
+bestlooser shows [8h 5c] (Two Pair, Eights and Sevens +6)
+ROBERTO shows [6c Kc] (Two Pair, Sevens and Sixes +K)
+bestlooser wins Pot (200) with Two Pair
+** Deck ** [8h 6c 3h Kh 5c Kc 6d 2h 8d 7s 3d 6h 7d]
+
+Hand #130011-2 - 2017-07-06 23:01:19
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (1500) - sitting out
+Seat 3: bestlooser (1600)
+Seat 5: ROBERTO (1400)
+Seat 6: brokedummy (1500)
+bestlooser has the dealer button
+ROBERTO posts small blind 25
+brokedummy posts big blind 50
+** Hole Cards ** [4 players]
+CoinDoctor folds
+bestlooser folds
+ROBERTO calls 25
+brokedummy checks
+** Flop ** [6h Jd 3h]
+ROBERTO checks
+brokedummy bets 50
+ROBERTO folds
+brokedummy refunded 50
+brokedummy wins Pot (100)
+** Deck ** [4c 8s 4s 5d 4d Kc 3s Ac 6h Jd 3h]
+
+Hand #130013-3 - 2017-07-06 23:01:59
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (1500) - sitting out
+Seat 3: bestlooser (1600)
+Seat 5: ROBERTO (1350)
+Seat 6: brokedummy (1550)
+ROBERTO has the dealer button
+brokedummy posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [4 players]
+bestlooser folds
+ROBERTO folds
+brokedummy calls 25
+CoinDoctor folds
+brokedummy wins Pot (100)
+** Deck ** [Td As 5d Jh Kd Th Qs 5s]
+
+Hand #130014-4 - 2017-07-06 23:02:16
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (1450) - sitting out
+Seat 3: bestlooser (1600)
+Seat 5: ROBERTO (1350)
+Seat 6: brokedummy (1600)
+brokedummy has the dealer button
+CoinDoctor posts small blind 25
+bestlooser posts big blind 50
+** Hole Cards ** [4 players]
+ROBERTO folds
+brokedummy folds
+CoinDoctor calls 25
+bestlooser checks
+** Flop ** [Kd 6c Jd]
+CoinDoctor checks
+bestlooser bets 50
+CoinDoctor folds
+bestlooser refunded 50
+bestlooser wins Pot (100)
+** Deck ** [2d Ac 2h Th 4s Ks 4h 4c Kd 6c Jd]
+
+Hand #130016-5 - 2017-07-06 23:02:55
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (1400)
+Seat 3: bestlooser (1650)
+Seat 5: ROBERTO (1350)
+Seat 6: brokedummy (1600)
+CoinDoctor has the dealer button
+bestlooser posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [4 players]
+brokedummy folds
+CoinDoctor calls 50
+bestlooser calls 25
+ROBERTO checks
+** Flop ** [As 5d Tc]
+bestlooser checks
+ROBERTO checks
+CoinDoctor bets 150
+bestlooser folds
+ROBERTO folds
+CoinDoctor refunded 150
+CoinDoctor wins Pot (150)
+** Deck ** [Jc 6d Qh Ah 5c 7d 4h 6s As 5d Tc]
+
+Hand #130018-6 - 2017-07-06 23:03:57
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (1500)
+Seat 3: bestlooser (1600)
+Seat 5: ROBERTO (1300)
+Seat 6: brokedummy (1600)
+bestlooser has the dealer button
+ROBERTO posts small blind 50
+brokedummy posts big blind 100
+** Hole Cards ** [4 players]
+CoinDoctor calls 100
+bestlooser calls 100
+ROBERTO folds
+brokedummy checks
+** Flop ** [Jh 7c 2h]
+brokedummy bets 175
+CoinDoctor folds
+bestlooser calls 175
+** Turn ** [Th]
+brokedummy checks
+bestlooser bets 300
+brokedummy calls 300
+** River ** [9d]
+brokedummy checks
+bestlooser bets 700
+brokedummy calls 700
+** Pot Show Down ** [Jh 7c 2h Th 9d]
+bestlooser shows [Ah Qh] (a Flush, Ace high +QJT2)
+brokedummy shows [3h Jd] (a Pair of Jacks +T97)
+bestlooser wins Pot (2700) with a Flush
+** Deck ** [Js 3h 5c Ah 8c Jd 3c Qh Jh 7c 2h Th 9d]
+
+Hand #130020-7 - 2017-07-06 23:05:25
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (1400)
+Seat 3: bestlooser (3025)
+Seat 5: ROBERTO (1250)
+Seat 6: brokedummy (325)
+ROBERTO has the dealer button
+brokedummy posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [4 players]
+bestlooser folds
+ROBERTO folds
+brokedummy folds
+CoinDoctor refunded 50
+CoinDoctor wins Pot (100)
+** Deck ** [9h 7c Kd 2c 2h Ah Jh 4c]
+
+Hand #130022-8 - 2017-07-06 23:05:43
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (1450)
+Seat 3: bestlooser (3025)
+Seat 5: ROBERTO (1250)
+Seat 6: brokedummy (275)
+brokedummy has the dealer button
+CoinDoctor posts small blind 50
+bestlooser posts big blind 100
+** Hole Cards ** [4 players]
+ROBERTO calls 100
+brokedummy raises to 275 (All-in)
+CoinDoctor calls 225
+bestlooser folds
+ROBERTO calls 175
+** Flop ** [Tc 9h 7d]
+CoinDoctor checks
+ROBERTO checks
+** Turn ** [2h]
+CoinDoctor checks
+ROBERTO checks
+** River ** [9d]
+CoinDoctor checks
+ROBERTO checks
+** Pot Show Down ** [Tc 9h 7d 2h 9d]
+CoinDoctor shows [Ad Qc] (a Pair of Nines +AQT)
+ROBERTO shows [8d Ac] (a Pair of Nines +AT8)
+brokedummy shows [Qd Td] (Two Pair, Tens and Nines +Q)
+brokedummy wins Pot (925) with Two Pair
+** Deck ** [Ad 3d 8d Qd Qc 4h Ac Td Tc 9h 7d 2h 9d]
+
+Hand #130024-9 - 2017-07-06 23:06:44
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (1175)
+Seat 3: bestlooser (2925)
+Seat 5: ROBERTO (975)
+Seat 6: brokedummy (925)
+CoinDoctor has the dealer button
+bestlooser posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [4 players]
+brokedummy raises to 925 (All-in)
+CoinDoctor folds
+bestlooser calls 850
+ROBERTO folds
+** Flop ** [9c 2h 3c]
+** Turn ** [4h]
+** River ** [6d]
+** Pot Show Down ** [9c 2h 3c 4h 6d]
+bestlooser shows [Ad Js] (High Card Ace +J964)
+brokedummy shows [Kh Ah] (High Card Ace +K964)
+brokedummy wins Pot (2000) with High Card
+** Deck ** [Ad 8s Kh 3h Js 4s Ah Td 9c 2h 3c 4h 6d]
+
+Hand #130025-10 - 2017-07-06 23:07:26
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (1175)
+Seat 3: bestlooser (2000)
+Seat 5: ROBERTO (825)
+Seat 6: brokedummy (2000)
+bestlooser has the dealer button
+ROBERTO posts small blind 75
+brokedummy posts big blind 150
+** Hole Cards ** [4 players]
+CoinDoctor folds
+bestlooser folds
+ROBERTO folds
+brokedummy refunded 75
+brokedummy wins Pot (150)
+** Deck ** [7c Kc 5s As 2d 2s 6h 3h]
+
+Hand #130026-11 - 2017-07-06 23:07:38
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (1175)
+Seat 3: bestlooser (2000)
+Seat 5: ROBERTO (750)
+Seat 6: brokedummy (2075)
+ROBERTO has the dealer button
+brokedummy posts small blind 75
+CoinDoctor posts big blind 150
+** Hole Cards ** [4 players]
+bestlooser folds
+ROBERTO folds
+brokedummy calls 75
+CoinDoctor raises to 1175 (All-in)
+brokedummy folds
+CoinDoctor refunded 1025
+CoinDoctor wins Pot (300)
+** Deck ** [Qd Qh 6h 3d 3c As 7d 4d]
+
+Hand #130028-12 - 2017-07-06 23:08:11
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (1325)
+Seat 3: bestlooser (2000)
+Seat 5: ROBERTO (750)
+Seat 6: brokedummy (1925)
+brokedummy has the dealer button
+CoinDoctor posts small blind 75
+bestlooser posts big blind 150
+** Hole Cards ** [4 players]
+ROBERTO folds
+brokedummy raises to 300
+CoinDoctor calls 225
+bestlooser calls 150
+** Flop ** [Ad 4c Qs]
+CoinDoctor checks
+bestlooser checks
+brokedummy checks
+** Turn ** [Jd]
+CoinDoctor bets 450
+bestlooser calls 450
+brokedummy folds
+** River ** [9d]
+CoinDoctor checks
+bestlooser bets 600
+CoinDoctor folds
+bestlooser refunded 600
+bestlooser wins Pot (1800)
+** Deck ** [3h 5d 9h Jc As 4d 6s Ks Ad 4c Qs Jd 9d]
+
+Hand #130031-13 - 2017-07-06 23:09:17
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (575)
+Seat 3: bestlooser (3050)
+Seat 5: ROBERTO (750)
+Seat 6: brokedummy (1625)
+CoinDoctor has the dealer button
+bestlooser posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [4 players]
+brokedummy folds
+CoinDoctor folds
+bestlooser calls 75
+ROBERTO checks
+** Flop ** [Tc Jh 8s]
+bestlooser checks
+ROBERTO checks
+** Turn ** [3s]
+bestlooser checks
+ROBERTO checks
+** River ** [8h]
+bestlooser checks
+ROBERTO checks
+** Pot Show Down ** [Tc Jh 8s 3s 8h]
+bestlooser shows [Kc 9d] (a Pair of Eights +KJT)
+ROBERTO shows [4d 5d] (a Pair of Eights +JT5)
+bestlooser wins Pot (300) with a Pair
+** Deck ** [Kc 4d 6h 9s 9d 5d 2h Qc Tc Jh 8s 3s 8h]
+
+Hand #130035-14 - 2017-07-06 23:10:41
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (575)
+Seat 3: bestlooser (3200)
+Seat 5: ROBERTO (600)
+Seat 6: brokedummy (1625)
+bestlooser has the dealer button
+ROBERTO posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [4 players]
+CoinDoctor folds
+bestlooser raises to 3200 (All-in)
+ROBERTO folds
+brokedummy folds and shows [Ad Tc]
+bestlooser refunded 3000
+bestlooser wins Pot (500)
+** Deck ** [4h Ad 3s Ah 5s Tc 4d Jc]
+
+Hand #130036-15 - 2017-07-06 23:11:16
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (575)
+Seat 3: bestlooser (3500)
+Seat 5: ROBERTO (500)
+Seat 6: brokedummy (1425)
+ROBERTO has the dealer button
+brokedummy posts small blind 100
+CoinDoctor posts big blind 200
+** Hole Cards ** [4 players]
+bestlooser folds
+ROBERTO folds
+brokedummy folds
+CoinDoctor refunded 100
+CoinDoctor wins Pot (200)
+** Deck ** [6s Qc 3d 7d 8c 7c 6d Kh]
+
+Hand #130038-16 - 2017-07-06 23:11:35
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (675)
+Seat 3: bestlooser (3500)
+Seat 5: ROBERTO (500)
+Seat 6: brokedummy (1325)
+brokedummy has the dealer button
+CoinDoctor posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [4 players]
+ROBERTO folds
+brokedummy folds
+CoinDoctor folds
+bestlooser refunded 100
+bestlooser wins Pot (200)
+** Deck ** [8h Ts Qc 6d 2d 6s 7d Js]
+
+Hand #130039-17 - 2017-07-06 23:12:04
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (575)
+Seat 3: bestlooser (3600)
+Seat 5: ROBERTO (500)
+Seat 6: brokedummy (1325)
+CoinDoctor has the dealer button
+bestlooser posts small blind 100
+ROBERTO posts big blind 200
+** Hole Cards ** [4 players]
+brokedummy folds
+CoinDoctor folds
+bestlooser calls 100
+ROBERTO checks
+** Flop ** [9h 7s 2d]
+bestlooser checks
+ROBERTO checks
+** Turn ** [6d]
+bestlooser checks
+ROBERTO checks
+** River ** [Kh]
+bestlooser checks
+ROBERTO checks
+** Pot Show Down ** [9h 7s 2d 6d Kh]
+bestlooser shows [Qs Th] (High Card King +QT97)
+ROBERTO shows [Js 3s] (High Card King +J976)
+bestlooser wins Pot (400) with High Card
+** Deck ** [Qs Js 7h Kc Th 3s 4c 8c 9h 7s 2d 6d Kh]
+
+Hand #130042-18 - 2017-07-06 23:12:46
+Game: NL Hold'em (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: CoinDoctor (575)
+Seat 3: bestlooser (3800)
+Seat 5: ROBERTO (300)
+Seat 6: brokedummy (1325)
+bestlooser has the dealer button
+CoinDoctor posts ante 25
+bestlooser posts ante 25
+ROBERTO posts ante 25
+brokedummy posts ante 25
+ROBERTO posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [4 players]
+CoinDoctor raises to 550 (All-in)
+bestlooser folds
+ROBERTO calls 175 (All-in)
+brokedummy calls 350
+** Flop ** [3c 8h Th]
+** Turn ** [4c]
+** River ** [Tc]
+** Side Pot 1 Show Down ** [3c 8h Th 4c Tc]
+CoinDoctor shows [Kh Qc] (a Pair of Tens +KQ8)
+brokedummy shows [Qs 4h] (Two Pair, Tens and Fours +Q)
+brokedummy wins Side Pot 1 (550) with Two Pair
+** Main Pot Show Down ** [3c 8h Th 4c Tc]
+ROBERTO shows [Js Ad] (a Pair of Tens +AJ8)
+brokedummy wins Main Pot (925) with Two Pair
+ROBERTO finishes tournament in place #7
+CoinDoctor finishes tournament in place #6
+** Deck ** [Js Qs Kh 6c Ad 4h Qc 6s 3c 8h Th 4c Tc]
+
+bestlooser moved to Table 1
+
+brokedummy moved to Table 1
+
