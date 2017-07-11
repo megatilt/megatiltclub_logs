@@ -1,0 +1,1860 @@
+﻿2017-07-09 00:00:04|Table|tuan joins Freeroll B PLO 2000 - Table 1
+2017-07-09 00:00:04|Table|ROBERTO joins Freeroll B PLO 2000 - Table 1
+2017-07-09 00:00:04|Table|Prince joins Freeroll B PLO 2000 - Table 1
+2017-07-09 00:00:04|Table|Numerous64 joins Freeroll B PLO 2000 - Table 1
+2017-07-09 00:01:46|Logout|Numerous64 logged out session 00002BEC, PC 64844F73
+2017-07-09 00:05:54|Login|CoinDoctor logged into session 00002BEF from IP 68.228.21.153, PC A66C1F5C
+2017-07-09 00:06:22|Account|CoinDoctor -2500 balance 44242.03 (PLO 05A)
+2017-07-09 00:06:22|Table|CoinDoctor joins PLO 05A
+2017-07-09 00:06:25|Login|diamond logged into session 00002BED from IP 221.17.214.155, PC D23A83BC
+2017-07-09 00:07:04|System|Traffic - Seconds: 600, Bytes in: 19536, Bytes out: 957392, Total: 976928
+2017-07-09 00:08:37|Account|CoinDoctor +2500 balance 46742.03 (PLO 05A)
+2017-07-09 00:08:37|Table|CoinDoctor leaves PLO 05A
+2017-07-09 00:10:20|Account|ROBERTO +400 balance 192180.16 (Freeroll B PLO 2000)
+2017-07-09 00:13:40|Account|Prince +600 balance 315633.72 (Freeroll B PLO 2000)
+2017-07-09 00:13:40|Account|tuan +1000 balance 111669.74 (Freeroll B PLO 2000)
+2017-07-09 00:17:04|System|Traffic - Seconds: 600, Bytes in: 11761, Bytes out: 449574, Total: 461335
+2017-07-09 00:17:37|Connect|tuan disconnects session 00002BF0, PC D4595F0E
+2017-07-09 00:20:04|Connect|Connection 00002BF0 expired for tuan, PC D4595F0E
+2017-07-09 00:20:14|Account|CoinDoctor -2500 balance 44242.03 (PLO 05A)
+2017-07-09 00:20:14|Table|CoinDoctor joins PLO 05A
+2017-07-09 00:20:38|Connect|CoinDoctor disconnects session 00002BEF, PC A66C1F5C
+2017-07-09 00:20:40|Connect|CoinDoctor reconnects session 00002BEF
+2017-07-09 00:27:04|System|Traffic - Seconds: 600, Bytes in: 1216, Bytes out: 27390, Total: 28606
+2017-07-09 00:27:17|Connect|Connection 00002BF1 accepted from IP 68.228.21.153, PC A66C1F5C
+2017-07-09 00:28:04|Connect|Connection 00002BF2 accepted from IP 68.228.21.153, PC A66C1F5C
+2017-07-09 00:32:48|Connect|IP 68.228.21.153 disconnects session 00002BF1, PC A66C1F5C
+2017-07-09 00:32:51|Connect|IP 68.228.21.153 disconnects session 00002BF2, PC A66C1F5C
+2017-07-09 00:33:42|Account|betong -0 balance 157298.05 (Freeroll C PLO8 2000)
+2017-07-09 00:33:42|Table|betong registers for Freeroll C PLO8 2000
+2017-07-09 00:35:04|Connect|Connection 00002BF1 expired for IP 68.228.21.153, PC A66C1F5C
+2017-07-09 00:35:04|Connect|Connection 00002BF2 expired for IP 68.228.21.153, PC A66C1F5C
+2017-07-09 00:36:59|Account|diamond -0 balance 225143.50 (Freeroll C PLO8 2000)
+2017-07-09 00:36:59|Table|diamond registers for Freeroll C PLO8 2000
+2017-07-09 00:37:04|System|Traffic - Seconds: 600, Bytes in: 2620, Bytes out: 41540, Total: 44160
+2017-07-09 00:39:30|Connect|AlphaWolf disconnects session 00002BDA, PC D1769071
+2017-07-09 00:40:56|Account|rodmouvi -2500 balance 5888.46 (PLO 05A)
+2017-07-09 00:40:56|Table|rodmouvi joins PLO 05A
+2017-07-09 00:41:42|Rake|Rake account +5 balance 809927.45 (PLO 05A)
+2017-07-09 00:41:47|Account|Prince -0 balance 315633.72 (Freeroll C PLO8 2000)
+2017-07-09 00:41:47|Table|Prince registers for Freeroll C PLO8 2000
+2017-07-09 00:42:04|Connect|Connection 00002BDA expired for AlphaWolf, PC D1769071
+2017-07-09 00:42:37|Rake|Rake account +7.35 balance 809934.80 (PLO 05A)
+2017-07-09 00:43:08|Rake|Rake account +7.50 balance 809942.30 (PLO 05A)
+2017-07-09 00:44:03|Rake|Rake account +29.10 balance 809971.40 (PLO 05A)
+2017-07-09 00:44:37|Rake|Rake account +2.50 balance 809973.90 (PLO 05A)
+2017-07-09 00:45:05|Connect|Connection 00002BF3 accepted from IP 42.98.45.50, PC D4595F0E
+2017-07-09 00:45:13|Login|tuan logged into session 00002BF3 from IP 42.98.45.50, PC D4595F0E
+2017-07-09 00:45:20|Account|tuan -0 balance 111669.74 (Freeroll C PLO8 2000)
+2017-07-09 00:45:20|Table|tuan registers for Freeroll C PLO8 2000
+2017-07-09 00:45:23|Rake|Rake account +7.50 balance 809981.40 (PLO 05A)
+2017-07-09 00:46:13|Rake|Rake account +10 balance 809991.40 (PLO 05A)
+2017-07-09 00:46:56|Rake|Rake account +2.50 balance 809993.90 (PLO 05A)
+2017-07-09 00:47:04|System|Traffic - Seconds: 600, Bytes in: 11173, Bytes out: 289218, Total: 300391
+2017-07-09 00:47:34|Rake|Rake account +2.50 balance 809996.40 (PLO 05A)
+2017-07-09 00:48:15|Rake|Rake account +5 balance 810001.40 (PLO 05A)
+2017-07-09 00:49:04|Rake|Rake account +2.50 balance 810003.90 (PLO 05A)
+2017-07-09 00:49:36|Rake|Rake account +2.50 balance 810006.40 (PLO 05A)
+2017-07-09 00:50:31|Rake|Rake account +5 balance 810011.40 (PLO 05A)
+2017-07-09 00:51:50|Rake|Rake account +12.50 balance 810023.90 (PLO 05A)
+2017-07-09 00:52:53|Rake|Rake account +12.50 balance 810036.40 (PLO 05A)
+2017-07-09 00:53:31|Rake|Rake account +2.50 balance 810038.90 (PLO 05A)
+2017-07-09 00:54:24|Rake|Rake account +7.50 balance 810046.40 (PLO 05A)
+2017-07-09 00:55:10|Rake|Rake account +5 balance 810051.40 (PLO 05A)
+2017-07-09 00:55:52|Rake|Rake account +7.50 balance 810058.90 (PLO 05A)
+2017-07-09 00:56:37|Rake|Rake account +10 balance 810068.90 (PLO 05A)
+2017-07-09 00:57:04|System|Traffic - Seconds: 600, Bytes in: 12536, Bytes out: 434193, Total: 446729
+2017-07-09 00:57:24|Rake|Rake account +2.50 balance 810071.40 (PLO 05A)
+2017-07-09 00:58:24|Account|tuan -2500 balance 109169.74 (PLO 05A)
+2017-07-09 00:58:24|Table|tuan joins PLO 05A
+2017-07-09 00:58:25|Rake|Rake account +5 balance 810076.40 (PLO 05A)
+2017-07-09 00:59:35|Rake|Rake account +7.50 balance 810083.90 (PLO 05A)
+2017-07-09 01:00:04|Table|Prince joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 01:00:04|Table|tuan joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 01:00:04|Table|betong joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 01:00:04|Table|diamond joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 01:00:58|Rake|Rake account +48.15 balance 810132.05 (PLO 05A)
+2017-07-09 01:02:13|Account|tuan -7.50 balance 109162.24 (PLO 05A)
+2017-07-09 01:02:33|Account|tuan -25 balance 109137.24 (PLO 05A)
+2017-07-09 01:04:26|Rake|Rake account +7.35 balance 810139.40 (PLO 05A)
+2017-07-09 01:05:10|Account|tuan -250 balance 108887.24 (PLO 05A)
+2017-07-09 01:05:21|Rake|Rake account +18.75 balance 810158.15 (PLO 05A)
+2017-07-09 01:06:30|Account|tuan -50 balance 108837.24 (PLO 05A)
+2017-07-09 01:06:34|Rake|Rake account +2.50 balance 810160.65 (PLO 05A)
+2017-07-09 01:07:04|System|Traffic - Seconds: 600, Bytes in: 19606, Bytes out: 781937, Total: 801543
+2017-07-09 01:07:37|Account|tuan -150 balance 108687.24 (PLO 05A)
+2017-07-09 01:07:41|Rake|Rake account +8.75 balance 810169.40 (PLO 05A)
+2017-07-09 01:08:35|Rake|Rake account +7.50 balance 810176.90 (PLO 05A)
+2017-07-09 01:09:56|Rake|Rake account +10 balance 810186.90 (PLO 05A)
+2017-07-09 01:11:23|Rake|Rake account +5.60 balance 810192.50 (PLO 05A)
+2017-07-09 01:12:40|Rake|Rake account +13.10 balance 810205.60 (PLO 05A)
+2017-07-09 01:13:45|Rake|Rake account +5 balance 810210.60 (PLO 05A)
+2017-07-09 01:15:22|Rake|Rake account +3.75 balance 810214.35 (PLO 05A)
+2017-07-09 01:16:59|Rake|Rake account +5 balance 810219.35 (PLO 05A)
+2017-07-09 01:17:04|System|Traffic - Seconds: 600, Bytes in: 20432, Bytes out: 884616, Total: 905048
+2017-07-09 01:18:02|Rake|Rake account +2.50 balance 810221.85 (PLO 05A)
+2017-07-09 01:18:51|Account|diamond +400 balance 225543.50 (Freeroll C PLO8 2000)
+2017-07-09 01:19:00|Rake|Rake account +2.50 balance 810224.35 (PLO 05A)
+2017-07-09 01:20:47|Rake|Rake account +3.75 balance 810228.10 (PLO 05A)
+2017-07-09 01:22:33|Rake|Rake account +11.05 balance 810239.15 (PLO 05A)
+2017-07-09 01:23:34|Account|tuan +600 balance 109287.24 (Freeroll C PLO8 2000)
+2017-07-09 01:23:34|Account|Prince +1000 balance 316633.72 (Freeroll C PLO8 2000)
+2017-07-09 01:23:45|Rake|Rake account +16.25 balance 810255.40 (PLO 05A)
+2017-07-09 01:24:43|Account|tuan -54.35 balance 109232.89 (PLO 05A)
+2017-07-09 01:24:48|Rake|Rake account +13.10 balance 810268.50 (PLO 05A)
+2017-07-09 01:25:39|Account|tuan -50 balance 109182.89 (PLO 05A)
+2017-07-09 01:25:40|Rake|Rake account +3.10 balance 810271.60 (PLO 05A)
+2017-07-09 01:26:39|Rake|Rake account +15 balance 810286.60 (PLO 05A)
+2017-07-09 01:27:04|System|Traffic - Seconds: 600, Bytes in: 17395, Bytes out: 738399, Total: 755794
+2017-07-09 01:27:26|Rake|Rake account +3.75 balance 810290.35 (PLO 05A)
+2017-07-09 01:28:15|Rake|Rake account +7.50 balance 810297.85 (PLO 05A)
+2017-07-09 01:28:35|Connect|Prince disconnects session 00002BE8, PC C93B235F
+2017-07-09 01:29:05|Rake|Rake account +3.10 balance 810300.95 (PLO 05A)
+2017-07-09 01:29:58|Account|tuan +2735 balance 111917.89 (PLO 05A)
+2017-07-09 01:29:58|Table|tuan leaves PLO 05A
+2017-07-09 01:30:07|Rake|Rake account +8.75 balance 810309.70 (PLO 05A)
+2017-07-09 01:30:09|Account|CoinDoctor +2563.63 balance 46805.66 (PLO 05A)
+2017-07-09 01:30:09|Table|CoinDoctor leaves PLO 05A
+2017-07-09 01:30:12|Connect|tuan disconnects session 00002BF3, PC D4595F0E
+2017-07-09 01:30:17|Account|rodmouvi +2400.97 balance 8289.43 (PLO 05A)
+2017-07-09 01:30:17|Table|rodmouvi leaves PLO 05A
+2017-07-09 01:30:36|Connect|CoinDoctor disconnects session 00002BEF, PC A66C1F5C
+2017-07-09 01:31:04|Connect|Connection 00002BE8 expired for Prince, PC C93B235F
+2017-07-09 01:33:04|Connect|Connection 00002BEF expired for CoinDoctor, PC A66C1F5C
+2017-07-09 01:33:04|Connect|Connection 00002BF3 expired for tuan, PC D4595F0E
+2017-07-09 01:37:03|Account|betong -0 balance 157298.05 (Freeroll D NLO8 2000)
+2017-07-09 01:37:03|Table|betong registers for Freeroll D NLO8 2000
+2017-07-09 01:37:04|System|Traffic - Seconds: 600, Bytes in: 5869, Bytes out: 157833, Total: 163702
+2017-07-09 01:37:57|Account|diamond -0 balance 225543.50 (Freeroll D NLO8 2000)
+2017-07-09 01:37:57|Table|diamond registers for Freeroll D NLO8 2000
+2017-07-09 01:45:39|Account|ROBERTO -0 balance 192180.16 (Freeroll D NLO8 2000)
+2017-07-09 01:45:39|Table|ROBERTO registers for Freeroll D NLO8 2000
+2017-07-09 01:47:04|System|Traffic - Seconds: 600, Bytes in: 680, Bytes out: 12473, Total: 13153
+2017-07-09 01:48:18|Account|New account created for just_Alice
+2017-07-09 01:48:28|Account|rodmouvi -0 balance 8289.43 (Freeroll D NLO8 2000)
+2017-07-09 01:48:28|Table|rodmouvi registers for Freeroll D NLO8 2000
+2017-07-09 01:57:04|System|Traffic - Seconds: 600, Bytes in: 314, Bytes out: 9853, Total: 10167
+2017-07-09 02:00:04|Table|ROBERTO joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 02:00:04|Table|diamond joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 02:00:04|Table|betong joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 02:00:04|Table|rodmouvi joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 02:06:33|Account|diamond +400 balance 225943.50 (Freeroll D NLO8 2000)
+2017-07-09 02:07:04|System|Traffic - Seconds: 600, Bytes in: 8015, Bytes out: 433846, Total: 441861
+2017-07-09 02:07:25|Connect|Connection 00002BF4 accepted from IP 73.102.44.186, PC EC60DA7A
+2017-07-09 02:07:41|Connect|IP 73.102.44.186 disconnects session 00002BF4, PC EC60DA7A
+2017-07-09 02:07:47|Account|ROBERTO +600 balance 192780.16 (Freeroll D NLO8 2000)
+2017-07-09 02:07:47|Account|betong +1000 balance 158298.05 (Freeroll D NLO8 2000)
+2017-07-09 02:10:04|Connect|Connection 00002BF4 expired for IP 73.102.44.186, PC EC60DA7A
+2017-07-09 02:16:45|Connect|Connection 00002BF5 accepted from IP 103.205.140.23, PC A88A55EA
+2017-07-09 02:17:04|System|Traffic - Seconds: 600, Bytes in: 26081, Bytes out: 954992, Total: 981073
+2017-07-09 02:18:00|Login|es2thekay logged into session 00002BF5 from IP 103.205.140.23, PC A88A55EA
+2017-07-09 02:18:45|Connect|es2thekay disconnects session 00002BF5, PC A88A55EA
+2017-07-09 02:19:47|Connect|Connection 00002BF6 accepted from IP 158.140.195.38, PC BFBE7DB3
+2017-07-09 02:20:00|Connect|IP 158.140.195.38 disconnects session 00002BF6, PC BFBE7DB3
+2017-07-09 02:21:04|Connect|Connection 00002BF5 expired for es2thekay, PC A88A55EA
+2017-07-09 02:22:04|Connect|Connection 00002BF6 expired for IP 158.140.195.38, PC BFBE7DB3
+2017-07-09 02:27:04|System|Traffic - Seconds: 600, Bytes in: 8953, Bytes out: 450382, Total: 459335
+2017-07-09 02:31:07|Account|BruceWAyne +39607.50 balance 100144.89 (Console)
+2017-07-09 02:31:16|Account|CoinDoctor +34257.09 balance 81062.75 (Console)
+2017-07-09 02:31:25|Account|Prince +32451.41 balance 349085.13 (Console)
+2017-07-09 02:31:34|Account|tuan +30775.34 balance 142693.23 (Console)
+2017-07-09 02:31:43|Account|novcom +30483.21 balance 40613.81 (Console)
+2017-07-09 02:31:52|Account|rodmouvi +29833.20 balance 38122.63 (Console)
+2017-07-09 02:32:01|Account|shtako +29559.18 balance 384216.44 (Console)
+2017-07-09 02:32:02|Account|diamond -0 balance 225943.50 (Freeroll A NLHE 2000)
+2017-07-09 02:32:02|Table|diamond registers for Freeroll A NLHE 2000
+2017-07-09 02:32:10|Account|Bourne +27550.92 balance 83685.14 (Console)
+2017-07-09 02:32:19|Account|swipernam75 +27283.33 balance 56350.24 (Console)
+2017-07-09 02:32:27|Account|Fookets +26662.25 balance 28956.03 (Console)
+2017-07-09 02:32:34|Account|yanyan +25983.80 balance 143523 (Console)
+2017-07-09 02:32:42|Account|CLS +24444.37 balance 162744.17 (Console)
+2017-07-09 02:32:50|Account|ajaxmoor +23964.07 balance 82493.49 (Console)
+2017-07-09 02:33:00|Account|bestlooser +23155.15 balance 440662.56 (Console)
+2017-07-09 02:33:10|Account|killsaids +22888.28 balance 118556.85 (Console)
+2017-07-09 02:33:18|Account|fAAntastic +22397.13 balance 201113.80 (Console)
+2017-07-09 02:33:31|Account|AlphaWolf +22095.71 balance 84561.56 (Console)
+2017-07-09 02:33:40|Account|angrybet +21787.72 balance 67949.74 (Console)
+2017-07-09 02:33:48|Account|jackpot +21531.23 balance 229993.43 (Console)
+2017-07-09 02:33:52|Account|rodmouvi -0 balance 38122.63 (Freeroll A NLHE 2000)
+2017-07-09 02:33:52|Table|rodmouvi registers for Freeroll A NLHE 2000
+2017-07-09 02:33:57|Account|brokedummy +21249.33 balance 129016.99 (Console)
+2017-07-09 02:34:05|Account|thedok +20867.67 balance 20917.89 (Console)
+2017-07-09 02:34:19|Account|3paulx +20522.11 balance 24749.86 (Console)
+2017-07-09 02:34:29|Account|whynot +20188.99 balance 182796.45 (Console)
+2017-07-09 02:34:37|Account|jpcfan +19821.83 balance 44608.01 (Console)
+2017-07-09 02:34:47|Account|siriloy +19511 balance 76716.98 (Console)
+2017-07-09 02:34:56|Account|PokerShark +19177.38 balance 89558.21 (Console)
+2017-07-09 02:35:05|Account|Dirk +18824.50 balance 59211.98 (Console)
+2017-07-09 02:35:14|Account|NuGgetZ1 +18548.05 balance 92996.05 (Console)
+2017-07-09 02:35:26|Account|gimmemoney +18295.75 balance 101035.81 (Console)
+2017-07-09 02:35:33|Account|Defecator +18025.25 balance 148674.97 (Console)
+2017-07-09 02:35:41|Account|Efyang +17667.14 balance 159063.74 (Console)
+2017-07-09 02:35:52|Account|chinkyeyes +17316.29 balance 89578.29 (Console)
+2017-07-09 02:36:03|Account|Alvinmore59 +17052.29 balance 53896.88 (Console)
+2017-07-09 02:36:13|Account|trixter +16801.28 balance 109681.55 (Console)
+2017-07-09 02:36:22|Account|luckyfish +16542.02 balance 86420.78 (Console)
+2017-07-09 02:36:30|Account|dynalyn0504 +16287.68 balance 62027.33 (Console)
+2017-07-09 02:36:38|Account|betong -0 balance 158298.05 (Freeroll A NLHE 2000)
+2017-07-09 02:36:38|Table|betong registers for Freeroll A NLHE 2000
+2017-07-09 02:36:38|Account|ROBERTO +16035.68 balance 208815.84 (Console)
+2017-07-09 02:36:47|Account|Ruphus +15783.08 balance 37252.13 (Console)
+2017-07-09 02:36:56|Account|bspus +15530.60 balance 224765.18 (Console)
+2017-07-09 02:37:04|Account|diamond +15268.13 balance 241211.63 (Console)
+2017-07-09 02:37:04|System|Traffic - Seconds: 600, Bytes in: 1340, Bytes out: 20696, Total: 22036
+2017-07-09 02:37:12|Account|alf +15009.75 balance 112226.87 (Console)
+2017-07-09 02:37:21|Account|sajuuk +14753.30 balance 274393.75 (Console)
+2017-07-09 02:37:34|Account|power1k +14502.50 balance 85170.18 (Console)
+2017-07-09 02:37:44|Account|moriz +14251.45 balance 49935 (Console)
+2017-07-09 02:38:45|Audit|Balance for es2thekay is 1600
+2017-07-09 02:38:45|Audit|Balance for tuan is 142693.23
+2017-07-09 02:38:45|Audit|Balance for diamond is 241211.63
+2017-07-09 02:38:45|Audit|Balance for CoinDoctor is 81062.75
+2017-07-09 02:38:45|Audit|Balance for Alvinmore59 is 53896.88
+2017-07-09 02:38:45|Audit|Balance for Numerous64 is 4600
+2017-07-09 02:38:45|Audit|Balance for CLS is 162744.17
+2017-07-09 02:38:45|Audit|Balance for betong is 158298.05
+2017-07-09 02:38:45|Audit|Balance for Prince is 349085.13
+2017-07-09 02:38:45|Audit|Balance for scambust is 35435
+2017-07-09 02:38:45|Audit|Balance for Defecator is 148674.97
+2017-07-09 02:38:45|Audit|Balance for PokerShark is 89558.21
+2017-07-09 02:38:45|Audit|Balance for AlphaWolf is 84561.56
+2017-07-09 02:38:45|Audit|Balance for killsaids is 118556.85
+2017-07-09 02:38:45|Audit|Balance for rodmouvi is 38122.63
+2017-07-09 02:38:45|Audit|Balance for shtako is 384216.44
+2017-07-09 02:38:45|Audit|Balance for whynot is 182796.45
+2017-07-09 02:38:45|Audit|Balance for 3paulx is 24749.86
+2017-07-09 02:38:45|Audit|Balance for gimmemoney is 101035.81
+2017-07-09 02:38:45|Audit|Balance for Efyang is 159063.74
+2017-07-09 02:38:45|Audit|Balance for Bourne is 83685.14
+2017-07-09 02:38:45|Audit|Balance for tagailog is 84222.96
+2017-07-09 02:38:45|Audit|Balance for bspus is 224765.18
+2017-07-09 02:38:45|Audit|Balance for chinkyeyes is 89578.29
+2017-07-09 02:38:45|Audit|Balance for jackpot is 229993.43
+2017-07-09 02:38:45|Audit|Balance for swipernam75 is 56350.24
+2017-07-09 02:38:45|Audit|Balance for primeval is 43000
+2017-07-09 02:38:45|Audit|Balance for yanyan is 143523
+2017-07-09 02:38:45|Audit|Balance for NuGgetZ1 is 92996.05
+2017-07-09 02:38:45|Audit|Balance for thekid is 258139
+2017-07-09 02:38:45|Audit|Balance for moriz is 49935
+2017-07-09 02:38:45|Audit|Balance for dmanicus is 99928.95
+2017-07-09 02:38:45|Audit|Balance for Ruphus is 37252.13
+2017-07-09 02:38:45|Audit|Balance for brokedummy is 129016.99
+2017-07-09 02:38:45|Audit|Balance for ajaxmoor is 82493.49
+2017-07-09 02:38:45|Audit|Balance for crazyjack is 16097.53
+2017-07-09 02:38:45|Audit|Balance for trixter is 109681.55
+2017-07-09 02:38:45|Audit|Balance for 5am is 33330.18
+2017-07-09 02:38:45|Audit|Balance for jpcfan is 44608.01
+2017-07-09 02:38:45|Audit|Balance for siriloy is 76716.98
+2017-07-09 02:38:45|Audit|Balance for Andrew is 59269.20
+2017-07-09 02:38:45|Audit|Balance for ROBERTO is 208815.84
+2017-07-09 02:38:45|Audit|Balance for fAAntastic is 201113.80
+2017-07-09 02:38:45|Audit|Balance for alf is 112226.87
+2017-07-09 02:38:45|Audit|Balance for power1k is 85170.18
+2017-07-09 02:38:45|Audit|Balance for angrybet is 67949.74
+2017-07-09 02:38:45|Audit|Balance for ehrz22 is 0
+2017-07-09 02:38:45|Audit|Balance for dumyx is 12480
+2017-07-09 02:38:45|Audit|Balance for bestlooser is 440662.56
+2017-07-09 02:38:45|Audit|Balance for luckyfish is 86420.78
+2017-07-09 02:38:45|Audit|Balance for BruceWAyne is 100144.89
+2017-07-09 02:38:45|Audit|Balance for Fookets is 28956.03
+2017-07-09 02:38:45|Audit|Balance for dcouncilor is 52889.65
+2017-07-09 02:38:45|Audit|Balance for dynalyn0504 is 62027.33
+2017-07-09 02:38:45|Audit|Balance for DollaHolla is 20544.68
+2017-07-09 02:38:45|Audit|Balance for exus is 5337.21
+2017-07-09 02:38:45|Audit|Balance for PINGOT is 133102.10
+2017-07-09 02:38:45|Audit|Balance for patval is 0
+2017-07-09 02:38:45|Audit|Balance for superpitzi is 1820
+2017-07-09 02:38:45|Audit|Balance for pZombie is 29119.16
+2017-07-09 02:38:45|Audit|Balance for Zendek is 13422.16
+2017-07-09 02:38:45|Audit|Balance for thedok is 20917.89
+2017-07-09 02:38:45|Audit|Balance for Dirk is 59211.98
+2017-07-09 02:38:45|Audit|Balance for sajuuk is 274393.75
+2017-07-09 02:38:45|Audit|Balance for lockept93 is 94382.69
+2017-07-09 02:38:45|Audit|Balance for novcom is 40613.81
+2017-07-09 02:38:45|Audit|Balance for djodjo87 is 21360
+2017-07-09 02:38:45|Audit|Balance for Protek is 136001.40
+2017-07-09 02:38:45|Audit|Balance for lordsilver is 25587.44
+2017-07-09 02:42:54|Connect|Connection 00002BF7 accepted from IP 192.99.34.34, PC A88A55EA
+2017-07-09 02:42:57|Login|es2thekay logged into session 00002BF7 from IP 192.99.34.34, PC A88A55EA
+2017-07-09 02:43:03|Account|es2thekay -0 balance 1600 (Freeroll A NLHE 2000)
+2017-07-09 02:43:03|Table|es2thekay registers for Freeroll A NLHE 2000
+2017-07-09 02:43:29|Connect|es2thekay disconnects session 00002BF7, PC A88A55EA
+2017-07-09 02:45:56|Account|ROBERTO -0 balance 208815.84 (Freeroll A NLHE 2000)
+2017-07-09 02:45:56|Table|ROBERTO registers for Freeroll A NLHE 2000
+2017-07-09 02:46:04|Connect|Connection 00002BF7 expired for es2thekay, PC A88A55EA
+2017-07-09 02:47:04|System|Traffic - Seconds: 600, Bytes in: 3183, Bytes out: 28698, Total: 31881
+2017-07-09 02:47:56|Connect|Connection 00002BF8 accepted from IP 42.98.45.50, PC D4595F0E
+2017-07-09 02:48:15|Login|tuan logged into session 00002BF8 from IP 42.98.45.50, PC D4595F0E
+2017-07-09 02:48:23|Account|tuan -0 balance 142693.23 (Freeroll A NLHE 2000)
+2017-07-09 02:48:23|Table|tuan registers for Freeroll A NLHE 2000
+2017-07-09 02:51:30|Account|rodmouvi -2500 balance 35622.63 (NLHE 05A)
+2017-07-09 02:51:30|Table|rodmouvi joins NLHE 05A
+2017-07-09 02:53:10|Connect|Connection 00002BF9 accepted from IP 100.6.59.56, PC 34EB5169
+2017-07-09 02:53:45|Connect|IP 100.6.59.56 disconnects session 00002BF9, PC 34EB5169
+2017-07-09 02:56:04|Connect|Connection 00002BF9 expired for IP 100.6.59.56, PC 34EB5169
+2017-07-09 02:57:04|System|Traffic - Seconds: 600, Bytes in: 23910, Bytes out: 863438, Total: 887348
+2017-07-09 03:00:04|Table|es2thekay joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 03:00:04|Table|ROBERTO joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 03:00:04|Table|rodmouvi joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 03:00:04|Table|diamond joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 03:00:04|Table|tuan joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 03:00:04|Table|betong joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 03:00:12|Account|rodmouvi +2500 balance 38122.63 (NLHE 05A)
+2017-07-09 03:00:12|Table|rodmouvi leaves NLHE 05A
+2017-07-09 03:01:37|Connect|Connection 00002BFA accepted from IP 68.228.21.153, PC A66C1F5C
+2017-07-09 03:01:41|Login|CoinDoctor logged into session 00002BFA from IP 68.228.21.153, PC A66C1F5C
+2017-07-09 03:02:18|Connect|CoinDoctor disconnects session 00002BFA, PC A66C1F5C
+2017-07-09 03:02:19|Connect|CoinDoctor reconnects session 00002BFA
+2017-07-09 03:02:34|Account|CoinDoctor -5000 balance 76062.75 (PLO8 06A)
+2017-07-09 03:02:34|Table|CoinDoctor joins PLO8 06A
+2017-07-09 03:03:40|Account|rodmouvi -2500 balance 35622.63 (NLHE 05A)
+2017-07-09 03:03:40|Table|rodmouvi joins NLHE 05A
+2017-07-09 03:05:51|Account|es2thekay +0 balance 1600 (Freeroll A NLHE 2000)
+2017-07-09 03:07:05|System|Traffic - Seconds: 600, Bytes in: 20410, Bytes out: 846820, Total: 867230
+2017-07-09 03:08:35|Account|rodmouvi +200 balance 35822.63 (Freeroll A NLHE 2000)
+2017-07-09 03:11:48|Account|tuan +400 balance 143093.23 (Freeroll A NLHE 2000)
+2017-07-09 03:12:09|Account|diamond +600 balance 241811.63 (Freeroll A NLHE 2000)
+2017-07-09 03:12:09|Account|ROBERTO +800 balance 209615.84 (Freeroll A NLHE 2000)
+2017-07-09 03:12:50|Connect|tuan disconnects session 00002BF8, PC D4595F0E
+2017-07-09 03:13:47|Account|CoinDoctor +5000 balance 81062.75 (PLO8 06A)
+2017-07-09 03:13:47|Table|CoinDoctor leaves PLO8 06A
+2017-07-09 03:13:50|Connect|CoinDoctor disconnects session 00002BFA, PC A66C1F5C
+2017-07-09 03:15:05|Connect|Connection 00002BF8 expired for tuan, PC D4595F0E
+2017-07-09 03:16:05|Connect|Connection 00002BFA expired for CoinDoctor, PC A66C1F5C
+2017-07-09 03:17:05|System|Traffic - Seconds: 600, Bytes in: 9639, Bytes out: 492849, Total: 502488
+2017-07-09 03:18:01|Account|rodmouvi -2500 balance 33322.63 (NLHE 05A)
+2017-07-09 03:20:41|Account|rodmouvi +5000 balance 38322.63 (NLHE 05A)
+2017-07-09 03:20:41|Table|rodmouvi leaves NLHE 05A
+2017-07-09 03:25:03|Connect|Connection 00002BFB accepted from IP 68.4.54.30, PC AF6BC23C
+2017-07-09 03:27:05|System|Traffic - Seconds: 600, Bytes in: 3156, Bytes out: 67626, Total: 70782
+2017-07-09 03:28:24|Connect|IP 68.4.54.30 disconnects session 00002BFB, PC AF6BC23C
+2017-07-09 03:29:07|Connect|Connection 00002BFC accepted from IP 77.180.131.125, PC 92D3A538
+2017-07-09 03:29:56|Connect|IP 77.180.131.125 disconnects session 00002BFC, PC 92D3A538
+2017-07-09 03:31:05|Connect|Connection 00002BFB expired for IP 68.4.54.30, PC AF6BC23C
+2017-07-09 03:32:05|Connect|Connection 00002BFC expired for IP 77.180.131.125, PC 92D3A538
+2017-07-09 03:35:24|Account|betong -0 balance 158298.05 (Freeroll B PLO 2000)
+2017-07-09 03:35:24|Table|betong registers for Freeroll B PLO 2000
+2017-07-09 03:37:05|System|Traffic - Seconds: 600, Bytes in: 10136, Bytes out: 450241, Total: 460377
+2017-07-09 03:40:40|Account|diamond -0 balance 241811.63 (Freeroll B PLO 2000)
+2017-07-09 03:40:40|Table|diamond registers for Freeroll B PLO 2000
+2017-07-09 03:47:05|System|Traffic - Seconds: 600, Bytes in: 1030, Bytes out: 10298, Total: 11328
+2017-07-09 03:49:17|Connect|Connection 00002BFD accepted from IP 68.4.54.30, PC AF6BC23C
+2017-07-09 03:49:20|Login|CLS logged into session 00002BFD from IP 68.4.54.30, PC AF6BC23C
+2017-07-09 03:49:29|Account|CLS -0 balance 162744.17 (Freeroll B PLO 2000)
+2017-07-09 03:49:29|Table|CLS registers for Freeroll B PLO 2000
+2017-07-09 03:49:52|Account|rodmouvi -0 balance 38322.63 (Freeroll B PLO 2000)
+2017-07-09 03:49:52|Table|rodmouvi registers for Freeroll B PLO 2000
+2017-07-09 03:50:26|Connect|Connection 00002BFE accepted from IP 112.201.8.118, PC C1C9F041
+2017-07-09 03:51:00|Login|swipernam75 logged into session 00002BFE from IP 112.201.8.118, PC C1C9F041
+2017-07-09 03:51:43|Connect|Connection 00002BFF accepted from IP 71.63.252.199, PC 9908951B
+2017-07-09 03:53:16|Login|Defecator logged into session 00002BFF from IP 71.63.252.199, PC 9908951B
+2017-07-09 03:53:22|Account|Defecator -0 balance 148674.97 (Freeroll B PLO 2000)
+2017-07-09 03:53:22|Table|Defecator registers for Freeroll B PLO 2000
+2017-07-09 03:53:38|Connect|Connection 00002C00 accepted from IP 185.87.108.164, PC A88A55EA
+2017-07-09 03:53:41|Login|es2thekay logged into session 00002C00 from IP 185.87.108.164, PC A88A55EA
+2017-07-09 03:53:50|Account|es2thekay -0 balance 1600 (Freeroll B PLO 2000)
+2017-07-09 03:53:50|Table|es2thekay registers for Freeroll B PLO 2000
+2017-07-09 03:55:52|Account|ROBERTO -0 balance 209615.84 (Freeroll B PLO 2000)
+2017-07-09 03:55:52|Table|ROBERTO registers for Freeroll B PLO 2000
+2017-07-09 03:57:05|System|Traffic - Seconds: 600, Bytes in: 21243, Bytes out: 565572, Total: 586815
+2017-07-09 04:00:05|Connect|File port sweeps: 4
+2017-07-09 04:00:05|Table|ROBERTO joins Freeroll B PLO 2000 - Table 1
+2017-07-09 04:00:05|Table|es2thekay joins Freeroll B PLO 2000 - Table 2
+2017-07-09 04:00:05|Table|betong joins Freeroll B PLO 2000 - Table 1
+2017-07-09 04:00:05|Table|diamond joins Freeroll B PLO 2000 - Table 2
+2017-07-09 04:00:05|Table|rodmouvi joins Freeroll B PLO 2000 - Table 1
+2017-07-09 04:00:05|Table|Defecator joins Freeroll B PLO 2000 - Table 2
+2017-07-09 04:00:05|Table|CLS joins Freeroll B PLO 2000 - Table 1
+2017-07-09 04:01:49|Connect|swipernam75 disconnects session 00002BFE, PC C1C9F041
+2017-07-09 04:04:05|Connect|Connection 00002BFE expired for swipernam75, PC C1C9F041
+2017-07-09 04:06:25|Account|CLS +0 balance 162744.17 (Freeroll B PLO 2000)
+2017-07-09 04:06:35|Connect|es2thekay disconnects session 00002C00, PC A88A55EA
+2017-07-09 04:07:05|System|Traffic - Seconds: 600, Bytes in: 20632, Bytes out: 1545292, Total: 1565924
+2017-07-09 04:08:54|Connect|CLS disconnects session 00002BFD, PC AF6BC23C
+2017-07-09 04:09:04|Connect|Connection 00002C00 expired for es2thekay, PC A88A55EA
+2017-07-09 04:11:04|Connect|Connection 00002BFD expired for CLS, PC AF6BC23C
+2017-07-09 04:12:02|Account|diamond +200 balance 242011.63 (Freeroll B PLO 2000)
+2017-07-09 04:12:02|Account|betong +400 balance 158698.05 (Freeroll B PLO 2000)
+2017-07-09 04:13:54|Account|ROBERTO +600 balance 210215.84 (Freeroll B PLO 2000)
+2017-07-09 04:13:54|Account|Defecator +800 balance 149474.97 (Freeroll B PLO 2000)
+2017-07-09 04:16:29|Connect|Connection 00002C01 accepted from IP 112.201.8.118, PC C1C9F041
+2017-07-09 04:16:34|Login|swipernam75 logged into session 00002C01 from IP 112.201.8.118, PC C1C9F041
+2017-07-09 04:17:04|System|Traffic - Seconds: 600, Bytes in: 9544, Bytes out: 459186, Total: 468730
+2017-07-09 04:20:32|Account|rodmouvi -5000 balance 33322.63 (NLHE 05A)
+2017-07-09 04:20:32|Table|rodmouvi joins NLHE 05A
+2017-07-09 04:22:24|Account|rodmouvi +5000 balance 38322.63 (NLHE 05A)
+2017-07-09 04:22:24|Table|rodmouvi leaves NLHE 05A
+2017-07-09 04:27:04|System|Traffic - Seconds: 600, Bytes in: 779, Bytes out: 18281, Total: 19060
+2017-07-09 04:28:25|Connect|Connection 00002C02 accepted from IP 182.18.238.31, PC 6E806DDF
+2017-07-09 04:28:45|Login|Efyang logged into session 00002C02 from IP 182.18.238.31, PC 6E806DDF
+2017-07-09 04:30:47|Account|Defecator -0 balance 149474.97 (Freeroll C PLO8 2000)
+2017-07-09 04:30:47|Table|Defecator registers for Freeroll C PLO8 2000
+2017-07-09 04:33:38|Connect|Connection 00002C03 accepted from IP 108.200.36.58, PC D853FE92
+2017-07-09 04:33:42|Login|whynot logged into session 00002C03 from IP 108.200.36.58, PC D853FE92
+2017-07-09 04:33:46|Account|diamond -0 balance 242011.63 (Freeroll C PLO8 2000)
+2017-07-09 04:33:46|Table|diamond registers for Freeroll C PLO8 2000
+2017-07-09 04:34:03|Account|betong -0 balance 158698.05 (Freeroll C PLO8 2000)
+2017-07-09 04:34:03|Table|betong registers for Freeroll C PLO8 2000
+2017-07-09 04:34:16|Connect|Connection 00002C04 accepted from IP 77.38.100.170, PC 9F841C25
+2017-07-09 04:34:19|Login|crazyjack logged into session 00002C04 from IP 77.38.100.170, PC 9F841C25
+2017-07-09 04:34:22|Account|crazyjack -0 balance 16097.53 (Freeroll C PLO8 2000)
+2017-07-09 04:34:22|Table|crazyjack registers for Freeroll C PLO8 2000
+2017-07-09 04:37:04|System|Traffic - Seconds: 600, Bytes in: 22605, Bytes out: 623978, Total: 646583
+2017-07-09 04:39:08|Connect|Efyang disconnects session 00002C02, PC 6E806DDF
+2017-07-09 04:42:04|Connect|Connection 00002C02 expired for Efyang, PC 6E806DDF
+2017-07-09 04:47:04|System|Traffic - Seconds: 600, Bytes in: 8, Bytes out: 8804, Total: 8812
+2017-07-09 04:47:20|Connect|swipernam75 disconnects session 00002C01, PC C1C9F041
+2017-07-09 04:47:41|Connect|Connection 00002C05 accepted from IP 182.18.238.31, PC 6E806DDF
+2017-07-09 04:47:44|Login|Efyang logged into session 00002C05 from IP 182.18.238.31, PC 6E806DDF
+2017-07-09 04:47:56|Account|rodmouvi -0 balance 38322.63 (Freeroll C PLO8 2000)
+2017-07-09 04:47:56|Table|rodmouvi registers for Freeroll C PLO8 2000
+2017-07-09 04:48:21|Account|rodmouvi -5000 balance 33322.63 (NLHE 05A)
+2017-07-09 04:48:21|Table|rodmouvi joins NLHE 05A
+2017-07-09 04:50:04|Connect|Connection 00002C01 expired for swipernam75, PC C1C9F041
+2017-07-09 04:55:16|Account|whynot -0 balance 182796.45 (Freeroll C PLO8 2000)
+2017-07-09 04:55:16|Table|whynot registers for Freeroll C PLO8 2000
+2017-07-09 04:57:04|System|Traffic - Seconds: 600, Bytes in: 2426, Bytes out: 43990, Total: 46416
+2017-07-09 04:57:52|Connect|Connection 00002C06 accepted from IP 112.201.114.41, PC 38FCDF2E
+2017-07-09 04:57:58|Login|tagailog logged into session 00002C06 from IP 112.201.114.41, PC 38FCDF2E
+2017-07-09 04:58:10|Account|tagailog -0 balance 84222.96 (Freeroll C PLO8 2000)
+2017-07-09 04:58:10|Table|tagailog registers for Freeroll C PLO8 2000
+2017-07-09 04:59:02|Account|rodmouvi +5000 balance 38322.63 (NLHE 05A)
+2017-07-09 04:59:02|Table|rodmouvi leaves NLHE 05A
+2017-07-09 05:00:04|Table|diamond joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 05:00:04|Table|tagailog joins Freeroll C PLO8 2000 - Table 2
+2017-07-09 05:00:04|Table|Defecator joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 05:00:04|Table|crazyjack joins Freeroll C PLO8 2000 - Table 2
+2017-07-09 05:00:04|Table|rodmouvi joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 05:00:04|Table|betong joins Freeroll C PLO8 2000 - Table 2
+2017-07-09 05:00:04|Table|whynot joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 05:03:38|Connect|tagailog disconnects session 00002C06, PC 38FCDF2E
+2017-07-09 05:06:04|Connect|Connection 00002C06 expired for tagailog, PC 38FCDF2E
+2017-07-09 05:07:04|System|Traffic - Seconds: 600, Bytes in: 26146, Bytes out: 1676908, Total: 1703054
+2017-07-09 05:17:04|System|Traffic - Seconds: 600, Bytes in: 15545, Bytes out: 825362, Total: 840907
+2017-07-09 05:18:37|Account|diamond +200 balance 242211.63 (Freeroll C PLO8 2000)
+2017-07-09 05:22:17|Account|crazyjack +400 balance 16497.53 (Freeroll C PLO8 2000)
+2017-07-09 05:22:21|Connect|crazyjack disconnects session 00002C04, PC 9F841C25
+2017-07-09 05:23:33|Account|Defecator +600 balance 150074.97 (Freeroll C PLO8 2000)
+2017-07-09 05:23:33|Account|whynot +800 balance 183596.45 (Freeroll C PLO8 2000)
+2017-07-09 05:25:04|Connect|Connection 00002C04 expired for crazyjack, PC 9F841C25
+2017-07-09 05:27:04|System|Traffic - Seconds: 600, Bytes in: 10960, Bytes out: 549939, Total: 560899
+2017-07-09 05:30:12|Connect|Efyang disconnects session 00002C05, PC 6E806DDF
+2017-07-09 05:33:04|Connect|Connection 00002C05 expired for Efyang, PC 6E806DDF
+2017-07-09 05:33:49|Account|betong -0 balance 158698.05 (Freeroll D NLO8 2000)
+2017-07-09 05:33:49|Table|betong registers for Freeroll D NLO8 2000
+2017-07-09 05:34:12|Account|diamond -0 balance 242211.63 (Freeroll D NLO8 2000)
+2017-07-09 05:34:12|Table|diamond registers for Freeroll D NLO8 2000
+2017-07-09 05:37:04|System|Traffic - Seconds: 600, Bytes in: 628, Bytes out: 18037, Total: 18665
+2017-07-09 05:39:46|Account|Defecator -0 balance 150074.97 (Freeroll D NLO8 2000)
+2017-07-09 05:39:46|Table|Defecator registers for Freeroll D NLO8 2000
+2017-07-09 05:47:04|System|Traffic - Seconds: 600, Bytes in: 1020, Bytes out: 11372, Total: 12392
+2017-07-09 05:50:51|Connect|Connection 00002C07 accepted from IP 109.96.27.111, PC D1769071
+2017-07-09 05:50:57|Login|AlphaWolf logged into session 00002C07 from IP 109.96.27.111, PC D1769071
+2017-07-09 05:51:26|Account|AlphaWolf -0 balance 84561.56 (Freeroll D NLO8 2000)
+2017-07-09 05:51:26|Table|AlphaWolf registers for Freeroll D NLO8 2000
+2017-07-09 05:52:22|Account|rodmouvi -0 balance 38322.63 (Freeroll D NLO8 2000)
+2017-07-09 05:52:22|Table|rodmouvi registers for Freeroll D NLO8 2000
+2017-07-09 05:57:04|System|Traffic - Seconds: 600, Bytes in: 2182, Bytes out: 26223, Total: 28405
+2017-07-09 05:58:30|Connect|Connection 00002C08 accepted from IP 77.38.100.170, PC 9F841C25
+2017-07-09 05:58:33|Login|crazyjack logged into session 00002C08 from IP 77.38.100.170, PC 9F841C25
+2017-07-09 05:58:39|Account|crazyjack -0 balance 16497.53 (Freeroll D NLO8 2000)
+2017-07-09 05:58:39|Table|crazyjack registers for Freeroll D NLO8 2000
+2017-07-09 05:59:18|Connect|Connection 00002C09 accepted from IP 77.18.225.192, PC 1E5CE4DE
+2017-07-09 05:59:23|Login|shtako logged into session 00002C09 from IP 77.18.225.192, PC 1E5CE4DE
+2017-07-09 05:59:36|Account|shtako -0 balance 384216.44 (Freeroll D NLO8 2000)
+2017-07-09 05:59:36|Table|shtako registers for Freeroll D NLO8 2000
+2017-07-09 06:00:04|Table|AlphaWolf joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 06:00:04|Table|betong joins Freeroll D NLO8 2000 - Table 2
+2017-07-09 06:00:04|Table|diamond joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 06:00:04|Table|shtako joins Freeroll D NLO8 2000 - Table 2
+2017-07-09 06:00:04|Table|crazyjack joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 06:00:04|Table|rodmouvi joins Freeroll D NLO8 2000 - Table 2
+2017-07-09 06:00:04|Table|Defecator joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 06:07:04|System|Traffic - Seconds: 600, Bytes in: 24711, Bytes out: 1310744, Total: 1335455
+2017-07-09 06:13:33|Connect|crazyjack disconnects session 00002C08, PC 9F841C25
+2017-07-09 06:16:04|Connect|Connection 00002C08 expired for crazyjack, PC 9F841C25
+2017-07-09 06:17:04|System|Traffic - Seconds: 600, Bytes in: 15517, Bytes out: 919755, Total: 935272
+2017-07-09 06:19:37|Account|AlphaWolf +200 balance 84761.56 (Freeroll D NLO8 2000)
+2017-07-09 06:21:15|Account|diamond +400 balance 242611.63 (Freeroll D NLO8 2000)
+2017-07-09 06:25:37|Account|shtako +600 balance 384816.44 (Freeroll D NLO8 2000)
+2017-07-09 06:25:37|Account|Defecator +800 balance 150874.97 (Freeroll D NLO8 2000)
+2017-07-09 06:25:46|Connect|shtako disconnects session 00002C09, PC 1E5CE4DE
+2017-07-09 06:27:04|System|Traffic - Seconds: 600, Bytes in: 13285, Bytes out: 597446, Total: 610731
+2017-07-09 06:28:04|Connect|Connection 00002C09 expired for shtako, PC 1E5CE4DE
+2017-07-09 06:30:15|Account|betong -0 balance 158698.05 (Freeroll A NLHE 2000)
+2017-07-09 06:30:15|Table|betong registers for Freeroll A NLHE 2000
+2017-07-09 06:35:39|Account|rodmouvi -0 balance 38322.63 (Freeroll A NLHE 2000)
+2017-07-09 06:35:39|Table|rodmouvi registers for Freeroll A NLHE 2000
+2017-07-09 06:37:04|System|Traffic - Seconds: 600, Bytes in: 127909, Bytes out: 52893, Total: 180802
+2017-07-09 06:37:06|Connect|AlphaWolf disconnects session 00002C07, PC D1769071
+2017-07-09 06:37:33|Account|Defecator -0 balance 150874.97 (Freeroll A NLHE 2000)
+2017-07-09 06:37:33|Table|Defecator registers for Freeroll A NLHE 2000
+2017-07-09 06:39:26|Connect|Connection 00002C0A accepted from IP 199.249.223.61, PC 937611DC
+2017-07-09 06:40:04|Connect|Connection 00002C07 expired for AlphaWolf, PC D1769071
+2017-07-09 06:45:10|Connect|Connection 00002C0B accepted from IP 109.96.27.111, PC D1769071
+2017-07-09 06:45:16|Login|AlphaWolf logged into session 00002C0B from IP 109.96.27.111, PC D1769071
+2017-07-09 06:45:36|Account|AlphaWolf -0 balance 84761.56 (Freeroll A NLHE 2000)
+2017-07-09 06:45:36|Table|AlphaWolf registers for Freeroll A NLHE 2000
+2017-07-09 06:47:04|System|Traffic - Seconds: 600, Bytes in: 14644, Bytes out: 37441, Total: 52085
+2017-07-09 06:51:54|Connect|whynot disconnects session 00002C03, PC D853FE92
+2017-07-09 06:53:34|Account|ROBERTO -0 balance 210215.84 (Freeroll A NLHE 2000)
+2017-07-09 06:53:34|Table|ROBERTO registers for Freeroll A NLHE 2000
+2017-07-09 06:54:04|Connect|Connection 00002C03 expired for whynot, PC D853FE92
+2017-07-09 06:57:04|System|Traffic - Seconds: 600, Bytes in: 422, Bytes out: 13550, Total: 13972
+2017-07-09 07:00:04|Table|rodmouvi joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 07:00:04|Table|ROBERTO joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 07:00:04|Table|AlphaWolf joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 07:00:04|Table|Defecator joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 07:00:04|Table|betong joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 07:05:27|Connect|Connection 00002C0C accepted from IP 112.201.8.118, PC C1C9F041
+2017-07-09 07:05:32|Login|swipernam75 logged into session 00002C0C from IP 112.201.8.118, PC C1C9F041
+2017-07-09 07:07:04|System|Traffic - Seconds: 600, Bytes in: 11513, Bytes out: 571671, Total: 583184
+2017-07-09 07:17:03|Connect|swipernam75 disconnects session 00002C0C, PC C1C9F041
+2017-07-09 07:17:04|System|Traffic - Seconds: 600, Bytes in: 17310, Bytes out: 853874, Total: 871184
+2017-07-09 07:17:54|Connect|Connection 00002C0D accepted from IP 180.190.173.123, PC 5A652609
+2017-07-09 07:18:03|Login|NuGgetZ1 logged into session 00002C0D from IP 180.190.173.123, PC 5A652609
+2017-07-09 07:19:04|Connect|Connection 00002C0C expired for swipernam75, PC C1C9F041
+2017-07-09 07:19:35|Account|AlphaWolf +200 balance 84961.56 (Freeroll A NLHE 2000)
+2017-07-09 07:20:18|Account|ROBERTO +400 balance 210615.84 (Freeroll A NLHE 2000)
+2017-07-09 07:21:04|Account|Defecator +600 balance 151474.97 (Freeroll A NLHE 2000)
+2017-07-09 07:21:04|Account|rodmouvi +800 balance 39122.63 (Freeroll A NLHE 2000)
+2017-07-09 07:21:25|Account|rodmouvi -2500 balance 36622.63 (NLHE 05A)
+2017-07-09 07:21:25|Table|rodmouvi joins NLHE 05A
+2017-07-09 07:27:04|System|Traffic - Seconds: 600, Bytes in: 16261, Bytes out: 1044519, Total: 1060780
+2017-07-09 07:29:19|Connect|Defecator disconnects session 00002BFF, PC 9908951B
+2017-07-09 07:32:04|Connect|Connection 00002BFF expired for Defecator, PC 9908951B
+2017-07-09 07:32:55|Account|AlphaWolf -0 balance 84961.56 (Freeroll B PLO 2000)
+2017-07-09 07:32:55|Table|AlphaWolf registers for Freeroll B PLO 2000
+2017-07-09 07:33:53|Account|betong -0 balance 158698.05 (Freeroll B PLO 2000)
+2017-07-09 07:33:53|Table|betong registers for Freeroll B PLO 2000
+2017-07-09 07:37:04|System|Traffic - Seconds: 600, Bytes in: 818, Bytes out: 26749, Total: 27567
+2017-07-09 07:37:22|Account|rodmouvi -0 balance 36622.63 (Freeroll B PLO 2000)
+2017-07-09 07:37:22|Table|rodmouvi registers for Freeroll B PLO 2000
+2017-07-09 07:38:40|Account|diamond -0 balance 242611.63 (Freeroll B PLO 2000)
+2017-07-09 07:38:40|Table|diamond registers for Freeroll B PLO 2000
+2017-07-09 07:46:25|Account|NuGgetZ1 -0 balance 92996.05 (Freeroll B PLO 2000)
+2017-07-09 07:46:25|Table|NuGgetZ1 registers for Freeroll B PLO 2000
+2017-07-09 07:47:04|System|Traffic - Seconds: 600, Bytes in: 4319, Bytes out: 128754, Total: 133073
+2017-07-09 07:51:50|Account|rodmouvi +2500 balance 39122.63 (NLHE 05A)
+2017-07-09 07:51:50|Table|rodmouvi leaves NLHE 05A
+2017-07-09 07:54:27|Connect|Connection 00002C0E accepted from IP 188.73.194.245, PC AE588A8A
+2017-07-09 07:54:51|Login|bspus logged into session 00002C0E from IP 188.73.194.245, PC AE588A8A
+2017-07-09 07:54:58|Account|bspus -0 balance 224765.18 (Freeroll B PLO 2000)
+2017-07-09 07:54:58|Table|bspus registers for Freeroll B PLO 2000
+2017-07-09 07:55:58|Connect|Connection 00002C0F accepted from IP 112.201.114.41, PC 38FCDF2E
+2017-07-09 07:56:03|Login|tagailog logged into session 00002C0F from IP 112.201.114.41, PC 38FCDF2E
+2017-07-09 07:56:21|Account|tagailog -0 balance 84222.96 (Freeroll B PLO 2000)
+2017-07-09 07:56:21|Table|tagailog registers for Freeroll B PLO 2000
+2017-07-09 07:56:43|Connect|Connection 00002C10 accepted from IP 73.102.44.186, PC EC60DA7A
+2017-07-09 07:56:47|Login|ajaxmoor logged into session 00002C10 from IP 73.102.44.186, PC EC60DA7A
+2017-07-09 07:56:50|Connect|tagailog disconnects session 00002C0F, PC 38FCDF2E
+2017-07-09 07:56:52|Account|ajaxmoor -0 balance 82493.49 (Freeroll B PLO 2000)
+2017-07-09 07:56:52|Table|ajaxmoor registers for Freeroll B PLO 2000
+2017-07-09 07:57:04|System|Traffic - Seconds: 600, Bytes in: 21410, Bytes out: 560178, Total: 581588
+2017-07-09 07:59:04|Connect|Connection 00002C0F expired for tagailog, PC 38FCDF2E
+2017-07-09 08:00:04|Table|tagailog joins Freeroll B PLO 2000 - Table 1
+2017-07-09 08:00:04|Table|ajaxmoor joins Freeroll B PLO 2000 - Table 2
+2017-07-09 08:00:04|Table|rodmouvi joins Freeroll B PLO 2000 - Table 1
+2017-07-09 08:00:04|Table|AlphaWolf joins Freeroll B PLO 2000 - Table 2
+2017-07-09 08:00:04|Table|diamond joins Freeroll B PLO 2000 - Table 1
+2017-07-09 08:00:04|Table|betong joins Freeroll B PLO 2000 - Table 2
+2017-07-09 08:00:04|Table|NuGgetZ1 joins Freeroll B PLO 2000 - Table 1
+2017-07-09 08:00:04|Table|bspus joins Freeroll B PLO 2000 - Table 2
+2017-07-09 08:01:06|Account|ajaxmoor -6000 balance 76493.49 (HU NLHE 06A)
+2017-07-09 08:01:06|Table|ajaxmoor joins HU NLHE 06A
+2017-07-09 08:01:31|Connect|Connection 00002C11 accepted from IP 112.201.114.41, PC 38FCDF2E
+2017-07-09 08:01:36|Login|tagailog logged into session 00002C11 from IP 112.201.114.41, PC 38FCDF2E
+2017-07-09 08:02:27|Account|ajaxmoor +6000 balance 82493.49 (HU NLHE 06A)
+2017-07-09 08:02:27|Table|ajaxmoor leaves HU NLHE 06A
+2017-07-09 08:02:28|Connect|ajaxmoor disconnects session 00002C10, PC EC60DA7A
+2017-07-09 08:05:04|Connect|Connection 00002C10 expired for ajaxmoor, PC EC60DA7A
+2017-07-09 08:05:04|Connect|File port sweeps: 5
+2017-07-09 08:07:04|System|Traffic - Seconds: 600, Bytes in: 27665, Bytes out: 1300158, Total: 1327823
+2017-07-09 08:16:48|Connect|brokedummy disconnects session 00002B85, PC 26F3F976
+2017-07-09 08:17:04|System|Traffic - Seconds: 600, Bytes in: 12360, Bytes out: 759693, Total: 772053
+2017-07-09 08:19:04|Connect|Connection 00002B85 expired for brokedummy, PC 26F3F976
+2017-07-09 08:23:50|Account|diamond +200 balance 242811.63 (Freeroll B PLO 2000)
+2017-07-09 08:24:29|Account|tagailog +400 balance 84622.96 (Freeroll B PLO 2000)
+2017-07-09 08:25:07|Connect|tagailog disconnects session 00002C11, PC 38FCDF2E
+2017-07-09 08:25:48|Account|AlphaWolf +600 balance 85561.56 (Freeroll B PLO 2000)
+2017-07-09 08:25:48|Account|bspus +800 balance 225565.18 (Freeroll B PLO 2000)
+2017-07-09 08:26:03|Connect|bspus disconnects session 00002C0E, PC AE588A8A
+2017-07-09 08:27:04|System|Traffic - Seconds: 600, Bytes in: 10287, Bytes out: 772003, Total: 782290
+2017-07-09 08:28:04|Connect|Connection 00002C0E expired for bspus, PC AE588A8A
+2017-07-09 08:28:04|Connect|Connection 00002C11 expired for tagailog, PC 38FCDF2E
+2017-07-09 08:33:15|Account|betong -0 balance 158698.05 (Freeroll C PLO8 2000)
+2017-07-09 08:33:15|Table|betong registers for Freeroll C PLO8 2000
+2017-07-09 08:37:04|System|Traffic - Seconds: 600, Bytes in: 959, Bytes out: 14665, Total: 15624
+2017-07-09 08:37:56|Connect|Connection 00002C12 accepted from IP 73.102.44.186, PC EC60DA7A
+2017-07-09 08:38:00|Login|ajaxmoor logged into session 00002C12 from IP 73.102.44.186, PC EC60DA7A
+2017-07-09 08:38:04|Account|ajaxmoor -0 balance 82493.49 (Freeroll C PLO8 2000)
+2017-07-09 08:38:04|Table|ajaxmoor registers for Freeroll C PLO8 2000
+2017-07-09 08:44:06|Account|AlphaWolf -0 balance 85561.56 (Freeroll C PLO8 2000)
+2017-07-09 08:44:06|Table|AlphaWolf registers for Freeroll C PLO8 2000
+2017-07-09 08:44:47|Connect|Connection 00002C13 accepted from IP 77.222.107.29, PC F9BCAD64
+2017-07-09 08:44:56|Login|fAAntastic logged into session 00002C13 from IP 77.222.107.29, PC F9BCAD64
+2017-07-09 08:47:04|System|Traffic - Seconds: 600, Bytes in: 11959, Bytes out: 491822, Total: 503781
+2017-07-09 08:47:37|Connect|diamond disconnects session 00002BED, PC D23A83BC
+2017-07-09 08:50:04|Connect|Connection 00002BED expired for diamond, PC D23A83BC
+2017-07-09 08:51:41|Connect|Connection 00002C14 accepted from IP 210.213.203.133, PC F01702DB
+2017-07-09 08:51:49|Login|jackpot logged into session 00002C14 from IP 210.213.203.133, PC F01702DB
+2017-07-09 08:51:59|Connect|AlphaWolf disconnects session 00002C0B, PC D1769071
+2017-07-09 08:52:01|Account|jackpot -0 balance 229993.43 (Freeroll C PLO8 2000)
+2017-07-09 08:52:01|Table|jackpot registers for Freeroll C PLO8 2000
+2017-07-09 08:52:52|Connect|Connection 00002C15 accepted from IP 1.20.250.13, PC 68967C6B
+2017-07-09 08:52:58|Login|scambust logged into session 00002C15 from IP 1.20.250.13, PC 68967C6B
+2017-07-09 08:53:20|Account|scambust -0 balance 35435 (Freeroll C PLO8 2000)
+2017-07-09 08:53:20|Table|scambust registers for Freeroll C PLO8 2000
+2017-07-09 08:54:04|Connect|Connection 00002C0B expired for AlphaWolf, PC D1769071
+2017-07-09 08:54:47|Connect|fAAntastic disconnects session 00002C13, PC F9BCAD64
+2017-07-09 08:55:25|Connect|Connection 00002C16 accepted from IP 112.201.8.118, PC C1C9F041
+2017-07-09 08:55:52|Connect|Connection 00002C17 accepted from IP 221.17.214.155, PC D23A83BC
+2017-07-09 08:55:55|Login|diamond logged into session 00002C17 from IP 221.17.214.155, PC D23A83BC
+2017-07-09 08:57:04|Connect|Connection 00002C13 expired for fAAntastic, PC F9BCAD64
+2017-07-09 08:57:04|System|Traffic - Seconds: 600, Bytes in: 7636, Bytes out: 63011, Total: 70647
+2017-07-09 08:58:46|Connect|Connection 00002C18 accepted from IP 77.18.225.192, PC 1E5CE4DE
+2017-07-09 08:58:55|Login|shtako logged into session 00002C18 from IP 77.18.225.192, PC 1E5CE4DE
+2017-07-09 08:59:06|Account|shtako -0 balance 384816.44 (Freeroll C PLO8 2000)
+2017-07-09 08:59:06|Table|shtako registers for Freeroll C PLO8 2000
+2017-07-09 08:59:20|Connect|IP 199.249.223.61 disconnects session 00002C0A, PC 937611DC
+2017-07-09 09:00:04|Table|ajaxmoor joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 09:00:04|Table|scambust joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 09:00:04|Table|jackpot joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 09:00:04|Table|AlphaWolf joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 09:00:04|Table|shtako joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 09:00:04|Table|betong joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 09:00:21|Connect|Connection 00002C19 accepted from IP 109.96.27.111, PC D1769071
+2017-07-09 09:00:30|Login|AlphaWolf logged into session 00002C19 from IP 109.96.27.111, PC D1769071
+2017-07-09 09:00:56|Account|ajaxmoor -5000 balance 77493.49 (HU NLHE 05A)
+2017-07-09 09:00:56|Table|ajaxmoor joins HU NLHE 05A
+2017-07-09 09:02:02|Connect|scambust disconnects session 00002C15, PC 68967C6B
+2017-07-09 09:02:04|Connect|Connection 00002C0A expired for IP 199.249.223.61, PC 937611DC
+2017-07-09 09:04:04|Connect|Connection 00002C15 expired for scambust, PC 68967C6B
+2017-07-09 09:06:09|Account|jackpot +0 balance 229993.43 (Freeroll C PLO8 2000)
+2017-07-09 09:07:04|System|Traffic - Seconds: 600, Bytes in: 21500, Bytes out: 1045632, Total: 1067132
+2017-07-09 09:08:06|Account|ajaxmoor +200 balance 77693.49 (Freeroll C PLO8 2000)
+2017-07-09 09:08:13|Account|ajaxmoor +5000 balance 82693.49 (HU NLHE 05A)
+2017-07-09 09:08:13|Table|ajaxmoor leaves HU NLHE 05A
+2017-07-09 09:08:14|Connect|ajaxmoor disconnects session 00002C12, PC EC60DA7A
+2017-07-09 09:11:04|Connect|Connection 00002C12 expired for ajaxmoor, PC EC60DA7A
+2017-07-09 09:11:08|Account|AlphaWolf +400 balance 85961.56 (Freeroll C PLO8 2000)
+2017-07-09 09:12:19|Account|shtako +600 balance 385416.44 (Freeroll C PLO8 2000)
+2017-07-09 09:12:19|Account|betong +800 balance 159498.05 (Freeroll C PLO8 2000)
+2017-07-09 09:12:21|Connect|shtako disconnects session 00002C18, PC 1E5CE4DE
+2017-07-09 09:15:03|Connect|Connection 00002C1A accepted from IP 42.98.45.50, PC D4595F0E
+2017-07-09 09:15:04|Connect|Connection 00002C18 expired for shtako, PC 1E5CE4DE
+2017-07-09 09:15:08|Login|tuan logged into session 00002C1A from IP 42.98.45.50, PC D4595F0E
+2017-07-09 09:15:15|Login|swipernam75 logged into session 00002C16 from IP 112.201.8.118, PC C1C9F041
+2017-07-09 09:17:04|System|Traffic - Seconds: 600, Bytes in: 11609, Bytes out: 389923, Total: 401532
+2017-07-09 09:26:06|Connect|jackpot disconnects session 00002C14, PC F01702DB
+2017-07-09 09:27:04|System|Traffic - Seconds: 600, Bytes in: 202, Bytes out: 8495, Total: 8697
+2017-07-09 09:29:04|Connect|Connection 00002C14 expired for jackpot, PC F01702DB
+2017-07-09 09:32:53|Account|AlphaWolf -0 balance 85961.56 (Freeroll D NLO8 2000)
+2017-07-09 09:32:53|Table|AlphaWolf registers for Freeroll D NLO8 2000
+2017-07-09 09:33:15|Account|rodmouvi -0 balance 39122.63 (Freeroll D NLO8 2000)
+2017-07-09 09:33:15|Table|rodmouvi registers for Freeroll D NLO8 2000
+2017-07-09 09:35:38|Connect|Connection 00002C1B accepted from IP 49.147.112.122, PC 7D345AFD
+2017-07-09 09:35:42|Login|trixter logged into session 00002C1B from IP 49.147.112.122, PC 7D345AFD
+2017-07-09 09:35:59|Account|betong -0 balance 159498.05 (Freeroll D NLO8 2000)
+2017-07-09 09:35:59|Table|betong registers for Freeroll D NLO8 2000
+2017-07-09 09:37:04|System|Traffic - Seconds: 600, Bytes in: 3763, Bytes out: 36106, Total: 39869
+2017-07-09 09:38:50|Account|rodmouvi -5000 balance 34122.63 (NLHE 05A)
+2017-07-09 09:38:50|Table|rodmouvi joins NLHE 05A
+2017-07-09 09:39:12|Account|NuGgetZ1 -2500.05 balance 90496 (NLHE 05A)
+2017-07-09 09:39:12|Table|NuGgetZ1 joins NLHE 05A
+2017-07-09 09:39:54|Rake|Rake account +21.75 balance 810331.45 (NLHE 05A)
+2017-07-09 09:40:23|Rake|Rake account +5 balance 810336.45 (NLHE 05A)
+2017-07-09 09:42:28|Rake|Rake account +2.50 balance 810338.95 (NLHE 05A)
+2017-07-09 09:45:06|Rake|Rake account +2.50 balance 810341.45 (NLHE 05A)
+2017-07-09 09:46:08|Rake|Rake account +2.50 balance 810343.95 (NLHE 05A)
+2017-07-09 09:46:30|Rake|Rake account +12.50 balance 810356.45 (NLHE 05A)
+2017-07-09 09:46:58|Connect|Connection 00002C1C accepted from IP 119.77.79.26, PC E74D6FFC
+2017-07-09 09:47:00|Login|Ruphus logged into session 00002C1C from IP 119.77.79.26, PC E74D6FFC
+2017-07-09 09:47:04|System|Traffic - Seconds: 600, Bytes in: 18411, Bytes out: 674752, Total: 693163
+2017-07-09 09:47:06|Rake|Rake account +5 balance 810361.45 (NLHE 05A)
+2017-07-09 09:47:07|Account|Ruphus -0 balance 37252.13 (Freeroll D NLO8 2000)
+2017-07-09 09:47:07|Table|Ruphus registers for Freeroll D NLO8 2000
+2017-07-09 09:47:40|Rake|Rake account +8.25 balance 810369.70 (NLHE 05A)
+2017-07-09 09:48:54|Rake|Rake account +12.50 balance 810382.20 (NLHE 05A)
+2017-07-09 09:49:47|Connect|Connection 00002C1D accepted from IP 210.213.203.133, PC F01702DB
+2017-07-09 09:49:49|Login|jackpot logged into session 00002C1D from IP 210.213.203.133, PC F01702DB
+2017-07-09 09:49:57|Account|rodmouvi +4892.35 balance 39014.98 (NLHE 05A)
+2017-07-09 09:49:57|Table|rodmouvi leaves NLHE 05A
+2017-07-09 09:50:11|Account|NuGgetZ1 +2535.20 balance 93031.20 (NLHE 05A)
+2017-07-09 09:50:11|Table|NuGgetZ1 leaves NLHE 05A
+2017-07-09 09:50:15|Account|jackpot -0 balance 229993.43 (Freeroll D NLO8 2000)
+2017-07-09 09:50:15|Table|jackpot registers for Freeroll D NLO8 2000
+2017-07-09 09:50:47|Connect|Connection 00002C1E accepted from IP 65.190.19.68, PC 26F3F976
+2017-07-09 09:50:58|Login|brokedummy logged into session 00002C1E from IP 65.190.19.68, PC 26F3F976
+2017-07-09 09:51:07|Account|brokedummy -0 balance 129016.99 (Freeroll D NLO8 2000)
+2017-07-09 09:51:07|Table|brokedummy registers for Freeroll D NLO8 2000
+2017-07-09 09:53:58|Connect|swipernam75 disconnects session 00002C16, PC C1C9F041
+2017-07-09 09:54:00|Connect|Connection 00002C1F accepted from IP 112.201.8.118, PC C1C9F041
+2017-07-09 09:54:04|Logout|swipernam75 logged out session 00002C16, PC C1C9F041
+2017-07-09 09:54:04|Login|swipernam75 logged into session 00002C1F from IP 112.201.8.118, PC C1C9F041
+2017-07-09 09:57:04|System|Traffic - Seconds: 600, Bytes in: 15430, Bytes out: 568944, Total: 584374
+2017-07-09 10:00:04|Table|Ruphus joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 10:00:04|Table|AlphaWolf joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 10:00:04|Table|brokedummy joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 10:00:04|Table|betong joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 10:00:04|Table|rodmouvi joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 10:00:04|Table|jackpot joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 10:01:18|Connect|trixter disconnects session 00002C1B, PC 7D345AFD
+2017-07-09 10:02:34|Connect|Connection 00002C20 accepted from IP 110.54.230.224, PC 3DF99C94
+2017-07-09 10:02:41|Connect|Ruphus disconnects session 00002C1C, PC E74D6FFC
+2017-07-09 10:02:45|Login|haruchankoy logged into session 00002C20 from IP 110.54.230.224, PC 3DF99C94
+2017-07-09 10:02:49|Connect|betong disconnects session 00002BE9, PC B7EFB070
+2017-07-09 10:04:04|Connect|Connection 00002C1B expired for trixter, PC 7D345AFD
+2017-07-09 10:05:04|Connect|Connection 00002BE9 expired for betong, PC B7EFB070
+2017-07-09 10:05:04|Connect|Connection 00002C1C expired for Ruphus, PC E74D6FFC
+2017-07-09 10:07:04|System|Traffic - Seconds: 600, Bytes in: 26929, Bytes out: 1720641, Total: 1747570
+2017-07-09 10:08:04|Account|jackpot +200 balance 230193.43 (Freeroll D NLO8 2000)
+2017-07-09 10:08:41|Connect|jackpot disconnects session 00002C1D, PC F01702DB
+2017-07-09 10:11:04|Connect|Connection 00002C1D expired for jackpot, PC F01702DB
+2017-07-09 10:17:03|Account|rodmouvi +400 balance 39414.98 (Freeroll D NLO8 2000)
+2017-07-09 10:17:03|Account|brokedummy +600 balance 129616.99 (Freeroll D NLO8 2000)
+2017-07-09 10:17:03|Account|AlphaWolf +800 balance 86761.56 (Freeroll D NLO8 2000)
+2017-07-09 10:17:04|System|Traffic - Seconds: 600, Bytes in: 15940, Bytes out: 713179, Total: 729119
+2017-07-09 10:17:32|Account|rodmouvi -5000 balance 34414.98 (NLHE 05A)
+2017-07-09 10:17:32|Table|rodmouvi joins NLHE 05A
+2017-07-09 10:23:25|Account|rodmouvi +5000 balance 39414.98 (NLHE 05A)
+2017-07-09 10:23:25|Table|rodmouvi leaves NLHE 05A
+2017-07-09 10:26:01|Connect|NuGgetZ1 disconnects session 00002C0D, PC 5A652609
+2017-07-09 10:26:25|Connect|Connection 00002C21 accepted from IP 180.190.173.123, PC 72F160EA
+2017-07-09 10:27:04|System|Traffic - Seconds: 600, Bytes in: 6576, Bytes out: 478346, Total: 484922
+2017-07-09 10:28:04|Connect|Connection 00002C0D expired for NuGgetZ1, PC 5A652609
+2017-07-09 10:35:59|Account|swipernam75 -20000 balance 36350.24 (PLO 07A)
+2017-07-09 10:35:59|Table|swipernam75 joins PLO 07A
+2017-07-09 10:37:04|System|Traffic - Seconds: 600, Bytes in: 719, Bytes out: 21117, Total: 21836
+2017-07-09 10:42:23|Account|rodmouvi -5000 balance 34414.98 (NLHE 06A)
+2017-07-09 10:42:23|Table|rodmouvi joins NLHE 06A
+2017-07-09 10:47:04|System|Traffic - Seconds: 600, Bytes in: 686, Bytes out: 28938, Total: 29624
+2017-07-09 10:54:51|Account|brokedummy -0 balance 129616.99 (Freeroll A NLHE 2000)
+2017-07-09 10:54:51|Table|brokedummy registers for Freeroll A NLHE 2000
+2017-07-09 10:56:38|Account|rodmouvi +5000 balance 39414.98 (NLHE 06A)
+2017-07-09 10:56:38|Table|rodmouvi leaves NLHE 06A
+2017-07-09 10:57:04|System|Traffic - Seconds: 600, Bytes in: 1601, Bytes out: 34277, Total: 35878
+2017-07-09 10:57:05|Account|rodmouvi -0 balance 39414.98 (Freeroll A NLHE 2000)
+2017-07-09 10:57:05|Table|rodmouvi registers for Freeroll A NLHE 2000
+2017-07-09 10:57:07|Login|NuGgetZ1 logged into session 00002C21 from IP 180.190.173.123, PC 72F160EA
+2017-07-09 10:57:13|Account|NuGgetZ1 -0 balance 93031.20 (Freeroll A NLHE 2000)
+2017-07-09 10:57:13|Table|NuGgetZ1 registers for Freeroll A NLHE 2000
+2017-07-09 11:00:04|Table|brokedummy joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 11:00:04|Table|rodmouvi joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 11:00:04|Table|NuGgetZ1 joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 11:02:54|Connect|Connection 00002C22 accepted from IP 110.54.194.185, PC D80CAD55
+2017-07-09 11:02:54|Connect|Connection 00002C23 accepted from IP 110.54.194.185, PC D80CAD55
+2017-07-09 11:03:09|Login|Bourne logged into session 00002C23 from IP 110.54.194.185, PC D80CAD55
+2017-07-09 11:04:25|Connect|Connection 00002C24 accepted from IP 210.213.203.133, PC F01702DB
+2017-07-09 11:04:31|Login|jackpot logged into session 00002C24 from IP 210.213.203.133, PC F01702DB
+2017-07-09 11:04:56|Account|jackpot -10000 balance 220193.43 (PLO 07A)
+2017-07-09 11:04:56|Table|jackpot joins PLO 07A
+2017-07-09 11:06:12|Connect|IP 110.54.194.185 disconnects session 00002C22, PC D80CAD55
+2017-07-09 11:06:15|Connect|Connection 00002C25 accepted from IP 110.54.194.185, PC D80CAD55
+2017-07-09 11:06:51|Rake|Rake account +10 balance 810392.20 (PLO 07A)
+2017-07-09 11:06:58|Account|jackpot +10190 balance 230383.43 (PLO 07A)
+2017-07-09 11:06:58|Table|jackpot leaves PLO 07A
+2017-07-09 11:07:04|System|Traffic - Seconds: 600, Bytes in: 40447, Bytes out: 1704206, Total: 1744653
+2017-07-09 11:07:08|Connect|jackpot disconnects session 00002C24, PC F01702DB
+2017-07-09 11:09:04|Connect|Connection 00002C22 expired for IP 110.54.194.185, PC D80CAD55
+2017-07-09 11:10:04|Connect|Connection 00002C24 expired for jackpot, PC F01702DB
+2017-07-09 11:13:02|Account|brokedummy +800 balance 130416.99 (Freeroll A NLHE 2000)
+2017-07-09 11:13:02|Account|NuGgetZ1 +1200 balance 94231.20 (Freeroll A NLHE 2000)
+2017-07-09 11:13:06|Connect|brokedummy disconnects session 00002C1E, PC 26F3F976
+2017-07-09 11:16:04|Connect|Connection 00002C1E expired for brokedummy, PC 26F3F976
+2017-07-09 11:17:04|System|Traffic - Seconds: 600, Bytes in: 8628, Bytes out: 283918, Total: 292546
+2017-07-09 11:27:04|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 25338, Total: 25338
+2017-07-09 11:37:04|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 29061, Total: 29061
+2017-07-09 11:37:30|Account|ROBERTO -0 balance 210615.84 (Freeroll B PLO 2000)
+2017-07-09 11:37:30|Table|ROBERTO registers for Freeroll B PLO 2000
+2017-07-09 11:39:59|Account|rodmouvi -0 balance 39414.98 (Freeroll B PLO 2000)
+2017-07-09 11:39:59|Table|rodmouvi registers for Freeroll B PLO 2000
+2017-07-09 11:41:05|Connect|Connection 00002C26 accepted from IP 79.118.116.112, PC 4B718F5D
+2017-07-09 11:41:08|Login|dumyx logged into session 00002C26 from IP 79.118.116.112, PC 4B718F5D
+2017-07-09 11:41:16|Account|dumyx -0 balance 12480 (Freeroll B PLO 2000)
+2017-07-09 11:41:16|Table|dumyx registers for Freeroll B PLO 2000
+2017-07-09 11:47:04|System|Traffic - Seconds: 600, Bytes in: 2662, Bytes out: 52252, Total: 54914
+2017-07-09 11:47:47|Connect|Connection 00002C27 accepted from IP 217.44.145.79, PC 1A24DDEB
+2017-07-09 11:47:57|Login|Prince logged into session 00002C27 from IP 217.44.145.79, PC 1A24DDEB
+2017-07-09 11:48:13|Account|Prince -0 balance 349085.13 (Freeroll B PLO 2000)
+2017-07-09 11:48:13|Table|Prince registers for Freeroll B PLO 2000
+2017-07-09 11:51:12|Connect|Connection 00002C28 accepted from IP 1.20.250.13, PC 68967C6B
+2017-07-09 11:51:17|Login|scambust logged into session 00002C28 from IP 1.20.250.13, PC 68967C6B
+2017-07-09 11:51:22|Connect|IP 110.54.194.185 disconnects session 00002C25, PC D80CAD55
+2017-07-09 11:51:28|Account|scambust -0 balance 35435 (Freeroll B PLO 2000)
+2017-07-09 11:51:28|Table|scambust registers for Freeroll B PLO 2000
+2017-07-09 11:51:38|Connect|Bourne disconnects session 00002C23, PC D80CAD55
+2017-07-09 11:53:50|Connect|Connection 00002C29 accepted from IP 188.67.81.22, PC 2D8581BC
+2017-07-09 11:53:59|Connect|Connection 00002C2A accepted from IP 77.18.225.192, PC 1E5CE4DE
+2017-07-09 11:54:04|Connect|Connection 00002C23 expired for Bourne, PC D80CAD55
+2017-07-09 11:54:04|Connect|Connection 00002C25 expired for IP 110.54.194.185, PC D80CAD55
+2017-07-09 11:54:04|Login|shtako logged into session 00002C2A from IP 77.18.225.192, PC 1E5CE4DE
+2017-07-09 11:54:20|Account|shtako -0 balance 385416.44 (Freeroll B PLO 2000)
+2017-07-09 11:54:20|Table|shtako registers for Freeroll B PLO 2000
+2017-07-09 11:54:47|Account|shtako -10000 balance 375416.44 (PLO 07A)
+2017-07-09 11:54:47|Table|shtako joins PLO 07A
+2017-07-09 11:54:51|Login|Numerous64 logged into session 00002C29 from IP 188.67.81.22, PC 2D8581BC
+2017-07-09 11:54:55|Account|Numerous64 -0 balance 4600 (Freeroll B PLO 2000)
+2017-07-09 11:54:55|Table|Numerous64 registers for Freeroll B PLO 2000
+2017-07-09 11:56:56|Account|shtako +10100 balance 385516.44 (PLO 07A)
+2017-07-09 11:56:56|Table|shtako leaves PLO 07A
+2017-07-09 11:57:04|System|Traffic - Seconds: 600, Bytes in: 25127, Bytes out: 595334, Total: 620461
+2017-07-09 11:58:35|Connect|Connection 00002C2B accepted from IP 110.54.194.185, PC D80CAD55
+2017-07-09 11:58:40|Login|Bourne logged into session 00002C2B from IP 110.54.194.185, PC D80CAD55
+2017-07-09 11:58:41|Connect|Connection 00002C2C accepted from IP 110.54.194.185, PC D80CAD55
+2017-07-09 11:58:41|Connect|Connection 00002C2D accepted from IP 110.54.194.185, PC D80CAD55
+2017-07-09 11:58:49|Account|Bourne -0 balance 83685.14 (Freeroll B PLO 2000)
+2017-07-09 11:58:49|Table|Bourne registers for Freeroll B PLO 2000
+2017-07-09 11:58:49|Connect|IP 110.54.194.185 disconnects session 00002C2D, PC D80CAD55
+2017-07-09 11:59:05|Connect|Connection 00002C2E accepted from IP 110.54.194.185, PC D80CAD55
+2017-07-09 11:59:06|Connect|IP 110.54.194.185 disconnects session 00002C2E, PC D80CAD55
+2017-07-09 11:59:09|Connect|Connection 00002C2F accepted from IP 110.54.194.185, PC D80CAD55
+2017-07-09 11:59:49|Connect|swipernam75 disconnects session 00002C1F, PC C1C9F041
+2017-07-09 12:00:04|Table|dumyx joins Freeroll B PLO 2000 - Table 1
+2017-07-09 12:00:04|Table|Prince joins Freeroll B PLO 2000 - Table 2
+2017-07-09 12:00:04|Table|Numerous64 joins Freeroll B PLO 2000 - Table 1
+2017-07-09 12:00:04|Table|shtako joins Freeroll B PLO 2000 - Table 2
+2017-07-09 12:00:04|Table|scambust joins Freeroll B PLO 2000 - Table 1
+2017-07-09 12:00:04|Table|rodmouvi joins Freeroll B PLO 2000 - Table 2
+2017-07-09 12:00:04|Table|Bourne joins Freeroll B PLO 2000 - Table 1
+2017-07-09 12:00:04|Table|ROBERTO joins Freeroll B PLO 2000 - Table 2
+2017-07-09 12:00:34|Connect|shtako disconnects session 00002C2A, PC 1E5CE4DE
+2017-07-09 12:00:47|Connect|Connection 00002C30 accepted from IP 68.4.54.30, PC AF6BC23C
+2017-07-09 12:00:52|Login|CLS logged into session 00002C30 from IP 68.4.54.30, PC AF6BC23C
+2017-07-09 12:01:04|Connect|Connection 00002C2D expired for IP 110.54.194.185, PC D80CAD55
+2017-07-09 12:01:23|Logout|CLS logged out session 00002C30, PC AF6BC23C
+2017-07-09 12:01:34|Connect|dumyx disconnects session 00002C26, PC 4B718F5D
+2017-07-09 12:01:44|Connect|Connection 00002C31 accepted from IP 112.198.79.90, PC C4787D56
+2017-07-09 12:02:04|Connect|Connection 00002C1F expired for swipernam75, PC C1C9F041
+2017-07-09 12:02:04|Connect|Connection 00002C2E expired for IP 110.54.194.185, PC D80CAD55
+2017-07-09 12:02:04|Account|swipernam75 +19700 balance 56050.24 (PLO 07A)
+2017-07-09 12:02:04|Table|swipernam75 leaves PLO 07A
+2017-07-09 12:02:54|Login|novcom logged into session 00002C31 from IP 112.198.79.90, PC C4787D56
+2017-07-09 12:03:04|Connect|Connection 00002C2A expired for shtako, PC 1E5CE4DE
+2017-07-09 12:03:32|Account|rodmouvi -5000 balance 34414.98 (NLHE 05A)
+2017-07-09 12:03:32|Table|rodmouvi joins NLHE 05A
+2017-07-09 12:04:04|Connect|Connection 00002C26 expired for dumyx, PC 4B718F5D
+2017-07-09 12:06:01|Account|shtako +0 balance 385516.44 (Freeroll B PLO 2000)
+2017-07-09 12:06:21|Account|novcom -20000 balance 20613.81 (PLO8 07A)
+2017-07-09 12:06:21|Table|novcom joins PLO8 07A
+2017-07-09 12:07:04|System|Traffic - Seconds: 600, Bytes in: 107352, Bytes out: 2173423, Total: 2280775
+2017-07-09 12:07:55|Logout|Numerous64 logged out session 00002C29, PC 2D8581BC
+2017-07-09 12:11:20|Account|novcom +20000 balance 40613.81 (PLO8 07A)
+2017-07-09 12:11:20|Table|novcom leaves PLO8 07A
+2017-07-09 12:11:22|Connect|novcom disconnects session 00002C31, PC C4787D56
+2017-07-09 12:11:42|Account|scambust +200 balance 35635 (Freeroll B PLO 2000)
+2017-07-09 12:12:04|Connect|File port sweeps: 1
+2017-07-09 12:12:16|Connect|scambust disconnects session 00002C28, PC 68967C6B
+2017-07-09 12:14:04|Connect|Connection 00002C31 expired for novcom, PC C4787D56
+2017-07-09 12:15:04|Connect|Connection 00002C28 expired for scambust, PC 68967C6B
+2017-07-09 12:15:04|Connect|File port sweeps: 3
+2017-07-09 12:15:54|Account|Bourne +400 balance 84085.14 (Freeroll B PLO 2000)
+2017-07-09 12:16:49|Account|Prince +600 balance 349685.13 (Freeroll B PLO 2000)
+2017-07-09 12:16:49|Account|ROBERTO +800 balance 211415.84 (Freeroll B PLO 2000)
+2017-07-09 12:17:04|Connect|File port sweeps: 2
+2017-07-09 12:17:04|System|Traffic - Seconds: 600, Bytes in: 51546, Bytes out: 707812, Total: 759358
+2017-07-09 12:20:37|Connect|Connection 00002C32 accepted from IP 77.18.225.192, PC 1E5CE4DE
+2017-07-09 12:20:45|Login|shtako logged into session 00002C32 from IP 77.18.225.192, PC 1E5CE4DE
+2017-07-09 12:20:52|Connect|shtako disconnects session 00002C32, PC 1E5CE4DE
+2017-07-09 12:23:04|Connect|Connection 00002C32 expired for shtako, PC 1E5CE4DE
+2017-07-09 12:24:45|Connect|Connection 00002C33 accepted from IP 118.232.9.247, PC 80569003
+2017-07-09 12:25:04|Connect|IP 118.232.9.247 disconnects session 00002C33, PC 80569003
+2017-07-09 12:25:08|Account|rodmouvi +5000 balance 39414.98 (NLHE 05A)
+2017-07-09 12:25:08|Table|rodmouvi leaves NLHE 05A
+2017-07-09 12:26:04|Connect|File port sweeps: 1
+2017-07-09 12:27:04|System|Traffic - Seconds: 600, Bytes in: 3216, Bytes out: 44257, Total: 47473
+2017-07-09 12:28:04|Connect|Connection 00002C33 expired for IP 118.232.9.247, PC 80569003
+2017-07-09 12:28:49|Connect|Connection 00002C34 accepted from IP 210.213.203.133, PC F01702DB
+2017-07-09 12:28:52|Login|jackpot logged into session 00002C34 from IP 210.213.203.133, PC F01702DB
+2017-07-09 12:31:46|Connect|haruchankoy disconnects session 00002C20, PC 3DF99C94
+2017-07-09 12:32:50|Connect|IP 110.54.194.185 disconnects session 00002C2C, PC D80CAD55
+2017-07-09 12:32:50|Connect|IP 110.54.194.185 disconnects session 00002C2F, PC D80CAD55
+2017-07-09 12:33:09|Connect|Bourne disconnects session 00002C2B, PC D80CAD55
+2017-07-09 12:34:04|Connect|Connection 00002C20 expired for haruchankoy, PC 3DF99C94
+2017-07-09 12:35:04|Connect|Connection 00002C2C expired for IP 110.54.194.185, PC D80CAD55
+2017-07-09 12:35:04|Connect|Connection 00002C2F expired for IP 110.54.194.185, PC D80CAD55
+2017-07-09 12:36:04|Connect|Connection 00002C2B expired for Bourne, PC D80CAD55
+2017-07-09 12:37:04|System|Traffic - Seconds: 600, Bytes in: 1278, Bytes out: 27133, Total: 28411
+2017-07-09 12:38:45|Account|diamond -0 balance 242811.63 (Freeroll C PLO8 2000)
+2017-07-09 12:38:45|Table|diamond registers for Freeroll C PLO8 2000
+2017-07-09 12:42:26|Connect|rodmouvi disconnects session 00002BD7, PC 34D57C1D
+2017-07-09 12:43:22|Connect|Connection 00002C35 accepted from IP 112.198.102.4, PC C73511B5
+2017-07-09 12:43:42|Connect|IP 112.198.102.4 disconnects session 00002C35, PC C73511B5
+2017-07-09 12:44:11|Account|Prince -0 balance 349685.13 (Freeroll C PLO8 2000)
+2017-07-09 12:44:11|Table|Prince registers for Freeroll C PLO8 2000
+2017-07-09 12:45:04|Connect|Connection 00002BD7 expired for rodmouvi, PC 34D57C1D
+2017-07-09 12:46:04|Connect|Connection 00002C35 expired for IP 112.198.102.4, PC C73511B5
+2017-07-09 12:47:04|System|Traffic - Seconds: 600, Bytes in: 2406, Bytes out: 22250, Total: 24656
+2017-07-09 12:49:19|Connect|Connection 00002C36 accepted from IP 65.190.19.68, PC 26F3F976
+2017-07-09 12:49:30|Login|brokedummy logged into session 00002C36 from IP 65.190.19.68, PC 26F3F976
+2017-07-09 12:49:39|Account|brokedummy -0 balance 130416.99 (Freeroll C PLO8 2000)
+2017-07-09 12:49:39|Table|brokedummy registers for Freeroll C PLO8 2000
+2017-07-09 12:51:35|Connect|Connection 00002C37 accepted from IP 81.64.125.195, PC 34D57C1D
+2017-07-09 12:51:39|Login|rodmouvi logged into session 00002C37 from IP 81.64.125.195, PC 34D57C1D
+2017-07-09 12:51:48|Account|rodmouvi -0 balance 39414.98 (Freeroll C PLO8 2000)
+2017-07-09 12:51:48|Table|rodmouvi registers for Freeroll C PLO8 2000
+2017-07-09 12:56:49|Connect|Connection 00002C38 accepted from IP 82.2.197.215, PC 8153C055
+2017-07-09 12:57:03|System|Traffic - Seconds: 600, Bytes in: 20987, Bytes out: 605591, Total: 626578
+2017-07-09 12:57:05|Login|thedok logged into session 00002C38 from IP 82.2.197.215, PC 8153C055
+2017-07-09 12:57:21|Connect|Connection 00002C39 accepted from IP 1.20.250.13, PC 68967C6B
+2017-07-09 12:57:32|Login|scambust logged into session 00002C39 from IP 1.20.250.13, PC 68967C6B
+2017-07-09 12:57:43|Account|scambust -0 balance 35635 (Freeroll C PLO8 2000)
+2017-07-09 12:57:43|Table|scambust registers for Freeroll C PLO8 2000
+2017-07-09 12:57:59|Account|thedok -0 balance 20917.89 (Freeroll C PLO8 2000)
+2017-07-09 12:57:59|Table|thedok registers for Freeroll C PLO8 2000
+2017-07-09 12:58:34|Account|NuGgetZ1 -0 balance 94231.20 (Freeroll C PLO8 2000)
+2017-07-09 12:58:34|Table|NuGgetZ1 registers for Freeroll C PLO8 2000
+2017-07-09 13:00:04|Table|brokedummy joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 13:00:04|Table|thedok joins Freeroll C PLO8 2000 - Table 2
+2017-07-09 13:00:04|Table|diamond joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 13:00:04|Table|scambust joins Freeroll C PLO8 2000 - Table 2
+2017-07-09 13:00:04|Table|NuGgetZ1 joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 13:00:04|Table|rodmouvi joins Freeroll C PLO8 2000 - Table 2
+2017-07-09 13:00:04|Table|Prince joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 13:05:46|Account|NuGgetZ1 +0 balance 94231.20 (Freeroll C PLO8 2000)
+2017-07-09 13:07:04|System|Traffic - Seconds: 600, Bytes in: 30085, Bytes out: 1695420, Total: 1725505
+2017-07-09 13:08:04|Connect|File port sweeps: 1
+2017-07-09 13:10:34|Account|scambust +200 balance 35835 (Freeroll C PLO8 2000)
+2017-07-09 13:10:51|Connect|scambust disconnects session 00002C39, PC 68967C6B
+2017-07-09 13:11:04|Connect|File port sweeps: 4
+2017-07-09 13:12:02|Connect|Connection 00002C3A accepted from IP 89.20.243.91, PC 0B6295D1
+2017-07-09 13:12:04|Connect|File port sweeps: 1
+2017-07-09 13:12:51|Login|power1k logged into session 00002C3A from IP 89.20.243.91, PC 0B6295D1
+2017-07-09 13:13:04|Connect|Connection 00002C39 expired for scambust, PC 68967C6B
+2017-07-09 13:17:04|System|Traffic - Seconds: 600, Bytes in: 15144, Bytes out: 685401, Total: 700545
+2017-07-09 13:18:16|Account|rodmouvi +400 balance 39814.98 (Freeroll C PLO8 2000)
+2017-07-09 13:18:50|Logout|NuGgetZ1 logged out session 00002C21, PC 72F160EA
+2017-07-09 13:19:30|Account|diamond +600 balance 243411.63 (Freeroll C PLO8 2000)
+2017-07-09 13:19:30|Account|brokedummy +800 balance 131216.99 (Freeroll C PLO8 2000)
+2017-07-09 13:19:49|Connect|Prince disconnects session 00002C27, PC 1A24DDEB
+2017-07-09 13:20:04|Connect|File port sweeps: 2
+2017-07-09 13:22:04|Connect|Connection 00002C27 expired for Prince, PC 1A24DDEB
+2017-07-09 13:22:04|Connect|File port sweeps: 1
+2017-07-09 13:24:01|Connect|power1k disconnects session 00002C3A, PC 0B6295D1
+2017-07-09 13:25:01|Account|thedok -5000 balance 15917.89 (HU NLHE 06A)
+2017-07-09 13:25:01|Table|thedok joins HU NLHE 06A
+2017-07-09 13:26:04|Connect|Connection 00002C3A expired for power1k, PC 0B6295D1
+2017-07-09 13:27:04|System|Traffic - Seconds: 600, Bytes in: 4548, Bytes out: 181984, Total: 186532
+2017-07-09 13:27:39|Connect|diamond disconnects session 00002C17, PC D23A83BC
+2017-07-09 13:30:04|Connect|Connection 00002C17 expired for diamond, PC D23A83BC
+2017-07-09 13:33:53|Account|thedok -0 balance 15917.89 (Freeroll D NLO8 2000)
+2017-07-09 13:33:53|Table|thedok registers for Freeroll D NLO8 2000
+2017-07-09 13:37:04|System|Traffic - Seconds: 600, Bytes in: 3730, Bytes out: 221039, Total: 224769
+2017-07-09 13:37:12|Connect|Connection 00002C3B accepted from IP 112.198.102.32, PC ACCB35FF
+2017-07-09 13:37:49|Connect|IP 112.198.102.32 disconnects session 00002C3B, PC ACCB35FF
+2017-07-09 13:40:04|Connect|Connection 00002C3B expired for IP 112.198.102.32, PC ACCB35FF
+2017-07-09 13:41:56|Account|brokedummy -0 balance 131216.99 (Freeroll D NLO8 2000)
+2017-07-09 13:41:56|Table|brokedummy registers for Freeroll D NLO8 2000
+2017-07-09 13:43:15|Account|rodmouvi -5000 balance 34814.98 (HU NLHE 06A)
+2017-07-09 13:43:15|Table|rodmouvi joins HU NLHE 06A
+2017-07-09 13:44:12|Rake|Rake account +10 balance 810402.20 (HU NLHE 06A)
+2017-07-09 13:44:58|Rake|Rake account +20 balance 810422.20 (HU NLHE 06A)
+2017-07-09 13:45:57|Rake|Rake account +25 balance 810447.20 (HU NLHE 06A)
+2017-07-09 13:46:50|Rake|Rake account +20 balance 810467.20 (HU NLHE 06A)
+2017-07-09 13:47:04|System|Traffic - Seconds: 600, Bytes in: 15175, Bytes out: 594624, Total: 609799
+2017-07-09 13:47:30|Rake|Rake account +25 balance 810492.20 (HU NLHE 06A)
+2017-07-09 13:48:17|Rake|Rake account +5 balance 810497.20 (HU NLHE 06A)
+2017-07-09 13:49:01|Rake|Rake account +5 balance 810502.20 (HU NLHE 06A)
+2017-07-09 13:49:41|Rake|Rake account +25 balance 810527.20 (HU NLHE 06A)
+2017-07-09 13:50:10|Connect|Connection 00002C3C accepted from IP 112.200.107.237, PC DB1F042A
+2017-07-09 13:50:34|Login|tagailog logged into session 00002C3C from IP 112.200.107.237, PC DB1F042A
+2017-07-09 13:50:44|Rake|Rake account +5 balance 810532.20 (HU NLHE 06A)
+2017-07-09 13:51:32|Rake|Rake account +198 balance 810730.20 (HU NLHE 06A)
+2017-07-09 13:52:06|Rake|Rake account +5 balance 810735.20 (HU NLHE 06A)
+2017-07-09 13:52:14|Account|thedok +7817 balance 23734.89 (HU NLHE 06A)
+2017-07-09 13:52:14|Table|thedok leaves HU NLHE 06A
+2017-07-09 13:52:19|Account|rodmouvi +1840 balance 36654.98 (HU NLHE 06A)
+2017-07-09 13:52:19|Table|rodmouvi leaves HU NLHE 06A
+2017-07-09 13:52:31|Account|rodmouvi -0 balance 36654.98 (Freeroll D NLO8 2000)
+2017-07-09 13:52:31|Table|rodmouvi registers for Freeroll D NLO8 2000
+2017-07-09 13:56:03|Account|tagailog -0 balance 84622.96 (Freeroll D NLO8 2000)
+2017-07-09 13:56:03|Table|tagailog registers for Freeroll D NLO8 2000
+2017-07-09 13:57:04|System|Traffic - Seconds: 600, Bytes in: 11170, Bytes out: 242367, Total: 253537
+2017-07-09 13:57:53|Connect|Connection 00002C3D accepted from IP 182.18.238.31, PC 6E806DDF
+2017-07-09 13:57:56|Login|Efyang logged into session 00002C3D from IP 182.18.238.31, PC 6E806DDF
+2017-07-09 13:58:02|Account|Efyang -0 balance 159063.74 (Freeroll D NLO8 2000)
+2017-07-09 13:58:02|Table|Efyang registers for Freeroll D NLO8 2000
+2017-07-09 14:00:04|Table|tagailog joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 14:00:04|Table|thedok joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 14:00:04|Table|rodmouvi joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 14:00:04|Table|Efyang joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 14:00:04|Table|brokedummy joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 14:01:41|Connect|Connection 00002C3E accepted from IP 180.190.173.123, PC FFF5C8C8
+2017-07-09 14:01:48|Login|NuGgetZ1 logged into session 00002C3E from IP 180.190.173.123, PC FFF5C8C8
+2017-07-09 14:01:56|Account|thedok -10000 balance 13734.89 (PLO8 06A)
+2017-07-09 14:01:56|Table|thedok joins PLO8 06A
+2017-07-09 14:02:04|Connect|File port sweeps: 2
+2017-07-09 14:04:21|Account|Efyang +200 balance 159263.74 (Freeroll D NLO8 2000)
+2017-07-09 14:04:28|Connect|Efyang disconnects session 00002C3D, PC 6E806DDF
+2017-07-09 14:04:29|Connect|Connection 00002C3F accepted from IP 174.59.207.64, PC 26E4254A
+2017-07-09 14:04:54|Connect|IP 174.59.207.64 disconnects session 00002C3F, PC 26E4254A
+2017-07-09 14:07:04|Connect|Connection 00002C3D expired for Efyang, PC 6E806DDF
+2017-07-09 14:07:04|Connect|Connection 00002C3F expired for IP 174.59.207.64, PC 26E4254A
+2017-07-09 14:07:04|System|Traffic - Seconds: 600, Bytes in: 34150, Bytes out: 1863421, Total: 1897571
+2017-07-09 14:08:13|Account|rodmouvi +400 balance 37054.98 (Freeroll D NLO8 2000)
+2017-07-09 14:12:24|Account|tagailog +600 balance 85222.96 (Freeroll D NLO8 2000)
+2017-07-09 14:12:24|Account|brokedummy +800 balance 132016.99 (Freeroll D NLO8 2000)
+2017-07-09 14:13:38|Logout|tagailog logged out session 00002C3C, PC DB1F042A
+2017-07-09 14:17:04|System|Traffic - Seconds: 600, Bytes in: 8615, Bytes out: 338083, Total: 346698
+2017-07-09 14:26:25|Connect|Connection 00002C40 accepted from IP 185.50.222.95, PC 9CB3ECEC
+2017-07-09 14:26:27|Login|Arpetuos logged into session 00002C40 from IP 185.50.222.95, PC 9CB3ECEC
+2017-07-09 14:27:04|System|Traffic - Seconds: 600, Bytes in: 9913, Bytes out: 480398, Total: 490311
+2017-07-09 14:28:06|Connect|Connection 00002C41 accepted from IP 82.244.150.251, PC AE301D58
+2017-07-09 14:28:11|Login|moriz logged into session 00002C41 from IP 82.244.150.251, PC AE301D58
+2017-07-09 14:28:57|Account|moriz -1000 balance 48935 (HU NLHE 03A)
+2017-07-09 14:28:57|Table|moriz joins HU NLHE 03A
+2017-07-09 14:29:10|Account|moriz -200 balance 48735 (HU NLHE 01A)
+2017-07-09 14:29:10|Table|moriz joins HU NLHE 01A
+2017-07-09 14:29:20|Account|moriz -400 balance 48335 (HU NLHE 02A)
+2017-07-09 14:29:20|Table|moriz joins HU NLHE 02A
+2017-07-09 14:29:46|Account|moriz -2000 balance 46335 (HU NLHE 04A)
+2017-07-09 14:29:46|Table|moriz joins HU NLHE 04A
+2017-07-09 14:29:51|Account|thedok +10000 balance 23734.89 (PLO8 06A)
+2017-07-09 14:29:51|Table|thedok leaves PLO8 06A
+2017-07-09 14:30:36|Account|thedok -2000 balance 21734.89 (HU NLHE 04A)
+2017-07-09 14:30:36|Table|thedok joins HU NLHE 04A
+2017-07-09 14:31:55|Account|Arpetuos -0 balance 900 (Freeroll A NLHE 2000)
+2017-07-09 14:31:55|Table|Arpetuos registers for Freeroll A NLHE 2000
+2017-07-09 14:32:05|Rake|Rake account +2 balance 810737.20 (HU NLHE 04A)
+2017-07-09 14:32:14|Account|Arpetuos -200 balance 700 (HU NLHE 01A)
+2017-07-09 14:32:14|Table|Arpetuos joins HU NLHE 01A
+2017-07-09 14:32:33|Rake|Rake account +3 balance 810740.20 (HU NLHE 04A)
+2017-07-09 14:32:56|Rake|Rake account +0.20 balance 810740.40 (HU NLHE 01A)
+2017-07-09 14:33:11|Rake|Rake account +1 balance 810741.40 (HU NLHE 04A)
+2017-07-09 14:34:32|Rake|Rake account +46.90 balance 810788.30 (HU NLHE 04A)
+2017-07-09 14:35:09|Rake|Rake account +0.75 balance 810789.05 (HU NLHE 01A)
+2017-07-09 14:35:16|Rake|Rake account +2 balance 810791.05 (HU NLHE 04A)
+2017-07-09 14:35:34|Connect|rodmouvi disconnects session 00002C37, PC 34D57C1D
+2017-07-09 14:35:40|Rake|Rake account +0.30 balance 810791.35 (HU NLHE 01A)
+2017-07-09 14:36:15|Account|NuGgetZ1 -0 balance 94231.20 (Freeroll A NLHE 2000)
+2017-07-09 14:36:15|Table|NuGgetZ1 registers for Freeroll A NLHE 2000
+2017-07-09 14:36:37|Rake|Rake account +0.70 balance 810792.05 (HU NLHE 01A)
+2017-07-09 14:36:43|Rake|Rake account +51.60 balance 810843.65 (HU NLHE 04A)
+2017-07-09 14:37:04|System|Traffic - Seconds: 600, Bytes in: 37233, Bytes out: 2017628, Total: 2054861
+2017-07-09 14:37:23|Account|NuGgetZ1 -500.20 balance 93731 (HU NLHE 03A)
+2017-07-09 14:37:23|Table|NuGgetZ1 joins HU NLHE 03A
+2017-07-09 14:37:26|Rake|Rake account +1 balance 810844.65 (HU NLHE 04A)
+2017-07-09 14:38:04|Connect|Connection 00002C37 expired for rodmouvi, PC 34D57C1D
+2017-07-09 14:38:09|Rake|Rake account +2 balance 810846.65 (HU NLHE 04A)
+2017-07-09 14:38:14|Account|Arpetuos +228.20 balance 928.20 (HU NLHE 01A)
+2017-07-09 14:38:14|Table|Arpetuos leaves HU NLHE 01A
+2017-07-09 14:38:54|Rake|Rake account +4 balance 810850.65 (HU NLHE 03A)
+2017-07-09 14:39:34|Rake|Rake account +11 balance 810861.65 (HU NLHE 04A)
+2017-07-09 14:39:59|Rake|Rake account +3.35 balance 810865 (HU NLHE 03A)
+2017-07-09 14:40:25|Rake|Rake account +1 balance 810866 (HU NLHE 04A)
+2017-07-09 14:40:42|Rake|Rake account +0.50 balance 810866.50 (HU NLHE 03A)
+2017-07-09 14:41:16|Rake|Rake account +9.05 balance 810875.55 (HU NLHE 04A)
+2017-07-09 14:41:42|Rake|Rake account +1 balance 810876.55 (HU NLHE 03A)
+2017-07-09 14:41:46|Rake|Rake account +4 balance 810880.55 (HU NLHE 04A)
+2017-07-09 14:42:02|Account|ROBERTO -0 balance 211415.84 (Freeroll A NLHE 2000)
+2017-07-09 14:42:02|Table|ROBERTO registers for Freeroll A NLHE 2000
+2017-07-09 14:42:13|Rake|Rake account +2 balance 810882.55 (HU NLHE 04A)
+2017-07-09 14:42:30|Rake|Rake account +0.50 balance 810883.05 (HU NLHE 03A)
+2017-07-09 14:43:00|Rake|Rake account +26.45 balance 810909.50 (HU NLHE 04A)
+2017-07-09 14:43:34|Account|Arpetuos -228.20 balance 700 (HU NLHE 01A)
+2017-07-09 14:43:34|Table|Arpetuos joins HU NLHE 01A
+2017-07-09 14:43:35|Rake|Rake account +1 balance 810910.50 (HU NLHE 03A)
+2017-07-09 14:43:40|Rake|Rake account +1 balance 810911.50 (HU NLHE 04A)
+2017-07-09 14:43:43|Account|Arpetuos +228.20 balance 928.20 (HU NLHE 01A)
+2017-07-09 14:43:43|Table|Arpetuos leaves HU NLHE 01A
+2017-07-09 14:43:52|Account|Arpetuos -228.20 balance 700 (HU NLHE 01A)
+2017-07-09 14:43:52|Table|Arpetuos joins HU NLHE 01A
+2017-07-09 14:44:01|Account|Arpetuos +228.20 balance 928.20 (HU NLHE 01A)
+2017-07-09 14:44:01|Table|Arpetuos leaves HU NLHE 01A
+2017-07-09 14:44:12|Rake|Rake account +0.50 balance 810912 (HU NLHE 03A)
+2017-07-09 14:44:13|Account|Arpetuos -400 balance 528.20 (HU NLHE 02A)
+2017-07-09 14:44:13|Table|Arpetuos joins HU NLHE 02A
+2017-07-09 14:44:58|Rake|Rake account +1 balance 810913 (HU NLHE 04A)
+2017-07-09 14:45:03|Connect|Connection 00002C42 accepted from IP 49.147.112.122, PC 7D345AFD
+2017-07-09 14:45:06|Login|trixter logged into session 00002C42 from IP 49.147.112.122, PC 7D345AFD
+2017-07-09 14:45:07|Rake|Rake account +1 balance 810914 (HU NLHE 03A)
+2017-07-09 14:45:34|Account|trixter -0 balance 109681.55 (Freeroll A NLHE 2000)
+2017-07-09 14:45:34|Table|trixter registers for Freeroll A NLHE 2000
+2017-07-09 14:45:44|Rake|Rake account +20 balance 810934 (HU NLHE 02A)
+2017-07-09 14:45:44|Account|Arpetuos +0 balance 528.20 (HU NLHE 02A)
+2017-07-09 14:45:44|Table|Arpetuos leaves HU NLHE 02A
+2017-07-09 14:45:58|Rake|Rake account +1 balance 810935 (HU NLHE 03A)
+2017-07-09 14:46:07|Rake|Rake account +1 balance 810936 (HU NLHE 04A)
+2017-07-09 14:46:25|Account|trixter -400 balance 109281.55 (HU NLHE 02A)
+2017-07-09 14:46:25|Table|trixter joins HU NLHE 02A
+2017-07-09 14:46:54|Rake|Rake account +8.70 balance 810944.70 (HU NLHE 03A)
+2017-07-09 14:47:04|System|Traffic - Seconds: 600, Bytes in: 33557, Bytes out: 1243674, Total: 1277231
+2017-07-09 14:47:10|Rake|Rake account +1 balance 810945.70 (HU NLHE 04A)
+2017-07-09 14:47:42|Rake|Rake account +0.60 balance 810946.30 (HU NLHE 02A)
+2017-07-09 14:47:50|Rake|Rake account +2 balance 810948.30 (HU NLHE 03A)
+2017-07-09 14:48:11|Account|moriz +169.85 balance 46504.85 (HU NLHE 01A)
+2017-07-09 14:48:11|Table|moriz removed from HU NLHE 01A via sitout timer
+2017-07-09 14:48:26|Rake|Rake account +0.40 balance 810948.70 (HU NLHE 02A)
+2017-07-09 14:48:37|Rake|Rake account +80.70 balance 811029.40 (HU NLHE 04A)
+2017-07-09 14:48:44|Account|thedok -2000 balance 19734.89 (HU NLHE 04A)
+2017-07-09 14:48:46|Rake|Rake account +11.50 balance 811040.90 (HU NLHE 03A)
+2017-07-09 14:48:58|Rake|Rake account +0.20 balance 811041.10 (HU NLHE 02A)
+2017-07-09 14:49:56|Rake|Rake account +1 balance 811042.10 (HU NLHE 04A)
+2017-07-09 14:50:09|Rake|Rake account +0.90 balance 811043 (HU NLHE 02A)
+2017-07-09 14:50:10|Rake|Rake account +20.55 balance 811063.55 (HU NLHE 03A)
+2017-07-09 14:50:25|Account|moriz -361.95 balance 46142.90 (HU NLHE 03A)
+2017-07-09 14:50:31|Account|brokedummy -0 balance 132016.99 (Freeroll A NLHE 2000)
+2017-07-09 14:50:31|Table|brokedummy registers for Freeroll A NLHE 2000
+2017-07-09 14:50:44|Connect|Connection 00002C43 accepted from IP 112.200.107.237, PC DB1F042A
+2017-07-09 14:50:57|Rake|Rake account +2 balance 811065.55 (HU NLHE 04A)
+2017-07-09 14:51:22|Rake|Rake account +1 balance 811066.55 (HU NLHE 03A)
+2017-07-09 14:51:37|Rake|Rake account +1 balance 811067.55 (HU NLHE 04A)
+2017-07-09 14:51:43|Rake|Rake account +0.20 balance 811067.75 (HU NLHE 02A)
+2017-07-09 14:51:59|Rake|Rake account +1.50 balance 811069.25 (HU NLHE 03A)
+2017-07-09 14:52:29|Login|tagailog logged into session 00002C43 from IP 112.200.107.237, PC DB1F042A
+2017-07-09 14:52:31|Rake|Rake account +1 balance 811070.25 (HU NLHE 04A)
+2017-07-09 14:52:41|Account|tagailog -0 balance 85222.96 (Freeroll A NLHE 2000)
+2017-07-09 14:52:41|Table|tagailog registers for Freeroll A NLHE 2000
+2017-07-09 14:52:43|Rake|Rake account +0.20 balance 811070.45 (HU NLHE 02A)
+2017-07-09 14:52:43|Rake|Rake account +3 balance 811073.45 (HU NLHE 03A)
+2017-07-09 14:53:39|Rake|Rake account +0.40 balance 811073.85 (HU NLHE 02A)
+2017-07-09 14:53:52|Rake|Rake account +14.75 balance 811088.60 (HU NLHE 03A)
+2017-07-09 14:53:58|Rake|Rake account +100.35 balance 811188.95 (HU NLHE 04A)
+2017-07-09 14:54:04|Account|thedok -2000 balance 17734.89 (HU NLHE 04A)
+2017-07-09 14:54:06|Connect|Connection 00002C44 accepted from IP 110.54.199.86, PC D80CAD55
+2017-07-09 14:54:08|Rake|Rake account +0.20 balance 811189.15 (HU NLHE 02A)
+2017-07-09 14:54:16|Login|Bourne logged into session 00002C44 from IP 110.54.199.86, PC D80CAD55
+2017-07-09 14:54:23|Rake|Rake account +38.50 balance 811227.65 (HU NLHE 03A)
+2017-07-09 14:54:26|Account|Bourne -0 balance 84085.14 (Freeroll A NLHE 2000)
+2017-07-09 14:54:26|Table|Bourne registers for Freeroll A NLHE 2000
+2017-07-09 14:54:50|Rake|Rake account +19.90 balance 811247.55 (HU NLHE 02A)
+2017-07-09 14:55:03|Rake|Rake account +3.95 balance 811251.50 (HU NLHE 04A)
+2017-07-09 14:55:14|Account|moriz -15.90 balance 46127 (HU NLHE 02A)
+2017-07-09 14:55:16|Rake|Rake account +12.25 balance 811263.75 (HU NLHE 03A)
+2017-07-09 14:55:25|Connect|Connection 00002C45 accepted from IP 77.38.100.170, PC 9F841C25
+2017-07-09 14:56:00|Rake|Rake account +2.95 balance 811266.70 (HU NLHE 04A)
+2017-07-09 14:56:09|Login|crazyjack logged into session 00002C45 from IP 77.38.100.170, PC 9F841C25
+2017-07-09 14:56:51|Rake|Rake account +1.80 balance 811268.50 (HU NLHE 02A)
+2017-07-09 14:57:03|Rake|Rake account +9 balance 811277.50 (HU NLHE 04A)
+2017-07-09 14:57:04|System|Traffic - Seconds: 600, Bytes in: 62185, Bytes out: 2257161, Total: 2319346
+2017-07-09 14:57:05|Rake|Rake account +0.50 balance 811278 (HU NLHE 03A)
+2017-07-09 14:57:14|Account|crazyjack -0 balance 16497.53 (Freeroll A NLHE 2000)
+2017-07-09 14:57:14|Table|crazyjack registers for Freeroll A NLHE 2000
+2017-07-09 14:57:22|Rake|Rake account +0.20 balance 811278.20 (HU NLHE 02A)
+2017-07-09 14:57:24|Connect|Connection 00002C46 accepted from IP 1.20.250.13, PC 68967C6B
+2017-07-09 14:57:27|Login|scambust logged into session 00002C46 from IP 1.20.250.13, PC 68967C6B
+2017-07-09 14:57:33|Rake|Rake account +1.50 balance 811279.70 (HU NLHE 03A)
+2017-07-09 14:57:38|Account|scambust -0 balance 35835 (Freeroll A NLHE 2000)
+2017-07-09 14:57:38|Table|scambust registers for Freeroll A NLHE 2000
+2017-07-09 14:57:55|Rake|Rake account +115.10 balance 811394.80 (HU NLHE 04A)
+2017-07-09 14:57:59|Rake|Rake account +0.40 balance 811395.20 (HU NLHE 02A)
+2017-07-09 14:58:19|Account|moriz -1000 balance 45127 (HU NLHE 04A)
+2017-07-09 14:58:20|Rake|Rake account +151.30 balance 811546.50 (HU NLHE 04A)
+2017-07-09 14:58:44|Rake|Rake account +22 balance 811568.50 (HU NLHE 02A)
+2017-07-09 14:58:47|Rake|Rake account +50 balance 811618.50 (HU NLHE 04A)
+2017-07-09 14:58:49|Rake|Rake account +0.50 balance 811619 (HU NLHE 03A)
+2017-07-09 14:59:13|Connect|Connection 00002C47 accepted from IP 81.64.125.195, PC 34D57C1D
+2017-07-09 14:59:15|Login|rodmouvi logged into session 00002C47 from IP 81.64.125.195, PC 34D57C1D
+2017-07-09 14:59:22|Account|rodmouvi -0 balance 37054.98 (Freeroll A NLHE 2000)
+2017-07-09 14:59:22|Table|rodmouvi registers for Freeroll A NLHE 2000
+2017-07-09 14:59:29|Rake|Rake account +1.75 balance 811620.75 (HU NLHE 02A)
+2017-07-09 14:59:42|Rake|Rake account +1 balance 811621.75 (HU NLHE 03A)
+2017-07-09 14:59:46|Rake|Rake account +14.60 balance 811636.35 (HU NLHE 04A)
+2017-07-09 15:00:01|Connect|Connection 00002C48 accepted from IP 77.18.225.192, PC 1E5CE4DE
+2017-07-09 15:00:04|Table|ROBERTO joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 15:00:04|Table|rodmouvi joins Freeroll A NLHE 2000 - Table 2
+2017-07-09 15:00:04|Table|NuGgetZ1 joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 15:00:04|Table|trixter joins Freeroll A NLHE 2000 - Table 2
+2017-07-09 15:00:04|Table|scambust joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 15:00:04|Table|brokedummy joins Freeroll A NLHE 2000 - Table 2
+2017-07-09 15:00:04|Table|crazyjack joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 15:00:04|Table|tagailog joins Freeroll A NLHE 2000 - Table 2
+2017-07-09 15:00:04|Table|Bourne joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 15:00:04|Table|Arpetuos joins Freeroll A NLHE 2000 - Table 2
+2017-07-09 15:00:09|Login|shtako logged into session 00002C48 from IP 77.18.225.192, PC 1E5CE4DE
+2017-07-09 15:00:19|Rake|Rake account +2 balance 811638.35 (HU NLHE 04A)
+2017-07-09 15:00:29|Connect|shtako disconnects session 00002C48, PC 1E5CE4DE
+2017-07-09 15:00:32|Rake|Rake account +3 balance 811641.35 (HU NLHE 03A)
+2017-07-09 15:00:36|Rake|Rake account +1.70 balance 811643.05 (HU NLHE 02A)
+2017-07-09 15:00:55|Rake|Rake account +2 balance 811645.05 (HU NLHE 04A)
+2017-07-09 15:01:19|Rake|Rake account +1.50 balance 811646.55 (HU NLHE 03A)
+2017-07-09 15:01:38|Rake|Rake account +0.40 balance 811646.95 (HU NLHE 02A)
+2017-07-09 15:01:38|Rake|Rake account +2.30 balance 811649.25 (HU NLHE 04A)
+2017-07-09 15:02:13|Rake|Rake account +1 balance 811650.25 (HU NLHE 03A)
+2017-07-09 15:02:14|Account|moriz -184.35 balance 44942.65 (HU NLHE 04A)
+2017-07-09 15:02:15|Rake|Rake account +2 balance 811652.25 (HU NLHE 04A)
+2017-07-09 15:02:57|Account|moriz -0.50 balance 44942.15 (HU NLHE 04A)
+2017-07-09 15:02:58|Rake|Rake account +1 balance 811653.25 (HU NLHE 04A)
+2017-07-09 15:03:04|Connect|Connection 00002C48 expired for shtako, PC 1E5CE4DE
+2017-07-09 15:03:11|Rake|Rake account +1.55 balance 811654.80 (HU NLHE 02A)
+2017-07-09 15:03:27|Connect|Connection 00002C49 accepted from IP 118.232.9.247, PC 80569003
+2017-07-09 15:03:49|Rake|Rake account +0.40 balance 811655.20 (HU NLHE 02A)
+2017-07-09 15:03:54|Account|moriz -156.02 balance 44786.13 (HU NLHE 04A)
+2017-07-09 15:03:55|Rake|Rake account +7.80 balance 811663 (HU NLHE 04A)
+2017-07-09 15:04:26|Rake|Rake account +0.40 balance 811663.40 (HU NLHE 02A)
+2017-07-09 15:04:27|Rake|Rake account +11.50 balance 811674.90 (HU NLHE 03A)
+2017-07-09 15:04:42|Rake|Rake account +2 balance 811676.90 (HU NLHE 04A)
+2017-07-09 15:05:05|Rake|Rake account +0.50 balance 811677.40 (HU NLHE 03A)
+2017-07-09 15:05:11|Connect|scambust disconnects session 00002C46, PC 68967C6B
+2017-07-09 15:05:34|Connect|jackpot disconnects session 00002C34, PC F01702DB
+2017-07-09 15:06:05|Rake|Rake account +0.50 balance 811677.90 (HU NLHE 03A)
+2017-07-09 15:06:06|Rake|Rake account +0.75 balance 811678.65 (HU NLHE 02A)
+2017-07-09 15:06:15|Rake|Rake account +1 balance 811679.65 (HU NLHE 04A)
+2017-07-09 15:06:17|Account|moriz +983.95 balance 45770.08 (HU NLHE 03A)
+2017-07-09 15:06:17|Table|moriz leaves HU NLHE 03A
+2017-07-09 15:06:21|Account|moriz +722.65 balance 46492.73 (HU NLHE 02A)
+2017-07-09 15:06:21|Table|moriz leaves HU NLHE 02A
+2017-07-09 15:06:22|Account|thedok +6573.32 balance 24308.21 (HU NLHE 04A)
+2017-07-09 15:06:22|Table|thedok leaves HU NLHE 04A
+2017-07-09 15:06:22|Account|trixter +418.90 balance 109700.45 (HU NLHE 02A)
+2017-07-09 15:06:22|Table|trixter leaves HU NLHE 02A
+2017-07-09 15:06:23|Account|NuGgetZ1 +730.10 balance 94461.10 (HU NLHE 03A)
+2017-07-09 15:06:23|Table|NuGgetZ1 leaves HU NLHE 03A
+2017-07-09 15:06:24|Account|moriz +2047.50 balance 48540.23 (HU NLHE 04A)
+2017-07-09 15:06:24|Table|moriz leaves HU NLHE 04A
+2017-07-09 15:06:24|Connect|trixter disconnects session 00002C42, PC 7D345AFD
+2017-07-09 15:06:33|Logout|moriz logged out session 00002C41, PC AE301D58
+2017-07-09 15:06:50|Account|thedok -20000 balance 4308.21 (PLO8 07A)
+2017-07-09 15:06:50|Table|thedok joins PLO8 07A
+2017-07-09 15:07:04|System|Traffic - Seconds: 600, Bytes in: 96032, Bytes out: 2551353, Total: 2647385
+2017-07-09 15:07:20|Logout|tagailog logged out session 00002C43, PC DB1F042A
+2017-07-09 15:08:04|Connect|Connection 00002C34 expired for jackpot, PC F01702DB
+2017-07-09 15:08:04|Connect|Connection 00002C46 expired for scambust, PC 68967C6B
+2017-07-09 15:09:04|Connect|Connection 00002C42 expired for trixter, PC 7D345AFD
+2017-07-09 15:11:33|Account|thedok +20000 balance 24308.21 (PLO8 07A)
+2017-07-09 15:11:33|Table|thedok leaves PLO8 07A
+2017-07-09 15:14:52|Account|rodmouvi -2500 balance 34554.98 (NLHE 05A)
+2017-07-09 15:14:52|Table|rodmouvi joins NLHE 05A
+2017-07-09 15:15:57|Account|Arpetuos +200 balance 728.20 (Freeroll A NLHE 2000)
+2017-07-09 15:16:04|Connect|Arpetuos disconnects session 00002C40, PC 9CB3ECEC
+2017-07-09 15:17:04|System|Traffic - Seconds: 600, Bytes in: 67573, Bytes out: 1086415, Total: 1153988
+2017-07-09 15:17:53|Account|thedok -20000 balance 4308.21 (PLO8 07A)
+2017-07-09 15:17:53|Table|thedok joins PLO8 07A
+2017-07-09 15:18:03|Account|Bourne +400 balance 84485.14 (Freeroll A NLHE 2000)
+2017-07-09 15:18:04|Connect|Connection 00002C40 expired for Arpetuos, PC 9CB3ECEC
+2017-07-09 15:18:26|Account|ROBERTO +600 balance 212015.84 (Freeroll A NLHE 2000)
+2017-07-09 15:18:26|Account|crazyjack +800 balance 17297.53 (Freeroll A NLHE 2000)
+2017-07-09 15:18:32|Connect|crazyjack disconnects session 00002C45, PC 9F841C25
+2017-07-09 15:21:04|Connect|Connection 00002C45 expired for crazyjack, PC 9F841C25
+2017-07-09 15:21:44|Account|rodmouvi +2500 balance 37054.98 (NLHE 05A)
+2017-07-09 15:21:44|Table|rodmouvi leaves NLHE 05A
+2017-07-09 15:22:32|Connect|IP 118.232.9.247 disconnects session 00002C49, PC 80569003
+2017-07-09 15:23:10|Connect|Connection 00002C4A accepted from IP 180.190.77.95, PC 37B86CC1
+2017-07-09 15:23:47|Connect|IP 180.190.77.95 disconnects session 00002C4A, PC 37B86CC1
+2017-07-09 15:23:49|Connect|Connection 00002C4B accepted from IP 180.190.77.95, PC 37B86CC1
+2017-07-09 15:23:53|Login|siriloy logged into session 00002C4B from IP 180.190.77.95, PC 37B86CC1
+2017-07-09 15:25:04|Connect|Connection 00002C49 expired for IP 118.232.9.247, PC 80569003
+2017-07-09 15:26:04|Connect|Connection 00002C4A expired for IP 180.190.77.95, PC 37B86CC1
+2017-07-09 15:27:04|System|Traffic - Seconds: 600, Bytes in: 24197, Bytes out: 629671, Total: 653868
+2017-07-09 15:32:17|Connect|siriloy reconnects session 00002C4B
+2017-07-09 15:37:04|System|Traffic - Seconds: 600, Bytes in: 4782, Bytes out: 410840, Total: 415622
+2017-07-09 15:37:18|Connect|Bourne disconnects session 00002C44, PC D80CAD55
+2017-07-09 15:37:47|Account|thedok -0 balance 4308.21 (Freeroll B PLO 2000)
+2017-07-09 15:37:47|Table|thedok registers for Freeroll B PLO 2000
+2017-07-09 15:38:12|Account|brokedummy -0 balance 132016.99 (Freeroll B PLO 2000)
+2017-07-09 15:38:12|Table|brokedummy registers for Freeroll B PLO 2000
+2017-07-09 15:38:19|Account|thedok +20000 balance 24308.21 (PLO8 07A)
+2017-07-09 15:38:19|Table|thedok leaves PLO8 07A
+2017-07-09 15:38:34|Account|thedok -5000 balance 19308.21 (PLO 05A)
+2017-07-09 15:38:34|Table|thedok joins PLO 05A
+2017-07-09 15:40:04|Connect|Connection 00002C44 expired for Bourne, PC D80CAD55
+2017-07-09 15:40:21|Account|NuGgetZ1 -0 balance 94461.10 (Freeroll B PLO 2000)
+2017-07-09 15:40:21|Table|NuGgetZ1 registers for Freeroll B PLO 2000
+2017-07-09 15:40:29|Connect|Connection 00002C4C accepted from IP 110.54.200.246, PC C4787D56
+2017-07-09 15:40:39|Account|NuGgetZ1 -2500.10 balance 91961 (PLO 05A)
+2017-07-09 15:40:39|Table|NuGgetZ1 joins PLO 05A
+2017-07-09 15:40:52|Login|novcom logged into session 00002C4C from IP 110.54.200.246, PC C4787D56
+2017-07-09 15:41:20|Account|novcom -2500 balance 38113.81 (PLO 05A)
+2017-07-09 15:41:20|Table|novcom joins PLO 05A
+2017-07-09 15:41:26|Rake|Rake account +5 balance 811684.65 (PLO 05A)
+2017-07-09 15:42:13|Account|rodmouvi -2500 balance 34554.98 (PLO 05A)
+2017-07-09 15:42:13|Table|rodmouvi joins PLO 05A
+2017-07-09 15:42:38|Rake|Rake account +3.75 balance 811688.40 (PLO 05A)
+2017-07-09 15:43:28|Account|ROBERTO -0 balance 212015.84 (Freeroll B PLO 2000)
+2017-07-09 15:43:28|Table|ROBERTO registers for Freeroll B PLO 2000
+2017-07-09 15:43:54|Rake|Rake account +15 balance 811703.40 (PLO 05A)
+2017-07-09 15:45:06|Account|rodmouvi -0 balance 34554.98 (Freeroll B PLO 2000)
+2017-07-09 15:45:06|Table|rodmouvi registers for Freeroll B PLO 2000
+2017-07-09 15:45:15|Rake|Rake account +116.85 balance 811820.25 (PLO 05A)
+2017-07-09 15:46:13|Connect|Connection 00002C4D accepted from IP 109.96.27.111, PC 8D7C07F0
+2017-07-09 15:46:29|Account|NuGgetZ1 -2500 balance 89461 (PLO 05A)
+2017-07-09 15:46:30|Rake|Rake account +120 balance 811940.25 (PLO 05A)
+2017-07-09 15:46:32|Logout|AlphaWolf logged out session 00002C19, PC D1769071
+2017-07-09 15:46:32|Login|AlphaWolf logged into session 00002C4D from IP 109.96.27.111, PC 8D7C07F0
+2017-07-09 15:46:43|Account|AlphaWolf -0 balance 86761.56 (Freeroll B PLO 2000)
+2017-07-09 15:46:43|Table|AlphaWolf registers for Freeroll B PLO 2000
+2017-07-09 15:47:04|System|Traffic - Seconds: 600, Bytes in: 24768, Bytes out: 837798, Total: 862566
+2017-07-09 15:47:29|Rake|Rake account +119.25 balance 812059.50 (PLO 05A)
+2017-07-09 15:47:29|Account|NuGgetZ1 -4835 balance 84626 (PLO 05A)
+2017-07-09 15:48:41|Rake|Rake account +10 balance 812069.50 (PLO 05A)
+2017-07-09 15:49:51|Rake|Rake account +80.10 balance 812149.60 (PLO 05A)
+2017-07-09 15:50:55|Rake|Rake account +283.80 balance 812433.40 (PLO 05A)
+2017-07-09 15:51:01|Account|thedok +0 balance 19308.21 (PLO 05A)
+2017-07-09 15:51:01|Table|thedok leaves PLO 05A
+2017-07-09 15:51:38|Account|thedok -5000 balance 14308.21 (PLO 05A)
+2017-07-09 15:51:38|Table|thedok joins PLO 05A
+2017-07-09 15:51:43|Connect|Connection 00002C4E accepted from IP 112.198.90.59, PC 89B91E23
+2017-07-09 15:51:43|Rake|Rake account +33.15 balance 812466.55 (PLO 05A)
+2017-07-09 15:52:52|Rake|Rake account +59.35 balance 812525.90 (PLO 05A)
+2017-07-09 15:53:52|Rake|Rake account +151.85 balance 812677.75 (PLO 05A)
+2017-07-09 15:54:01|Account|rodmouvi -5000 balance 29554.98 (PLO 05A)
+2017-07-09 15:54:55|Rake|Rake account +7.50 balance 812685.25 (PLO 05A)
+2017-07-09 15:55:21|Connect|Connection 00002C4F accepted from IP 112.200.107.237, PC DB1F042A
+2017-07-09 15:55:31|Login|tagailog logged into session 00002C4F from IP 112.200.107.237, PC DB1F042A
+2017-07-09 15:55:55|Account|tagailog -0 balance 85222.96 (Freeroll B PLO 2000)
+2017-07-09 15:55:55|Table|tagailog registers for Freeroll B PLO 2000
+2017-07-09 15:56:04|Rake|Rake account +255 balance 812940.25 (PLO 05A)
+2017-07-09 15:57:04|System|Traffic - Seconds: 600, Bytes in: 31027, Bytes out: 1462748, Total: 1493775
+2017-07-09 15:57:29|Account|thedok +0 balance 14308.21 (PLO 05A)
+2017-07-09 15:57:29|Table|thedok leaves PLO 05A
+2017-07-09 15:57:30|Rake|Rake account +116.85 balance 813057.10 (PLO 05A)
+2017-07-09 15:58:13|Rake|Rake account +35 balance 813092.10 (PLO 05A)
+2017-07-09 15:58:54|Rake|Rake account +15 balance 813107.10 (PLO 05A)
+2017-07-09 16:00:04|Table|brokedummy joins Freeroll B PLO 2000 - Table 1
+2017-07-09 16:00:04|Table|tagailog joins Freeroll B PLO 2000 - Table 2
+2017-07-09 16:00:04|Table|rodmouvi joins Freeroll B PLO 2000 - Table 1
+2017-07-09 16:00:04|Table|NuGgetZ1 joins Freeroll B PLO 2000 - Table 2
+2017-07-09 16:00:04|Table|ROBERTO joins Freeroll B PLO 2000 - Table 1
+2017-07-09 16:00:04|Table|thedok joins Freeroll B PLO 2000 - Table 2
+2017-07-09 16:00:04|Table|AlphaWolf joins Freeroll B PLO 2000 - Table 1
+2017-07-09 16:00:10|Account|rodmouvi +9225 balance 38779.98 (PLO 05A)
+2017-07-09 16:00:10|Table|rodmouvi leaves PLO 05A
+2017-07-09 16:00:27|Rake|Rake account +130.50 balance 813237.60 (PLO 05A)
+2017-07-09 16:01:38|Rake|Rake account +10 balance 813247.60 (PLO 05A)
+2017-07-09 16:02:34|Connect|IP 112.198.90.59 disconnects session 00002C4E, PC 89B91E23
+2017-07-09 16:02:37|Rake|Rake account +64.15 balance 813311.75 (PLO 05A)
+2017-07-09 16:03:04|Connect|File port sweeps: 5
+2017-07-09 16:03:09|Connect|Connection 00002C50 accepted from IP 120.188.4.115, PC D73706F1
+2017-07-09 16:03:27|Connect|Connection 00002C51 accepted from IP 112.198.90.59, PC 89B91E23
+2017-07-09 16:03:47|Rake|Rake account +22.10 balance 813333.85 (PLO 05A)
+2017-07-09 16:04:17|Connect|IP 120.188.4.115 disconnects session 00002C50, PC D73706F1
+2017-07-09 16:04:33|Rake|Rake account +7.50 balance 813341.35 (PLO 05A)
+2017-07-09 16:04:56|Connect|Connection 00002C52 accepted from IP 77.18.225.192, PC 1E5CE4DE
+2017-07-09 16:05:01|Login|shtako logged into session 00002C52 from IP 77.18.225.192, PC 1E5CE4DE
+2017-07-09 16:05:04|Connect|Connection 00002C4E expired for IP 112.198.90.59, PC 89B91E23
+2017-07-09 16:05:29|Account|shtako -5000 balance 380516.44 (PLO 05A)
+2017-07-09 16:05:29|Table|shtako joins PLO 05A
+2017-07-09 16:05:30|Rake|Rake account +7.50 balance 813348.85 (PLO 05A)
+2017-07-09 16:05:30|Account|thedok -2500 balance 11808.21 (PLO 05A)
+2017-07-09 16:05:30|Table|thedok joins PLO 05A
+2017-07-09 16:06:30|Rake|Rake account +22.10 balance 813370.95 (PLO 05A)
+2017-07-09 16:07:04|Connect|Connection 00002C50 expired for IP 120.188.4.115, PC D73706F1
+2017-07-09 16:07:04|System|Traffic - Seconds: 600, Bytes in: 49236, Bytes out: 2249225, Total: 2298461
+2017-07-09 16:07:30|Rake|Rake account +5 balance 813375.95 (PLO 05A)
+2017-07-09 16:07:42|Account|thedok +200 balance 12008.21 (Freeroll B PLO 2000)
+2017-07-09 16:07:44|Account|brokedummy -5000 balance 127016.99 (PLO 05A)
+2017-07-09 16:07:44|Table|brokedummy joins PLO 05A
+2017-07-09 16:08:15|Account|tagailog +400 balance 85622.96 (Freeroll B PLO 2000)
+2017-07-09 16:08:23|Logout|tagailog logged out session 00002C4F, PC DB1F042A
+2017-07-09 16:08:46|Rake|Rake account +21.55 balance 813397.50 (PLO 05A)
+2017-07-09 16:10:07|Rake|Rake account +40.25 balance 813437.75 (PLO 05A)
+2017-07-09 16:11:19|Rake|Rake account +307.35 balance 813745.10 (PLO 05A)
+2017-07-09 16:11:28|Account|novcom -2500 balance 35613.81 (PLO 05A)
+2017-07-09 16:12:05|Account|AlphaWolf +600 balance 87361.56 (Freeroll B PLO 2000)
+2017-07-09 16:12:05|Account|NuGgetZ1 +800 balance 85426 (Freeroll B PLO 2000)
+2017-07-09 16:12:17|Connect|Connection 00002C53 accepted from IP 37.53.181.73, PC 1507FAF6
+2017-07-09 16:12:43|Login|just_Alice logged into session 00002C53 from IP 37.53.181.73, PC 1507FAF6
+2017-07-09 16:13:00|Rake|Rake account +33.90 balance 813779 (PLO 05A)
+2017-07-09 16:13:37|Rake|Rake account +3.75 balance 813782.75 (PLO 05A)
+2017-07-09 16:14:15|Rake|Rake account +10 balance 813792.75 (PLO 05A)
+2017-07-09 16:14:55|Rake|Rake account +8.10 balance 813800.85 (PLO 05A)
+2017-07-09 16:15:52|Rake|Rake account +151.55 balance 813952.40 (PLO 05A)
+2017-07-09 16:16:04|Connect|File port sweeps: 3
+2017-07-09 16:16:22|Rake|Rake account +7.50 balance 813959.90 (PLO 05A)
+2017-07-09 16:17:04|System|Traffic - Seconds: 600, Bytes in: 34016, Bytes out: 1486991, Total: 1521007
+2017-07-09 16:17:15|Rake|Rake account +38.70 balance 813998.60 (PLO 05A)
+2017-07-09 16:17:41|Logout|just_Alice logged out session 00002C53, PC 1507FAF6
+2017-07-09 16:18:22|Account|novcom +0 balance 35613.81 (PLO 05A)
+2017-07-09 16:18:22|Table|novcom leaves PLO 05A
+2017-07-09 16:18:23|Rake|Rake account +477 balance 814475.60 (PLO 05A)
+2017-07-09 16:18:28|Account|thedok +0 balance 12008.21 (PLO 05A)
+2017-07-09 16:18:28|Table|thedok leaves PLO 05A
+2017-07-09 16:18:45|Account|novcom -5000 balance 30613.81 (PLO 05A)
+2017-07-09 16:18:45|Table|novcom joins PLO 05A
+2017-07-09 16:18:48|Account|thedok -5000 balance 7008.21 (PLO 05A)
+2017-07-09 16:18:48|Table|thedok joins PLO 05A
+2017-07-09 16:18:57|Rake|Rake account +8.75 balance 814484.35 (PLO 05A)
+2017-07-09 16:19:07|Account|rodmouvi -9225 balance 29554.98 (PLO 05A)
+2017-07-09 16:19:07|Table|rodmouvi joins PLO 05A
+2017-07-09 16:19:50|Rake|Rake account +300.80 balance 814785.15 (PLO 05A)
+2017-07-09 16:20:57|Rake|Rake account +39.35 balance 814824.50 (PLO 05A)
+2017-07-09 16:23:03|Rake|Rake account +24.50 balance 814849 (PLO 05A)
+2017-07-09 16:23:50|Rake|Rake account +245.60 balance 815094.60 (PLO 05A)
+2017-07-09 16:23:56|Account|thedok +0 balance 7008.21 (PLO 05A)
+2017-07-09 16:23:56|Table|thedok leaves PLO 05A
+2017-07-09 16:23:57|Connect|thedok disconnects session 00002C38, PC 8153C055
+2017-07-09 16:24:03|Connect|Connection 00002C54 accepted from IP 37.53.181.73, PC 1507FAF6
+2017-07-09 16:24:19|Login|just_Alice logged into session 00002C54 from IP 37.53.181.73, PC 1507FAF6
+2017-07-09 16:24:45|Connect|Connection 00002C55 accepted from IP 49.149.157.179, PC F20DEEBC
+2017-07-09 16:24:57|Account|rodmouvi +8375 balance 37929.98 (PLO 05A)
+2017-07-09 16:24:57|Table|rodmouvi leaves PLO 05A
+2017-07-09 16:25:14|Login|dynalyn0504 logged into session 00002C55 from IP 49.149.157.179, PC F20DEEBC
+2017-07-09 16:25:37|Rake|Rake account +14.35 balance 815108.95 (PLO 05A)
+2017-07-09 16:26:04|Connect|Connection 00002C38 expired for thedok, PC 8153C055
+2017-07-09 16:26:21|Rake|Rake account +59.50 balance 815168.45 (PLO 05A)
+2017-07-09 16:27:04|System|Traffic - Seconds: 600, Bytes in: 22380, Bytes out: 1085901, Total: 1108281
+2017-07-09 16:27:15|Rake|Rake account +2.50 balance 815170.95 (PLO 05A)
+2017-07-09 16:27:46|Connect|Connection 00002C56 accepted from IP 185.50.222.95, PC 9CB3ECEC
+2017-07-09 16:27:48|Login|Arpetuos logged into session 00002C56 from IP 185.50.222.95, PC 9CB3ECEC
+2017-07-09 16:28:11|Rake|Rake account +11.05 balance 815182 (PLO 05A)
+2017-07-09 16:29:43|Rake|Rake account +18.10 balance 815200.10 (PLO 05A)
+2017-07-09 16:30:41|Rake|Rake account +57.85 balance 815257.95 (PLO 05A)
+2017-07-09 16:31:39|Rake|Rake account +5 balance 815262.95 (PLO 05A)
+2017-07-09 16:32:17|Rake|Rake account +16.85 balance 815279.80 (PLO 05A)
+2017-07-09 16:33:27|Rake|Rake account +7.50 balance 815287.30 (PLO 05A)
+2017-07-09 16:34:02|Account|brokedummy +7390.15 balance 134407.14 (PLO 05A)
+2017-07-09 16:34:02|Table|brokedummy leaves PLO 05A
+2017-07-09 16:34:17|Rake|Rake account +3.75 balance 815291.05 (PLO 05A)
+2017-07-09 16:34:43|Rake|Rake account +5 balance 815296.05 (PLO 05A)
+2017-07-09 16:36:22|Rake|Rake account +3.75 balance 815299.80 (PLO 05A)
+2017-07-09 16:37:04|System|Traffic - Seconds: 600, Bytes in: 17870, Bytes out: 675214, Total: 693084
+2017-07-09 16:37:35|Account|shtako -0 balance 380516.44 (Freeroll C PLO8 2000)
+2017-07-09 16:37:35|Table|shtako registers for Freeroll C PLO8 2000
+2017-07-09 16:38:00|Rake|Rake account +2.50 balance 815302.30 (PLO 05A)
+2017-07-09 16:39:13|Rake|Rake account +558.30 balance 815860.60 (PLO 05A)
+2017-07-09 16:39:43|Account|ROBERTO -0 balance 212015.84 (Freeroll C PLO8 2000)
+2017-07-09 16:39:43|Table|ROBERTO registers for Freeroll C PLO8 2000
+2017-07-09 16:40:19|Rake|Rake account +15.60 balance 815876.20 (PLO 05A)
+2017-07-09 16:41:07|Rake|Rake account +3.75 balance 815879.95 (PLO 05A)
+2017-07-09 16:41:50|Rake|Rake account +7.50 balance 815887.45 (PLO 05A)
+2017-07-09 16:42:31|Connect|shtako disconnects session 00002C52, PC 1E5CE4DE
+2017-07-09 16:43:53|Account|brokedummy -0 balance 134407.14 (Freeroll C PLO8 2000)
+2017-07-09 16:43:53|Table|brokedummy registers for Freeroll C PLO8 2000
+2017-07-09 16:45:01|Rake|Rake account +18.10 balance 815905.55 (PLO 05A)
+2017-07-09 16:45:04|Connect|Connection 00002C52 expired for shtako, PC 1E5CE4DE
+2017-07-09 16:45:07|Account|shtako +16179.95 balance 396696.39 (PLO 05A)
+2017-07-09 16:45:07|Table|shtako leaves PLO 05A
+2017-07-09 16:45:57|Rake|Rake account +10 balance 815915.55 (PLO 05A)
+2017-07-09 16:46:58|Rake|Rake account +7.50 balance 815923.05 (PLO 05A)
+2017-07-09 16:47:04|System|Traffic - Seconds: 600, Bytes in: 11477, Bytes out: 405807, Total: 417284
+2017-07-09 16:47:37|Rake|Rake account +5 balance 815928.05 (PLO 05A)
+2017-07-09 16:48:12|Rake|Rake account +22.10 balance 815950.15 (PLO 05A)
+2017-07-09 16:48:57|Rake|Rake account +7.50 balance 815957.65 (PLO 05A)
+2017-07-09 16:48:58|Account|AlphaWolf -0 balance 87361.56 (Freeroll C PLO8 2000)
+2017-07-09 16:48:58|Table|AlphaWolf registers for Freeroll C PLO8 2000
+2017-07-09 16:49:02|Account|novcom +10593.15 balance 41206.96 (PLO 05A)
+2017-07-09 16:49:02|Table|novcom leaves PLO 05A
+2017-07-09 16:49:09|Account|NuGgetZ1 +8018.85 balance 93444.85 (PLO 05A)
+2017-07-09 16:49:09|Table|NuGgetZ1 leaves PLO 05A
+2017-07-09 16:49:15|Connect|novcom disconnects session 00002C4C, PC C4787D56
+2017-07-09 16:49:26|Logout|NuGgetZ1 logged out session 00002C3E, PC FFF5C8C8
+2017-07-09 16:50:25|Account|Arpetuos -0 balance 728.20 (Freeroll C PLO8 2000)
+2017-07-09 16:50:25|Table|Arpetuos registers for Freeroll C PLO8 2000
+2017-07-09 16:52:04|Connect|Connection 00002C4C expired for novcom, PC C4787D56
+2017-07-09 16:56:24|Connect|IP 112.198.90.59 disconnects session 00002C51, PC 89B91E23
+2017-07-09 16:57:04|System|Traffic - Seconds: 600, Bytes in: 5551, Bytes out: 128663, Total: 134214
+2017-07-09 16:59:04|Connect|Connection 00002C51 expired for IP 112.198.90.59, PC 89B91E23
+2017-07-09 17:00:04|Table|ROBERTO joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 17:00:04|Table|Arpetuos joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 17:00:04|Table|shtako joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 17:00:04|Table|brokedummy joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 17:00:04|Table|AlphaWolf joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 17:00:34|Connect|Connection 00002C57 accepted from IP 112.198.90.59, PC 89B91E23
+2017-07-09 17:01:57|Connect|dynalyn0504 disconnects session 00002C55, PC F20DEEBC
+2017-07-09 17:02:47|Account|Arpetuos +200 balance 928.20 (Freeroll C PLO8 2000)
+2017-07-09 17:04:04|Connect|Connection 00002C55 expired for dynalyn0504, PC F20DEEBC
+2017-07-09 17:04:25|Connect|IP 112.198.90.59 disconnects session 00002C57, PC 89B91E23
+2017-07-09 17:07:04|Connect|Connection 00002C57 expired for IP 112.198.90.59, PC 89B91E23
+2017-07-09 17:07:04|System|Traffic - Seconds: 600, Bytes in: 10671, Bytes out: 455302, Total: 465973
+2017-07-09 17:10:06|Account|shtako +400 balance 397096.39 (Freeroll C PLO8 2000)
+2017-07-09 17:11:21|Connect|just_Alice disconnects session 00002C54, PC 1507FAF6
+2017-07-09 17:14:04|Connect|Connection 00002C54 expired for just_Alice, PC 1507FAF6
+2017-07-09 17:17:04|System|Traffic - Seconds: 600, Bytes in: 14221, Bytes out: 497645, Total: 511866
+2017-07-09 17:19:05|Account|ROBERTO +600 balance 212615.84 (Freeroll C PLO8 2000)
+2017-07-09 17:19:05|Account|AlphaWolf +800 balance 88161.56 (Freeroll C PLO8 2000)
+2017-07-09 17:27:01|Connect|siriloy disconnects session 00002C4B, PC 37B86CC1
+2017-07-09 17:27:04|System|Traffic - Seconds: 600, Bytes in: 3455, Bytes out: 106261, Total: 109716
+2017-07-09 17:27:37|Connect|siriloy reconnects session 00002C4B
+2017-07-09 17:29:04|Connect|siriloy reconnects session 00002C4B
+2017-07-09 17:30:25|Connect|tuan disconnects session 00002C1A, PC D4595F0E
+2017-07-09 17:33:04|Connect|Connection 00002C1A expired for tuan, PC D4595F0E
+2017-07-09 17:34:34|Connect|Connection 00002C58 accepted from IP 188.163.32.145, PC 571AED05
+2017-07-09 17:34:38|Login|alf logged into session 00002C58 from IP 188.163.32.145, PC 571AED05
+2017-07-09 17:34:52|Account|alf -0 balance 112226.87 (Freeroll D NLO8 2000)
+2017-07-09 17:34:52|Table|alf registers for Freeroll D NLO8 2000
+2017-07-09 17:36:55|Account|brokedummy -0 balance 134407.14 (Freeroll D NLO8 2000)
+2017-07-09 17:36:55|Table|brokedummy registers for Freeroll D NLO8 2000
+2017-07-09 17:37:04|System|Traffic - Seconds: 600, Bytes in: 13622, Bytes out: 489851, Total: 503473
+2017-07-09 17:39:04|Connect|Packet port sweeps: 1
+2017-07-09 17:41:54|Connect|Connection 00002C59 accepted from IP 68.228.21.153, PC A66C1F5C
+2017-07-09 17:42:13|Connect|IP 68.228.21.153 disconnects session 00002C59, PC A66C1F5C
+2017-07-09 17:42:15|Connect|68.228.21.153 reconnects session 00002C59
+2017-07-09 17:42:44|Connect|IP 68.228.21.153 disconnects session 00002C59, PC A66C1F5C
+2017-07-09 17:42:45|Connect|68.228.21.153 reconnects session 00002C59
+2017-07-09 17:43:13|Connect|IP 68.228.21.153 disconnects session 00002C59, PC A66C1F5C
+2017-07-09 17:43:15|Connect|68.228.21.153 reconnects session 00002C59
+2017-07-09 17:43:24|Login|CoinDoctor logged into session 00002C59 from IP 68.228.21.153, PC A66C1F5C
+2017-07-09 17:43:52|Account|CoinDoctor -0 balance 81062.75 (Freeroll D NLO8 2000)
+2017-07-09 17:43:52|Table|CoinDoctor registers for Freeroll D NLO8 2000
+2017-07-09 17:44:13|Account|CoinDoctor -5000 balance 76062.75 (PLO 06A)
+2017-07-09 17:44:13|Table|CoinDoctor joins PLO 06A
+2017-07-09 17:47:04|System|Traffic - Seconds: 600, Bytes in: 4393, Bytes out: 43913, Total: 48306
+2017-07-09 17:48:40|Account|ROBERTO -0 balance 212615.84 (Freeroll D NLO8 2000)
+2017-07-09 17:48:40|Table|ROBERTO registers for Freeroll D NLO8 2000
+2017-07-09 17:51:24|Account|AlphaWolf -0 balance 88161.56 (Freeroll D NLO8 2000)
+2017-07-09 17:51:24|Table|AlphaWolf registers for Freeroll D NLO8 2000
+2017-07-09 17:57:04|System|Traffic - Seconds: 600, Bytes in: 628, Bytes out: 24651, Total: 25279
+2017-07-09 17:59:26|Connect|Connection 00002C5A accepted from IP 82.2.197.215, PC 580B5185
+2017-07-09 17:59:38|Login|thedok logged into session 00002C5A from IP 82.2.197.215, PC 580B5185
+2017-07-09 17:59:43|Connect|Connection 00002C5B accepted from IP 1.20.250.13, PC 68967C6B
+2017-07-09 17:59:46|Login|scambust logged into session 00002C5B from IP 1.20.250.13, PC 68967C6B
+2017-07-09 17:59:46|Account|thedok -0 balance 7008.21 (Freeroll D NLO8 2000)
+2017-07-09 17:59:46|Table|thedok registers for Freeroll D NLO8 2000
+2017-07-09 17:59:49|Account|scambust -0 balance 35835 (Freeroll D NLO8 2000)
+2017-07-09 17:59:49|Table|scambust registers for Freeroll D NLO8 2000
+2017-07-09 18:00:04|Table|ROBERTO joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 18:00:04|Table|CoinDoctor joins Freeroll D NLO8 2000 - Table 2
+2017-07-09 18:00:04|Table|alf joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 18:00:04|Table|scambust joins Freeroll D NLO8 2000 - Table 2
+2017-07-09 18:00:04|Table|thedok joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 18:00:04|Table|brokedummy joins Freeroll D NLO8 2000 - Table 2
+2017-07-09 18:00:04|Table|AlphaWolf joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 18:02:14|Connect|scambust disconnects session 00002C5B, PC 68967C6B
+2017-07-09 18:05:04|Connect|Connection 00002C5B expired for scambust, PC 68967C6B
+2017-07-09 18:07:04|System|Traffic - Seconds: 600, Bytes in: 27311, Bytes out: 1732707, Total: 1760018
+2017-07-09 18:10:08|Account|thedok -7008.21 balance 0 (PLO 06A)
+2017-07-09 18:10:08|Table|thedok joins PLO 06A
+2017-07-09 18:12:01|Account|alf +200 balance 112426.87 (Freeroll D NLO8 2000)
+2017-07-09 18:12:17|Connect|alf disconnects session 00002C58, PC 571AED05
+2017-07-09 18:14:04|Connect|File port sweeps: 2
+2017-07-09 18:15:04|Connect|Connection 00002C58 expired for alf, PC 571AED05
+2017-07-09 18:16:22|Account|CoinDoctor +400 balance 76462.75 (Freeroll D NLO8 2000)
+2017-07-09 18:16:46|Account|AlphaWolf +600 balance 88761.56 (Freeroll D NLO8 2000)
+2017-07-09 18:16:46|Account|brokedummy +800 balance 135207.14 (Freeroll D NLO8 2000)
+2017-07-09 18:17:04|System|Traffic - Seconds: 600, Bytes in: 14664, Bytes out: 1029893, Total: 1044557
+2017-07-09 18:17:45|Connect|AlphaWolf disconnects session 00002C4D, PC 8D7C07F0
+2017-07-09 18:20:04|Connect|Connection 00002C4D expired for AlphaWolf, PC 8D7C07F0
+2017-07-09 18:20:42|Account|CoinDoctor +4950 balance 81412.75 (PLO 06A)
+2017-07-09 18:20:42|Table|CoinDoctor removed from PLO 06A via sitout timer
+2017-07-09 18:27:04|System|Traffic - Seconds: 600, Bytes in: 443, Bytes out: 34439, Total: 34882
+2017-07-09 18:27:54|Account|CoinDoctor -5000 balance 76412.75 (PLO 06A)
+2017-07-09 18:27:54|Table|CoinDoctor joins PLO 06A
+2017-07-09 18:28:53|Rake|Rake account +29.75 balance 815987.40 (PLO 06A)
+2017-07-09 18:29:36|Rake|Rake account +14.75 balance 816002.15 (PLO 06A)
+2017-07-09 18:30:25|Rake|Rake account +24.50 balance 816026.65 (PLO 06A)
+2017-07-09 18:31:08|Rake|Rake account +5 balance 816031.65 (PLO 06A)
+2017-07-09 18:32:17|Rake|Rake account +200 balance 816231.65 (PLO 06A)
+2017-07-09 18:32:33|Connect|siriloy disconnects session 00002C4B, PC 37B86CC1
+2017-07-09 18:32:46|Connect|Connection 00002C5C accepted from IP 180.190.77.95, PC 37B86CC1
+2017-07-09 18:32:58|Rake|Rake account +20 balance 816251.65 (PLO 06A)
+2017-07-09 18:33:05|Logout|siriloy logged out session 00002C4B, PC 37B86CC1
+2017-07-09 18:33:05|Login|siriloy logged into session 00002C5C from IP 180.190.77.95, PC 37B86CC1
+2017-07-09 18:33:41|Rake|Rake account +5 balance 816256.65 (PLO 06A)
+2017-07-09 18:34:32|Rake|Rake account +5 balance 816261.65 (PLO 06A)
+2017-07-09 18:35:08|Rake|Rake account +5 balance 816266.65 (PLO 06A)
+2017-07-09 18:36:16|Rake|Rake account +10 balance 816276.65 (PLO 06A)
+2017-07-09 18:37:04|System|Traffic - Seconds: 600, Bytes in: 16567, Bytes out: 307989, Total: 324556
+2017-07-09 18:37:04|Rake|Rake account +5 balance 816281.65 (PLO 06A)
+2017-07-09 18:37:07|Connect|siriloy disconnects session 00002C5C, PC 37B86CC1
+2017-07-09 18:37:15|Connect|siriloy reconnects session 00002C5C
+2017-07-09 18:38:12|Rake|Rake account +15 balance 816296.65 (PLO 06A)
+2017-07-09 18:38:51|Rake|Rake account +5 balance 816301.65 (PLO 06A)
+2017-07-09 18:39:31|Rake|Rake account +5 balance 816306.65 (PLO 06A)
+2017-07-09 18:39:42|Connect|Connection 00002C5D accepted from IP 109.96.27.111, PC D1769071
+2017-07-09 18:39:50|Login|AlphaWolf logged into session 00002C5D from IP 109.96.27.111, PC D1769071
+2017-07-09 18:40:13|Account|AlphaWolf -0 balance 88761.56 (Freeroll A NLHE 2000)
+2017-07-09 18:40:13|Table|AlphaWolf registers for Freeroll A NLHE 2000
+2017-07-09 18:40:27|Rake|Rake account +5 balance 816311.65 (PLO 06A)
+2017-07-09 18:41:30|Rake|Rake account +10 balance 816321.65 (PLO 06A)
+2017-07-09 18:42:31|Rake|Rake account +15 balance 816336.65 (PLO 06A)
+2017-07-09 18:43:22|Rake|Rake account +10 balance 816346.65 (PLO 06A)
+2017-07-09 18:44:04|Connect|File port sweeps: 5
+2017-07-09 18:44:34|Rake|Rake account +58.50 balance 816405.15 (PLO 06A)
+2017-07-09 18:45:27|Account|brokedummy -0 balance 135207.14 (Freeroll A NLHE 2000)
+2017-07-09 18:45:27|Table|brokedummy registers for Freeroll A NLHE 2000
+2017-07-09 18:45:38|Rake|Rake account +10 balance 816415.15 (PLO 06A)
+2017-07-09 18:46:07|Rake|Rake account +15 balance 816430.15 (PLO 06A)
+2017-07-09 18:47:02|Rake|Rake account +110.65 balance 816540.80 (PLO 06A)
+2017-07-09 18:47:03|Account|thedok +0 balance 0 (PLO 06A)
+2017-07-09 18:47:03|Table|thedok leaves PLO 06A
+2017-07-09 18:47:04|System|Traffic - Seconds: 600, Bytes in: 13303, Bytes out: 302968, Total: 316271
+2017-07-09 18:47:06|Connect|thedok disconnects session 00002C5A, PC 580B5185
+2017-07-09 18:47:09|Account|CoinDoctor +11475.06 balance 87887.81 (PLO 06A)
+2017-07-09 18:47:09|Table|CoinDoctor leaves PLO 06A
+2017-07-09 18:50:04|Connect|Connection 00002C5A expired for thedok, PC 580B5185
+2017-07-09 18:50:04|Connect|File port sweeps: 3
+2017-07-09 18:50:39|Account|ROBERTO -0 balance 212615.84 (Freeroll A NLHE 2000)
+2017-07-09 18:50:39|Table|ROBERTO registers for Freeroll A NLHE 2000
+2017-07-09 18:50:44|Connect|Connection 00002C5E accepted from IP 82.244.150.251, PC AE301D58
+2017-07-09 18:50:49|Account|CoinDoctor -2500 balance 85387.81 (PLO 05A)
+2017-07-09 18:50:49|Table|CoinDoctor joins PLO 05A
+2017-07-09 18:50:49|Login|moriz logged into session 00002C5E from IP 82.244.150.251, PC AE301D58
+2017-07-09 18:51:04|Connect|File port sweeps: 1
+2017-07-09 18:52:41|Logout|moriz logged out session 00002C5E, PC AE301D58
+2017-07-09 18:52:54|Account|CoinDoctor -0 balance 85387.81 (Freeroll A NLHE 2000)
+2017-07-09 18:52:54|Table|CoinDoctor registers for Freeroll A NLHE 2000
+2017-07-09 18:55:32|Connect|Connection 00002C5F accepted from IP 112.198.101.208, PC C4787D56
+2017-07-09 18:55:49|Login|novcom logged into session 00002C5F from IP 112.198.101.208, PC C4787D56
+2017-07-09 18:56:23|Account|novcom -5000 balance 36206.96 (PLO 05A)
+2017-07-09 18:56:23|Table|novcom joins PLO 05A
+2017-07-09 18:57:04|System|Traffic - Seconds: 600, Bytes in: 6146, Bytes out: 87596, Total: 93742
+2017-07-09 18:57:24|Rake|Rake account +22.10 balance 816562.90 (PLO 05A)
+2017-07-09 18:57:56|Rake|Rake account +7.50 balance 816570.40 (PLO 05A)
+2017-07-09 18:59:00|Rake|Rake account +22.10 balance 816592.50 (PLO 05A)
+2017-07-09 18:59:45|Rake|Rake account +15 balance 816607.50 (PLO 05A)
+2017-07-09 19:00:04|Table|brokedummy joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 19:00:04|Table|CoinDoctor joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 19:00:04|Table|AlphaWolf joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 19:00:04|Table|ROBERTO joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 19:02:20|Rake|Rake account +7.35 balance 816614.85 (PLO 05A)
+2017-07-09 19:03:21|Rake|Rake account +12.50 balance 816627.35 (PLO 05A)
+2017-07-09 19:03:59|Rake|Rake account +5 balance 816632.35 (PLO 05A)
+2017-07-09 19:04:43|Rake|Rake account +5 balance 816637.35 (PLO 05A)
+2017-07-09 19:05:36|Rake|Rake account +15 balance 816652.35 (PLO 05A)
+2017-07-09 19:06:46|Rake|Rake account +7.35 balance 816659.70 (PLO 05A)
+2017-07-09 19:07:04|System|Traffic - Seconds: 600, Bytes in: 18672, Bytes out: 645777, Total: 664449
+2017-07-09 19:07:56|Rake|Rake account +24.60 balance 816684.30 (PLO 05A)
+2017-07-09 19:09:39|Rake|Rake account +104.80 balance 816789.10 (PLO 05A)
+2017-07-09 19:11:16|Rake|Rake account +7.50 balance 816796.60 (PLO 05A)
+2017-07-09 19:11:53|Rake|Rake account +7.50 balance 816804.10 (PLO 05A)
+2017-07-09 19:12:46|Rake|Rake account +22.10 balance 816826.20 (PLO 05A)
+2017-07-09 19:13:17|Rake|Rake account +7.50 balance 816833.70 (PLO 05A)
+2017-07-09 19:14:29|Rake|Rake account +153.45 balance 816987.15 (PLO 05A)
+2017-07-09 19:14:55|Rake|Rake account +7.50 balance 816994.65 (PLO 05A)
+2017-07-09 19:15:41|Rake|Rake account +7.50 balance 817002.15 (PLO 05A)
+2017-07-09 19:16:39|Rake|Rake account +67.60 balance 817069.75 (PLO 05A)
+2017-07-09 19:17:04|System|Traffic - Seconds: 600, Bytes in: 24414, Bytes out: 1053705, Total: 1078119
+2017-07-09 19:17:23|Rake|Rake account +131.85 balance 817201.60 (PLO 05A)
+2017-07-09 19:17:23|Account|novcom +0 balance 36206.96 (PLO 05A)
+2017-07-09 19:17:23|Table|novcom leaves PLO 05A
+2017-07-09 19:17:26|Connect|novcom disconnects session 00002C5F, PC C4787D56
+2017-07-09 19:17:32|Account|CoinDoctor +6839.20 balance 92227.01 (PLO 05A)
+2017-07-09 19:17:32|Table|CoinDoctor leaves PLO 05A
+2017-07-09 19:19:45|Account|AlphaWolf +400 balance 89161.56 (Freeroll A NLHE 2000)
+2017-07-09 19:20:04|Connect|Connection 00002C5F expired for novcom, PC C4787D56
+2017-07-09 19:20:13|Connect|AlphaWolf disconnects session 00002C5D, PC D1769071
+2017-07-09 19:20:15|Connect|CoinDoctor disconnects session 00002C59, PC A66C1F5C
+2017-07-09 19:20:20|Connect|Connection 00002C60 accepted from IP 109.96.27.111, PC D1769071
+2017-07-09 19:20:27|Logout|AlphaWolf logged out session 00002C5D, PC D1769071
+2017-07-09 19:20:27|Login|AlphaWolf logged into session 00002C60 from IP 109.96.27.111, PC D1769071
+2017-07-09 19:20:56|Connect|Connection 00002C61 accepted from IP 1.20.250.13, PC 68967C6B
+2017-07-09 19:21:06|Connect|IP 1.20.250.13 disconnects session 00002C61, PC 68967C6B
+2017-07-09 19:21:41|Account|ROBERTO +600 balance 213215.84 (Freeroll A NLHE 2000)
+2017-07-09 19:21:41|Account|brokedummy +1000 balance 136207.14 (Freeroll A NLHE 2000)
+2017-07-09 19:23:04|Connect|Connection 00002C59 expired for CoinDoctor, PC A66C1F5C
+2017-07-09 19:24:04|Connect|Connection 00002C61 expired for IP 1.20.250.13, PC 68967C6B
+2017-07-09 19:24:45|Connect|Connection 00002C62 accepted from IP 180.191.112.231, PC D4485F89
+2017-07-09 19:24:47|Login|thekid logged into session 00002C62 from IP 180.191.112.231, PC D4485F89
+2017-07-09 19:27:04|System|Traffic - Seconds: 600, Bytes in: 18842, Bytes out: 919178, Total: 938020
+2017-07-09 19:30:40|Connect|thekid disconnects session 00002C62, PC D4485F89
+2017-07-09 19:31:04|Connect|File port sweeps: 1
+2017-07-09 19:33:04|Connect|Connection 00002C62 expired for thekid, PC D4485F89
+2017-07-09 19:33:25|Account|AlphaWolf -0 balance 89161.56 (Freeroll B PLO 2000)
+2017-07-09 19:33:25|Table|AlphaWolf registers for Freeroll B PLO 2000
+2017-07-09 19:37:04|System|Traffic - Seconds: 600, Bytes in: 714, Bytes out: 14674, Total: 15388
+2017-07-09 19:40:26|Account|brokedummy -0 balance 136207.14 (Freeroll B PLO 2000)
+2017-07-09 19:40:26|Table|brokedummy registers for Freeroll B PLO 2000
+2017-07-09 19:46:00|Connect|AlphaWolf disconnects session 00002C60, PC D1769071
+2017-07-09 19:47:04|System|Traffic - Seconds: 600, Bytes in: 210, Bytes out: 10124, Total: 10334
+2017-07-09 19:48:04|Connect|Connection 00002C60 expired for AlphaWolf, PC D1769071
+2017-07-09 19:48:50|Connect|Connection 00002C63 accepted from IP 109.96.27.111, PC D1769071
+2017-07-09 19:48:56|Login|AlphaWolf logged into session 00002C63 from IP 109.96.27.111, PC D1769071
+2017-07-09 19:49:28|Connect|Connection 00002C64 accepted from IP 89.20.243.168, PC D9CAA93B
+2017-07-09 19:49:47|Account|ROBERTO -0 balance 213215.84 (Freeroll B PLO 2000)
+2017-07-09 19:49:47|Table|ROBERTO registers for Freeroll B PLO 2000
+2017-07-09 19:50:28|Login|shtako logged into session 00002C64 from IP 89.20.243.168, PC D9CAA93B
+2017-07-09 19:50:33|Account|shtako -0 balance 397096.39 (Freeroll B PLO 2000)
+2017-07-09 19:50:33|Table|shtako registers for Freeroll B PLO 2000
+2017-07-09 19:50:37|Connect|Connection 00002C65 accepted from IP 1.20.250.13, PC 68967C6B
+2017-07-09 19:50:39|Login|scambust logged into session 00002C65 from IP 1.20.250.13, PC 68967C6B
+2017-07-09 19:50:46|Account|scambust -0 balance 35835 (Freeroll B PLO 2000)
+2017-07-09 19:50:46|Table|scambust registers for Freeroll B PLO 2000
+2017-07-09 19:52:53|Connect|ROBERTO disconnects session 00002B33, PC AC9C4DD8
+2017-07-09 19:55:04|Connect|Connection 00002B33 expired for ROBERTO, PC AC9C4DD8
+2017-07-09 19:55:46|Connect|Connection 00002C66 accepted from IP 82.66.55.40, PC AC9C4DD8
+2017-07-09 19:55:57|Login|ROBERTO logged into session 00002C66 from IP 82.66.55.40, PC AC9C4DD8
+2017-07-09 19:57:04|System|Traffic - Seconds: 600, Bytes in: 12977, Bytes out: 168020, Total: 180997
+2017-07-09 20:00:04|Table|brokedummy joins Freeroll B PLO 2000 - Table 1
+2017-07-09 20:00:04|Table|AlphaWolf joins Freeroll B PLO 2000 - Table 1
+2017-07-09 20:00:04|Table|shtako joins Freeroll B PLO 2000 - Table 1
+2017-07-09 20:00:04|Table|scambust joins Freeroll B PLO 2000 - Table 1
+2017-07-09 20:00:04|Table|ROBERTO joins Freeroll B PLO 2000 - Table 1
+2017-07-09 20:06:35|Account|shtako -5000 balance 392096.39 (PLO 06A)
+2017-07-09 20:06:35|Table|shtako joins PLO 06A
+2017-07-09 20:07:04|System|Traffic - Seconds: 600, Bytes in: 9971, Bytes out: 491538, Total: 501509
+2017-07-09 20:08:10|Account|AlphaWolf +200 balance 89361.56 (Freeroll B PLO 2000)
+2017-07-09 20:13:22|Connect|Connection 00002C67 accepted from IP 77.222.107.29, PC F9BCAD64
+2017-07-09 20:13:25|Connect|IP 77.222.107.29 disconnects session 00002C67, PC F9BCAD64
+2017-07-09 20:13:26|Account|brokedummy +400 balance 136607.14 (Freeroll B PLO 2000)
+2017-07-09 20:13:27|Connect|77.222.107.29 reconnects session 00002C67
+2017-07-09 20:13:30|Connect|IP 77.222.107.29 disconnects session 00002C67, PC F9BCAD64
+2017-07-09 20:14:33|Connect|shtako disconnects session 00002C64, PC D9CAA93B
+2017-07-09 20:15:25|Account|ROBERTO +600 balance 213815.84 (Freeroll B PLO 2000)
+2017-07-09 20:15:25|Account|scambust +800 balance 36635 (Freeroll B PLO 2000)
+2017-07-09 20:15:40|Connect|scambust disconnects session 00002C65, PC 68967C6B
+2017-07-09 20:16:04|Connect|Connection 00002C67 expired for IP 77.222.107.29, PC F9BCAD64
+2017-07-09 20:16:11|Connect|AlphaWolf disconnects session 00002C63, PC D1769071
+2017-07-09 20:17:04|Connect|Connection 00002C64 expired for shtako, PC D9CAA93B
+2017-07-09 20:17:04|System|Traffic - Seconds: 600, Bytes in: 24737, Bytes out: 1044382, Total: 1069119
+2017-07-09 20:17:04|Account|shtako +5000 balance 397096.39 (PLO 06A)
+2017-07-09 20:17:04|Table|shtako leaves PLO 06A
+2017-07-09 20:17:10|Connect|Connection 00002C68 accepted from IP 217.23.13.129, PC 81AA0D51
+2017-07-09 20:18:00|Connect|IP 217.23.13.129 disconnects session 00002C68, PC 81AA0D51
+2017-07-09 20:18:04|Connect|Connection 00002C65 expired for scambust, PC 68967C6B
+2017-07-09 20:19:04|Connect|Connection 00002C63 expired for AlphaWolf, PC D1769071
+2017-07-09 20:20:04|Connect|Connection 00002C68 expired for IP 217.23.13.129, PC 81AA0D51
+2017-07-09 20:27:04|System|Traffic - Seconds: 600, Bytes in: 10107, Bytes out: 428084, Total: 438191
+2017-07-09 20:30:22|Connect|Connection 00002C69 accepted from IP 109.96.27.111, PC D1769071
+2017-07-09 20:30:30|Login|AlphaWolf logged into session 00002C69 from IP 109.96.27.111, PC D1769071
+2017-07-09 20:31:14|Account|AlphaWolf -0 balance 89361.56 (Freeroll C PLO8 2000)
+2017-07-09 20:31:14|Table|AlphaWolf registers for Freeroll C PLO8 2000
+2017-07-09 20:37:04|System|Traffic - Seconds: 600, Bytes in: 2739, Bytes out: 22671, Total: 25410
+2017-07-09 20:39:58|Account|brokedummy -0 balance 136607.14 (Freeroll C PLO8 2000)
+2017-07-09 20:39:58|Table|brokedummy registers for Freeroll C PLO8 2000
+2017-07-09 20:40:07|Connect|AlphaWolf disconnects session 00002C69, PC D1769071
+2017-07-09 20:40:55|Connect|Connection 00002C6A accepted from IP 89.20.243.168, PC D9CAA93B
+2017-07-09 20:40:58|Login|shtako logged into session 00002C6A from IP 89.20.243.168, PC D9CAA93B
+2017-07-09 20:41:04|Connect|File port sweeps: 3
+2017-07-09 20:41:09|Account|shtako -0 balance 397096.39 (Freeroll C PLO8 2000)
+2017-07-09 20:41:09|Table|shtako registers for Freeroll C PLO8 2000
+2017-07-09 20:42:32|Account|ROBERTO -0 balance 213815.84 (Freeroll C PLO8 2000)
+2017-07-09 20:42:32|Table|ROBERTO registers for Freeroll C PLO8 2000
+2017-07-09 20:43:04|Connect|Connection 00002C69 expired for AlphaWolf, PC D1769071
+2017-07-09 20:45:59|Connect|Connection 00002C6B accepted from IP 46.182.19.15, PC E984F393
+2017-07-09 20:47:04|System|Traffic - Seconds: 600, Bytes in: 3131, Bytes out: 35323, Total: 38454
+2017-07-09 20:47:45|Connect|IP 46.182.19.15 disconnects session 00002C6B, PC E984F393
+2017-07-09 20:49:04|Connect|shtako disconnects session 00002C6A, PC D9CAA93B
+2017-07-09 20:50:04|Connect|Connection 00002C6B expired for IP 46.182.19.15, PC E984F393
+2017-07-09 20:52:04|Connect|Connection 00002C6A expired for shtako, PC D9CAA93B
+2017-07-09 20:57:04|System|Traffic - Seconds: 600, Bytes in: 71, Bytes out: 6380, Total: 6451
+2017-07-09 20:57:30|Connect|Connection 00002C6C accepted from IP 109.96.27.111, PC D1769071
+2017-07-09 20:57:36|Login|AlphaWolf logged into session 00002C6C from IP 109.96.27.111, PC D1769071
+2017-07-09 21:00:04|Table|brokedummy joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 21:00:04|Table|AlphaWolf joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 21:00:04|Table|shtako joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 21:00:04|Table|ROBERTO joins Freeroll C PLO8 2000 - Table 1
+2017-07-09 21:05:56|Account|shtako +0 balance 397096.39 (Freeroll C PLO8 2000)
+2017-07-09 21:07:04|System|Traffic - Seconds: 600, Bytes in: 13527, Bytes out: 445814, Total: 459341
+2017-07-09 21:09:28|Account|AlphaWolf +800 balance 90161.56 (Freeroll C PLO8 2000)
+2017-07-09 21:09:28|Account|ROBERTO +1200 balance 215015.84 (Freeroll C PLO8 2000)
+2017-07-09 21:17:04|System|Traffic - Seconds: 600, Bytes in: 3241, Bytes out: 95814, Total: 99055
+2017-07-09 21:27:04|System|Traffic - Seconds: 600, Bytes in: 0, Bytes out: 6000, Total: 6000
+2017-07-09 21:29:29|Connect|siriloy disconnects session 00002C5C, PC 37B86CC1
+2017-07-09 21:30:04|Connect|siriloy reconnects session 00002C5C
+2017-07-09 21:31:44|Connect|Arpetuos disconnects session 00002C56, PC 9CB3ECEC
+2017-07-09 21:34:04|Connect|Connection 00002C56 expired for Arpetuos, PC 9CB3ECEC
+2017-07-09 21:37:04|System|Traffic - Seconds: 600, Bytes in: 2835, Bytes out: 15056, Total: 17891
+2017-07-09 21:43:16|Connect|Connection 00002C6D accepted from IP 68.228.21.153, PC A66C1F5C
+2017-07-09 21:43:20|Login|CoinDoctor logged into session 00002C6D from IP 68.228.21.153, PC A66C1F5C
+2017-07-09 21:43:38|Account|CoinDoctor -0 balance 92227.01 (Freeroll D NLO8 2000)
+2017-07-09 21:43:38|Table|CoinDoctor registers for Freeroll D NLO8 2000
+2017-07-09 21:44:01|Account|CoinDoctor -2500 balance 89727.01 (PLO 05A)
+2017-07-09 21:44:01|Table|CoinDoctor joins PLO 05A
+2017-07-09 21:47:04|System|Traffic - Seconds: 600, Bytes in: 2542, Bytes out: 29959, Total: 32501
+2017-07-09 21:49:14|Account|brokedummy -0 balance 136607.14 (Freeroll D NLO8 2000)
+2017-07-09 21:49:14|Table|brokedummy registers for Freeroll D NLO8 2000
+2017-07-09 21:51:01|Account|ROBERTO -0 balance 215015.84 (Freeroll D NLO8 2000)
+2017-07-09 21:51:01|Table|ROBERTO registers for Freeroll D NLO8 2000
+2017-07-09 21:53:51|Account|AlphaWolf -0 balance 90161.56 (Freeroll D NLO8 2000)
+2017-07-09 21:53:51|Table|AlphaWolf registers for Freeroll D NLO8 2000
+2017-07-09 21:57:03|System|Traffic - Seconds: 600, Bytes in: 939, Bytes out: 23994, Total: 24933
+2017-07-09 21:57:15|Connect|Connection 00002C6E accepted from IP 1.20.250.13, PC 68967C6B
+2017-07-09 21:57:35|Login|scambust logged into session 00002C6E from IP 1.20.250.13, PC 68967C6B
+2017-07-09 21:57:45|Account|scambust -0 balance 36635 (Freeroll D NLO8 2000)
+2017-07-09 21:57:45|Table|scambust registers for Freeroll D NLO8 2000
+2017-07-09 21:58:22|Account|CoinDoctor +2500 balance 92227.01 (PLO 05A)
+2017-07-09 21:58:22|Table|CoinDoctor leaves PLO 05A
+2017-07-09 22:00:03|Table|CoinDoctor joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 22:00:03|Table|scambust joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 22:00:03|Table|AlphaWolf joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 22:00:03|Table|ROBERTO joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 22:00:03|Table|brokedummy joins Freeroll D NLO8 2000 - Table 1
+2017-07-09 22:05:28|Account|CoinDoctor +200 balance 92427.01 (Freeroll D NLO8 2000)
+2017-07-09 22:05:49|Connect|Connection 00002C6F accepted from IP 68.228.21.153, PC A66C1F5C
+2017-07-09 22:07:03|System|Traffic - Seconds: 600, Bytes in: 12296, Bytes out: 477688, Total: 489984
+2017-07-09 22:11:13|Connect|CoinDoctor disconnects session 00002C6D, PC A66C1F5C
+2017-07-09 22:11:13|Connect|IP 68.228.21.153 disconnects session 00002C6F, PC A66C1F5C
+2017-07-09 22:11:14|Connect|68.228.21.153 reconnects session 00002C6F
+2017-07-09 22:11:14|Connect|CoinDoctor reconnects session 00002C6D
+2017-07-09 22:17:03|System|Traffic - Seconds: 600, Bytes in: 13517, Bytes out: 508187, Total: 521704
+2017-07-09 22:17:16|Account|scambust +400 balance 37035 (Freeroll D NLO8 2000)
+2017-07-09 22:17:32|Connect|scambust disconnects session 00002C6E, PC 68967C6B
+2017-07-09 22:17:54|Account|ROBERTO +600 balance 215615.84 (Freeroll D NLO8 2000)
+2017-07-09 22:17:54|Account|AlphaWolf +800 balance 90961.56 (Freeroll D NLO8 2000)
+2017-07-09 22:20:00|Connect|Connection 00002C70 accepted from IP 94.212.74.72, PC 67E3EB13
+2017-07-09 22:20:02|Login|chinkyeyes logged into session 00002C70 from IP 94.212.74.72, PC 67E3EB13
+2017-07-09 22:20:03|Connect|Connection 00002C6E expired for scambust, PC 68967C6B
+2017-07-09 22:25:33|Connect|chinkyeyes disconnects session 00002C70, PC 67E3EB13
+2017-07-09 22:27:03|System|Traffic - Seconds: 600, Bytes in: 2872, Bytes out: 114206, Total: 117078
+2017-07-09 22:27:24|Connect|Connection 00002C71 accepted from IP 210.213.203.133, PC F01702DB
+2017-07-09 22:27:25|Connect|IP 210.213.203.133 disconnects session 00002C71, PC F01702DB
+2017-07-09 22:28:03|Connect|Connection 00002C70 expired for chinkyeyes, PC 67E3EB13
+2017-07-09 22:30:03|Connect|Connection 00002C71 expired for IP 210.213.203.133, PC F01702DB
+2017-07-09 22:37:03|System|Traffic - Seconds: 600, Bytes in: 2435, Bytes out: 23046, Total: 25481
+2017-07-09 22:37:24|Connect|Connection 00002C72 accepted from IP 190.98.82.17, PC BEDD66DF
+2017-07-09 22:37:31|Account|ROBERTO -0 balance 215615.84 (Freeroll A NLHE 2000)
+2017-07-09 22:37:31|Table|ROBERTO registers for Freeroll A NLHE 2000
+2017-07-09 22:41:53|Connect|Connection 00002C73 accepted from IP 104.223.91.132, PC CACA5136
+2017-07-09 22:41:54|Connect|IP 104.223.91.132 disconnects session 00002C73, PC CACA5136
+2017-07-09 22:41:58|Connect|Connection 00002C74 accepted from IP 104.223.91.132, PC CACA5136
+2017-07-09 22:42:53|Account|rodmouvi -0 balance 37929.98 (Freeroll A NLHE 2000)
+2017-07-09 22:42:53|Table|rodmouvi registers for Freeroll A NLHE 2000
+2017-07-09 22:43:22|Account|brokedummy -0 balance 136607.14 (Freeroll A NLHE 2000)
+2017-07-09 22:43:22|Table|brokedummy registers for Freeroll A NLHE 2000
+2017-07-09 22:43:38|Connect|Connection 00002C75 accepted from IP 42.98.45.50, PC D4595F0E
+2017-07-09 22:43:42|Login|tuan logged into session 00002C75 from IP 42.98.45.50, PC D4595F0E
+2017-07-09 22:43:52|Account|tuan -0 balance 143093.23 (Freeroll A NLHE 2000)
+2017-07-09 22:43:52|Table|tuan registers for Freeroll A NLHE 2000
+2017-07-09 22:43:55|Connect|IP 104.223.91.132 disconnects session 00002C74, PC CACA5136
+2017-07-09 22:43:59|Connect|104.223.91.132 reconnects session 00002C74
+2017-07-09 22:44:03|Connect|Connection 00002C73 expired for IP 104.223.91.132, PC CACA5136
+2017-07-09 22:44:59|Connect|IP 104.223.91.132 disconnects session 00002C74, PC CACA5136
+2017-07-09 22:45:02|Connect|104.223.91.132 reconnects session 00002C74
+2017-07-09 22:46:02|Connect|IP 104.223.91.132 disconnects session 00002C74, PC CACA5136
+2017-07-09 22:46:10|Connect|104.223.91.132 reconnects session 00002C74
+2017-07-09 22:47:03|System|Traffic - Seconds: 600, Bytes in: 37109, Bytes out: 1315187, Total: 1352296
+2017-07-09 22:47:10|Connect|IP 104.223.91.132 disconnects session 00002C74, PC CACA5136
+2017-07-09 22:47:14|Connect|104.223.91.132 reconnects session 00002C74
+2017-07-09 22:48:14|Connect|IP 104.223.91.132 disconnects session 00002C74, PC CACA5136
+2017-07-09 22:48:25|Connect|104.223.91.132 reconnects session 00002C74
+2017-07-09 22:49:25|Connect|IP 104.223.91.132 disconnects session 00002C74, PC CACA5136
+2017-07-09 22:49:28|Connect|104.223.91.132 reconnects session 00002C74
+2017-07-09 22:50:03|Connect|File port sweeps: 6
+2017-07-09 22:50:28|Connect|IP 104.223.91.132 disconnects session 00002C74, PC CACA5136
+2017-07-09 22:50:33|Connect|104.223.91.132 reconnects session 00002C74
+2017-07-09 22:51:33|Connect|IP 104.223.91.132 disconnects session 00002C74, PC CACA5136
+2017-07-09 22:51:36|Connect|104.223.91.132 reconnects session 00002C74
+2017-07-09 22:52:36|Connect|IP 104.223.91.132 disconnects session 00002C74, PC CACA5136
+2017-07-09 22:52:40|Connect|104.223.91.132 reconnects session 00002C74
+2017-07-09 22:52:44|Connect|IP 104.223.91.132 disconnects session 00002C74, PC CACA5136
+2017-07-09 22:55:03|Connect|Connection 00002C74 expired for IP 104.223.91.132, PC CACA5136
+2017-07-09 22:55:17|Account|AlphaWolf -0 balance 90961.56 (Freeroll A NLHE 2000)
+2017-07-09 22:55:17|Table|AlphaWolf registers for Freeroll A NLHE 2000
+2017-07-09 22:56:27|Connect|Connection 00002C76 accepted from IP 221.17.214.155, PC D23A83BC
+2017-07-09 22:56:33|Login|diamond logged into session 00002C76 from IP 221.17.214.155, PC D23A83BC
+2017-07-09 22:56:42|Account|diamond -0 balance 243411.63 (Freeroll A NLHE 2000)
+2017-07-09 22:56:42|Table|diamond registers for Freeroll A NLHE 2000
+2017-07-09 22:57:03|System|Traffic - Seconds: 600, Bytes in: 7070, Bytes out: 52191, Total: 59261
+2017-07-09 23:00:03|Table|brokedummy joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 23:00:03|Table|tuan joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 23:00:03|Table|rodmouvi joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 23:00:03|Table|AlphaWolf joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 23:00:03|Table|ROBERTO joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 23:00:03|Table|diamond joins Freeroll A NLHE 2000 - Table 1
+2017-07-09 23:02:48|Connect|Connection 00002C77 accepted from IP 46.28.53.42, PC F94D2F9A
+2017-07-09 23:03:48|Connect|IP 46.28.53.42 disconnects session 00002C77, PC F94D2F9A
+2017-07-09 23:06:03|Connect|Connection 00002C77 expired for IP 46.28.53.42, PC F94D2F9A
+2017-07-09 23:07:03|System|Traffic - Seconds: 600, Bytes in: 10527, Bytes out: 615665, Total: 626192
+2017-07-09 23:09:14|Connect|IP 190.98.82.17 disconnects session 00002C72, PC BEDD66DF
+2017-07-09 23:10:59|Connect|IP 68.228.21.153 disconnects session 00002C6F, PC A66C1F5C
+2017-07-09 23:11:27|Connect|CoinDoctor disconnects session 00002C6D, PC A66C1F5C
+2017-07-09 23:12:03|Connect|Connection 00002C72 expired for IP 190.98.82.17, PC BEDD66DF
+2017-07-09 23:13:03|Connect|Connection 00002C6F expired for IP 68.228.21.153, PC A66C1F5C
+2017-07-09 23:14:03|Connect|Connection 00002C6D expired for CoinDoctor, PC A66C1F5C
+2017-07-09 23:14:50|Account|rodmouvi +200 balance 38129.98 (Freeroll A NLHE 2000)
+2017-07-09 23:17:03|System|Traffic - Seconds: 600, Bytes in: 13734, Bytes out: 823824, Total: 837558
+2017-07-09 23:21:03|Account|tuan +400 balance 143493.23 (Freeroll A NLHE 2000)
+2017-07-09 23:24:25|Account|diamond +600 balance 244011.63 (Freeroll A NLHE 2000)
+2017-07-09 23:24:25|Account|brokedummy +800 balance 137407.14 (Freeroll A NLHE 2000)
+2017-07-09 23:27:03|System|Traffic - Seconds: 600, Bytes in: 8637, Bytes out: 543346, Total: 551983
+2017-07-09 23:37:03|System|Traffic - Seconds: 600, Bytes in: 101, Bytes out: 8259, Total: 8360
+2017-07-09 23:44:44|Account|ROBERTO -0 balance 215615.84 (Freeroll B PLO 2000)
+2017-07-09 23:44:44|Table|ROBERTO registers for Freeroll B PLO 2000
+2017-07-09 23:47:03|System|Traffic - Seconds: 600, Bytes in: 311, Bytes out: 8996, Total: 9307
+2017-07-09 23:51:00|Account|brokedummy -0 balance 137407.14 (Freeroll B PLO 2000)
+2017-07-09 23:51:00|Table|brokedummy registers for Freeroll B PLO 2000
+2017-07-09 23:53:34|Account|tuan -0 balance 143493.23 (Freeroll B PLO 2000)
+2017-07-09 23:53:34|Table|tuan registers for Freeroll B PLO 2000
+2017-07-09 23:54:07|Connect|Connection 00002C78 accepted from IP 94.212.74.72, PC 67E3EB13
+2017-07-09 23:54:54|Connect|tuan disconnects session 00002C75, PC D4595F0E
+2017-07-09 23:57:03|Connect|Connection 00002C75 expired for tuan, PC D4595F0E
+2017-07-09 23:57:03|System|Traffic - Seconds: 600, Bytes in: 2576, Bytes out: 20086, Total: 22662
+2017-07-09 23:57:04|Account|diamond -0 balance 244011.63 (Freeroll B PLO 2000)
+2017-07-09 23:57:04|Table|diamond registers for Freeroll B PLO 2000
+2017-07-09 23:57:22|Connect|Connection 00002C79 accepted from IP 45.64.240.159, PC D4595F0E
+2017-07-09 23:57:29|Login|tuan logged into session 00002C79 from IP 45.64.240.159, PC D4595F0E
+2017-07-09 23:58:05|Connect|tuan disconnects session 00002C79, PC D4595F0E
+2017-07-09 23:58:20|Connect|Connection 00002C7A accepted from IP 45.64.240.159, PC D4595F0E
+2017-07-09 23:58:23|Logout|tuan logged out session 00002C79, PC D4595F0E
+2017-07-09 23:58:23|Login|tuan logged into session 00002C7A from IP 45.64.240.159, PC D4595F0E
+2017-07-09 23:58:30|Connect|94.212.74.72 reconnects session 00002C78
