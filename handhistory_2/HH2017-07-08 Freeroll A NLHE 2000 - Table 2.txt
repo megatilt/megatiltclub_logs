@@ -1,0 +1,100 @@
+﻿Starting tournament 2438
+
+Hand #131636-1 - 2017-07-08 15:00:35
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: Prince (1500)
+Seat 2: bspus (1500)
+Seat 3: yanyan (1500)
+Seat 6: jackpot (1500)
+Prince has the dealer button
+bspus posts small blind 25
+yanyan posts big blind 50
+** Hole Cards ** [4 players]
+jackpot raises to 1500 (All-in)
+Prince folds
+bspus calls 1475 (All-in)
+yanyan calls 1450 (All-in)
+** Flop ** [2h 3c 4h]
+** Turn ** [6c]
+** River ** [7h]
+** Pot Show Down ** [2h 3c 4h 6c 7h]
+bspus shows [9s Ac] (High Card Ace +9764)
+yanyan shows [Kd 3d] (a Pair of Threes +K76)
+jackpot shows [Ts Jd] (High Card Jack +T764)
+yanyan wins Pot (4500) with a Pair
+jackpot finishes tournament in place #8
+bspus finishes tournament in place #8
+** Deck ** [9s Kd Ts Qd Ac 3d Jd Td 2h 3c 4h 6c 7h]
+
+Hand #131639-2 - 2017-07-08 15:01:35
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: Prince (1500)
+Seat 3: yanyan (4500)
+yanyan has the dealer button
+yanyan posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [2 players]
+yanyan raises to 4500 (All-in)
+Prince calls 1450 (All-in)
+yanyan refunded 3000
+** Flop ** [9s Ah 2d]
+** Turn ** [8s]
+** River ** [Qs]
+** Pot Show Down ** [9s Ah 2d 8s Qs]
+Prince shows [Ac 3s] (a Pair of Aces +Q98)
+yanyan shows [9d Td] (a Pair of Nines +AQT)
+Prince wins Pot (3000) with a Pair
+tagailog moved from Table 1
+** Deck ** [Ac 9d 3s Td 9s Ah 2d 8s Qs]
+
+Hand #131641-3 - 2017-07-08 15:01:59
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: Prince (3000)
+Seat 3: yanyan (3000)
+Seat 4: tagailog (1500)
+Prince has the dealer button
+yanyan posts small blind 25
+tagailog posts big blind 50
+** Hole Cards ** [3 players]
+Prince folds
+yanyan raises to 3000 (All-in)
+tagailog folds
+yanyan refunded 2950
+yanyan wins Pot (100)
+** Deck ** [Ts Ah Qs 3d 5d 6c]
+
+Hand #131642-4 - 2017-07-08 15:02:22
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: Prince (3000)
+Seat 3: yanyan (3050)
+Seat 4: tagailog (1450)
+yanyan has the dealer button
+tagailog posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [3 players]
+yanyan raises to 200
+tagailog folds
+Prince raises to 3000 (All-in)
+yanyan calls 2800
+** Flop ** [2c Ah Js]
+** Turn ** [Jc]
+** River ** [Qs]
+** Pot Show Down ** [2c Ah Js Jc Qs]
+Prince shows [Kd As] (Two Pair, Aces and Jacks +K)
+yanyan shows [Qh Jd] (a Full House, Jacks full of Queens)
+yanyan wins Pot (6025) with a Full House
+Prince finishes tournament in place #7
+** Deck ** [3s Kd Qh 4d As Jd 2c Ah Js Jc Qs]
+
+yanyan moved to Table 1
+
+tagailog moved to Table 1
+

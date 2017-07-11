@@ -1,0 +1,85 @@
+﻿Starting tournament 2453
+
+Hand #132192-1 - 2017-07-09 06:00:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: shtako (1500) - sitting out
+Seat 3: betong (1500)
+Seat 5: rodmouvi (1500)
+shtako has the dealer button
+betong posts small blind 25
+rodmouvi posts big blind 50
+** Hole Cards ** [3 players]
+shtako folds
+betong raises to 1500 (All-in)
+rodmouvi calls 1450 (All-in)
+** Flop ** [2c Ac Tc]
+** Turn ** [2s]
+** River ** [Kc]
+** Pot Show Down ** [2c Ac Tc 2s Kc]
+betong shows [6c 8s 8h 5s] (Hi: Two Pair, Eights and Deuces +A  Lo: None)
+rodmouvi shows [6s Jh 4s 8d] (Hi: a Pair of Deuces +AJ8  Lo: None)
+betong wins Pot (3000) with Two Pair
+No low hand qualified
+rodmouvi finishes tournament in place #7
+** Deck ** [6c 6s 7d 8s Jh Qd 8h 4s 7h 5s 8d 5d 2c Ac Tc 2s Kc]
+
+shtako moved to Table 1
+
+betong moved to Table 1
+
+Starting tournament 2465
+
+Hand #132757-1 - 2017-07-09 18:00:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: scambust (1500)
+Seat 4: CoinDoctor (1500)
+Seat 6: brokedummy (1500)
+scambust has the dealer button
+CoinDoctor posts small blind 25
+brokedummy posts big blind 50
+** Hole Cards ** [3 players]
+scambust raises to 100
+CoinDoctor folds
+brokedummy raises to 1500 (All-in)
+scambust folds
+brokedummy refunded 1400
+brokedummy wins Pot (225)
+** Deck ** [2s Ah Qh 9d 3d 9s 7c 4s Js Th Ac 9h]
+
+Hand #132759-2 - 2017-07-09 18:01:17
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 1: scambust (1400)
+Seat 4: CoinDoctor (1475)
+Seat 6: brokedummy (1625)
+CoinDoctor has the dealer button
+brokedummy posts small blind 25
+scambust posts big blind 50
+** Hole Cards ** [3 players]
+CoinDoctor folds
+brokedummy calls 25
+scambust raises to 100
+brokedummy calls 50
+** Flop ** [5h 2c Ad]
+brokedummy bets 250
+scambust raises to 1300 (All-in)
+brokedummy calls 1050
+** Turn ** [Qs]
+** River ** [6c]
+** Pot Show Down ** [5h 2c Ad Qs 6c]
+scambust shows [Qd Js Ts Ac] (Hi: Two Pair, Aces and Queens +6  Lo: None)
+brokedummy shows [4c 3d 2s Ks] (Hi: a Straight, Deuce to Six  Lo: 5432A)
+brokedummy wins Hi Pot (1400) with a Straight
+brokedummy wins Lo Pot (1400) with 5432A
+scambust finishes tournament in place #7
+** Deck ** [4c Qd 7h 3d Js Qc 2s Ts 8h Ks Ac 2h 5h 2c Ad Qs 6c]
+
+CoinDoctor moved to Table 1
+
+brokedummy moved to Table 1
+

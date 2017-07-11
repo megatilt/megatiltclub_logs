@@ -1,0 +1,3226 @@
+﻿Starting tournament 2425
+
+Hand #131223-1 - 2017-07-08 02:00:35
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1500)
+Seat 2: diamond (1500)
+Seat 3: ROBERTO (1500) - sitting out
+Seat 4: Prince (1500) - sitting out
+Seat 5: rodmouvi (1500)
+Seat 6: CLS (1500)
+betong has the dealer button
+diamond posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [6 players]
+Prince folds
+rodmouvi has timed out
+rodmouvi folds
+CLS calls 50
+betong folds
+diamond folds
+ROBERTO folds
+CLS wins Pot (125)
+** Deck ** [7h Ah 4s Jc 6d Jh 8h 9d As Jd 5s Qh 3c 5c 6h 4c 4h Ts Qs 2h Th 8d 7s 7c]
+
+Hand #131224-2 - 2017-07-08 02:01:23
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1500)
+Seat 2: diamond (1475)
+Seat 3: ROBERTO (1450) - sitting out
+Seat 4: Prince (1500) - sitting out
+Seat 5: rodmouvi (1500)
+Seat 6: CLS (1575)
+diamond has the dealer button
+ROBERTO posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [6 players]
+rodmouvi raises to 1500 (All-in)
+CLS folds
+betong folds
+diamond folds
+ROBERTO folds
+Prince folds
+rodmouvi refunded 1450
+rodmouvi wins Pot (125)
+** Deck ** [Kc 7c Ac 8h Qh 3h Kd 2h Jc Jd 5c 5d 5s 7h 8c 5h Ts 4d 6s As Jh 7s 9d 9h]
+
+Hand #131225-3 - 2017-07-08 02:02:05
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1500)
+Seat 2: diamond (1475)
+Seat 3: ROBERTO (1425) - sitting out
+Seat 4: Prince (1450) - sitting out
+Seat 5: rodmouvi (1575)
+Seat 6: CLS (1575)
+ROBERTO has the dealer button
+Prince posts small blind 25
+rodmouvi posts big blind 50
+** Hole Cards ** [6 players]
+CLS calls 50
+betong raises to 1500 (All-in)
+diamond folds
+ROBERTO folds
+Prince folds
+rodmouvi folds
+CLS calls 1450
+** Flop ** [2c 9h 5c]
+** Turn ** [3d]
+** River ** [9c]
+** Pot Show Down ** [2c 9h 5c 3d 9c]
+betong shows [6d 9s 7h 7c] (Hi: Three of a Kind, Nines +75  Lo: 76532)
+CLS shows [Jd 6s 5h As] (Hi: Two Pair, Nines and Fives +A  Lo: 6532A)
+betong wins Hi Pot (1538) with Three of a Kind
+CLS wins Lo Pot (1537) with 6532A
+** Deck ** [Js 2h Jd 6d Kh Td Ac 7s 6s 9s 8h 6c Tc Qc 5h 7h 7d 6h Ks 8c As 7c Qs 5s 2c 9h 5c 3d 9c]
+
+Hand #131226-4 - 2017-07-08 02:02:41
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1538)
+Seat 2: diamond (1475)
+Seat 3: ROBERTO (1425) - sitting out
+Seat 4: Prince (1425) - sitting out
+Seat 5: rodmouvi (1525)
+Seat 6: CLS (1612)
+Prince has the dealer button
+rodmouvi posts small blind 25
+CLS posts big blind 50
+** Hole Cards ** [6 players]
+betong folds
+diamond folds
+ROBERTO calls 50
+Prince folds
+rodmouvi folds
+CLS checks
+** Flop ** [7s 4d 7d]
+CLS checks
+ROBERTO checks
+** Turn ** [9d]
+CLS bets 125
+ROBERTO calls 125
+** River ** [5d]
+CLS bets 125
+ROBERTO raises to 500
+CLS calls 375
+** Pot Show Down ** [7s 4d 7d 9d 5d]
+ROBERTO shows [Ah Ks 4h 7h] (Hi: a Full House, Sevens full of Fours  Lo: None)
+CLS shows [6d Th Kd Qs] (Hi: a Flush, King high +9765  Lo: None)
+ROBERTO wins Pot (1375) with a Full House
+No low hand qualified
+** Deck ** [4s 6d As 7c Ah Qc Td Th 2d 4c Ks 8d 9h Kd 3s 8s 4h 2h 5h Qs 8h 5s 7h Js 7s 4d 7d 9d 5d]
+
+Hand #131227-5 - 2017-07-08 02:04:09
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1538)
+Seat 2: diamond (1475)
+Seat 3: ROBERTO (2125)
+Seat 4: Prince (1425) - sitting out
+Seat 5: rodmouvi (1500)
+Seat 6: CLS (937)
+rodmouvi has the dealer button
+CLS posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [6 players]
+diamond folds
+ROBERTO folds
+Prince folds
+rodmouvi raises to 1500 (All-in)
+CLS calls 887 (All-in)
+betong folds
+rodmouvi refunded 563
+** Flop ** [Kd Qd Th]
+** Turn ** [Tc]
+** River ** [8h]
+** Pot Show Down ** [Kd Qd Th Tc 8h]
+rodmouvi shows [4s 9c 6c As] (Hi: a Pair of Tens +AK9  Lo: None)
+CLS shows [6h 3s Ks 2d] (Hi: Two Pair, Kings and Tens +6  Lo: None)
+CLS wins Pot (1974) with Two Pair
+No low hand qualified
+** Deck ** [6h 3d 9d 6d 2s 4s 3s Jc 4d Kh 8c 9c Ks Ah Qs 2c 4h 6c 2d 5s 9s Td 7d As Kd Qd Th Tc 8h]
+
+Hand #131228-6 - 2017-07-08 02:04:46
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1438)
+Seat 2: diamond (1475)
+Seat 3: ROBERTO (2125)
+Seat 4: Prince (1425) - sitting out
+Seat 5: rodmouvi (563)
+Seat 6: CLS (1974)
+CLS has the dealer button
+betong posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [6 players]
+ROBERTO calls 100
+Prince folds
+rodmouvi raises to 563 (All-in)
+CLS calls 563
+betong folds
+diamond raises to 1475 (All-in)
+ROBERTO folds
+CLS calls 912
+** Flop ** [Jd Ac Td]
+** Turn ** [4s]
+** River ** [8c]
+** Side Pot 1 Show Down ** [Jd Ac Td 4s 8c]
+diamond shows [Ah Qd Ts 3d] (Hi: Two Pair, Aces and Tens +J  Lo: None)
+CLS shows [5d 5c 4h 7s] (Hi: a Pair of Fives +AJT  Lo: 8754A)
+diamond wins Hi Side Pot 1 (912) with Two Pair
+CLS wins Lo Side Pot 1 (912) with 8754A
+** Main Pot Show Down ** [Jd Ac Td 4s 8c]
+rodmouvi shows [7d 3s 7c 9h] (Hi: a Straight, Seven to Jack  Lo: 8743A)
+rodmouvi wins Hi Main Pot (920) with a Straight
+rodmouvi wins Lo Main Pot (919) with 8743A
+Absent player Prince removed from tournament
+** Deck ** [2s Ah Tc Th 7d 5d As Qd 8s 3h 3s 5c 6h Ts Ad Qs 7c 4h 3c 3d Kc 4c 9h 7s Jd Ac Td 4s 8c]
+
+Hand #131229-7 - 2017-07-08 02:05:51
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1388)
+Seat 2: diamond (912)
+Seat 3: ROBERTO (2025)
+Seat 5: rodmouvi (1839)
+Seat 6: CLS (1411)
+betong has the dealer button
+diamond posts small blind 50
+ROBERTO posts big blind 100
+** Hole Cards ** [5 players]
+rodmouvi folds
+CLS folds
+betong folds
+diamond raises to 912 (All-in)
+ROBERTO folds
+diamond refunded 812
+diamond wins Pot (200)
+** Deck ** [8d 5c 2c 5s Td 4d 8c 2d Jh 6s Ks 3c 2s Th 7c As Qs Ad 3s 9h]
+
+Hand #131230-8 - 2017-07-08 02:06:17
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1388)
+Seat 2: diamond (1012)
+Seat 3: ROBERTO (1925)
+Seat 5: rodmouvi (1839)
+Seat 6: CLS (1411)
+diamond has the dealer button
+ROBERTO posts small blind 50
+rodmouvi posts big blind 100
+** Hole Cards ** [5 players]
+CLS folds
+betong folds
+diamond raises to 1012 (All-in)
+ROBERTO folds
+rodmouvi folds
+diamond refunded 912
+diamond wins Pot (250)
+** Deck ** [4h 3d 8h Tc Th 4s 9c Ks Qs Kd 3c 6d 6c Js Ah 9d Jc Td Kh Jh]
+
+Hand #131231-9 - 2017-07-08 02:07:06
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1388)
+Seat 2: diamond (1162)
+Seat 3: ROBERTO (1875)
+Seat 5: rodmouvi (1739)
+Seat 6: CLS (1411)
+ROBERTO has the dealer button
+rodmouvi posts small blind 75
+CLS posts big blind 150
+** Hole Cards ** [5 players]
+betong folds
+diamond folds
+ROBERTO folds
+rodmouvi raises to 1739 (All-in)
+CLS folds
+rodmouvi refunded 1589
+rodmouvi wins Pot (300)
+** Deck ** [Kc 7d 2d 5d Kd 8s 9h Td 6s 4d Ks Jd 3d 2c 5h 4c 2s Qs 5c 9s]
+
+Hand #131232-10 - 2017-07-08 02:07:37
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1388)
+Seat 2: diamond (1162)
+Seat 3: ROBERTO (1875)
+Seat 5: rodmouvi (1889)
+Seat 6: CLS (1261)
+rodmouvi has the dealer button
+CLS posts small blind 75
+betong posts big blind 150
+** Hole Cards ** [5 players]
+diamond folds
+ROBERTO calls 150
+rodmouvi raises to 1889 (All-in)
+CLS folds
+betong folds
+ROBERTO has timed out
+ROBERTO folds
+rodmouvi refunded 1739
+rodmouvi wins Pot (525)
+** Deck ** [5c Ad 7d 4d Qc Kh 2d 2c Ah 3d 2s 2h Jc 8h Qh 6h Qs Ks 7s 9h]
+
+Hand #131233-11 - 2017-07-08 02:08:59
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1238)
+Seat 2: diamond (1162)
+Seat 3: ROBERTO (1725) - sitting out
+Seat 5: rodmouvi (2264)
+Seat 6: CLS (1186)
+CLS has the dealer button
+betong posts small blind 75
+diamond posts big blind 150
+** Hole Cards ** [5 players]
+ROBERTO folds
+rodmouvi calls 150
+CLS calls 150
+betong raises to 1238 (All-in)
+diamond folds
+rodmouvi calls 1088
+CLS folds
+** Flop ** [5c Qd 9c]
+** Turn ** [9d]
+** River ** [Kd]
+** Pot Show Down ** [5c Qd 9c 9d Kd]
+betong shows [Ks 6d 3h Kh] (Hi: a Full House, Kings full of Nines  Lo: None)
+rodmouvi shows [4h Ad Jc 6c] (Hi: a Pair of Nines +AKJ  Lo: None)
+betong wins Pot (2776) with a Full House
+No low hand qualified
+** Deck ** [Ks 7s 4d 4h 5d 6d Qc Kc Ad 9s 3h Jd As Jc 4c Kh 8d Jh 6c Ah 5c Qd 9c 9d Kd]
+
+Hand #131234-12 - 2017-07-08 02:09:57
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (2776)
+Seat 2: diamond (1012)
+Seat 3: ROBERTO (1725)
+Seat 5: rodmouvi (1026)
+Seat 6: CLS (1036)
+betong has the dealer button
+diamond posts small blind 100
+ROBERTO posts big blind 200
+** Hole Cards ** [5 players]
+rodmouvi raises to 1026 (All-in)
+CLS folds
+betong folds
+diamond folds
+ROBERTO calls 826
+** Flop ** [4d As 4c]
+** Turn ** [Qh]
+** River ** [9s]
+** Pot Show Down ** [4d As 4c Qh 9s]
+ROBERTO shows [Ad 8d 5h 7c] (Hi: Two Pair, Aces and Fours +8  Lo: None)
+rodmouvi shows [Kc Ks 5d 4s] (Hi: Three of a Kind, Fours +AK  Lo: None)
+rodmouvi wins Pot (2152) with Three of a Kind
+No low hand qualified
+** Deck ** [Td Ad Kc 3d 5s Kd 8d Ks Js 6h Tc 5h 5d Th 3c 6s 7c 4s Jh 9d 4d As 4c Qh 9s]
+
+Hand #131235-13 - 2017-07-08 02:10:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (2776)
+Seat 2: diamond (912)
+Seat 3: ROBERTO (699)
+Seat 5: rodmouvi (2152)
+Seat 6: CLS (1036)
+diamond has the dealer button
+ROBERTO posts small blind 100
+rodmouvi posts big blind 200
+** Hole Cards ** [5 players]
+CLS folds
+betong folds
+diamond raises to 912 (All-in)
+ROBERTO folds
+rodmouvi calls 712
+** Flop ** [8h 2h Kd]
+** Turn ** [Ks]
+** River ** [5h]
+** Pot Show Down ** [8h 2h Kd Ks 5h]
+diamond shows [Qh Ac As 7h] (Hi: a Flush, Queen high +8752  Lo: 8752A)
+rodmouvi shows [Kc 6c Tc Js] (Hi: Three of a Kind, Kings +J8  Lo: None)
+diamond wins Hi Pot (962) with a Flush
+diamond wins Lo Pot (962) with 8752A
+** Deck ** [8c Kc Jc 2c Qh Qc 6c Kh 3h Ac 4c Tc 6d 7d As 3s Js Qd Jd 7h 8h 2h Kd Ks 5h]
+
+Hand #131236-14 - 2017-07-08 02:11:25
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (2776)
+Seat 2: diamond (1924)
+Seat 3: ROBERTO (599)
+Seat 5: rodmouvi (1240)
+Seat 6: CLS (1036)
+ROBERTO has the dealer button
+rodmouvi posts small blind 100
+CLS posts big blind 200
+** Hole Cards ** [5 players]
+betong folds
+diamond folds
+ROBERTO folds
+rodmouvi raises to 1240 (All-in)
+CLS folds
+rodmouvi refunded 1040
+rodmouvi wins Pot (400)
+** Deck ** [4h 4c 8s 8d 6c Js 9h 2h 8h Qh Jh 2c 6d Kh 8c 4d 9s 3s Kc Jd]
+
+Hand #131237-15 - 2017-07-08 02:11:53
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (2776)
+Seat 2: diamond (1924)
+Seat 3: ROBERTO (599)
+Seat 5: rodmouvi (1440)
+Seat 6: CLS (836)
+rodmouvi has the dealer button
+CLS posts small blind 100
+betong posts big blind 200
+** Hole Cards ** [5 players]
+diamond folds
+ROBERTO raises to 599 (All-in)
+rodmouvi raises to 998
+CLS folds
+betong folds
+rodmouvi refunded 399
+** Flop ** [8s 4h As]
+** Turn ** [Ks]
+** River ** [2s]
+** Pot Show Down ** [8s 4h As Ks 2s]
+ROBERTO shows [4c 7c 2d 3h] (Hi: Two Pair, Fours and Deuces +A  Lo: 7432A)
+rodmouvi shows [7h Ad Kc Ah] (Hi: Three of a Kind, Aces +K8  Lo: 8742A)
+rodmouvi wins Hi Pot (749) with Three of a Kind
+ROBERTO wins Lo Pot (749) with 7432A
+** Deck ** [3c Kh 8h 4c 7h 5s 2c 3d 7c Ad Qh Td Kd 2d Kc Qd 3s 9d 3h Ah 8s 4h As Ks 2s]
+
+Hand #131238-16 - 2017-07-08 02:12:33
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (2576)
+Seat 2: diamond (1924)
+Seat 3: ROBERTO (749)
+Seat 5: rodmouvi (1590)
+Seat 6: CLS (736)
+CLS has the dealer button
+betong posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [5 players]
+ROBERTO folds
+rodmouvi raises to 1590 (All-in)
+CLS folds
+betong raises to 2576 (All-in)
+diamond folds
+betong refunded 986
+** Flop ** [Ah 5h Th]
+** Turn ** [9d]
+** River ** [3d]
+** Pot Show Down ** [Ah 5h Th 9d 3d]
+betong shows [7h Tc Ac 6h] (Hi: a Flush, Ace high +T765  Lo: 7653A)
+rodmouvi shows [Qd Qs Kh 8h] (Hi: a Flush, Ace high +KT85  Lo: None)
+rodmouvi wins Hi Pot (1690) with a Flush
+betong wins Lo Pot (1690) with 7653A
+** Deck ** [7h 8s Ts Qd 5d Tc 3s 7s Qs 9c Ac 6s 3h Kh Jd 6h 6c 4h 8h 7c Ah 5h Th 9d 3d]
+
+Hand #131239-17 - 2017-07-08 02:13:08
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (2676)
+Seat 2: diamond (1724)
+Seat 3: ROBERTO (749)
+Seat 5: rodmouvi (1690)
+Seat 6: CLS (736)
+betong has the dealer button
+betong posts ante 25
+diamond posts ante 25
+ROBERTO posts ante 25
+rodmouvi posts ante 25
+CLS posts ante 25
+diamond posts small blind 100
+ROBERTO posts big blind 200
+** Hole Cards ** [5 players]
+rodmouvi calls 200
+CLS raises to 711 (All-in)
+betong raises to 2651 (All-in)
+diamond folds
+ROBERTO folds
+rodmouvi folds
+betong refunded 1940
+** Flop ** [7d Jc 2s]
+** Turn ** [4s]
+** River ** [8d]
+** Pot Show Down ** [7d Jc 2s 4s 8d]
+betong shows [Ts 7c 2d Td] (Hi: Two Pair, Sevens and Deuces +J  Lo: None)
+CLS shows [8c 5h Ah 6h] (Hi: a Straight, Four to Eight  Lo: 7542A)
+CLS wins Hi Pot (1024) with a Straight
+CLS wins Lo Pot (1023) with 7542A
+** Deck ** [5d 3d Qs 8c Ts 3s 6c 7h 5h 7c Qc 9s Kd Ah 2d 4d 5s 8s 6h Td 7d Jc 2s 4s 8d]
+
+Hand #131240-18 - 2017-07-08 02:13:51
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1940)
+Seat 2: diamond (1599)
+Seat 3: ROBERTO (524)
+Seat 5: rodmouvi (1465)
+Seat 6: CLS (2047)
+diamond has the dealer button
+betong posts ante 25
+diamond posts ante 25
+ROBERTO posts ante 25
+rodmouvi posts ante 25
+CLS posts ante 25
+ROBERTO posts small blind 100
+rodmouvi posts big blind 200
+** Hole Cards ** [5 players]
+CLS calls 200
+betong folds
+diamond folds
+ROBERTO folds
+rodmouvi checks
+** Flop ** [4s 8s Ad]
+rodmouvi checks
+CLS bets 625
+rodmouvi folds
+CLS refunded 625
+CLS wins Pot (625)
+** Deck ** [Js 2d 9h 2c 9d 8h 7c Kc 6h 3h 3d 6d Ah Ts Tc 5c Jc 4d 4h Jh 4s 8s Ad]
+
+Hand #131241-19 - 2017-07-08 02:14:37
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1915)
+Seat 2: diamond (1574)
+Seat 3: ROBERTO (399)
+Seat 5: rodmouvi (1240)
+Seat 6: CLS (2447)
+ROBERTO has the dealer button
+betong posts ante 25
+diamond posts ante 25
+ROBERTO posts ante 25
+rodmouvi posts ante 25
+CLS posts ante 25
+rodmouvi posts small blind 100
+CLS posts big blind 200
+** Hole Cards ** [5 players]
+betong folds
+diamond folds
+ROBERTO raises to 374 (All-in)
+rodmouvi calls 274
+CLS raises to 574
+rodmouvi calls 200
+** Flop ** [5c Jh 3s]
+rodmouvi checks
+CLS bets 1647
+rodmouvi folds
+CLS refunded 1647
+** Turn ** [3d]
+** River ** [3c]
+CLS wins Side Pot 1 (400)
+** Main Pot Show Down ** [5c Jh 3s 3d 3c]
+ROBERTO shows [5h Kd 6s 7c] (Hi: Three of a Kind, Threes +K7  Lo: None)
+CLS shows [8c 8d Ac Ah] (Hi: a Full House, Threes full of Aces  Lo: None)
+CLS wins Main Pot (1247) with a Full House
+No low hand qualified
+ROBERTO finishes tournament in place #5
+** Deck ** [Qs 8c Qc Jd 5h 9s 8d 2s 6h Kd Ks Ac 2c 3h 6s 2h Ah 9d Js 7c 5c Jh 3s 3d 3c]
+
+Hand #131242-20 - 2017-07-08 02:15:27
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (1890)
+Seat 2: diamond (1549)
+Seat 5: rodmouvi (641)
+Seat 6: CLS (3495)
+rodmouvi has the dealer button
+betong posts ante 25
+diamond posts ante 25
+rodmouvi posts ante 25
+CLS posts ante 25
+CLS posts small blind 100
+betong posts big blind 200
+** Hole Cards ** [4 players]
+diamond folds
+rodmouvi folds
+CLS calls 100
+betong raises to 1865 (All-in)
+CLS folds
+betong refunded 1665
+betong wins Pot (500)
+** Deck ** [Kd 8s As Ah 8c 8h 9c 3d Jd 9h 2d 8d 2s 7d 6h 4s]
+
+Hand #131243-21 - 2017-07-08 02:16:04
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (2165)
+Seat 2: diamond (1524)
+Seat 5: rodmouvi (616)
+Seat 6: CLS (3270)
+CLS has the dealer button
+betong posts ante 25
+diamond posts ante 25
+rodmouvi posts ante 25
+CLS posts ante 25
+betong posts small blind 200
+diamond posts big blind 400
+** Hole Cards ** [4 players]
+rodmouvi raises to 591 (All-in)
+CLS folds
+betong raises to 2140 (All-in)
+diamond folds
+betong refunded 1549
+** Flop ** [4c 2d Ts]
+** Turn ** [As]
+** River ** [2s]
+** Pot Show Down ** [4c 2d Ts As 2s]
+betong shows [8h Kh Jc Kd] (Hi: Two Pair, Kings and Deuces +A  Lo: None)
+rodmouvi shows [Js 8d 6h 7c] (Hi: a Pair of Deuces +AJ8  Lo: 7642A)
+betong wins Hi Pot (841) with Two Pair
+rodmouvi wins Lo Pot (841) with 7642A
+** Deck ** [8h Qh Js 3d Kh 7s 8d Th Jc 6c 6h 3h Kd Ac 7c 8s 4c 2d Ts As 2s]
+
+Hand #131244-22 - 2017-07-08 02:16:38
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (2390)
+Seat 2: diamond (1099)
+Seat 5: rodmouvi (841)
+Seat 6: CLS (3245)
+betong has the dealer button
+betong posts ante 25
+diamond posts ante 25
+rodmouvi posts ante 25
+CLS posts ante 25
+diamond posts small blind 200
+rodmouvi posts big blind 400
+** Hole Cards ** [4 players]
+CLS folds
+betong raises to 2365 (All-in)
+diamond calls 874 (All-in)
+rodmouvi calls 416 (All-in)
+betong refunded 1291
+** Flop ** [8s 8d 3s]
+** Turn ** [Qd]
+** River ** [4d]
+** Side Pot 1 Show Down ** [8s 8d 3s Qd 4d]
+betong shows [7c 4c 5s Ad] (Hi: Two Pair, Eights and Fours +A  Lo: 8543A)
+diamond shows [As 9c Ah 9h] (Hi: Two Pair, Aces and Eights +Q  Lo: None)
+diamond wins Hi Side Pot 1 (258) with Two Pair
+betong wins Lo Side Pot 1 (258) with 8543A
+** Main Pot Show Down ** [8s 8d 3s Qd 4d]
+rodmouvi shows [Qh Kh 9s Qc] (Hi: a Full House, Queens full of Eights  Lo: None)
+rodmouvi wins Hi Main Pot (1274) with a Full House
+betong wins Lo Main Pot (1274) with 8543A
+** Deck ** [As Qh Js 7c 9c Kh 2s 4c Ah 9s 8h 5s 9h Qc 8c Ad 8s 8d 3s Qd 4d]
+
+Hand #131245-23 - 2017-07-08 02:17:20
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (2823)
+Seat 2: diamond (258)
+Seat 5: rodmouvi (1274)
+Seat 6: CLS (3220)
+diamond has the dealer button
+betong posts ante 25
+diamond posts ante 25
+rodmouvi posts ante 25
+CLS posts ante 25
+rodmouvi posts small blind 200
+CLS posts big blind 400
+** Hole Cards ** [4 players]
+betong folds
+diamond calls 233 (All-in)
+rodmouvi calls 200
+CLS checks
+** Flop ** [Js 7d Th]
+rodmouvi checks
+CLS bets 1133
+rodmouvi folds
+CLS refunded 1133
+** Turn ** [Ac]
+** River ** [2d]
+CLS wins Side Pot 1 (334)
+** Main Pot Show Down ** [Js 7d Th Ac 2d]
+diamond shows [6d 5c 7h 2h] (Hi: Two Pair, Sevens and Deuces +A  Lo: 7652A)
+CLS shows [Kd 3h 5s 3d] (Hi: a Pair of Threes +AJT  Lo: 7532A)
+diamond wins Hi Main Pot (400) with Two Pair
+CLS wins Lo Main Pot (399) with 7532A
+** Deck ** [4c Kd Ks 6d Jc 3h 6s 5c 5h 5s 8h 7h Ad 3d Tc 2h Js 7d Th Ac 2d]
+
+Hand #131246-24 - 2017-07-08 02:18:06
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: betong (2798)
+Seat 2: diamond (400)
+Seat 5: rodmouvi (849)
+Seat 6: CLS (3528)
+rodmouvi has the dealer button
+betong posts ante 25
+diamond posts ante 25
+rodmouvi posts ante 25
+CLS posts ante 25
+CLS posts small blind 200
+betong posts big blind 400
+** Hole Cards ** [4 players]
+diamond calls 375 (All-in)
+rodmouvi raises to 824 (All-in)
+CLS raises to 1248
+betong raises to 2773 (All-in)
+CLS calls 1525
+** Flop ** [Kh 6h Jd]
+** Turn ** [2h]
+** River ** [4c]
+** Side Pot 2 Show Down ** [Kh 6h Jd 2h 4c]
+betong shows [9d 6s 6d Ts] (Hi: Three of a Kind, Sixes +KJ  Lo: None)
+CLS shows [Ks Kc Qs Td] (Hi: Three of a Kind, Kings +J6  Lo: None)
+CLS wins Side Pot 2 (3898) with Three of a Kind
+No low hand qualified
+** Side Pot 1 Show Down ** [Kh 6h Jd 2h 4c]
+rodmouvi shows [Ac 4h Kd 3c] (Hi: Two Pair, Kings and Fours +J  Lo: 6432A)
+CLS wins Hi Side Pot 1 (674) with Three of a Kind
+rodmouvi wins Lo Side Pot 1 (673) with 6432A
+** Main Pot Show Down ** [Kh 6h Jd 2h 4c]
+diamond shows [5c Qd Tc 3h] (Hi: a Straight, Deuce to Six  Lo: 65432)
+diamond wins Hi Main Pot (800) with a Straight
+rodmouvi wins Lo Main Pot (800) with 6432A
+betong finishes tournament in place #4 and wins 200 chips
+** Deck ** [Ks 9d 5c Ac Kc 6s Qd 4h Qs 6d Tc Kd Td Ts 3h 3c Kh 6h Jd 2h 4c]
+
+Hand #131247-25 - 2017-07-08 02:18:53
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: diamond (800)
+Seat 5: rodmouvi (1473)
+Seat 6: CLS (5302)
+CLS has the dealer button
+diamond posts ante 50
+rodmouvi posts ante 50
+CLS posts ante 50
+diamond posts small blind 300
+rodmouvi posts big blind 600
+** Hole Cards ** [3 players]
+CLS folds
+diamond raises to 750 (All-in)
+rodmouvi calls 150
+** Flop ** [3s 8d Ad]
+** Turn ** [5d]
+** River ** [2h]
+** Pot Show Down ** [3s 8d Ad 5d 2h]
+diamond shows [6h Ah 3c 2s] (Hi: Two Pair, Aces and Threes +8  Lo: 6532A)
+rodmouvi shows [4s Jc 6c Qh] (Hi: a Straight, Deuce to Six  Lo: 6432A)
+rodmouvi wins Hi Pot (825) with a Straight
+rodmouvi wins Lo Pot (825) with 6432A
+diamond finishes tournament in place #3 and wins 400 chips
+** Deck ** [6h 4s Ts Ah Jc 4d 3c 6c 8c 2s Qh 5h 3s 8d Ad 5d 2h]
+
+Hand #131248-26 - 2017-07-08 02:19:15
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 5: rodmouvi (2323)
+Seat 6: CLS (5252)
+rodmouvi has the dealer button
+rodmouvi posts ante 50
+CLS posts ante 50
+rodmouvi posts small blind 300
+CLS posts big blind 600
+** Hole Cards ** [2 players]
+rodmouvi raises to 2273 (All-in)
+CLS calls 1673
+** Flop ** [5d 5h 9c]
+** Turn ** [3h]
+** River ** [Ad]
+** Pot Show Down ** [5d 5h 9c 3h Ad]
+rodmouvi shows [6s 6h 2s Ah] (Hi: Two Pair, Aces and Fives +6  Lo: 6532A)
+CLS shows [Qs 9h 3d Ks] (Hi: Two Pair, Nines and Fives +K  Lo: None)
+rodmouvi wins Hi Pot (2323) with Two Pair
+rodmouvi wins Lo Pot (2323) with 6532A
+** Deck ** [Qs 6s 9h 6h 3d 2s Ks Ah 5d 5h 9c 3h Ad]
+
+Hand #131249-27 - 2017-07-08 02:19:37
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 5: rodmouvi (4646)
+Seat 6: CLS (2929)
+CLS has the dealer button
+rodmouvi posts ante 50
+CLS posts ante 50
+CLS posts small blind 300
+rodmouvi posts big blind 600
+** Hole Cards ** [2 players]
+CLS raises to 2879 (All-in)
+rodmouvi calls 2279
+** Flop ** [Td Jc 3c]
+** Turn ** [5d]
+** River ** [6h]
+** Pot Show Down ** [Td Jc 3c 5d 6h]
+rodmouvi shows [Qc 6c Ts Ac] (Hi: Two Pair, Tens and Sixes +J  Lo: None)
+CLS shows [5c Ks Qh 4d] (Hi: a Pair of Fives +KJT  Lo: None)
+rodmouvi wins Pot (5858) with Two Pair
+No low hand qualified
+CLS finishes tournament in place #2 and wins 600 chips
+rodmouvi finishes tournament in place #1 and wins 800 chips
+** Deck ** [Qc 5c 6c Ks Ts Qh Ac 4d Td Jc 3c 5d 6h]
+
+Starting tournament 2429
+
+Hand #131345-1 - 2017-07-08 06:00:35
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1500)
+Seat 3: AlphaWolf (1500)
+Seat 4: diamond (1500)
+Seat 5: Ruphus (1500)
+Seat 6: betong (1500)
+tuan has the dealer button
+AlphaWolf posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [5 players]
+Ruphus calls 50
+betong folds
+tuan calls 50
+AlphaWolf calls 25
+diamond checks
+** Flop ** [7c 8d 2s]
+AlphaWolf checks
+diamond checks
+Ruphus checks
+tuan bets 200
+AlphaWolf folds
+diamond folds
+Ruphus folds
+tuan refunded 200
+tuan wins Pot (200)
+** Deck ** [3h 3c 9s 4d 5c Qs Jd 6s 8h 7h Kc 5d Kd Ks 2h 6c 9d 9h Js Td 7c 8d 2s]
+
+Hand #131346-2 - 2017-07-08 06:01:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1650)
+Seat 3: AlphaWolf (1450)
+Seat 4: diamond (1450)
+Seat 5: Ruphus (1450)
+Seat 6: betong (1500)
+AlphaWolf has the dealer button
+diamond posts small blind 25
+Ruphus posts big blind 50
+** Hole Cards ** [5 players]
+betong folds
+tuan calls 50
+AlphaWolf calls 50
+diamond folds
+Ruphus checks
+** Flop ** [9h 8c 5s]
+Ruphus checks
+tuan bets 50
+AlphaWolf calls 50
+Ruphus folds
+** Turn ** [Kh]
+tuan bets 137
+AlphaWolf calls 137
+** River ** [Ac]
+tuan checks
+AlphaWolf bets 549
+tuan folds
+AlphaWolf refunded 549
+AlphaWolf wins Pot (549)
+** Deck ** [6c Qs 9d Jh 2d 7s Jd 8h 5d 4s Tc 3c 2s Th 3d 7c Qh Jc 8d As 9h 8c 5s Kh Ac]
+
+Hand #131347-3 - 2017-07-08 06:02:41
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1413)
+Seat 3: AlphaWolf (1762)
+Seat 4: diamond (1425)
+Seat 5: Ruphus (1400)
+Seat 6: betong (1500)
+diamond has the dealer button
+Ruphus posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [5 players]
+tuan calls 50
+AlphaWolf calls 50
+diamond folds
+Ruphus raises to 150
+betong folds
+tuan calls 100
+AlphaWolf calls 100
+** Flop ** [2s 7d Kc]
+Ruphus checks
+tuan bets 250
+AlphaWolf folds
+Ruphus folds
+tuan refunded 250
+tuan wins Pot (500)
+** Deck ** [4d 8c Ac Js Th 6d Qs 5s 4h 8d Ts Jd 3h 2c Ks 6c 3s 7s Tc 3c 2s 7d Kc]
+
+Hand #131348-4 - 2017-07-08 06:03:46
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1763)
+Seat 3: AlphaWolf (1612)
+Seat 4: diamond (1425)
+Seat 5: Ruphus (1250)
+Seat 6: betong (1450)
+Ruphus has the dealer button
+betong posts small blind 50
+tuan posts big blind 100
+** Hole Cards ** [5 players]
+AlphaWolf calls 100
+diamond folds
+Ruphus calls 100
+betong raises to 1450 (All-in)
+tuan folds
+AlphaWolf folds
+Ruphus folds
+betong refunded 1350
+betong wins Pot (400)
+** Deck ** [8s 3s Ks 5s 7c 8d 9h 2s 4c 5d Qh Qc 3d 9c Tc Jd 5h 6d 6s Ts]
+
+Hand #131349-5 - 2017-07-08 06:04:31
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1663)
+Seat 3: AlphaWolf (1512)
+Seat 4: diamond (1425)
+Seat 5: Ruphus (1150)
+Seat 6: betong (1750)
+betong has the dealer button
+tuan posts small blind 50
+AlphaWolf posts big blind 100
+** Hole Cards ** [5 players]
+diamond folds
+Ruphus calls 100
+betong folds
+tuan calls 50
+AlphaWolf checks
+** Flop ** [6s 2d Qd]
+tuan checks
+AlphaWolf bets 100
+Ruphus raises to 433
+tuan folds
+AlphaWolf calls 333
+** Turn ** [Js]
+AlphaWolf checks
+Ruphus bets 617 (All-in)
+AlphaWolf calls 617
+** River ** [2s]
+** Pot Show Down ** [6s 2d Qd Js 2s]
+AlphaWolf shows [7c Ts 2h As] (Hi: a Flush, Ace high +JT62  Lo: None)
+Ruphus shows [4h 2c Kd Qc] (Hi: a Full House, Deuces full of Queens  Lo: None)
+Ruphus wins Pot (2400) with a Full House
+No low hand qualified
+** Deck ** [Th 7c 6d 4h 4c 8s Ts 9c 2c Jh 5c 2h 8d Kd Td 7h As 4s Qc 3h 6s 2d Qd Js 2s]
+
+Hand #131350-6 - 2017-07-08 06:05:44
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1563)
+Seat 3: AlphaWolf (362)
+Seat 4: diamond (1425)
+Seat 5: Ruphus (2400)
+Seat 6: betong (1750)
+tuan has the dealer button
+AlphaWolf posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [5 players]
+Ruphus calls 100
+betong raises to 1750 (All-in)
+tuan folds
+AlphaWolf calls 312 (All-in)
+diamond folds
+Ruphus calls 1650
+** Flop ** [Kd 2c 8d]
+** Turn ** [8h]
+** River ** [4h]
+** Side Pot 1 Show Down ** [Kd 2c 8d 8h 4h]
+Ruphus shows [3h Th 5d 4d] (Hi: Two Pair, Eights and Fours +T  Lo: 85432)
+betong shows [9d Jc 9c Qd] (Hi: Two Pair, Nines and Eights +K  Lo: None)
+betong wins Hi Side Pot 1 (1388) with Two Pair
+Ruphus wins Lo Side Pot 1 (1388) with 85432
+** Main Pot Show Down ** [Kd 2c 8d 8h 4h]
+AlphaWolf shows [3c Qs Js Ts] (Hi: a Pair of Eights +KQJ  Lo: None)
+betong wins Hi Main Pot (593) with Two Pair
+Ruphus wins Lo Main Pot (593) with 85432
+AlphaWolf finishes tournament in place #5
+** Deck ** [3c 5h 3h 9d 8s Qs Td Th Jc 7s Js Kh 5d 9c 4s Ts Ks 4d Qd 5c Kd 2c 8d 8h 4h]
+
+Hand #131351-7 - 2017-07-08 06:06:39
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1563)
+Seat 4: diamond (1325)
+Seat 5: Ruphus (2631)
+Seat 6: betong (1981)
+diamond has the dealer button
+Ruphus posts small blind 75
+betong posts big blind 150
+** Hole Cards ** [4 players]
+tuan folds
+diamond folds
+Ruphus raises to 450
+betong raises to 1981 (All-in)
+Ruphus calls 1531
+** Flop ** [4d 4h 5s]
+** Turn ** [Qd]
+** River ** [Ac]
+** Pot Show Down ** [4d 4h 5s Qd Ac]
+Ruphus shows [8s 3h Ks Kh] (Hi: Two Pair, Kings and Fours +A  Lo: 8543A)
+betong shows [Jh 3d 3c 2c] (Hi: a Straight, Ace to Five  Lo: 5432A)
+betong wins Hi Pot (1981) with a Straight
+betong wins Lo Pot (1981) with 5432A
+** Deck ** [8s Jh Jc 4s 3h 3d 8c Jd Ks 3c 6s Js Kh 2c Kd 7c 4d 4h 5s Qd Ac]
+
+Hand #131352-8 - 2017-07-08 06:07:29
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1563)
+Seat 4: diamond (1325)
+Seat 5: Ruphus (650)
+Seat 6: betong (3962)
+Ruphus has the dealer button
+betong posts small blind 75
+tuan posts big blind 150
+** Hole Cards ** [4 players]
+diamond folds
+Ruphus raises to 650 (All-in)
+betong folds
+tuan folds
+Ruphus refunded 500
+Ruphus wins Pot (375)
+** Deck ** [Js 8h 7c 4c 6c 8d 4h Kd 5c Kh 2d 5h 3d Th 4s 2h]
+
+Hand #131353-9 - 2017-07-08 06:08:00
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1413)
+Seat 4: diamond (1325)
+Seat 5: Ruphus (875)
+Seat 6: betong (3887)
+betong has the dealer button
+tuan posts small blind 75
+diamond posts big blind 150
+** Hole Cards ** [4 players]
+Ruphus raises to 450
+betong folds
+tuan calls 375
+diamond folds
+** Flop ** [6c 4s Ac]
+tuan checks
+Ruphus bets 425 (All-in)
+tuan folds
+Ruphus refunded 425
+Ruphus wins Pot (1050)
+** Deck ** [Qs 9h 7c Th Jh Tc 3c Js 6h 7s 7h 3h 8s Td 4h 6d 6c 4s Ac]
+
+Hand #131354-10 - 2017-07-08 06:08:57
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (963)
+Seat 4: diamond (1175)
+Seat 5: Ruphus (1475)
+Seat 6: betong (3887)
+tuan has the dealer button
+diamond posts small blind 75
+Ruphus posts big blind 150
+** Hole Cards ** [4 players]
+betong raises to 3887 (All-in)
+tuan folds
+diamond folds
+Ruphus calls 1325 (All-in)
+betong refunded 2412
+** Flop ** [2d Th 7h]
+** Turn ** [Jd]
+** River ** [4c]
+** Pot Show Down ** [2d Th 7h Jd 4c]
+Ruphus shows [8s Jc 2c Ts] (Hi: Two Pair, Jacks and Tens +7  Lo: None)
+betong shows [8c 5c 8d Ah] (Hi: a Pair of Eights +JT7  Lo: 7542A)
+Ruphus wins Hi Pot (1513) with Two Pair
+betong wins Lo Pot (1512) with 7542A
+** Deck ** [Qs 8s 8c Kc Qc Jc 5c Kd 9h 2c 8d Js 9c Ts Ah 7c 2d Th 7h Jd 4c]
+
+Hand #131355-11 - 2017-07-08 06:09:32
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (963)
+Seat 4: diamond (1100)
+Seat 5: Ruphus (1513)
+Seat 6: betong (3924)
+diamond has the dealer button
+Ruphus posts small blind 75
+betong posts big blind 150
+** Hole Cards ** [4 players]
+tuan raises to 525
+diamond folds
+Ruphus raises to 1513 (All-in)
+betong folds
+tuan calls 438 (All-in)
+Ruphus refunded 550
+** Flop ** [Kd 4c Js]
+** Turn ** [4d]
+** River ** [4h]
+** Pot Show Down ** [Kd 4c Js 4d 4h]
+tuan shows [7h 2c 9s Ac] (Hi: Three of a Kind, Fours +A9  Lo: None)
+Ruphus shows [Ad 6h 9c Qs] (Hi: Three of a Kind, Fours +AQ  Lo: None)
+Ruphus wins Pot (2076) with Three of a Kind
+No low hand qualified
+tuan finishes tournament in place #4 and wins 200 chips
+** Deck ** [Ad 8s 7h Jc 6h 3s 2c 5d 9c Qd 9s 6s Qs 5c Ac 9d Kd 4c Js 4d 4h]
+
+Hand #131356-12 - 2017-07-08 06:10:25
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 4: diamond (1100)
+Seat 5: Ruphus (2626)
+Seat 6: betong (3774)
+Ruphus has the dealer button
+betong posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [3 players]
+Ruphus calls 200
+betong raises to 3774 (All-in)
+diamond folds
+Ruphus calls 2426 (All-in)
+betong refunded 1148
+** Flop ** [Js 5s 4s]
+** Turn ** [8d]
+** River ** [5d]
+** Pot Show Down ** [Js 5s 4s 8d 5d]
+Ruphus shows [5c 2c Qh 9s] (Hi: Three of a Kind, Fives +QJ  Lo: None)
+betong shows [Kh Jc 6h Kc] (Hi: Two Pair, Kings and Fives +J  Lo: None)
+Ruphus wins Pot (5452) with Three of a Kind
+No low hand qualified
+** Deck ** [Kh Kd 5c Jc 8h 2c 6h Qc Qh Kc Qd 9s Js 5s 4s 8d 5d]
+
+Hand #131357-13 - 2017-07-08 06:11:00
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 4: diamond (900)
+Seat 5: Ruphus (5452)
+Seat 6: betong (1148)
+betong has the dealer button
+diamond posts small blind 100
+Ruphus posts big blind 200
+** Hole Cards ** [3 players]
+betong folds
+diamond folds
+Ruphus refunded 100
+Ruphus wins Pot (200)
+** Deck ** [6h 8h 8d Qh Kc 7h 3s Jd Qc 9d Kh Js]
+
+Hand #131358-14 - 2017-07-08 06:11:14
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 4: diamond (800)
+Seat 5: Ruphus (5552)
+Seat 6: betong (1148)
+diamond has the dealer button
+Ruphus posts small blind 100
+betong posts big blind 200
+** Hole Cards ** [3 players]
+diamond folds
+Ruphus folds
+betong refunded 100
+betong wins Pot (200)
+** Deck ** [3c 8s 2d Jh 8d Ah 7d 4d 5h Qs 3d 9h]
+
+Hand #131359-15 - 2017-07-08 06:11:44
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 4: diamond (800)
+Seat 5: Ruphus (5452)
+Seat 6: betong (1248)
+Ruphus has the dealer button
+betong posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [3 players]
+Ruphus raises to 800
+betong folds
+diamond folds
+Ruphus refunded 600
+Ruphus wins Pot (500)
+** Deck ** [8d 6d Js 6c 3h Th 4s Jc 2d 2h Kc As]
+
+Hand #131360-16 - 2017-07-08 06:12:11
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 4: diamond (600)
+Seat 5: Ruphus (5752)
+Seat 6: betong (1148)
+betong has the dealer button
+diamond posts small blind 100
+Ruphus posts big blind 200
+** Hole Cards ** [3 players]
+betong raises to 1148 (All-in)
+diamond folds
+Ruphus calls 948
+** Flop ** [5c 2h 3h]
+** Turn ** [8s]
+** River ** [3c]
+** Pot Show Down ** [5c 2h 3h 8s 3c]
+Ruphus shows [As 7h 4c 5s] (Hi: a Straight, Ace to Five  Lo: 5432A)
+betong shows [9s Kh 4s Kc] (Hi: Two Pair, Kings and Threes +8  Lo: None)
+Ruphus wins Hi Pot (1198) with a Straight
+Ruphus wins Lo Pot (1198) with 5432A
+betong finishes tournament in place #3 and wins 400 chips
+** Deck ** [9d As 9s Qs 7h Kh 6h 4c 4s Tc 5s Kc 5c 2h 3h 8s 3c]
+
+Hand #131361-17 - 2017-07-08 06:12:50
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 4: diamond (500)
+Seat 5: Ruphus (7000)
+diamond has the dealer button
+diamond posts ante 25
+Ruphus posts ante 25
+diamond posts small blind 100
+Ruphus posts big blind 200
+** Hole Cards ** [2 players]
+diamond raises to 475 (All-in)
+Ruphus calls 275
+** Flop ** [5s 7s 4s]
+** Turn ** [4d]
+** River ** [Th]
+** Pot Show Down ** [5s 7s 4s 4d Th]
+diamond shows [Tc 9s Td 9c] (Hi: a Full House, Tens full of Fours  Lo: None)
+Ruphus shows [2c 5d 6c Kd] (Hi: Two Pair, Fives and Fours +K  Lo: 76542)
+diamond wins Hi Pot (500) with a Full House
+Ruphus wins Lo Pot (500) with 76542
+** Deck ** [2c Tc 5d 9s 6c Td Kd 9c 5s 7s 4s 4d Th]
+
+Hand #131362-18 - 2017-07-08 06:13:11
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 4: diamond (500)
+Seat 5: Ruphus (7000)
+Ruphus has the dealer button
+diamond posts ante 25
+Ruphus posts ante 25
+Ruphus posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [2 players]
+Ruphus raises to 6975 (All-in)
+diamond calls 275 (All-in)
+Ruphus refunded 6500
+** Flop ** [Ks 8d 7s]
+** Turn ** [3c]
+** River ** [3h]
+** Pot Show Down ** [Ks 8d 7s 3c 3h]
+diamond shows [Ad 3d Th Qd] (Hi: Three of a Kind, Threes +AK  Lo: None)
+Ruphus shows [7h Jc 8c 5h] (Hi: Two Pair, Eights and Sevens +K  Lo: None)
+diamond wins Pot (1000) with Three of a Kind
+No low hand qualified
+** Deck ** [Ad 7h 3d Jc Th 8c Qd 5h Ks 8d 7s 3c 3h]
+
+Hand #131363-19 - 2017-07-08 06:13:33
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 4: diamond (1000)
+Seat 5: Ruphus (6500)
+diamond has the dealer button
+diamond posts ante 25
+Ruphus posts ante 25
+diamond posts small blind 100
+Ruphus posts big blind 200
+** Hole Cards ** [2 players]
+diamond folds
+Ruphus refunded 100
+Ruphus wins Pot (250)
+** Deck ** [6c 7c Ac 3s 2h 5d 8s 8h]
+
+Hand #131364-20 - 2017-07-08 06:13:51
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 4: diamond (875)
+Seat 5: Ruphus (6625)
+Ruphus has the dealer button
+diamond posts ante 25
+Ruphus posts ante 25
+Ruphus posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [2 players]
+Ruphus raises to 800
+diamond folds
+Ruphus refunded 600
+Ruphus wins Pot (450)
+** Deck ** [6c Jd 4c Qd 3c 3h 8s 8c]
+
+Hand #131365-21 - 2017-07-08 06:14:05
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 4: diamond (650)
+Seat 5: Ruphus (6850)
+diamond has the dealer button
+diamond posts ante 25
+Ruphus posts ante 25
+diamond posts small blind 100
+Ruphus posts big blind 200
+** Hole Cards ** [2 players]
+diamond raises to 625 (All-in)
+Ruphus calls 425
+** Flop ** [9s 9c Ts]
+** Turn ** [Jd]
+** River ** [2c]
+** Pot Show Down ** [9s 9c Ts Jd 2c]
+diamond shows [8h 8c Jc 4s] (Hi: Two Pair, Jacks and Nines +8  Lo: None)
+Ruphus shows [Tc 7s Ac 3d] (Hi: Two Pair, Tens and Nines +A  Lo: None)
+diamond wins Pot (1300) with Two Pair
+No low hand qualified
+** Deck ** [Tc 8h 7s 8c Ac Jc 3d 4s 9s 9c Ts Jd 2c]
+
+Hand #131366-22 - 2017-07-08 06:14:27
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 4: diamond (1300)
+Seat 5: Ruphus (6200)
+Ruphus has the dealer button
+diamond posts ante 25
+Ruphus posts ante 25
+Ruphus posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [2 players]
+Ruphus raises to 650
+diamond raises to 1275 (All-in)
+Ruphus calls 625
+** Flop ** [6c 7d Tc]
+** Turn ** [Th]
+** River ** [Js]
+** Pot Show Down ** [6c 7d Tc Th Js]
+diamond shows [4c 2d Td 9s] (Hi: Three of a Kind, Tens +J9  Lo: None)
+Ruphus shows [Qc 8h 9h Kh] (Hi: a Straight, Seven to Jack  Lo: None)
+Ruphus wins Pot (2600) with a Straight
+No low hand qualified
+diamond finishes tournament in place #2 and wins 600 chips
+Ruphus finishes tournament in place #1 and wins 800 chips
+** Deck ** [4c Qc 2d 8h Td 9h 9s Kh 6c 7d Tc Th Js]
+
+Starting tournament 2433
+
+Hand #131456-1 - 2017-07-08 10:00:35
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1500) - sitting out
+Seat 2: brokedummy (1500)
+Seat 4: Ruphus (1500) - sitting out
+Seat 5: jackpot (1500) - sitting out
+Seat 6: betong (1500)
+shtako has the dealer button
+brokedummy posts small blind 25
+Ruphus posts big blind 50
+** Hole Cards ** [5 players]
+jackpot folds
+betong raises to 1500 (All-in)
+shtako folds
+brokedummy folds
+Ruphus calls 1450 (All-in)
+** Flop ** [Js 4d 6d]
+** Turn ** [5h]
+** River ** [2h]
+** Pot Show Down ** [Js 4d 6d 5h 2h]
+Ruphus shows [9h 6c Kc Tc] (Hi: a Pair of Sixes +KJ5  Lo: None)
+betong shows [Ad Kd Jc Qc] (Hi: a Pair of Jacks +A65  Lo: None)
+betong wins Pot (3025) with a Pair
+No low hand qualified
+Ruphus finishes tournament in place #5
+** Deck ** [5s 9h Qs Ad 5c 7s 6c 9d Kd 3d 4s Kc Qh Jc 7d 2s Tc 8h Qc Th Js 4d 6d 5h 2h]
+
+Hand #131457-2 - 2017-07-08 10:01:09
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1500) - sitting out
+Seat 2: brokedummy (1475)
+Seat 5: jackpot (1500)
+Seat 6: betong (3025)
+brokedummy has the dealer button
+jackpot posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [4 players]
+shtako folds
+brokedummy calls 50
+jackpot has timed out
+jackpot folds
+betong raises to 3025 (All-in)
+brokedummy calls 1425 (All-in)
+betong refunded 1550
+** Flop ** [8h 8d 3h]
+** Turn ** [4h]
+** River ** [5c]
+** Pot Show Down ** [8h 8d 3h 4h 5c]
+brokedummy shows [4c Ad 6d 3s] (Hi: Two Pair, Eights and Fours +A  Lo: 6543A)
+betong shows [7h 9d Tc 8c] (Hi: Three of a Kind, Eights +T5  Lo: 87543)
+betong wins Hi Pot (1488) with Three of a Kind
+brokedummy wins Lo Pot (1487) with 6543A
+** Deck ** [Qh 7h Qd 4c Ah 9d Jc Ad 3d Tc 2d 6d Qs 8c Td 3s 8h 8d 3h 4h 5c]
+
+Hand #131458-3 - 2017-07-08 10:02:05
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1500) - sitting out
+Seat 2: brokedummy (1487)
+Seat 5: jackpot (1475)
+Seat 6: betong (3038)
+jackpot has the dealer button
+betong posts small blind 25
+shtako posts big blind 50
+** Hole Cards ** [4 players]
+brokedummy calls 50
+jackpot folds
+betong: "aakq"
+betong raises to 3038 (All-in)
+shtako folds
+brokedummy calls 1437 (All-in)
+betong refunded 1551
+** Flop ** [Td Jc 9h]
+** Turn ** [9s]
+** River ** [3s]
+** Pot Show Down ** [Td Jc 9h 9s 3s]
+brokedummy shows [Jd Js 7h 5d] (Hi: a Full House, Jacks full of Nines  Lo: None)
+betong shows [As Ad Kd Qc] (Hi: a Straight, Nine to King  Lo: None)
+brokedummy wins Pot (3024) with a Full House
+No low hand qualified
+** Deck ** [As 8s Jd 4c Ad Ac Js 4h Kd 6h 7h 4d Qc Qs 5d Ks Td Jc 9h 9s 3s]
+
+Hand #131459-4 - 2017-07-08 10:02:33
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1450) - sitting out
+Seat 2: brokedummy (3024)
+Seat 5: jackpot (1475)
+Seat 6: betong (1551)
+betong has the dealer button
+shtako posts small blind 25
+brokedummy posts big blind 50
+** Hole Cards ** [4 players]
+jackpot has timed out
+jackpot folds
+betong raises to 1551 (All-in)
+shtako folds
+brokedummy calls 1501
+** Flop ** [8s 9d Tc]
+** Turn ** [5c]
+** River ** [9c]
+** Pot Show Down ** [8s 9d Tc 5c 9c]
+brokedummy shows [As 4c 6c 8d] (Hi: a Flush, Ten high +9654  Lo: None)
+betong shows [5s 6h 5h Qd] (Hi: a Full House, Fives full of Nines  Lo: None)
+betong wins Pot (3127) with a Full House
+No low hand qualified
+** Deck ** [Ah As 4h 5s 2d 4c 7h 6h 2h 6c 7c 5h 7s 8d Kc Qd 8s 9d Tc 5c 9c]
+
+Hand #131460-5 - 2017-07-08 10:03:24
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1425) - sitting out
+Seat 2: brokedummy (1473)
+Seat 5: jackpot (1475) - sitting out
+Seat 6: betong (3127)
+shtako has the dealer button
+brokedummy posts small blind 25
+jackpot posts big blind 50
+** Hole Cards ** [4 players]
+betong raises to 3127 (All-in)
+shtako folds
+brokedummy calls 1448 (All-in)
+jackpot folds and shows [5s Ad Kh 9s]
+betong refunded 1654
+** Flop ** [6s Kd Ac]
+** Turn ** [7h]
+** River ** [5h]
+** Pot Show Down ** [6s Kd Ac 7h 5h]
+brokedummy shows [Jc Td 4c 5d] (Hi: a Pair of Fives +AKJ  Lo: 7654A)
+betong shows [9h 8h Ks 6c] (Hi: a Straight, Five to Nine  Lo: 8765A)
+betong wins Hi Pot (1498) with a Straight
+brokedummy wins Lo Pot (1498) with 7654A
+** Deck ** [Jc 5s 9h 4s Td Ad 8h 8s 4c Kh Ks 7c 5d 9s 6c Jh 6s Kd Ac 7h 5h]
+
+Hand #131461-6 - 2017-07-08 10:04:02
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1425) - sitting out
+Seat 2: brokedummy (1498)
+Seat 5: jackpot (1425)
+Seat 6: betong (3152)
+brokedummy has the dealer button
+jackpot posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [4 players]
+shtako folds
+brokedummy raises to 1498 (All-in)
+jackpot has timed out
+jackpot folds
+betong calls 1398
+** Flop ** [Qh Kh As]
+** Turn ** [8s]
+** River ** [4d]
+** Pot Show Down ** [Qh Kh As 8s 4d]
+brokedummy shows [3s Ah Qs Js] (Hi: Two Pair, Aces and Queens +K  Lo: None)
+betong shows [4s Jc 3d 6h] (Hi: a Pair of Fours +AKJ  Lo: 8643A)
+brokedummy wins Hi Pot (1523) with Two Pair
+betong wins Lo Pot (1523) with 8643A
+** Deck ** [5h 4s Ts 3s Kd Jc Ac Ah 6c 3d 7d Qs 3h 6h 2h Js Qh Kh As 8s 4d]
+
+Hand #131462-7 - 2017-07-08 10:04:54
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1425)
+Seat 2: brokedummy (1523)
+Seat 5: jackpot (1375) - sitting out
+Seat 6: betong (3177)
+jackpot has the dealer button
+betong posts small blind 50
+shtako posts big blind 100
+** Hole Cards ** [4 players]
+brokedummy folds
+jackpot folds
+betong raises to 3177 (All-in)
+shtako calls 1325 (All-in)
+betong refunded 1752
+** Flop ** [Jc 5h Qc]
+** Turn ** [Ks]
+** River ** [9c]
+** Pot Show Down ** [Jc 5h Qc Ks 9c]
+shtako shows [Qs Ad Ac 3c] (Hi: a Flush, Ace high +QJ93  Lo: None)
+betong shows [Kd Tc 6c Jh] (Hi: a Flush, Queen high +JT96  Lo: None)
+shtako wins Pot (2850) with a Flush
+No low hand qualified
+** Deck ** [Kd Qs Kc 2c Tc Ad 5c Ts 6c Ac 8d 4s Jh 3c 3d 9s Jc 5h Qc Ks 9c]
+
+Hand #131463-8 - 2017-07-08 10:05:18
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (2850)
+Seat 2: brokedummy (1523)
+Seat 5: jackpot (1375) - sitting out
+Seat 6: betong (1752)
+betong has the dealer button
+shtako posts small blind 50
+brokedummy posts big blind 100
+** Hole Cards ** [4 players]
+jackpot folds
+betong raises to 1752 (All-in)
+shtako folds
+brokedummy folds
+betong refunded 1652
+betong wins Pot (250)
+** Deck ** [4h Kc 6h 4s 7d Ts 2d 5h 2c Jh Kh 3d 4c 2s 9h Ad]
+
+Hand #131464-9 - 2017-07-08 10:05:38
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (2800)
+Seat 2: brokedummy (1423)
+Seat 5: jackpot (1375) - sitting out
+Seat 6: betong (1902)
+shtako has the dealer button
+brokedummy posts small blind 50
+jackpot posts big blind 100
+** Hole Cards ** [4 players]
+betong raises to 1902 (All-in)
+shtako raises to 2800 (All-in)
+betong: "kkjj"
+brokedummy calls 1373 (All-in)
+jackpot folds and shows [5h 7s Qd As]
+shtako refunded 898
+** Flop ** [4d 6h 7c]
+** Turn ** [Ac]
+** River ** [9c]
+** Side Pot 1 Show Down ** [4d 6h 7c Ac 9c]
+shtako shows [Qs 5c 6s 3c] (Hi: a Flush, Ace high +9753  Lo: 6543A)
+betong shows [Jd Kd Kh Js] (Hi: a Pair of Kings +A97  Lo: None)
+shtako wins Hi Side Pot 1 (479) with a Flush
+shtako wins Lo Side Pot 1 (479) with 6543A
+** Main Pot Show Down ** [4d 6h 7c Ac 9c]
+brokedummy shows [8h Ah 5d 4s] (Hi: a Straight, Five to Nine  Lo: 7654A)
+shtako wins Hi Main Pot (2185) with a Flush
+shtako wins Lo Main Pot (2184) with 6543A
+brokedummy finishes tournament in place #4 and wins 200 chips
+betong finishes tournament in place #3 and wins 400 chips
+** Deck ** [8h 5h Jd Qs Ah 7s Kd 5c 5d Qd Kh 6s 4s As Js 3c 4d 6h 7c Ac 9c]
+
+Hand #131465-10 - 2017-07-08 10:06:16
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (6225)
+Seat 5: jackpot (1275)
+jackpot has the dealer button
+jackpot posts small blind 50
+shtako posts big blind 100
+** Hole Cards ** [2 players]
+jackpot calls 50
+shtako checks
+** Flop ** [8s Qh 4s]
+shtako checks
+jackpot bets 100
+shtako folds
+jackpot refunded 100
+jackpot wins Pot (200)
+** Deck ** [Qc 9c Ts Tc Kc As 3d 5h 8s Qh 4s]
+
+Hand #131466-11 - 2017-07-08 10:06:38
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (6125)
+Seat 5: jackpot (1375)
+shtako has the dealer button
+shtako posts small blind 75
+jackpot posts big blind 150
+** Hole Cards ** [2 players]
+shtako raises to 450
+jackpot calls 300
+** Flop ** [5d Ad Ah]
+jackpot checks
+shtako bets 1050
+jackpot folds
+shtako refunded 1050
+shtako wins Pot (900)
+** Deck ** [9c As Jc 2d 6s 8s 9s 8h 5d Ad Ah]
+
+Hand #131467-12 - 2017-07-08 10:07:06
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (6575)
+Seat 5: jackpot (925)
+jackpot has the dealer button
+jackpot posts small blind 75
+shtako posts big blind 150
+** Hole Cards ** [2 players]
+jackpot calls 75
+shtako raises to 6575 (All-in)
+jackpot folds
+shtako refunded 6425
+shtako wins Pot (300)
+** Deck ** [3c Qd 2c 7s 6d 8d Kh Jc]
+
+Hand #131468-13 - 2017-07-08 10:07:27
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (6725)
+Seat 5: jackpot (775)
+shtako has the dealer button
+shtako posts small blind 75
+jackpot posts big blind 150
+** Hole Cards ** [2 players]
+shtako raises to 300
+jackpot folds
+shtako refunded 150
+shtako wins Pot (300)
+** Deck ** [Jd 5s 8d 4s 7d 2h 5c Kh]
+
+Hand #131469-14 - 2017-07-08 10:07:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (6875)
+Seat 5: jackpot (625)
+jackpot has the dealer button
+jackpot posts small blind 75
+shtako posts big blind 150
+** Hole Cards ** [2 players]
+jackpot calls 75
+shtako checks
+** Flop ** [3s Th Ks]
+shtako checks
+jackpot bets 300
+shtako raises to 600
+jackpot calls 175 (All-in)
+shtako refunded 125
+** Turn ** [2d]
+** River ** [Qs]
+** Pot Show Down ** [3s Th Ks 2d Qs]
+shtako shows [9h Tc Ts 5h] (Hi: Three of a Kind, Tens +KQ  Lo: None)
+jackpot shows [4d Ac 7c 2h] (Hi: a Pair of Deuces +AKQ  Lo: None)
+shtako wins Pot (1250) with Three of a Kind
+No low hand qualified
+jackpot finishes tournament in place #2 and wins 600 chips
+shtako finishes tournament in place #1 and wins 800 chips
+** Deck ** [9h 4d Tc Ac Ts 7c 5h 2h 3s Th Ks 2d Qs]
+
+Starting tournament 2437
+
+Hand #131553-1 - 2017-07-08 14:00:35
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1500) - sitting out
+Seat 3: brokedummy (1500)
+Seat 4: Efyang (1500) - sitting out
+Seat 5: tagailog (1500) - sitting out
+Seat 6: Bourne (1500)
+shtako has the dealer button
+brokedummy posts small blind 25
+Efyang posts big blind 50
+** Hole Cards ** [5 players]
+tagailog folds
+Bourne raises to 350
+shtako folds
+brokedummy folds
+Efyang folds
+Bourne refunded 300
+Bourne wins Pot (125)
+** Deck ** [Jc 9s 5s 2c 3h 7d Qs Ac 7s 4c Td 4h Jh 7h Ah Qc 3c 5d Js Ks]
+
+Hand #131554-2 - 2017-07-08 14:01:14
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1500) - sitting out
+Seat 3: brokedummy (1475)
+Seat 4: Efyang (1450) - sitting out
+Seat 5: tagailog (1500) - sitting out
+Seat 6: Bourne (1575)
+brokedummy has the dealer button
+Efyang posts small blind 25
+tagailog posts big blind 50
+** Hole Cards ** [5 players]
+Bourne folds
+shtako folds
+brokedummy calls 50
+Efyang folds
+tagailog folds
+brokedummy wins Pot (125)
+** Deck ** [2c Qd 2h 3s Td 4h 5d 4c Js Ts 6d Ks 3d Jh Jd 9s Ad 5h 8h Ac]
+
+Hand #131555-3 - 2017-07-08 14:01:26
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1500) - sitting out
+Seat 3: brokedummy (1550)
+Seat 4: Efyang (1425) - sitting out
+Seat 5: tagailog (1450) - sitting out
+Seat 6: Bourne (1575)
+Efyang has the dealer button
+tagailog posts small blind 25
+Bourne posts big blind 50
+** Hole Cards ** [5 players]
+shtako folds
+brokedummy folds
+Efyang folds
+tagailog folds
+Bourne refunded 25
+Bourne wins Pot (50)
+** Deck ** [Ts 9d 6h 3s 3h 2d Ad Ac 7s Td 3d Tc 8s Js Kd Kc 9h 7h Qh 2s]
+
+Hand #131556-4 - 2017-07-08 14:01:36
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1500) - sitting out
+Seat 3: brokedummy (1550)
+Seat 4: Efyang (1425) - sitting out
+Seat 5: tagailog (1425) - sitting out
+Seat 6: Bourne (1600)
+tagailog has the dealer button
+Bourne posts small blind 25
+shtako posts big blind 50
+** Hole Cards ** [5 players]
+brokedummy folds
+Efyang folds
+tagailog folds
+Bourne calls 25
+shtako folds
+Bourne wins Pot (100)
+** Deck ** [4d Ah 7c 5h Js 2c 6c 8s As Kh 7h 4c Tc 4h Ad 3s Kc 8d 3c 7s]
+
+Hand #131557-5 - 2017-07-08 14:01:48
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1450) - sitting out
+Seat 3: brokedummy (1550)
+Seat 4: Efyang (1425) - sitting out
+Seat 5: tagailog (1425) - sitting out
+Seat 6: Bourne (1650)
+Bourne has the dealer button
+shtako posts small blind 25
+brokedummy posts big blind 50
+** Hole Cards ** [5 players]
+Efyang folds
+tagailog folds
+Bourne folds
+shtako folds
+brokedummy refunded 25
+brokedummy wins Pot (50)
+** Deck ** [4h 7c Tc Ah 8c Ad Td 9h 4c 2s 6s 9c 5h Qc 7s Qh Jc 6c 5d Jd]
+
+Hand #131558-6 - 2017-07-08 14:01:57
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1425) - sitting out
+Seat 3: brokedummy (1575)
+Seat 4: Efyang (1425) - sitting out
+Seat 5: tagailog (1425) - sitting out
+Seat 6: Bourne (1650)
+shtako has the dealer button
+brokedummy posts small blind 25
+Efyang posts big blind 50
+** Hole Cards ** [5 players]
+tagailog folds
+Bourne folds
+shtako folds
+brokedummy calls 25
+Efyang folds
+brokedummy wins Pot (100)
+** Deck ** [Qh Ac 6s Qc 3h Kh 5c 3d 7s 8s Qd Js 9h 4h 3s Kc Td 6h 4c 4s]
+
+Hand #131559-7 - 2017-07-08 14:02:08
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1425) - sitting out
+Seat 3: brokedummy (1625)
+Seat 4: Efyang (1375) - sitting out
+Seat 5: tagailog (1425) - sitting out
+Seat 6: Bourne (1650)
+brokedummy has the dealer button
+Efyang posts small blind 25
+tagailog posts big blind 50
+** Hole Cards ** [5 players]
+Bourne folds
+shtako folds
+brokedummy calls 50
+Efyang folds
+tagailog checks
+** Flop ** [8c 4d Kh]
+tagailog checks
+brokedummy checks
+** Turn ** [8h]
+tagailog bets 50
+brokedummy calls 50
+** River ** [7d]
+tagailog bets 50
+brokedummy folds
+tagailog refunded 50
+tagailog wins Pot (225)
+** Deck ** [5s Jc 3h 7h Ts Th 6c 4c 6d 9s Qs 3c Ks 5d Qh Td Js 8s Ad 2h 8c 4d Kh 8h 7d]
+
+Hand #131560-8 - 2017-07-08 14:02:48
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1425)
+Seat 3: brokedummy (1525)
+Seat 4: Efyang (1350) - sitting out
+Seat 5: tagailog (1550)
+Seat 6: Bourne (1650)
+Efyang has the dealer button
+tagailog posts small blind 25
+Bourne posts big blind 50
+** Hole Cards ** [5 players]
+shtako has timed out
+shtako folds
+brokedummy calls 50
+Efyang folds
+tagailog calls 25
+Bourne checks
+** Flop ** [5d 2d 3s]
+tagailog checks
+Bourne bets 100
+brokedummy raises to 1475 (All-in)
+tagailog calls 1475
+Bourne folds
+** Turn ** [4c]
+** River ** [6s]
+** Pot Show Down ** [5d 2d 3s 4c 6s]
+brokedummy shows [6c Js 4s Ks] (Hi: a Straight, Deuce to Six  Lo: 65432)
+tagailog shows [Qd 2s 4h Kc] (Hi: a Straight, Deuce to Six  Lo: 65432)
+brokedummy splits Hi Pot (800) with a Straight
+tagailog splits Hi Pot (800) with a Straight
+brokedummy splits Lo Pot (800) with 65432
+tagailog splits Lo Pot (800) with 65432
+** Deck ** [Qd 2h 7c 6c Jc 2s 3h 5h Js 6d 4h 9d Tc 4s 8c Kc Qc Ad Ks 9h 5d 2d 3s 4c 6s]
+
+Hand #131561-9 - 2017-07-08 14:04:30
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1425)
+Seat 3: brokedummy (1600)
+Seat 4: Efyang (1350) - sitting out
+Seat 5: tagailog (1625)
+Seat 6: Bourne (1500)
+tagailog has the dealer button
+Bourne posts small blind 50
+shtako posts big blind 100
+** Hole Cards ** [5 players]
+brokedummy calls 100
+Efyang folds
+tagailog folds
+Bourne calls 50
+shtako checks
+** Flop ** [Ac 2c Qc]
+Bourne checks
+shtako checks
+brokedummy checks
+** Turn ** [7c]
+Bourne checks
+shtako checks
+brokedummy checks
+** River ** [Kd]
+Bourne checks
+shtako checks
+brokedummy checks
+** Pot Show Down ** [Ac 2c Qc 7c Kd]
+shtako shows [4h 4d 5d 9d] (Hi: a Pair of Fours +AKQ  Lo: 7542A)
+brokedummy shows [8c 8s 7d Kh] (Hi: Two Pair, Kings and Sevens +A  Lo: None)
+Bourne shows [3h 6d Js Td] (Hi: a Straight, Ten to Ace  Lo: 7632A)
+Bourne wins Hi Pot (150) with a Straight
+shtako wins Lo Pot (150) with 7542A
+Absent player Efyang removed from tournament
+** Deck ** [3h 4h 8c Ad Jc 6d 4d 8s 7s 7h Js 5d 7d 9h Kc Td 9d Kh 4c Tc Ac 2c Qc 7c Kd]
+
+Hand #131562-10 - 2017-07-08 14:06:30
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1475)
+Seat 3: brokedummy (1500)
+Seat 5: tagailog (1625)
+Seat 6: Bourne (1550)
+Bourne has the dealer button
+shtako posts small blind 50
+brokedummy posts big blind 100
+** Hole Cards ** [4 players]
+tagailog calls 100
+Bourne folds
+shtako raises to 1475 (All-in)
+brokedummy folds
+tagailog folds
+shtako refunded 1375
+shtako wins Pot (300)
+** Deck ** [Ad 8s Ts 2h Js 9c As Kh 3c Tc 3s 6c Kc 2d 5h 3h]
+
+Hand #131563-11 - 2017-07-08 14:07:21
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1675)
+Seat 3: brokedummy (1400)
+Seat 5: tagailog (1525)
+Seat 6: Bourne (1550)
+shtako has the dealer button
+brokedummy posts small blind 75
+tagailog posts big blind 150
+** Hole Cards ** [4 players]
+Bourne raises to 300
+shtako folds
+brokedummy calls 225
+tagailog calls 150
+** Flop ** [8d 2d Jh]
+brokedummy checks
+tagailog checks
+Bourne bets 900
+brokedummy calls 900
+tagailog calls 900
+** Turn ** [3s]
+brokedummy bets 150
+tagailog calls 150
+Bourne calls 150
+** River ** [2h]
+brokedummy bets 50 (All-in)
+tagailog calls 50
+Bourne raises to 200 (All-in)
+tagailog calls 125 (All-in)
+Bourne refunded 25
+** Side Pot 1 Show Down ** [8d 2d Jh 3s 2h]
+tagailog shows [Ac 3c Tc 4d] (Hi: Two Pair, Threes and Deuces +A  Lo: 8432A)
+Bourne shows [Kd Jd 2s Ah] (Hi: a Full House, Deuces full of Jacks  Lo: None)
+Bourne wins Hi Side Pot 1 (125) with a Full House
+tagailog wins Lo Side Pot 1 (125) with 8432A
+** Main Pot Show Down ** [8d 2d Jh 3s 2h]
+brokedummy shows [5d Ad Qh 4h] (Hi: a Pair of Deuces +AQJ  Lo: 8432A)
+Bourne wins Hi Main Pot (2100) with a Full House
+brokedummy splits Lo Main Pot (1050) with 8432A
+tagailog splits Lo Main Pot (1050) with 8432A
+** Deck ** [5d Ac Kd Th Ad 3c Jd Qs Qh Tc 2s Kh 4h 4d Ah 2c 8d 2d Jh 3s 2h]
+
+Hand #131565-12 - 2017-07-08 14:08:57
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1675)
+Seat 3: brokedummy (1050)
+Seat 5: tagailog (1175)
+Seat 6: Bourne (2250)
+brokedummy has the dealer button
+tagailog posts small blind 75
+Bourne posts big blind 150
+** Hole Cards ** [4 players]
+shtako folds
+brokedummy calls 150
+tagailog calls 75
+Bourne checks
+** Flop ** [Th 5d 8d]
+tagailog checks
+Bourne bets 450
+brokedummy folds
+tagailog calls 450
+** Turn ** [6s]
+tagailog checks
+Bourne bets 1650 (All-in)
+tagailog calls 575 (All-in)
+Bourne refunded 1075
+** River ** [9d]
+** Pot Show Down ** [Th 5d 8d 6s 9d]
+tagailog shows [3c Ah Kd Qh] (Hi: High Card Ace +KT98  Lo: 8653A)
+Bourne shows [2d 5s 5c 5h] (Hi: Three of a Kind, Fives +T9  Lo: None)
+Bourne wins Hi Pot (1250) with Three of a Kind
+tagailog wins Lo Pot (1250) with 8653A
+** Deck ** [3c 2d 3h 4h Ah 5s Kh 6c Kd 5c Qd Ad Qh 5h 7h Jc Th 5d 8d 6s 9d]
+
+Hand #131567-13 - 2017-07-08 14:10:24
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1675)
+Seat 3: brokedummy (900)
+Seat 5: tagailog (1250)
+Seat 6: Bourne (2325)
+tagailog has the dealer button
+Bourne posts small blind 100
+shtako posts big blind 200
+** Hole Cards ** [4 players]
+brokedummy folds
+tagailog folds
+Bourne calls 100
+shtako raises to 1675 (All-in)
+Bourne calls 1475
+** Flop ** [2s Tc 7c]
+** Turn ** [9c]
+** River ** [Jd]
+** Pot Show Down ** [2s Tc 7c 9c Jd]
+shtako shows [Qs Ac As Kh] (Hi: a Straight, Nine to King  Lo: None)
+Bourne shows [5d 7s 4s Ad] (Hi: a Pair of Sevens +AJT  Lo: None)
+shtako wins Pot (3350) with a Straight
+No low hand qualified
+** Deck ** [5d Qs 3d Th 7s Ac 8d 9h 4s As Qh 5h Ad Kh Kc 2h 2s Tc 7c 9c Jd]
+
+Hand #131569-14 - 2017-07-08 14:11:08
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (3350)
+Seat 3: brokedummy (900)
+Seat 5: tagailog (1250)
+Seat 6: Bourne (650)
+Bourne has the dealer button
+shtako posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [4 players]
+tagailog calls 200
+Bourne raises to 650 (All-in)
+shtako raises to 2350
+brokedummy folds
+tagailog calls 1050 (All-in)
+shtako refunded 1100
+** Flop ** [Jc 4h 2s]
+** Turn ** [9h]
+** River ** [Jh]
+** Side Pot 1 Show Down ** [Jc 4h 2s 9h Jh]
+shtako shows [8s Jd Js 6c] (Hi: Four of a Kind, Jacks +9  Lo: None)
+tagailog shows [Kd Qs 9c Qd] (Hi: Two Pair, Queens and Jacks +9  Lo: None)
+shtako wins Side Pot 1 (1200) with Four of a Kind
+No low hand qualified
+** Main Pot Show Down ** [Jc 4h 2s 9h Jh]
+Bourne shows [Td 8c Tc 4d] (Hi: Two Pair, Jacks and Tens +9  Lo: None)
+shtako wins Main Pot (2150) with Four of a Kind
+No low hand qualified
+Bourne finishes tournament in place #4
+tagailog finishes tournament in place #3 and wins 400 chips
+** Deck ** [8s 5s Kd Td Jd Qh Qs 8c Js 9s 9c Tc 6c Ah Qd 4d Jc 4h 2s 9h Jh]
+
+Hand #131571-15 - 2017-07-08 14:12:23
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (5450)
+Seat 3: brokedummy (700)
+shtako has the dealer button
+shtako posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+shtako folds
+brokedummy refunded 100
+brokedummy wins Pot (200)
+** Deck ** [3s 5s 9s Js 9d 5c 6h Qh]
+
+Hand #131573-16 - 2017-07-08 14:12:37
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (5350)
+Seat 3: brokedummy (800)
+brokedummy has the dealer button
+shtako posts ante 25
+brokedummy posts ante 25
+brokedummy posts small blind 100
+shtako posts big blind 200
+** Hole Cards ** [2 players]
+brokedummy raises to 775 (All-in)
+shtako calls 575
+** Flop ** [8h 7s 8c]
+** Turn ** [Kh]
+** River ** [As]
+** Pot Show Down ** [8h 7s 8c Kh As]
+shtako shows [Th 2s 2c 4s] (Hi: Two Pair, Eights and Deuces +A  Lo: 8742A)
+brokedummy shows [Ad Js Qs 6h] (Hi: Two Pair, Aces and Eights +Q  Lo: None)
+brokedummy wins Hi Pot (800) with Two Pair
+shtako wins Lo Pot (800) with 8742A
+** Deck ** [Th Ad 2s Js 2c Qs 4s 6h 8h 7s 8c Kh As]
+
+Hand #131574-17 - 2017-07-08 14:13:04
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (5350)
+Seat 3: brokedummy (800)
+shtako has the dealer button
+shtako posts ante 25
+brokedummy posts ante 25
+shtako posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+shtako raises to 650
+brokedummy raises to 775 (All-in)
+shtako calls 125
+** Flop ** [2d 4c 7s]
+** Turn ** [Ks]
+** River ** [Tc]
+** Pot Show Down ** [2d 4c 7s Ks Tc]
+shtako shows [9c Qc 4s 3h] (Hi: a Pair of Fours +KQT  Lo: None)
+brokedummy shows [Jh 6s 8d Jc] (Hi: a Pair of Jacks +KT7  Lo: 87642)
+brokedummy wins Hi Pot (800) with a Pair
+brokedummy wins Lo Pot (800) with 87642
+** Deck ** [Jh 9c 6s Qc 8d 4s Jc 3h 2d 4c 7s Ks Tc]
+
+Hand #131575-18 - 2017-07-08 14:13:33
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (4550)
+Seat 3: brokedummy (1600)
+brokedummy has the dealer button
+shtako posts ante 25
+brokedummy posts ante 25
+brokedummy posts small blind 100
+shtako posts big blind 200
+** Hole Cards ** [2 players]
+brokedummy calls 100
+shtako checks
+** Flop ** [As 7c Td]
+shtako checks
+brokedummy checks
+** Turn ** [Ts]
+shtako checks
+brokedummy bets 1375 (All-in)
+shtako folds
+brokedummy refunded 1375
+brokedummy wins Pot (450)
+** Deck ** [Ks Kd 7h Qh Jc Th 2h 8h As 7c Td Ts]
+
+Hand #131577-19 - 2017-07-08 14:14:07
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (4325)
+Seat 3: brokedummy (1825)
+shtako has the dealer button
+shtako posts ante 25
+brokedummy posts ante 25
+shtako posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+shtako raises to 4300 (All-in)
+brokedummy calls 1600 (All-in)
+shtako refunded 2500
+** Flop ** [5c 4d 8h]
+** Turn ** [4c]
+** River ** [5s]
+** Pot Show Down ** [5c 4d 8h 4c 5s]
+shtako shows [Ac 8s Jh Kh] (Hi: Two Pair, Eights and Fives +A  Lo: None)
+brokedummy shows [3c 6d Td Ad] (Hi: a Pair of Fives +AT8  Lo: 8543A)
+shtako wins Hi Pot (1825) with Two Pair
+brokedummy wins Lo Pot (1825) with 8543A
+** Deck ** [3c Ac 6d 8s Td Jh Ad Kh 5c 4d 8h 4c 5s]
+
+Hand #131579-20 - 2017-07-08 14:14:32
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (4325)
+Seat 3: brokedummy (1825)
+brokedummy has the dealer button
+shtako posts ante 25
+brokedummy posts ante 25
+brokedummy posts small blind 100
+shtako posts big blind 200
+** Hole Cards ** [2 players]
+brokedummy calls 100
+shtako checks
+** Flop ** [Ks 5h 6s]
+shtako checks
+brokedummy checks
+** Turn ** [7d]
+shtako checks
+brokedummy checks
+** River ** [Td]
+shtako checks
+brokedummy checks
+** Pot Show Down ** [Ks 5h 6s 7d Td]
+shtako shows [6c 5c 4d Jh] (Hi: Two Pair, Sixes and Fives +K  Lo: None)
+brokedummy shows [6d 7s Qs 9d] (Hi: Two Pair, Sevens and Sixes +K  Lo: None)
+brokedummy wins Pot (450) with Two Pair
+No low hand qualified
+** Deck ** [6c 6d 5c 7s 4d Qs Jh 9d Ks 5h 6s 7d Td]
+
+Hand #131580-21 - 2017-07-08 14:15:20
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (4100)
+Seat 3: brokedummy (2050)
+shtako has the dealer button
+shtako posts ante 25
+brokedummy posts ante 25
+shtako posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+shtako raises to 4075 (All-in)
+brokedummy calls 1825 (All-in)
+shtako refunded 2050
+** Flop ** [Jc 6s Js]
+** Turn ** [8c]
+** River ** [7h]
+** Pot Show Down ** [Jc 6s Js 8c 7h]
+shtako shows [Kc Ts 5h As] (Hi: a Pair of Jacks +AK8  Lo: 8765A)
+brokedummy shows [3h Jh Ks 2c] (Hi: Three of a Kind, Jacks +K8  Lo: 87632)
+brokedummy wins Hi Pot (2050) with Three of a Kind
+brokedummy wins Lo Pot (2050) with 87632
+** Deck ** [3h Kc Jh Ts Ks 5h 2c As Jc 6s Js 8c 7h]
+
+Hand #131582-22 - 2017-07-08 14:15:48
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (2050)
+Seat 3: brokedummy (4100)
+brokedummy has the dealer button
+shtako posts ante 25
+brokedummy posts ante 25
+brokedummy posts small blind 200
+shtako posts big blind 400
+** Hole Cards ** [2 players]
+brokedummy calls 200
+shtako checks
+** Flop ** [Jh 5h 5s]
+shtako checks
+brokedummy bets 400
+shtako folds
+brokedummy refunded 400
+brokedummy wins Pot (850)
+** Deck ** [3d 7d 3c Qs 2s Js Kd Kc Jh 5h 5s]
+
+Hand #131584-23 - 2017-07-08 14:16:24
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: shtako (1625)
+Seat 3: brokedummy (4525)
+shtako has the dealer button
+shtako posts ante 25
+brokedummy posts ante 25
+shtako posts small blind 200
+brokedummy posts big blind 400
+** Hole Cards ** [2 players]
+shtako raises to 1600 (All-in)
+brokedummy calls 1200
+** Flop ** [3h 9h Qc]
+** Turn ** [9c]
+** River ** [Qs]
+** Pot Show Down ** [3h 9h Qc 9c Qs]
+shtako shows [9s Kc 6c 4h] (Hi: Three of a Kind, Nines +KQ  Lo: None)
+brokedummy shows [6h Jc 7h Qd] (Hi: Three of a Kind, Queens +J9  Lo: None)
+brokedummy wins Pot (3250) with Three of a Kind
+No low hand qualified
+shtako finishes tournament in place #2 and wins 600 chips
+brokedummy finishes tournament in place #1 and wins 1000 chips
+** Deck ** [6h 9s Jc Kc 7h 6c Qd 4h 3h 9h Qc 9c Qs]
+
+Starting tournament 2441
+
+Hand #131819-1 - 2017-07-08 18:00:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (1500) - sitting out
+Seat 2: brokedummy (1500)
+Seat 3: shtako (1500)
+Seat 4: scambust (1500)
+Seat 5: Prince (1500) - sitting out
+Seat 6: rodmouvi (1500)
+AlphaWolf has the dealer button
+brokedummy posts small blind 25
+shtako posts big blind 50
+** Hole Cards ** [6 players]
+scambust calls 50
+Prince folds
+rodmouvi folds
+AlphaWolf folds
+brokedummy calls 25
+shtako checks
+** Flop ** [4s 8d Th]
+brokedummy checks
+shtako checks
+scambust checks
+** Turn ** [5d]
+brokedummy checks
+shtako bets 100
+scambust folds
+brokedummy calls 100
+** River ** [As]
+brokedummy folds
+shtako wins Pot (350)
+** Deck ** [9c 7d 9h 7s 2d Kh Jh Ks 7h Js 8h 2s Qd Ad Jd Tc 5h 2h 2c Kc Qc 6d 4h Td 4s 8d Th 5d As]
+
+Hand #131820-2 - 2017-07-08 18:01:29
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (1500) - sitting out
+Seat 2: brokedummy (1350)
+Seat 3: shtako (1700)
+Seat 4: scambust (1450)
+Seat 5: Prince (1500) - sitting out
+Seat 6: rodmouvi (1500)
+brokedummy has the dealer button
+shtako posts small blind 25
+scambust posts big blind 50
+** Hole Cards ** [6 players]
+Prince folds
+rodmouvi calls 50
+AlphaWolf folds
+brokedummy calls 50
+shtako folds
+scambust raises to 100
+rodmouvi calls 50
+brokedummy calls 50
+** Flop ** [6s Ah 4d]
+scambust bets 1350 (All-in)
+rodmouvi raises to 1400 (All-in)
+brokedummy calls 1250 (All-in)
+rodmouvi refunded 50
+** Turn ** [Kh]
+** River ** [5d]
+** Side Pot 1 Show Down ** [6s Ah 4d Kh 5d]
+scambust shows [Kc As 4c 8s] (Hi: Two Pair, Aces and Kings +6  Lo: 8654A)
+rodmouvi shows [6c 6d 7d 9s] (Hi: Three of a Kind, Sixes +AK  Lo: 7654A)
+rodmouvi wins Hi Side Pot 1 (100) with Three of a Kind
+rodmouvi wins Lo Side Pot 1 (100) with 7654A
+** Main Pot Show Down ** [6s Ah 4d Kh 5d]
+brokedummy shows [5h Qh 5c 7s] (Hi: Three of a Kind, Fives +AK  Lo: 7654A)
+rodmouvi wins Hi Main Pot (2038) with Three of a Kind
+brokedummy splits Lo Main Pot (1018) with 7654A
+rodmouvi splits Lo Main Pot (1019) with 7654A
+scambust finishes tournament in place #6
+** Deck ** [3h Kc 9h 6c 3d 5h 3c As 6h 6d 2s Qh Qd 4c Kd 7d 4h 5c 9c 8s Tc 9s 8d 7s 6s Ah 4d Kh 5d]
+
+Hand #131821-3 - 2017-07-08 18:02:22
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (1500) - sitting out
+Seat 2: brokedummy (1018)
+Seat 3: shtako (1675)
+Seat 5: Prince (1500) - sitting out
+Seat 6: rodmouvi (3307)
+shtako has the dealer button
+Prince posts small blind 25
+rodmouvi posts big blind 50
+** Hole Cards ** [5 players]
+AlphaWolf folds
+brokedummy calls 50
+shtako folds
+Prince folds
+rodmouvi checks
+** Flop ** [5d Th Kc]
+rodmouvi checks
+brokedummy bets 50
+rodmouvi calls 50
+** Turn ** [7s]
+rodmouvi checks
+brokedummy checks
+** River ** [8h]
+rodmouvi checks
+brokedummy checks
+** Pot Show Down ** [5d Th Kc 7s 8h]
+brokedummy shows [7h Qh Jh 4s] (Hi: a Pair of Sevens +KQT  Lo: None)
+rodmouvi shows [Jc Td 4c 2s] (Hi: a Pair of Tens +KJ8  Lo: 87542)
+rodmouvi wins Hi Pot (113) with a Pair
+rodmouvi wins Lo Pot (112) with 87542
+** Deck ** [6s Jc Js 7h 7d 9d Td 6h Qh 8c 2h 4c 4h Jh Qs 6d 2s 6c 4s 9c 5d Th Kc 7s 8h]
+
+Hand #131822-4 - 2017-07-08 18:03:09
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (1500)
+Seat 2: brokedummy (918)
+Seat 3: shtako (1675)
+Seat 5: Prince (1475)
+Seat 6: rodmouvi (3432)
+Prince has the dealer button
+rodmouvi posts small blind 25
+AlphaWolf posts big blind 50
+** Hole Cards ** [5 players]
+brokedummy calls 50
+shtako folds
+Prince raises to 400
+rodmouvi folds
+AlphaWolf folds
+brokedummy folds
+Prince refunded 350
+Prince wins Pot (175)
+** Deck ** [7d 3d 5h 3c As 4s Jd 3s 8s 5d Td 9c Jc Ks Ac Tc 6h 9h Jh 7s]
+
+Hand #131823-5 - 2017-07-08 18:03:53
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (1450)
+Seat 2: brokedummy (868)
+Seat 3: shtako (1675)
+Seat 5: Prince (1600)
+Seat 6: rodmouvi (3407)
+rodmouvi has the dealer button
+AlphaWolf posts small blind 50
+brokedummy posts big blind 100
+** Hole Cards ** [5 players]
+shtako folds
+Prince folds
+rodmouvi raises to 500
+AlphaWolf folds
+brokedummy raises to 868 (All-in)
+rodmouvi calls 368
+** Flop ** [9d 6s 4h]
+** Turn ** [6c]
+** River ** [7s]
+** Pot Show Down ** [9d 6s 4h 6c 7s]
+brokedummy shows [4s Td 4c 3d] (Hi: a Full House, Fours full of Sixes  Lo: None)
+rodmouvi shows [9h 8d As Ad] (Hi: Two Pair, Aces and Sixes +9  Lo: 8764A)
+brokedummy wins Hi Pot (893) with a Full House
+rodmouvi wins Lo Pot (893) with 8764A
+** Deck ** [8c 4s Jc Th 9h Js Td 6d 8h 8d Qs 4c Qd 5d As 7h 3d Jd 8s Ad 9d 6s 4h 6c 7s]
+
+Hand #131824-6 - 2017-07-08 18:04:29
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (1400)
+Seat 2: brokedummy (893)
+Seat 3: shtako (1675)
+Seat 5: Prince (1600)
+Seat 6: rodmouvi (3432)
+AlphaWolf has the dealer button
+brokedummy posts small blind 50
+shtako posts big blind 100
+** Hole Cards ** [5 players]
+Prince folds
+rodmouvi raises to 500
+AlphaWolf folds
+brokedummy folds
+shtako folds
+rodmouvi refunded 400
+rodmouvi wins Pot (250)
+** Deck ** [4h 3h 7s 7d Jh Jc 4s Qd 8h 7h 9s Th 5s Ah 5d Ad Ts 6s 8s 6d]
+
+Hand #131825-7 - 2017-07-08 18:04:53
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (1400)
+Seat 2: brokedummy (843)
+Seat 3: shtako (1575)
+Seat 5: Prince (1600)
+Seat 6: rodmouvi (3582)
+brokedummy has the dealer button
+shtako posts small blind 50
+Prince posts big blind 100
+** Hole Cards ** [5 players]
+rodmouvi calls 100
+AlphaWolf calls 100
+brokedummy folds
+shtako calls 50
+Prince checks
+** Flop ** [Tc 7h 2h]
+shtako checks
+Prince checks
+rodmouvi bets 100
+AlphaWolf calls 100
+shtako calls 100
+Prince raises to 1500 (All-in)
+rodmouvi calls 1400
+AlphaWolf calls 1200 (All-in)
+shtako folds
+** Turn ** [Ad]
+** River ** [7s]
+** Side Pot 1 Show Down ** [Tc 7h 2h Ad 7s]
+Prince shows [2d Th Qh 4h] (Hi: Two Pair, Tens and Sevens +Q  Lo: None)
+rodmouvi shows [Ah Js Jd 6h] (Hi: Two Pair, Aces and Sevens +J  Lo: None)
+rodmouvi wins Side Pot 1 (400) with Two Pair
+No low hand qualified
+** Main Pot Show Down ** [Tc 7h 2h Ad 7s]
+AlphaWolf shows [9s 4d Ac 8s] (Hi: Two Pair, Aces and Sevens +9  Lo: 8742A)
+rodmouvi wins Hi Main Pot (2200) with Two Pair
+AlphaWolf wins Lo Main Pot (2200) with 8742A
+Prince finishes tournament in place #5
+** Deck ** [4c 2d Ah 9s Kc 5c Th Js 4d 3d 6s Qh Jd Ac 5h Ts 4h 6h 8s 9h Tc 7h 2h Ad 7s]
+
+Hand #131826-8 - 2017-07-08 18:06:24
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (2200)
+Seat 2: brokedummy (843)
+Seat 3: shtako (1375)
+Seat 6: rodmouvi (4582)
+shtako has the dealer button
+rodmouvi posts small blind 50
+AlphaWolf posts big blind 100
+** Hole Cards ** [4 players]
+brokedummy raises to 843 (All-in)
+shtako folds
+rodmouvi folds
+AlphaWolf folds
+brokedummy refunded 743
+brokedummy wins Pot (250)
+** Deck ** [6c 5c Jc Qd Tc Ts 5d 6s 8s 2s Jd Qs Ks 2d Ah 5s]
+
+Hand #131827-9 - 2017-07-08 18:06:56
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (2100)
+Seat 2: brokedummy (993)
+Seat 3: shtako (1375)
+Seat 6: rodmouvi (4532)
+rodmouvi has the dealer button
+AlphaWolf posts small blind 75
+brokedummy posts big blind 150
+** Hole Cards ** [4 players]
+shtako folds
+rodmouvi calls 150
+AlphaWolf calls 75
+brokedummy checks
+** Flop ** [6d 8s 2d]
+AlphaWolf bets 450
+brokedummy calls 450
+rodmouvi calls 450
+** Turn ** [5s]
+AlphaWolf bets 1500 (All-in)
+brokedummy calls 393 (All-in)
+rodmouvi folds
+AlphaWolf refunded 1107
+** River ** [7c]
+** Pot Show Down ** [6d 8s 2d 5s 7c]
+AlphaWolf shows [3d Ah Jd Ad] (Hi: a Pair of Aces +876  Lo: 6532A)
+brokedummy shows [Jh 7s 7h 9d] (Hi: a Straight, Five to Nine  Lo: None)
+brokedummy wins Hi Pot (1293) with a Straight
+AlphaWolf wins Lo Pot (1293) with 6532A
+** Deck ** [3d Jh Tc 6h Ah 7s Js 4d Jd 7h Ac Qd Ad 9d 9h 8h 6d 8s 2d 5s 7c]
+
+Hand #131828-10 - 2017-07-08 18:08:07
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (2400)
+Seat 2: brokedummy (1293)
+Seat 3: shtako (1375)
+Seat 6: rodmouvi (3932)
+AlphaWolf has the dealer button
+brokedummy posts small blind 75
+shtako posts big blind 150
+** Hole Cards ** [4 players]
+rodmouvi folds
+AlphaWolf calls 150
+brokedummy calls 75
+shtako checks
+** Flop ** [8s 4d 4h]
+brokedummy checks
+shtako checks
+AlphaWolf bets 150
+brokedummy calls 150
+shtako folds
+** Turn ** [Qh]
+brokedummy checks
+AlphaWolf checks
+** River ** [Tc]
+brokedummy checks
+AlphaWolf checks
+** Pot Show Down ** [8s 4d 4h Qh Tc]
+AlphaWolf shows [6h 3c 4s 7c] (Hi: Three of a Kind, Fours +Q7  Lo: None)
+brokedummy shows [Kc 8c 9d 5s] (Hi: Two Pair, Eights and Fours +K  Lo: None)
+AlphaWolf wins Pot (750) with Three of a Kind
+No low hand qualified
+** Deck ** [Kc 9c 8h 6h 8c Ts 6s 3c 9d 5h 7d 4s 5s Th 9h 7c 8s 4d 4h Qh Tc]
+
+Hand #131829-11 - 2017-07-08 18:09:18
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (2850)
+Seat 2: brokedummy (993)
+Seat 3: shtako (1225)
+Seat 6: rodmouvi (3932)
+brokedummy has the dealer button
+shtako posts small blind 75
+rodmouvi posts big blind 150
+** Hole Cards ** [4 players]
+AlphaWolf calls 150
+brokedummy raises to 993 (All-in)
+shtako folds
+rodmouvi folds
+AlphaWolf calls 843
+** Flop ** [7c 6d 4c]
+** Turn ** [8c]
+** River ** [8h]
+** Pot Show Down ** [7c 6d 4c 8c 8h]
+AlphaWolf shows [9s 5c 6s 3c] (Hi: a Flush, Eight high +7543  Lo: 76543)
+brokedummy shows [8d Ac 3h Kh] (Hi: Three of a Kind, Eights +A7  Lo: 7643A)
+AlphaWolf wins Hi Pot (1106) with a Flush
+brokedummy wins Lo Pot (1105) with 7643A
+** Deck ** [Kd Jc 9s 8d 2c 6c 5c Ac Qc Td 6s 3h 5h 8s 3c Kh 7c 6d 4c 8c 8h]
+
+Hand #131830-12 - 2017-07-08 18:09:55
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (2963)
+Seat 2: brokedummy (1105)
+Seat 3: shtako (1150)
+Seat 6: rodmouvi (3782)
+shtako has the dealer button
+rodmouvi posts small blind 100
+AlphaWolf posts big blind 200
+** Hole Cards ** [4 players]
+brokedummy calls 200
+shtako folds
+rodmouvi calls 100
+AlphaWolf checks
+** Flop ** [Ts 2s 7h]
+rodmouvi checks
+AlphaWolf checks
+brokedummy bets 905 (All-in)
+rodmouvi folds
+AlphaWolf calls 905
+** Turn ** [4s]
+** River ** [9h]
+** Pot Show Down ** [Ts 2s 7h 4s 9h]
+AlphaWolf shows [7c Th 3h 8d] (Hi: Two Pair, Tens and Sevens +9  Lo: 87432)
+brokedummy shows [Jh Qd Jd 6s] (Hi: a Pair of Jacks +T97  Lo: None)
+AlphaWolf wins Hi Pot (1205) with Two Pair
+AlphaWolf wins Lo Pot (1205) with 87432
+brokedummy finishes tournament in place #4 and wins 200 chips
+** Deck ** [Tc 7c Jh Js 5c Th Qd 4h Qs 3h Jd 2d Kh 8d 6s 2h Ts 2s 7h 4s 9h]
+
+Hand #131831-13 - 2017-07-08 18:10:33
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (4268)
+Seat 3: shtako (1150)
+Seat 6: rodmouvi (3582)
+rodmouvi has the dealer button
+AlphaWolf posts small blind 100
+shtako posts big blind 200
+** Hole Cards ** [3 players]
+rodmouvi folds
+AlphaWolf calls 100
+shtako checks
+** Flop ** [Ac Qh 6s]
+AlphaWolf checks
+shtako bets 400
+AlphaWolf folds
+shtako refunded 400
+shtako wins Pot (400)
+** Deck ** [7c 6h Qd 8d 2c Th Jh Qc 5h 6c 5c 9c Ac Qh 6s]
+
+Hand #131832-14 - 2017-07-08 18:11:07
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (4068)
+Seat 3: shtako (1350)
+Seat 6: rodmouvi (3582)
+AlphaWolf has the dealer button
+shtako posts small blind 100
+rodmouvi posts big blind 200
+** Hole Cards ** [3 players]
+AlphaWolf calls 200
+shtako calls 100
+rodmouvi checks
+** Flop ** [6d 7d 4h]
+shtako bets 1150 (All-in)
+rodmouvi folds
+AlphaWolf calls 1150
+** Turn ** [Ad]
+** River ** [9s]
+** Pot Show Down ** [6d 7d 4h Ad 9s]
+AlphaWolf shows [Qs 5h Kc Ah] (Hi: a Pair of Aces +K97  Lo: 7654A)
+shtako shows [5c 2d 3c 6c] (Hi: a Straight, Three to Seven  Lo: 6432A)
+shtako wins Hi Pot (1450) with a Straight
+shtako wins Lo Pot (1450) with 6432A
+** Deck ** [5c 4c Qs 2d Jc 5h 3c Ac Kc 6c 2h Ah 6d 7d 4h Ad 9s]
+
+Hand #131833-15 - 2017-07-08 18:11:54
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: AlphaWolf (2718)
+Seat 3: shtako (2900)
+Seat 6: rodmouvi (3382)
+shtako has the dealer button
+rodmouvi posts small blind 100
+AlphaWolf posts big blind 200
+** Hole Cards ** [3 players]
+shtako folds
+rodmouvi raises to 3382 (All-in)
+AlphaWolf calls 2518 (All-in)
+rodmouvi refunded 664
+** Flop ** [2d Ah Th]
+** Turn ** [Ad]
+** River ** [7c]
+** Pot Show Down ** [2d Ah Th Ad 7c]
+AlphaWolf shows [Ts Jc Qc 6s] (Hi: Two Pair, Aces and Tens +Q  Lo: None)
+rodmouvi shows [Ks Js Jd 4d] (Hi: Two Pair, Aces and Jacks +T  Lo: None)
+rodmouvi wins Pot (5436) with Two Pair
+No low hand qualified
+AlphaWolf finishes tournament in place #3 and wins 400 chips
+** Deck ** [Ks Ts 2h Js Jc Qs Jd Qc 3h 4d 6s 2c 2d Ah Th Ad 7c]
+
+Hand #131834-16 - 2017-07-08 18:12:24
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: shtako (2900)
+Seat 6: rodmouvi (6100)
+rodmouvi has the dealer button
+rodmouvi posts small blind 100
+shtako posts big blind 200
+** Hole Cards ** [2 players]
+rodmouvi calls 100
+shtako checks
+** Flop ** [Ah Th 7d]
+shtako checks
+rodmouvi checks
+** Turn ** [Ks]
+shtako checks
+rodmouvi checks
+** River ** [Qd]
+shtako checks
+rodmouvi checks
+** Pot Show Down ** [Ah Th 7d Ks Qd]
+shtako shows [2d 7h 6s 6d] (Hi: a Pair of Sevens +AK6  Lo: None)
+rodmouvi shows [3c 5d 5s 4c] (Hi: a Pair of Fives +AKQ  Lo: None)
+shtako wins Pot (400) with a Pair
+No low hand qualified
+** Deck ** [2d 3c 7h 5d 6s 5s 6d 4c Ah Th 7d Ks Qd]
+
+Hand #131835-17 - 2017-07-08 18:12:53
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: shtako (3100)
+Seat 6: rodmouvi (5900)
+shtako has the dealer button
+shtako posts ante 25
+rodmouvi posts ante 25
+shtako posts small blind 100
+rodmouvi posts big blind 200
+** Hole Cards ** [2 players]
+shtako raises to 650
+rodmouvi raises to 2000
+shtako raises to 3075 (All-in)
+rodmouvi calls 1075
+** Flop ** [6c 4h 3s]
+** Turn ** [Ad]
+** River ** [9d]
+** Pot Show Down ** [6c 4h 3s Ad 9d]
+shtako shows [Ah Jh 5h 4d] (Hi: Two Pair, Aces and Fours +9  Lo: 6543A)
+rodmouvi shows [Td Th Js 6h] (Hi: a Pair of Tens +A96  Lo: None)
+shtako wins Hi Pot (3100) with Two Pair
+shtako wins Lo Pot (3100) with 6543A
+** Deck ** [Td Ah Th Jh Js 5h 6h 4d 6c 4h 3s Ad 9d]
+
+Hand #131836-18 - 2017-07-08 18:13:20
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: shtako (6200)
+Seat 6: rodmouvi (2800)
+rodmouvi has the dealer button
+shtako posts ante 25
+rodmouvi posts ante 25
+rodmouvi posts small blind 100
+shtako posts big blind 200
+** Hole Cards ** [2 players]
+rodmouvi raises to 2775 (All-in)
+shtako folds
+rodmouvi refunded 2575
+rodmouvi wins Pot (450)
+** Deck ** [6c Ah 3h Ad Jd 8c Tc 8h]
+
+Hand #131837-19 - 2017-07-08 18:13:37
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: shtako (5975)
+Seat 6: rodmouvi (3025)
+shtako has the dealer button
+shtako posts ante 25
+rodmouvi posts ante 25
+shtako posts small blind 100
+rodmouvi posts big blind 200
+** Hole Cards ** [2 players]
+shtako raises to 650
+rodmouvi folds
+shtako refunded 450
+shtako wins Pot (450)
+** Deck ** [8c 7d 4d 9c Js Ac Ts 2s]
+
+Hand #131838-20 - 2017-07-08 18:13:51
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: shtako (6200)
+Seat 6: rodmouvi (2800)
+rodmouvi has the dealer button
+shtako posts ante 25
+rodmouvi posts ante 25
+rodmouvi posts small blind 100
+shtako posts big blind 200
+** Hole Cards ** [2 players]
+rodmouvi raises to 2775 (All-in)
+shtako calls 2575
+** Flop ** [Ad 2c 6c]
+** Turn ** [Kd]
+** River ** [2d]
+** Pot Show Down ** [Ad 2c 6c Kd 2d]
+shtako shows [7s 5d 3s 7h] (Hi: Two Pair, Sevens and Deuces +A  Lo: 6532A)
+rodmouvi shows [Qh 4h 9d 9s] (Hi: Two Pair, Nines and Deuces +A  Lo: None)
+rodmouvi wins Hi Pot (2800) with Two Pair
+shtako wins Lo Pot (2800) with 6532A
+** Deck ** [7s Qh 5d 4h 3s 9d 7h 9s Ad 2c 6c Kd 2d]
+
+Hand #131839-21 - 2017-07-08 18:14:13
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: shtako (6200)
+Seat 6: rodmouvi (2800)
+shtako has the dealer button
+shtako posts ante 25
+rodmouvi posts ante 25
+shtako posts small blind 100
+rodmouvi posts big blind 200
+** Hole Cards ** [2 players]
+shtako raises to 650
+rodmouvi calls 450
+** Flop ** [7s 7h Jd]
+rodmouvi checks
+shtako checks
+** Turn ** [As]
+rodmouvi checks
+shtako checks
+** River ** [6d]
+rodmouvi checks
+shtako bets 3600
+rodmouvi folds
+shtako refunded 3600
+shtako wins Pot (1350)
+** Deck ** [2d 4d 6h 9s Ks Td 4h 2s 7s 7h Jd As 6d]
+
+Hand #131840-22 - 2017-07-08 18:14:51
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: shtako (6875)
+Seat 6: rodmouvi (2125)
+rodmouvi has the dealer button
+shtako posts ante 25
+rodmouvi posts ante 25
+rodmouvi posts small blind 100
+shtako posts big blind 200
+** Hole Cards ** [2 players]
+rodmouvi raises to 2100 (All-in)
+shtako folds
+rodmouvi refunded 1900
+rodmouvi wins Pot (450)
+** Deck ** [4h Th 7h Qs 7d Jh Ts 6c]
+
+Hand #131841-23 - 2017-07-08 18:15:05
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: shtako (6650)
+Seat 6: rodmouvi (2350)
+shtako has the dealer button
+shtako posts ante 25
+rodmouvi posts ante 25
+shtako posts small blind 100
+rodmouvi posts big blind 200
+** Hole Cards ** [2 players]
+shtako raises to 6000
+rodmouvi folds
+shtako refunded 5800
+shtako wins Pot (450)
+** Deck ** [Td 5h 8d 9h 7d 3c 2h 4s]
+
+Hand #131842-24 - 2017-07-08 18:15:21
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: shtako (6875)
+Seat 6: rodmouvi (2125)
+rodmouvi has the dealer button
+shtako posts ante 25
+rodmouvi posts ante 25
+rodmouvi posts small blind 100
+shtako posts big blind 200
+** Hole Cards ** [2 players]
+rodmouvi raises to 2100 (All-in)
+shtako calls 1900
+** Flop ** [Jd 4c 5c]
+** Turn ** [Tc]
+** River ** [3c]
+** Pot Show Down ** [Jd 4c 5c Tc 3c]
+shtako shows [3h 9s Ah Td] (Hi: Two Pair, Tens and Threes +J  Lo: None)
+rodmouvi shows [4d Ks Kc 7h] (Hi: a Pair of Kings +JT5  Lo: None)
+shtako wins Pot (4250) with Two Pair
+No low hand qualified
+rodmouvi finishes tournament in place #2 and wins 600 chips
+shtako finishes tournament in place #1 and wins 800 chips
+** Deck ** [3h 4d 9s Ks Ah Kc Td 7h Jd 4c 5c Tc 3c]
+
+Starting tournament 2445
+
+Hand #131959-1 - 2017-07-08 22:00:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Prince (1500) - sitting out
+Seat 2: brokedummy (1500)
+Seat 3: betong (1500)
+Seat 4: ROBERTO (1500)
+Seat 5: scambust (1500)
+Prince has the dealer button
+brokedummy posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [5 players]
+ROBERTO calls 50
+scambust calls 50
+Prince folds
+brokedummy calls 25
+betong checks
+** Flop ** [8s Ts Qc]
+brokedummy bets 1450 (All-in)
+betong calls 1450 (All-in)
+ROBERTO calls 1450 (All-in)
+scambust folds
+** Turn ** [7s]
+** River ** [Th]
+** Pot Show Down ** [8s Ts Qc 7s Th]
+brokedummy shows [Tc 3c 9d Jh] (Hi: a Straight, Eight to Queen  Lo: None)
+betong shows [4c Jd Ad Kc] (Hi: a Pair of Tens +AKQ  Lo: None)
+ROBERTO shows [Kh As 8c 5h] (Hi: Two Pair, Tens and Eights +A  Lo: None)
+brokedummy wins Pot (4550) with a Straight
+No low hand qualified
+ROBERTO finishes tournament in place #4 and wins 100 chips
+betong finishes tournament in place #4 and wins 100 chips
+** Deck ** [Tc 4c Kh 6h 4s 3c Jd As 5c 8h 9d Ad 8c 2h 7d Jh Kc 5h 3d Qd 8s Ts Qc 7s Th]
+
+Hand #131960-2 - 2017-07-08 22:01:29
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Prince (1500) - sitting out
+Seat 2: brokedummy (4550)
+Seat 5: scambust (1450)
+brokedummy has the dealer button
+scambust posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [3 players]
+brokedummy calls 50
+scambust calls 25
+Prince checks
+** Flop ** [Ah 8h 3h]
+scambust bets 150
+Prince calls 150
+brokedummy folds
+** Turn ** [7d]
+scambust bets 50
+Prince raises to 600
+scambust folds
+Prince refunded 550
+Prince wins Pot (550)
+** Deck ** [4d 4h 4c 5h 9h Qd 9c Qc Qh Kd 5s 8d Ah 8h 3h 7d]
+
+Hand #131961-3 - 2017-07-08 22:02:26
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Prince (1800)
+Seat 2: brokedummy (4500)
+Seat 5: scambust (1200)
+scambust has the dealer button
+Prince posts small blind 25
+brokedummy posts big blind 50
+** Hole Cards ** [3 players]
+scambust folds
+Prince folds
+brokedummy refunded 25
+brokedummy wins Pot (50)
+** Deck ** [Jh Kd 6h 8s Ah 3h 5h 9s Td 6s 3c 7d]
+
+Hand #131962-4 - 2017-07-08 22:02:43
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Prince (1775)
+Seat 2: brokedummy (4525)
+Seat 5: scambust (1200)
+Prince has the dealer button
+brokedummy posts small blind 25
+scambust posts big blind 50
+** Hole Cards ** [3 players]
+Prince raises to 100
+brokedummy calls 75
+scambust raises to 150
+Prince calls 50
+brokedummy calls 50
+** Flop ** [4c 3c Jd]
+brokedummy checks
+scambust bets 1050 (All-in)
+Prince raises to 1625 (All-in)
+brokedummy folds and shows [Ts Ad Kd 8c]
+Prince refunded 575
+** Turn ** [5c]
+** River ** [9s]
+** Pot Show Down ** [4c 3c Jd 5c 9s]
+Prince shows [7c Tc Jc Qs] (Hi: a Flush, Jack high +T543  Lo: None)
+scambust shows [Kh Td Ks 4h] (Hi: a Pair of Kings +J95  Lo: None)
+Prince wins Pot (2550) with a Flush
+No low hand qualified
+scambust finishes tournament in place #3 and wins 400 chips
+** Deck ** [Ts Kh 7c Ad Td Tc Kd Ks Jc 8c 4h Qs 4c 3c Jd 5c 9s]
+
+Hand #131963-5 - 2017-07-08 22:03:31
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Prince (3125)
+Seat 2: brokedummy (4375)
+brokedummy has the dealer button
+brokedummy posts small blind 25
+Prince posts big blind 50
+** Hole Cards ** [2 players]
+brokedummy raises to 100
+Prince raises to 400
+brokedummy calls 300
+** Flop ** [6d 6c 7c]
+Prince bets 800
+brokedummy raises to 3975 (All-in)
+Prince calls 1925 (All-in)
+brokedummy refunded 1250
+** Turn ** [5c]
+** River ** [Qs]
+** Pot Show Down ** [6d 6c 7c 5c Qs]
+Prince shows [2h 8h 2c Ac] (Hi: a Flush, Ace high +7652  Lo: 7652A)
+brokedummy shows [3h 6h Jd Kc] (Hi: Three of a Kind, Sixes +KQ  Lo: None)
+Prince wins Hi Pot (3125) with a Flush
+Prince wins Lo Pot (3125) with 7652A
+** Deck ** [2h 3h 8h 6h 2c Jd Ac Kc 6d 6c 7c 5c Qs]
+
+Hand #131964-6 - 2017-07-08 22:04:11
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Prince (6250)
+Seat 2: brokedummy (1250)
+Prince has the dealer button
+Prince posts small blind 50
+brokedummy posts big blind 100
+** Hole Cards ** [2 players]
+Prince folds
+brokedummy refunded 50
+brokedummy wins Pot (100)
+** Deck ** [5c Ts 6d 5h 9c 5s 2h 6h]
+
+Hand #131965-7 - 2017-07-08 22:04:26
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Prince (6200)
+Seat 2: brokedummy (1300)
+brokedummy has the dealer button
+brokedummy posts small blind 50
+Prince posts big blind 100
+** Hole Cards ** [2 players]
+brokedummy calls 50
+Prince checks
+** Flop ** [8h 2h 8c]
+Prince checks
+brokedummy bets 200
+Prince folds
+brokedummy refunded 200
+brokedummy wins Pot (200)
+** Deck ** [Qd 6d 3d Ks 6c Qc 5c Kc 8h 2h 8c]
+
+Hand #131966-8 - 2017-07-08 22:04:47
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Prince (6100)
+Seat 2: brokedummy (1400)
+Prince has the dealer button
+Prince posts small blind 50
+brokedummy posts big blind 100
+** Hole Cards ** [2 players]
+Prince raises to 200
+brokedummy calls 100
+** Flop ** [Qh Ad 2d]
+brokedummy checks
+Prince bets 200
+brokedummy calls 200
+** Turn ** [3s]
+brokedummy checks
+Prince checks
+** River ** [6s]
+brokedummy checks
+Prince bets 400
+brokedummy calls 400
+** Pot Show Down ** [Qh Ad 2d 3s 6s]
+Prince shows [Jd 8h 4s Qs] (Hi: a Pair of Queens +AJ6  Lo: 8432A)
+brokedummy shows [7c 7d Qc Kd] (Hi: a Pair of Queens +AK6  Lo: None)
+brokedummy wins Hi Pot (800) with a Pair
+Prince wins Lo Pot (800) with 8432A
+** Deck ** [7c Jd 7d 8h Qc 4s Kd Qs Qh Ad 2d 3s 6s]
+
+Hand #131967-9 - 2017-07-08 22:05:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Prince (6100)
+Seat 2: brokedummy (1400)
+brokedummy has the dealer button
+brokedummy posts small blind 50
+Prince posts big blind 100
+** Hole Cards ** [2 players]
+brokedummy calls 50
+Prince checks
+** Flop ** [3c 6d 2d]
+Prince checks
+brokedummy checks
+** Turn ** [7s]
+Prince bets 100
+brokedummy calls 100
+** River ** [9d]
+Prince bets 400
+brokedummy calls 400
+** Pot Show Down ** [3c 6d 2d 7s 9d]
+Prince shows [4c Jd 8c Td] (Hi: a Flush, Jack high +T962  Lo: 86432)
+brokedummy shows [5h Js Jc 2c] (Hi: a Pair of Jacks +976  Lo: 76532)
+Prince wins Hi Pot (600) with a Flush
+brokedummy wins Lo Pot (600) with 76532
+** Deck ** [4c 5h Jd Js 8c Jc Td 2c 3c 6d 2d 7s 9d]
+
+Hand #131968-10 - 2017-07-08 22:06:21
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Prince (6100)
+Seat 2: brokedummy (1400)
+Prince has the dealer button
+Prince posts small blind 50
+brokedummy posts big blind 100
+** Hole Cards ** [2 players]
+Prince raises to 200
+brokedummy calls 100
+** Flop ** [6h 6d Jd]
+brokedummy checks
+Prince bets 266
+brokedummy raises to 1200 (All-in)
+Prince calls 934
+** Turn ** [3c]
+** River ** [7d]
+** Pot Show Down ** [6h 6d Jd 3c 7d]
+Prince shows [2d Tc Ad As] (Hi: a Flush, Ace high +J762  Lo: 7632A)
+brokedummy shows [Kd 9c 8h Ks] (Hi: Two Pair, Kings and Sixes +J  Lo: None)
+Prince wins Hi Pot (1400) with a Flush
+Prince wins Lo Pot (1400) with 7632A
+brokedummy finishes tournament in place #2 and wins 600 chips
+Prince finishes tournament in place #1 and wins 800 chips
+** Deck ** [Kd 2d 9c Tc 8h Ad Ks As 6h 6d Jd 3c 7d]
+

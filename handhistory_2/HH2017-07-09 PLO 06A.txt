@@ -1,0 +1,672 @@
+﻿Hand #132765-1 - 2017-07-09 18:10:08
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (5000)
+Seat 3: thedok (7008.21)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor has timed out
+CoinDoctor folds
+thedok refunded 50
+thedok wins Pot (100)
+Rake (0) Pot (100) Players (CoinDoctor: 50, thedok: 50)
+** Deck ** [7h 9d 6h 3s Tc 5c 4d 6c]
+
+Hand #132778-1 - 2017-07-09 18:27:54
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (5000)
+Seat 3: thedok (7058.21)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok calls 50
+CoinDoctor checks
+** Flop ** [Kd Js 7s]
+CoinDoctor bets 195
+thedok calls 195
+** Turn ** [5c]
+CoinDoctor bets 300
+thedok calls 300
+** River ** [7h]
+CoinDoctor checks
+thedok checks
+** Pot Show Down ** [Kd Js 7s 5c 7h]
+CoinDoctor shows [Jh 8s 3c Qc] (Two Pair, Jacks and Sevens +Q)
+thedok shows [4d Ad 5d 9d] (Two Pair, Sevens and Fives +A)
+CoinDoctor wins Pot (1160.25) with Two Pair
+Rake (29.75) Pot (1190) Players (CoinDoctor: 595, thedok: 595)
+** Deck ** [Jh 4d 8s Ad 3c 5d Qc 9d Kd Js 7s 5c 7h]
+
+Hand #132779-2 - 2017-07-09 18:28:55
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (5565.25)
+Seat 3: thedok (6463.21)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor calls 50
+thedok checks
+** Flop ** [6d 3d 5d]
+thedok checks
+CoinDoctor checks
+** Turn ** [Kc]
+thedok checks
+CoinDoctor checks
+** River ** [Ah]
+thedok bets 195
+CoinDoctor calls 195
+** Pot Show Down ** [6d 3d 5d Kc Ah]
+CoinDoctor shows [Ad 2s 3h Jh] (Two Pair, Aces and Threes +K)
+thedok shows [9s 4s Th 7c] (a Straight, Three to Seven)
+thedok wins Pot (575.25) with a Straight
+Rake (14.75) Pot (590) Players (CoinDoctor: 295, thedok: 295)
+** Deck ** [9s Ad 4s 2s Th 3h 7c Jh 6d 3d 5d Kc Ah]
+
+Hand #132780-3 - 2017-07-09 18:29:37
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (5270.25)
+Seat 3: thedok (6743.46)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok calls 50
+CoinDoctor checks
+** Flop ** [3h 5h Qh]
+CoinDoctor checks
+thedok checks
+** Turn ** [4d]
+CoinDoctor checks
+thedok checks
+** River ** [9h]
+CoinDoctor bets 195
+thedok raises to 390
+CoinDoctor calls 195
+** Pot Show Down ** [3h 5h Qh 4d 9h]
+CoinDoctor shows [Kc 9d 8s 4h] (Two Pair, Nines and Fours +Q)
+thedok shows [3s 6s 2d As] (a Straight, Deuce to Six)
+thedok wins Pot (955.50) with a Straight
+Rake (24.50) Pot (980) Players (CoinDoctor: 490, thedok: 490)
+** Deck ** [Kc 3s 9d 6s 8s 2d 4h As 3h 5h Qh 4d 9h]
+
+Hand #132781-4 - 2017-07-09 18:30:26
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (4780.25)
+Seat 3: thedok (7208.96)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor calls 50
+thedok checks
+** Flop ** [Qs 3s Qd]
+thedok checks
+CoinDoctor checks
+** Turn ** [9s]
+thedok checks
+CoinDoctor checks
+** River ** [4s]
+thedok bets 195
+CoinDoctor folds
+thedok refunded 195
+thedok wins Pot (195)
+Rake (5) Pot (200) Players (CoinDoctor: 100, thedok: 100)
+** Deck ** [7d 7h 5h 8h Qh Jd 2d 4h Qs 3s Qd 9s 4s]
+
+Hand #132782-5 - 2017-07-09 18:31:09
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (4680.25)
+Seat 3: thedok (7303.96)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok calls 50
+CoinDoctor raises to 200
+thedok calls 100
+** Flop ** [9s Jh Ts]
+CoinDoctor bets 300
+thedok calls 300
+** Turn ** [5c]
+CoinDoctor bets 500
+thedok calls 500
+** River ** [3s]
+CoinDoctor bets 600
+thedok raises to 1200
+CoinDoctor raises to 1800
+thedok raises to 2400
+CoinDoctor raises to 3000
+thedok calls 600
+** Pot Show Down ** [9s Jh Ts 5c 3s]
+CoinDoctor shows [7s As 5h Js] (a Flush, Ace high +JT93)
+thedok shows [3d Ks Kd 2c] (a Pair of Kings +JT9)
+CoinDoctor wins Pot (7800) with a Flush
+Rake (200) Pot (8000) Players (CoinDoctor: 4000, thedok: 4000)
+** Deck ** [7s 3d As Ks 5h Kd Js 2c 9s Jh Ts 5c 3s]
+
+Hand #132783-6 - 2017-07-09 18:32:18
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8480.25)
+Seat 3: thedok (3303.96)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor calls 50
+thedok checks
+** Flop ** [7s 5h Qd]
+thedok checks
+CoinDoctor checks
+** Turn ** [8h]
+thedok checks
+CoinDoctor bets 100
+thedok calls 100
+** River ** [3h]
+thedok checks
+CoinDoctor bets 200
+thedok calls 200
+** Pot Show Down ** [7s 5h Qd 8h 3h]
+CoinDoctor shows [Ah Th Jd 7d] (a Flush, Ace high +T853)
+thedok shows [7c Kh 6c 6h] (a Flush, King high +8653)
+CoinDoctor wins Pot (780) with a Flush
+Rake (20) Pot (800) Players (CoinDoctor: 400, thedok: 400)
+** Deck ** [7c Ah Kh Th 6c Jd 6h 7d 7s 5h Qd 8h 3h]
+
+Hand #132784-7 - 2017-07-09 18:32:59
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8860.25)
+Seat 3: thedok (2903.96)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok calls 50
+CoinDoctor checks
+** Flop ** [Tc 8h Kh]
+CoinDoctor checks
+thedok checks
+** Turn ** [9c]
+CoinDoctor checks
+thedok checks
+** River ** [Th]
+CoinDoctor checks
+thedok checks
+** Pot Show Down ** [Tc 8h Kh 9c Th]
+CoinDoctor shows [5d Ad 7d Ts] (Three of a Kind, Tens +AK)
+thedok shows [2d 2c 2s 7c] (Two Pair, Tens and Deuces +K)
+CoinDoctor wins Pot (195) with Three of a Kind
+Rake (5) Pot (200) Players (CoinDoctor: 100, thedok: 100)
+** Deck ** [5d 2d Ad 2c 7d 2s Ts 7c Tc 8h Kh 9c Th]
+
+Hand #132785-8 - 2017-07-09 18:33:42
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8955.25)
+Seat 3: thedok (2803.96)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor calls 50
+thedok checks
+** Flop ** [Th 4h Tc]
+thedok checks
+CoinDoctor checks
+** Turn ** [Jh]
+thedok checks
+CoinDoctor checks
+** River ** [Ts]
+thedok checks
+CoinDoctor checks
+** Pot Show Down ** [Th 4h Tc Jh Ts]
+CoinDoctor shows [7c 2c 2s 6c] (a Full House, Tens full of Deuces)
+thedok shows [Qc Ac Kd 7h] (Three of a Kind, Tens +AK)
+CoinDoctor wins Pot (195) with a Full House
+Rake (5) Pot (200) Players (CoinDoctor: 100, thedok: 100)
+** Deck ** [Qc 7c Ac 2c Kd 2s 7h 6c Th 4h Tc Jh Ts]
+
+Hand #132786-9 - 2017-07-09 18:34:34
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (9050.25)
+Seat 3: thedok (2703.96)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok calls 50
+CoinDoctor checks
+** Flop ** [4s 7d Ah]
+CoinDoctor checks
+thedok checks
+** Turn ** [2h]
+CoinDoctor checks
+thedok checks
+** River ** [7c]
+CoinDoctor bets 195
+thedok folds
+CoinDoctor refunded 195
+CoinDoctor wins Pot (195)
+Rake (5) Pot (200) Players (CoinDoctor: 100, thedok: 100)
+** Deck ** [9h Qs 7h 9c Jc 8s 8c Jh 4s 7d Ah 2h 7c]
+
+Hand #132787-10 - 2017-07-09 18:35:09
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (9145.25)
+Seat 3: thedok (2603.96)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor folds
+thedok refunded 50
+thedok wins Pot (100)
+Rake (0) Pot (100) Players (CoinDoctor: 50, thedok: 50)
+** Deck ** [8s 8d 5d 3h 6s Qs 3s 5c]
+
+Hand #132788-11 - 2017-07-09 18:35:23
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (9095.25)
+Seat 3: thedok (2653.96)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok calls 50
+CoinDoctor raises to 200
+thedok calls 100
+** Flop ** [3c 5s 4c]
+CoinDoctor checks
+thedok checks
+** Turn ** [Qc]
+CoinDoctor checks
+thedok checks
+** River ** [3h]
+CoinDoctor checks
+thedok bets 390
+CoinDoctor folds
+thedok refunded 390
+thedok wins Pot (390)
+Rake (10) Pot (400) Players (CoinDoctor: 200, thedok: 200)
+** Deck ** [Jc As Td 6d 8d 4h Jh 7s 3c 5s 4c Qc 3h]
+
+Hand #132789-12 - 2017-07-09 18:36:17
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8895.25)
+Seat 3: thedok (2843.96)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor calls 50
+thedok checks
+** Flop ** [Kh 7s Qs]
+thedok checks
+CoinDoctor checks
+** Turn ** [Js]
+thedok checks
+CoinDoctor checks
+** River ** [Ts]
+thedok bets 195
+CoinDoctor folds
+thedok refunded 195
+thedok wins Pot (195)
+Rake (5) Pot (200) Players (CoinDoctor: 100, thedok: 100)
+** Deck ** [6s 2s 9d 2d Qh 6d Tc Jc Kh 7s Qs Js Ts]
+
+Hand #132790-13 - 2017-07-09 18:37:06
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8795.25)
+Seat 3: thedok (2938.96)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok calls 50
+CoinDoctor checks
+** Flop ** [Qs Kd 2h]
+CoinDoctor checks
+thedok checks
+** Turn ** [4h]
+CoinDoctor checks
+thedok bets 100
+CoinDoctor calls 100
+** River ** [9c]
+CoinDoctor checks
+thedok bets 100
+CoinDoctor calls 100
+** Pot Show Down ** [Qs Kd 2h 4h 9c]
+CoinDoctor shows [Tc As 9h 8h] (a Pair of Nines +AKQ)
+thedok shows [3d Qc Ac 4s] (Two Pair, Queens and Fours +K)
+thedok wins Pot (585) with Two Pair
+Rake (15) Pot (600) Players (CoinDoctor: 300, thedok: 300)
+** Deck ** [Tc 3d As Qc 9h Ac 8h 4s Qs Kd 2h 4h 9c]
+
+Hand #132791-14 - 2017-07-09 18:38:13
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8495.25)
+Seat 3: thedok (3223.96)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor calls 50
+thedok checks
+** Flop ** [Ts Qd 6s]
+thedok checks
+CoinDoctor checks
+** Turn ** [3c]
+thedok checks
+CoinDoctor checks
+** River ** [4s]
+thedok checks
+CoinDoctor checks
+** Pot Show Down ** [Ts Qd 6s 3c 4s]
+CoinDoctor shows [6d 2d Jd Qh] (Two Pair, Queens and Sixes +T)
+thedok shows [Ah 2h Js 7h] (High Card Ace +QJT6)
+CoinDoctor wins Pot (195) with Two Pair
+Rake (5) Pot (200) Players (CoinDoctor: 100, thedok: 100)
+** Deck ** [Ah 6d 2h 2d Js Jd 7h Qh Ts Qd 6s 3c 4s]
+
+Hand #132792-15 - 2017-07-09 18:38:52
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8590.25)
+Seat 3: thedok (3123.96)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok calls 50
+CoinDoctor checks
+** Flop ** [Qc Ah 2d]
+CoinDoctor checks
+thedok checks
+** Turn ** [Kd]
+CoinDoctor checks
+thedok bets 100
+CoinDoctor folds
+thedok refunded 100
+thedok wins Pot (195)
+Rake (5) Pot (200) Players (CoinDoctor: 100, thedok: 100)
+** Deck ** [8s 4d Ts Jh 9d Tc 5c Qh Qc Ah 2d Kd]
+
+Hand #132793-16 - 2017-07-09 18:39:32
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8490.25)
+Seat 3: thedok (3218.96)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor folds
+thedok refunded 50
+thedok wins Pot (100)
+Rake (0) Pot (100) Players (CoinDoctor: 50, thedok: 50)
+** Deck ** [Ac 2h 3h Td 9c 4s 4c 7h]
+
+Hand #132794-17 - 2017-07-09 18:39:44
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8440.25)
+Seat 3: thedok (3268.96)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok calls 50
+CoinDoctor checks
+** Flop ** [Qs 9d 7c]
+CoinDoctor checks
+thedok bets 100
+CoinDoctor folds
+thedok refunded 100
+thedok wins Pot (195)
+Rake (5) Pot (200) Players (CoinDoctor: 100, thedok: 100)
+** Deck ** [Ts 2d 5h 6c 9h Qd 6h 9s Qs 9d 7c]
+
+Hand #132795-18 - 2017-07-09 18:40:28
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8340.25)
+Seat 3: thedok (3363.96)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor calls 50
+thedok raises to 200
+CoinDoctor calls 100
+** Flop ** [7s 4d 6c]
+thedok checks
+CoinDoctor checks
+** Turn ** [4h]
+thedok checks
+CoinDoctor checks
+** River ** [As]
+thedok checks
+CoinDoctor checks
+** Pot Show Down ** [7s 4d 6c 4h As]
+CoinDoctor shows [7h Ks 3h 4s] (a Full House, Fours full of Sevens)
+thedok shows [3c 2s Ts Td] (Two Pair, Tens and Fours +A)
+CoinDoctor wins Pot (390) with a Full House
+Rake (10) Pot (400) Players (CoinDoctor: 200, thedok: 200)
+** Deck ** [3c 7h 2s Ks Ts 3h Td 4s 7s 4d 6c 4h As]
+
+Hand #132796-19 - 2017-07-09 18:41:32
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8530.25)
+Seat 3: thedok (3163.96)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok calls 50
+CoinDoctor raises to 200
+thedok raises to 300
+CoinDoctor calls 100
+** Flop ** [2h Td 7d]
+CoinDoctor checks
+thedok checks
+** Turn ** [Qd]
+CoinDoctor checks
+thedok checks
+** River ** [Qs]
+CoinDoctor checks
+thedok checks
+** Pot Show Down ** [2h Td 7d Qd Qs]
+CoinDoctor shows [As 5s 5d 2s] (Two Pair, Queens and Fives +T)
+thedok shows [Ah 4s Jc Js] (Two Pair, Queens and Jacks +T)
+thedok wins Pot (585) with Two Pair
+Rake (15) Pot (600) Players (CoinDoctor: 300, thedok: 300)
+** Deck ** [As Ah 5s 4s 5d Jc 2s Js 2h Td 7d Qd Qs]
+
+Hand #132797-20 - 2017-07-09 18:42:32
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8230.25)
+Seat 3: thedok (3448.96)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor calls 50
+thedok checks
+** Flop ** [3c Ks 9d]
+thedok checks
+CoinDoctor checks
+** Turn ** [As]
+thedok checks
+CoinDoctor checks
+** River ** [4s]
+thedok checks
+CoinDoctor bets 100
+thedok calls 100
+** Pot Show Down ** [3c Ks 9d As 4s]
+CoinDoctor shows [9s 4c Jc 3s] (a Flush, Ace high +K943)
+thedok shows [8h Jh 2s 3d] (a Pair of Threes +AKJ)
+CoinDoctor wins Pot (390) with a Flush
+Rake (10) Pot (400) Players (CoinDoctor: 200, thedok: 200)
+** Deck ** [8h 9s Jh 4c 2s Jc 3d 3s 3c Ks 9d As 4s]
+
+Hand #132798-21 - 2017-07-09 18:43:24
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (8420.25)
+Seat 3: thedok (3248.96)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok calls 50
+CoinDoctor checks
+** Flop ** [7h 6h Jh]
+CoinDoctor bets 195
+thedok calls 195
+** Turn ** [5h]
+CoinDoctor checks
+thedok checks
+** River ** [Ad]
+CoinDoctor bets 100
+thedok raises to 875.25
+CoinDoctor calls 775.25
+** Pot Show Down ** [7h 6h Jh 5h Ad]
+CoinDoctor shows [2h 2d Kd 8h] (a Flush, Jack high +8762)
+thedok shows [Kc Qd 8c 9h] (a Straight, Five to Nine)
+CoinDoctor wins Pot (2282) with a Flush
+Rake (58.50) Pot (2340.50) Players (CoinDoctor: 1170.25, thedok: 1170.25)
+** Deck ** [2h Kc 2d Qd Kd 8c 8h 9h 7h 6h Jh 5h Ad]
+
+Hand #132799-22 - 2017-07-09 18:44:36
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (9532)
+Seat 3: thedok (2078.71)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor folds
+thedok refunded 50
+thedok wins Pot (100)
+Rake (0) Pot (100) Players (CoinDoctor: 50, thedok: 50)
+** Deck ** [7c 5c Kh Qd 3s 8s 2s 7d]
+
+Hand #132800-23 - 2017-07-09 18:44:49
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (9482)
+Seat 3: thedok (2128.71)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok calls 50
+CoinDoctor checks
+** Flop ** [Th 6d 5h]
+CoinDoctor checks
+thedok checks
+** Turn ** [8s]
+CoinDoctor bets 100
+thedok calls 100
+** River ** [6c]
+CoinDoctor checks
+thedok checks
+** Pot Show Down ** [Th 6d 5h 8s 6c]
+CoinDoctor shows [7d Ac 4d 3c] (a Straight, Four to Eight)
+thedok shows [Kd Jh Qd Td] (Two Pair, Tens and Sixes +K)
+CoinDoctor wins Pot (390) with a Straight
+Rake (10) Pot (400) Players (CoinDoctor: 200, thedok: 200)
+** Deck ** [7d Kd Ac Jh 4d Qd 3c Td Th 6d 5h 8s 6c]
+
+Hand #132801-24 - 2017-07-09 18:45:39
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (9672)
+Seat 3: thedok (1928.71)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 50
+thedok posts big blind 100
+** Hole Cards ** [2 players]
+CoinDoctor calls 50
+thedok raises to 300
+CoinDoctor calls 200
+** Flop ** [Ah 5c 2h]
+thedok bets 585
+CoinDoctor folds
+thedok refunded 585
+thedok wins Pot (585)
+Rake (15) Pot (600) Players (CoinDoctor: 300, thedok: 300)
+** Deck ** [3s 9d 5d 9s Qs Jc Kd 9c Ah 5c 2h]
+
+Hand #132802-25 - 2017-07-09 18:46:08
+Game: PL Omaha (5000 - 10000) - Blinds 50/100
+Site: MegaTilt Club
+Table: PLO 06A
+Seat 2: CoinDoctor (9372)
+Seat 3: thedok (2213.71)
+thedok has the dealer button
+thedok posts small blind 50
+CoinDoctor posts big blind 100
+** Hole Cards ** [2 players]
+thedok raises to 300
+CoinDoctor calls 200
+** Flop ** [Qh 5d Kd]
+CoinDoctor checks
+thedok bets 585
+CoinDoctor calls 585
+** Turn ** [6s]
+CoinDoctor checks
+thedok bets 1328.71 (All-in)
+CoinDoctor calls 1328.71
+** River ** [4s]
+** Pot Show Down ** [Qh 5d Kd 6s 4s]
+CoinDoctor shows [6h Ac Ad Tc] (a Pair of Aces +KQ6)
+thedok shows [3c Ah 9s Ts] (High Card Ace +KQT6)
+CoinDoctor wins Pot (4316.77) with a Pair
+Rake (110.65) Pot (4427.42) Players (CoinDoctor: 2213.71, thedok: 2213.71)
+** Deck ** [6h 3c Ac Ah Ad 9s Tc Ts Qh 5d Kd 6s 4s]
+
