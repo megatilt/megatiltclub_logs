@@ -1,0 +1,753 @@
+﻿Starting tournament 2504
+
+Hand #134153-1 - 2017-07-11 11:00:33
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: just_Alice (1500)
+Seat 4: dmanicus (1500)
+Seat 5: bestlooser (1500) - sitting out
+Seat 6: tuan (1500) - sitting out
+just_Alice has the dealer button
+dmanicus posts small blind 25
+bestlooser posts big blind 50
+** Hole Cards ** [4 players]
+tuan folds
+just_Alice raises to 100
+dmanicus calls 75
+bestlooser folds
+** Flop ** [9d Tc 3h]
+dmanicus checks
+just_Alice checks
+** Turn ** [6h]
+dmanicus checks
+just_Alice checks
+** River ** [Kh]
+dmanicus bets 200
+just_Alice calls 200
+** Pot Show Down ** [9d Tc 3h 6h Kh]
+just_Alice shows [2h 7h] (a Flush, King high +7632)
+dmanicus shows [Qc Jd] (a Straight, Nine to King)
+just_Alice wins Pot (650) with a Flush
+** Deck ** [Qc 4d 7c 2h Jd Ad Ts 7h 9d Tc 3h 6h Kh]
+
+Hand #134155-2 - 2017-07-11 11:01:19
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: just_Alice (1850)
+Seat 4: dmanicus (1200)
+Seat 5: bestlooser (1450)
+Seat 6: tuan (1500) - sitting out
+dmanicus has the dealer button
+bestlooser posts small blind 25
+tuan posts big blind 50
+** Hole Cards ** [4 players]
+just_Alice raises to 100
+dmanicus folds
+bestlooser calls 75
+tuan calls 50
+** Flop ** [Qh Jd 2s]
+bestlooser checks
+tuan checks
+just_Alice checks
+** Turn ** [6h]
+bestlooser checks
+tuan checks
+just_Alice checks
+** River ** [Ks]
+bestlooser checks
+tuan bets 300
+just_Alice folds
+bestlooser folds
+tuan refunded 300
+tuan wins Pot (300)
+** Deck ** [9c Tc 5s Ts Js Ac 3h 5c Qh Jd 2s 6h Ks]
+
+Hand #134156-3 - 2017-07-11 11:02:18
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: just_Alice (1750)
+Seat 4: dmanicus (1200)
+Seat 5: bestlooser (1350)
+Seat 6: tuan (1700)
+bestlooser has the dealer button
+tuan posts small blind 25
+just_Alice posts big blind 50
+** Hole Cards ** [4 players]
+dmanicus calls 50
+bestlooser folds
+tuan calls 25
+just_Alice checks
+** Flop ** [7d 3d Kh]
+tuan checks
+just_Alice checks
+dmanicus checks
+** Turn ** [Ks]
+tuan bets 50
+just_Alice folds
+dmanicus calls 50
+** River ** [3s]
+tuan bets 100
+dmanicus folds
+tuan refunded 100
+tuan wins Pot (250)
+** Deck ** [Tc 9c Td 2d Ac Jh Jd Th 7d 3d Kh Ks 3s]
+
+Hand #134158-4 - 2017-07-11 11:03:12
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: just_Alice (1700)
+Seat 4: dmanicus (1100)
+Seat 5: bestlooser (1350)
+Seat 6: tuan (1850)
+tuan has the dealer button
+just_Alice posts small blind 25
+dmanicus posts big blind 50
+** Hole Cards ** [4 players]
+bestlooser folds
+tuan folds
+just_Alice calls 25
+dmanicus checks
+** Flop ** [4d Th Qh]
+just_Alice checks
+dmanicus checks
+** Turn ** [Ac]
+just_Alice checks
+dmanicus bets 100
+just_Alice calls 100
+** River ** [Qd]
+just_Alice bets 300
+dmanicus folds
+just_Alice refunded 300
+just_Alice wins Pot (300)
+** Deck ** [Qs 8c 7c 7h 3d 3s 8s Td 4d Th Qh Ac Qd]
+
+Hand #134160-5 - 2017-07-11 11:04:11
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: just_Alice (1850)
+Seat 4: dmanicus (950)
+Seat 5: bestlooser (1350)
+Seat 6: tuan (1850)
+just_Alice has the dealer button
+dmanicus posts small blind 50
+bestlooser posts big blind 100
+** Hole Cards ** [4 players]
+tuan calls 100
+just_Alice calls 100
+dmanicus calls 50
+bestlooser checks
+** Flop ** [4h Ad Jh]
+dmanicus checks
+bestlooser checks
+tuan bets 100
+just_Alice calls 100
+dmanicus folds
+bestlooser folds
+** Turn ** [8d]
+tuan bets 300
+just_Alice folds
+tuan refunded 300
+tuan wins Pot (600)
+** Deck ** [Kd Qh As Ts Tc 9s 6h Qs 4h Ad Jh 8d]
+
+Hand #134162-6 - 2017-07-11 11:05:28
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: just_Alice (1650)
+Seat 4: dmanicus (850)
+Seat 5: bestlooser (1250)
+Seat 6: tuan (2250)
+dmanicus has the dealer button
+bestlooser posts small blind 50
+tuan posts big blind 100
+** Hole Cards ** [4 players]
+just_Alice raises to 200
+dmanicus folds
+bestlooser calls 150
+tuan calls 100
+** Flop ** [8h 5h 4d]
+bestlooser checks
+tuan bets 600
+just_Alice folds
+bestlooser folds
+tuan refunded 600
+tuan wins Pot (600)
+** Deck ** [6s 3s 7s Th 6c 8s Ac Qs 8h 5h 4d]
+
+Hand #134163-7 - 2017-07-11 11:06:16
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: just_Alice (1450)
+Seat 4: dmanicus (850)
+Seat 5: bestlooser (1050)
+Seat 6: tuan (2650)
+bestlooser has the dealer button
+tuan posts small blind 50
+just_Alice posts big blind 100
+** Hole Cards ** [4 players]
+dmanicus folds
+bestlooser folds
+tuan raises to 200
+just_Alice folds
+tuan refunded 100
+tuan wins Pot (200)
+** Deck ** [Ac 5h 2s 6c Qc 6h Jd Tc]
+
+Hand #134165-8 - 2017-07-11 11:06:49
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: just_Alice (1350)
+Seat 4: dmanicus (850)
+Seat 5: bestlooser (1050)
+Seat 6: tuan (2750)
+tuan has the dealer button
+just_Alice posts small blind 75
+dmanicus posts big blind 150
+** Hole Cards ** [4 players]
+bestlooser raises to 300
+tuan folds
+just_Alice folds
+dmanicus calls 150
+** Flop ** [Ac 8s 4h]
+dmanicus checks
+bestlooser bets 150
+dmanicus raises to 450
+bestlooser folds
+dmanicus refunded 300
+dmanicus wins Pot (975)
+** Deck ** [Jd Ks Kd 9c 9s Ts Td 8d Ac 8s 4h]
+
+Hand #134167-9 - 2017-07-11 11:07:27
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: just_Alice (1275)
+Seat 4: dmanicus (1375)
+Seat 5: bestlooser (600)
+Seat 6: tuan (2750)
+just_Alice has the dealer button
+dmanicus posts small blind 75
+bestlooser posts big blind 150
+** Hole Cards ** [4 players]
+tuan folds
+just_Alice calls 150
+dmanicus folds
+bestlooser checks
+** Flop ** [6s 8s 9d]
+bestlooser bets 150
+just_Alice folds
+bestlooser refunded 150
+bestlooser wins Pot (375)
+** Deck ** [Js 4s 5s Kh 2s 9s 8h 3h 6s 8s 9d]
+
+Hand #134168-10 - 2017-07-11 11:08:02
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 2: just_Alice (1125)
+Seat 4: dmanicus (1300)
+Seat 5: bestlooser (825)
+Seat 6: tuan (2750)
+dmanicus has the dealer button
+bestlooser posts small blind 75
+tuan posts big blind 150
+** Hole Cards ** [4 players]
+just_Alice raises to 300
+dmanicus folds
+bestlooser folds
+tuan calls 150
+** Flop ** [3c 3s Tc]
+tuan checks
+just_Alice checks
+** Turn ** [4c]
+tuan bets 675
+just_Alice raises to 825 (All-in)
+tuan calls 150
+** River ** [7d]
+** Pot Show Down ** [3c 3s Tc 4c 7d]
+just_Alice shows [Kh Kd] (Two Pair, Kings and Threes +T)
+tuan shows [8c 9c] (a Flush, Ten high +9843)
+tuan wins Pot (2325) with a Flush
+just_Alice finishes tournament in place #9
+** Deck ** [Jc 8c Kh 2d Ts 9c Kd 8h 3c 3s Tc 4c 7d]
+
+Hand #134170-11 - 2017-07-11 11:08:48
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 4: dmanicus (1300)
+Seat 5: bestlooser (750)
+Seat 6: tuan (3950)
+bestlooser has the dealer button
+tuan posts small blind 75
+dmanicus posts big blind 150
+** Hole Cards ** [3 players]
+bestlooser folds
+tuan calls 75
+dmanicus checks
+** Flop ** [Kd 8c 7d]
+tuan bets 150
+dmanicus raises to 450
+tuan folds
+dmanicus refunded 300
+dmanicus wins Pot (600)
+** Deck ** [Jd Ks 4d 8h 7h 5c Kd 8c 7d]
+
+Hand #134172-12 - 2017-07-11 11:09:23
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 4: dmanicus (1600)
+Seat 5: bestlooser (750)
+Seat 6: tuan (3650)
+tuan has the dealer button
+dmanicus posts small blind 75
+bestlooser posts big blind 150
+** Hole Cards ** [3 players]
+tuan folds
+dmanicus calls 75
+bestlooser checks
+** Flop ** [4c Ts 5h]
+dmanicus checks
+bestlooser checks
+** Turn ** [5d]
+dmanicus checks
+bestlooser checks
+** River ** [2d]
+dmanicus checks
+bestlooser checks
+** Pot Show Down ** [4c Ts 5h 5d 2d]
+dmanicus shows [6h Qd] (a Pair of Fives +QT6)
+bestlooser shows [Kc 6c] (a Pair of Fives +KT6)
+bestlooser wins Pot (300) with a Pair
+** Deck ** [6h Kc Qc Qd 6c 7h 4c Ts 5h 5d 2d]
+
+tuan moved to Table 1
+
+dmanicus moved to Table 1
+
+bestlooser moved to Table 1
+
+Starting tournament 2508
+
+Hand #134307-1 - 2017-07-11 15:00:33
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1500)
+Seat 2: bestlooser (1500) - sitting out
+Seat 3: AlphaWolf (1500)
+Seat 5: brokedummy (1500)
+Seat 6: just_Alice (1500) - sitting out
+ROBERTO has the dealer button
+bestlooser posts small blind 25
+AlphaWolf posts big blind 50
+** Hole Cards ** [5 players]
+brokedummy calls 50
+just_Alice folds
+ROBERTO folds
+bestlooser folds
+AlphaWolf checks
+** Flop ** [9c Jd Td]
+AlphaWolf bets 50
+brokedummy folds
+AlphaWolf refunded 50
+AlphaWolf wins Pot (125)
+** Deck ** [2d 4d 6h 9s 5d Th 8d 7h 3d 9d 9c Jd Td]
+
+Hand #134311-2 - 2017-07-11 15:01:06
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1500)
+Seat 2: bestlooser (1475) - sitting out
+Seat 3: AlphaWolf (1575)
+Seat 5: brokedummy (1450)
+Seat 6: just_Alice (1500) - sitting out
+bestlooser has the dealer button
+AlphaWolf posts small blind 25
+brokedummy posts big blind 50
+** Hole Cards ** [5 players]
+just_Alice folds
+ROBERTO folds
+bestlooser folds
+AlphaWolf folds
+brokedummy refunded 25
+brokedummy wins Pot (50)
+** Deck ** [8s 5c 8d 7d 7c 2c Js 5d 6c 7s]
+
+Hand #134312-3 - 2017-07-11 15:01:23
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1500)
+Seat 2: bestlooser (1475) - sitting out
+Seat 3: AlphaWolf (1550)
+Seat 5: brokedummy (1475)
+Seat 6: just_Alice (1500)
+AlphaWolf has the dealer button
+brokedummy posts small blind 25
+just_Alice posts big blind 50
+** Hole Cards ** [5 players]
+ROBERTO has timed out
+ROBERTO folds
+bestlooser folds
+AlphaWolf calls 50
+brokedummy raises to 100
+just_Alice folds
+AlphaWolf calls 50
+** Flop ** [3c Jc 5h]
+brokedummy checks
+AlphaWolf checks
+** Turn ** [As]
+brokedummy bets 50
+AlphaWolf calls 50
+** River ** [8h]
+brokedummy checks
+AlphaWolf checks
+** Pot Show Down ** [3c Jc 5h As 8h]
+AlphaWolf shows [Ac Ts] (a Pair of Aces +JT8)
+brokedummy shows [Qd Kc] (High Card Ace +KQJ8)
+AlphaWolf wins Pot (350) with a Pair
+** Deck ** [Qd Th 3h Td Ac Kc 3d 4d 9c Ts 3c Jc 5h As 8h]
+
+Hand #134316-4 - 2017-07-11 15:02:35
+Game: NL Hold'em (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1500)
+Seat 2: bestlooser (1475) - sitting out
+Seat 3: AlphaWolf (1750)
+Seat 5: brokedummy (1325)
+Seat 6: just_Alice (1450)
+brokedummy has the dealer button
+just_Alice posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [5 players]
+bestlooser folds
+AlphaWolf folds
+brokedummy calls 50
+just_Alice calls 25
+ROBERTO checks
+** Flop ** [4s Th 7s]
+just_Alice checks
+ROBERTO checks
+brokedummy bets 50
+just_Alice calls 50
+ROBERTO folds
+** Turn ** [6h]
+just_Alice checks
+brokedummy bets 50
+just_Alice calls 50
+** River ** [5s]
+just_Alice checks
+brokedummy checks
+** Pot Show Down ** [4s Th 7s 6h 5s]
+brokedummy shows [7d 8s] (a Straight, Four to Eight)
+just_Alice shows [Td Qd] (a Pair of Tens +Q76)
+brokedummy wins Pot (350) with a Straight
+** Deck ** [Td Kd 4h 2c 7d Qd 4c 7c 4d 8s 4s Th 7s 6h 5s]
+
+Hand #134320-5 - 2017-07-11 15:04:02
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1450)
+Seat 2: bestlooser (1475) - sitting out
+Seat 3: AlphaWolf (1750)
+Seat 5: brokedummy (1525)
+Seat 6: just_Alice (1300)
+just_Alice has the dealer button
+ROBERTO posts small blind 50
+bestlooser posts big blind 100
+** Hole Cards ** [5 players]
+AlphaWolf calls 100
+brokedummy calls 100
+just_Alice folds
+ROBERTO folds
+bestlooser folds
+** Flop ** [9s 2c 7h]
+AlphaWolf checks
+brokedummy checks
+** Turn ** [8s]
+AlphaWolf bets 100
+brokedummy calls 100
+** River ** [8d]
+AlphaWolf bets 100
+brokedummy folds
+AlphaWolf refunded 100
+AlphaWolf wins Pot (550)
+** Deck ** [Kh Jd Ac Ts 3h 4h 8c 3c Ks 9d 9s 2c 7h 8s 8d]
+
+Hand #134326-6 - 2017-07-11 15:05:07
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1400)
+Seat 2: bestlooser (1375) - sitting out
+Seat 3: AlphaWolf (2100)
+Seat 5: brokedummy (1325)
+Seat 6: just_Alice (1300)
+ROBERTO has the dealer button
+bestlooser posts small blind 50
+AlphaWolf posts big blind 100
+** Hole Cards ** [5 players]
+brokedummy folds
+just_Alice raises to 200
+ROBERTO calls 200
+bestlooser folds
+AlphaWolf calls 100
+** Flop ** [Qs Qc 8h]
+AlphaWolf checks
+just_Alice checks
+ROBERTO checks
+** Turn ** [9d]
+AlphaWolf bets 100
+just_Alice folds
+ROBERTO folds
+AlphaWolf refunded 100
+AlphaWolf wins Pot (650)
+Absent player bestlooser removed from tournament
+** Deck ** [3h 9s Jh 5d 2h 2c 7d 3d Ac Ah Qs Qc 8h 9d]
+
+Hand #134330-7 - 2017-07-11 15:06:25
+Game: NL Hold'em (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1200)
+Seat 3: AlphaWolf (2550)
+Seat 5: brokedummy (1325)
+Seat 6: just_Alice (1100)
+AlphaWolf has the dealer button
+brokedummy posts small blind 50
+just_Alice posts big blind 100
+** Hole Cards ** [4 players]
+ROBERTO folds
+AlphaWolf folds
+brokedummy calls 50
+just_Alice checks
+** Flop ** [7s 3s 4s]
+brokedummy bets 100
+just_Alice folds
+brokedummy refunded 100
+brokedummy wins Pot (200)
+** Deck ** [9c 8d 2c 8c Tc Jc 3h 8h 7s 3s 4s]
+
+Hand #134332-8 - 2017-07-11 15:06:57
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1200)
+Seat 3: AlphaWolf (2550)
+Seat 5: brokedummy (1425)
+Seat 6: just_Alice (1000)
+brokedummy has the dealer button
+just_Alice posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [4 players]
+AlphaWolf calls 150
+brokedummy calls 150
+just_Alice folds
+ROBERTO checks
+** Flop ** [Kc 4d 4s]
+ROBERTO bets 150
+AlphaWolf folds
+brokedummy calls 150
+** Turn ** [8d]
+ROBERTO bets 150
+brokedummy calls 150
+** River ** [6h]
+ROBERTO bets 150
+brokedummy calls 150
+** Pot Show Down ** [Kc 4d 4s 8d 6h]
+ROBERTO shows [Kd Jc] (Two Pair, Kings and Fours +J)
+brokedummy shows [Ks 9h] (Two Pair, Kings and Fours +9)
+ROBERTO wins Pot (1425) with Two Pair
+** Deck ** [7c Kd Ad Ks 4h Jc Ts 9h Kc 4d 4s 8d 6h]
+
+Hand #134334-9 - 2017-07-11 15:07:48
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (2025)
+Seat 3: AlphaWolf (2400)
+Seat 5: brokedummy (825)
+Seat 6: just_Alice (925)
+just_Alice has the dealer button
+ROBERTO posts small blind 75
+AlphaWolf posts big blind 150
+** Hole Cards ** [4 players]
+brokedummy raises to 825 (All-in)
+just_Alice folds
+ROBERTO folds
+AlphaWolf folds
+brokedummy refunded 675
+brokedummy wins Pot (375)
+** Deck ** [4h 5c 4s Ts 9c 6h Ah 2d]
+
+Hand #134335-10 - 2017-07-11 15:08:09
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1950)
+Seat 3: AlphaWolf (2250)
+Seat 5: brokedummy (1050)
+Seat 6: just_Alice (925)
+ROBERTO has the dealer button
+AlphaWolf posts small blind 75
+brokedummy posts big blind 150
+** Hole Cards ** [4 players]
+just_Alice folds
+ROBERTO folds
+AlphaWolf calls 75
+brokedummy checks
+** Flop ** [Jc 6s Qh]
+AlphaWolf checks
+brokedummy bets 150
+AlphaWolf calls 150
+** Turn ** [5c]
+AlphaWolf checks
+brokedummy bets 300
+AlphaWolf folds
+brokedummy refunded 300
+brokedummy wins Pot (600)
+** Deck ** [8d 2s 7d 5h 6h 8h Tc 4c Jc 6s Qh 5c]
+
+Hand #134336-11 - 2017-07-11 15:08:55
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1950)
+Seat 3: AlphaWolf (1950)
+Seat 5: brokedummy (1350)
+Seat 6: just_Alice (925)
+AlphaWolf has the dealer button
+brokedummy posts small blind 75
+just_Alice posts big blind 150
+** Hole Cards ** [4 players]
+ROBERTO folds
+AlphaWolf folds
+brokedummy calls 75
+just_Alice raises to 300
+brokedummy folds
+just_Alice refunded 150
+just_Alice wins Pot (300)
+** Deck ** [9c Ah 3s 5h 6s Kc 8c 2s]
+
+Hand #134338-12 - 2017-07-11 15:09:19
+Game: NL Hold'em (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1950)
+Seat 3: AlphaWolf (1950)
+Seat 5: brokedummy (1200)
+Seat 6: just_Alice (1075)
+brokedummy has the dealer button
+just_Alice posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [4 players]
+AlphaWolf folds
+brokedummy calls 150
+just_Alice folds
+ROBERTO checks
+** Flop ** [9h 8c 6s]
+ROBERTO bets 150
+brokedummy calls 150
+** Turn ** [Ts]
+ROBERTO bets 150
+brokedummy calls 150
+** River ** [Ad]
+ROBERTO bets 150
+brokedummy raises to 750 (All-in)
+ROBERTO folds
+brokedummy refunded 600
+brokedummy wins Pot (1275)
+** Deck ** [3c 4d 4c 7s 8h 9d Qs 6c 9h 8c 6s Ts Ad]
+
+Hand #134340-13 - 2017-07-11 15:10:13
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1350)
+Seat 3: AlphaWolf (1950)
+Seat 5: brokedummy (1875)
+Seat 6: just_Alice (1000)
+just_Alice has the dealer button
+ROBERTO posts small blind 100
+AlphaWolf posts big blind 200
+** Hole Cards ** [4 players]
+brokedummy folds
+just_Alice folds
+ROBERTO folds
+AlphaWolf refunded 100
+AlphaWolf wins Pot (200)
+** Deck ** [3d Qc 2s 2h 6h Ah 5c Jd]
+
+Hand #134342-14 - 2017-07-11 15:10:41
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1250)
+Seat 3: AlphaWolf (2050)
+Seat 5: brokedummy (1875)
+Seat 6: just_Alice (1000)
+ROBERTO has the dealer button
+AlphaWolf posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [4 players]
+just_Alice folds
+ROBERTO folds
+AlphaWolf calls 100
+brokedummy checks
+** Flop ** [9d 2d 8h]
+AlphaWolf bets 200
+brokedummy folds
+AlphaWolf refunded 200
+AlphaWolf wins Pot (400)
+** Deck ** [Td 6s 2s Js 8d 4s 4d 7d 9d 2d 8h]
+
+Hand #134344-15 - 2017-07-11 15:11:23
+Game: NL Hold'em (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll A NLHE 2000 - Table 2
+Seat 1: ROBERTO (1250)
+Seat 3: AlphaWolf (2250)
+Seat 5: brokedummy (1675)
+Seat 6: just_Alice (1000)
+AlphaWolf has the dealer button
+brokedummy posts small blind 100
+just_Alice posts big blind 200
+** Hole Cards ** [4 players]
+ROBERTO folds
+AlphaWolf folds
+brokedummy calls 100
+just_Alice checks
+** Flop ** [9c 2c Qd]
+brokedummy bets 200
+just_Alice raises to 400
+brokedummy raises to 1475 (All-in)
+just_Alice calls 400 (All-in)
+brokedummy refunded 675
+** Turn ** [4h]
+** River ** [Ts]
+** Pot Show Down ** [9c 2c Qd 4h Ts]
+brokedummy shows [9d 2d] (Two Pair, Nines and Deuces +Q)
+just_Alice shows [Jh Js] (a Pair of Jacks +QT9)
+brokedummy wins Pot (2000) with Two Pair
+just_Alice finishes tournament in place #7
+** Deck ** [9d Jh 5h Tc 2d Js 3c 5s 9c 2c Qd 4h Ts]
+
+ROBERTO moved to Table 1
+
+AlphaWolf moved to Table 1
+
+brokedummy moved to Table 1
+
