@@ -1,0 +1,142 @@
+﻿Starting tournament 2519
+
+Hand #134744-1 - 2017-07-12 02:00:32
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 2: brokedummy (1500)
+Seat 3: betong (1500)
+Seat 4: diamond (1500)
+Seat 6: ROBERTO (1500)
+brokedummy has the dealer button
+betong posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [4 players]
+ROBERTO calls 50
+brokedummy calls 50
+betong calls 25
+diamond checks
+** Flop ** [Kd 2d 6d]
+betong checks
+diamond checks
+ROBERTO checks
+brokedummy checks
+** Turn ** [Ts]
+betong bets 50
+diamond folds
+ROBERTO calls 50
+brokedummy calls 50
+** River ** [7h]
+betong bets 350
+ROBERTO calls 350
+brokedummy calls 350
+** Pot Show Down ** [Kd 2d 6d Ts 7h]
+brokedummy shows [4c 3s 9h 5c] (Hi: High Card King +T975  Lo: 76432)
+betong shows [9c 7s 2h Tc] (Hi: Two Pair, Tens and Sevens +K  Lo: None)
+ROBERTO shows [5s 9s Kh Ad] (Hi: a Pair of Kings +AT7  Lo: 7652A)
+betong wins Hi Pot (700) with Two Pair
+brokedummy wins Lo Pot (700) with 76432
+** Deck ** [9c 8c 5s 4c 7s 5h 9s 3s 2h 2c Kh 9h Tc Qh Ad 5c Kd 2d 6d Ts 7h]
+
+Hand #134747-2 - 2017-07-12 02:02:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 2: brokedummy (1750)
+Seat 3: betong (1750)
+Seat 4: diamond (1450)
+Seat 6: ROBERTO (1050)
+betong has the dealer button
+diamond posts small blind 25
+ROBERTO posts big blind 50
+** Hole Cards ** [4 players]
+brokedummy folds
+betong raises to 1750 (All-in)
+diamond folds
+ROBERTO calls 1000 (All-in)
+betong refunded 700
+** Flop ** [Qh 3d Kh]
+** Turn ** [Kd]
+** River ** [Kc]
+** Pot Show Down ** [Qh 3d Kh Kd Kc]
+betong shows [9h 8d 5h 5c] (Hi: a Full House, Kings full of Fives  Lo: None)
+ROBERTO shows [Jd As Qs 8c] (Hi: Three of a Kind, Kings +AQ  Lo: None)
+betong wins Pot (2125) with a Full House
+No low hand qualified
+ROBERTO finishes tournament in place #8
+** Deck ** [7d Jd 5d 9h Tc As 7c 8d 8s Qs 3s 5h Js 8c Ts 5c Qh 3d Kh Kd Kc]
+
+Hand #134749-3 - 2017-07-12 02:03:17
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 2: brokedummy (1750)
+Seat 3: betong (2825)
+Seat 4: diamond (1425)
+diamond has the dealer button
+brokedummy posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [3 players]
+diamond folds
+brokedummy calls 25
+betong checks
+** Flop ** [8h 3h 5h]
+brokedummy bets 50
+betong calls 50
+** Turn ** [Kh]
+brokedummy bets 50
+betong folds
+brokedummy refunded 50
+brokedummy wins Pot (200)
+** Deck ** [7d Js 9s 4c 6s 6c Th 9c 5d 8c 5c 2d 8h 3h 5h Kh]
+
+Hand #134750-4 - 2017-07-12 02:04:09
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 2: brokedummy (1850)
+Seat 3: betong (2725)
+Seat 4: diamond (1425)
+brokedummy has the dealer button
+betong posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [3 players]
+brokedummy calls 100
+betong raises to 2725 (All-in)
+diamond folds
+brokedummy calls 1750 (All-in)
+betong refunded 875
+** Flop ** [Ah 4h As]
+** Turn ** [Qh]
+** River ** [6h]
+** Pot Show Down ** [Ah 4h As Qh 6h]
+brokedummy shows [Ts 3s 2c 8d] (Hi: a Pair of Aces +QT8  Lo: 6432A)
+betong shows [8h Ks Jc Jd] (Hi: Two Pair, Aces and Jacks +Q  Lo: None)
+betong wins Hi Pot (1900) with Two Pair
+brokedummy wins Lo Pot (1900) with 6432A
+** Deck ** [8h 8s Ts Ks 6d 3s Jc Qd 2c Jd 2d 8d Ah 4h As Qh 6h]
+
+Hand #134752-5 - 2017-07-12 02:04:56
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 2: brokedummy (1900)
+Seat 3: betong (2775)
+Seat 4: diamond (1325)
+betong has the dealer button
+diamond posts small blind 50
+brokedummy posts big blind 100
+** Hole Cards ** [3 players]
+betong folds
+diamond raises to 1325 (All-in)
+brokedummy folds
+diamond refunded 1225
+diamond wins Pot (200)
+** Deck ** [Kh Tc 5h Jd 8s 2h 9d Js Td Kc 4d 6h]
+
+betong moved to Table 1
+
+diamond moved to Table 1
+
+brokedummy moved to Table 1
+

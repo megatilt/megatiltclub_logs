@@ -1,0 +1,77 @@
+﻿Starting tournament 2554
+
+Hand #135559-1 - 2017-07-13 14:00:31
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 2: diamond (1500)
+Seat 3: CoinDoctor (1500) - sitting out
+Seat 5: jackpot (1500) - sitting out
+diamond has the dealer button
+CoinDoctor posts small blind 25
+jackpot posts big blind 50
+** Hole Cards ** [3 players]
+diamond calls 50
+CoinDoctor folds
+jackpot folds
+diamond wins Pot (125)
+** Deck ** [9d Td 3c 4h 8s 4d Kc Kd 2c Qh Ah 9h]
+
+Hand #135561-2 - 2017-07-13 14:00:46
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 2: diamond (1575)
+Seat 3: CoinDoctor (1475) - sitting out
+Seat 5: jackpot (1450)
+CoinDoctor has the dealer button
+jackpot posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [3 players]
+CoinDoctor folds
+jackpot calls 25
+diamond checks
+** Flop ** [Kd 7c 2c]
+jackpot checks
+diamond checks
+** Turn ** [Ks]
+jackpot checks
+diamond checks
+** River ** [6d]
+jackpot checks
+diamond checks
+** Pot Show Down ** [Kd 7c 2c Ks 6d]
+diamond shows [Tc Qc 4c Ad] (Hi: a Pair of Kings +AQ7  Lo: 7642A)
+jackpot shows [Js 2h Qs 4s] (Hi: Two Pair, Kings and Deuces +Q  Lo: None)
+jackpot wins Hi Pot (50) with Two Pair
+diamond wins Lo Pot (50) with 7642A
+** Deck ** [Js Tc 6h 2h Qc 5c Qs 4c 9s 4s Ad Ac Kd 7c 2c Ks 6d]
+
+Hand #135562-3 - 2017-07-13 14:01:44
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 2
+Seat 2: diamond (1575)
+Seat 3: CoinDoctor (1475)
+Seat 5: jackpot (1450)
+jackpot has the dealer button
+diamond posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [3 players]
+jackpot calls 50
+diamond folds
+CoinDoctor checks
+** Flop ** [Td 9s 2d]
+CoinDoctor checks
+jackpot bets 500
+CoinDoctor folds
+jackpot refunded 500
+jackpot wins Pot (125)
+** Deck ** [Js 5s Th 6d Ts 8s 8d Qs 9h 9c Ks 8h Td 9s 2d]
+
+jackpot moved to Table 1
+
+diamond moved to Table 1
+
+CoinDoctor moved to Table 1
+

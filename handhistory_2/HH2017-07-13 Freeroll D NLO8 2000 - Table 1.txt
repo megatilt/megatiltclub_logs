@@ -1,0 +1,2605 @@
+﻿Starting tournament 2542
+
+Hand #135351-1 - 2017-07-13 02:00:31
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1500) - sitting out
+Seat 3: ajaxmoor (1500)
+Seat 4: betong (1500)
+Seat 5: CoinDoctor (1500)
+tagailog has the dealer button
+ajaxmoor posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [4 players]
+CoinDoctor folds
+tagailog folds
+ajaxmoor calls 25
+betong checks
+** Flop ** [4s Ah Td]
+ajaxmoor bets 100
+betong folds
+ajaxmoor refunded 100
+ajaxmoor wins Pot (100)
+** Deck ** [8h 5c Jh 6d 3c 9h 5s Ts 3d 4d 9d 6c 4h Kh Ks 2d 4s Ah Td]
+
+Hand #135352-2 - 2017-07-13 02:00:58
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1500) - sitting out
+Seat 3: ajaxmoor (1550)
+Seat 4: betong (1450)
+Seat 5: CoinDoctor (1500)
+ajaxmoor has the dealer button
+betong posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [4 players]
+tagailog folds
+ajaxmoor raises to 100
+betong calls 75
+CoinDoctor calls 50
+** Flop ** [2h 8s 8d]
+betong checks
+CoinDoctor checks
+ajaxmoor checks
+** Turn ** [5s]
+betong checks
+CoinDoctor checks
+ajaxmoor checks
+** River ** [7d]
+betong checks
+CoinDoctor checks
+ajaxmoor checks
+** Pot Show Down ** [2h 8s 8d 5s 7d]
+ajaxmoor shows [4c Th 3h Kc] (Hi: a Pair of Eights +KT7  Lo: 75432)
+betong shows [Qh Ac 4s Jd] (Hi: a Pair of Eights +AQ7  Lo: 7542A)
+CoinDoctor shows [6d 2c Js Kd] (Hi: Two Pair, Eights and Deuces +K  Lo: 87652)
+CoinDoctor wins Hi Pot (150) with Two Pair
+betong wins Lo Pot (150) with 7542A
+** Deck ** [Qh 6d 9s 4c Ac 2c 9c Th 4s Js Kh 3h Jd Kd 7c Kc 2h 8s 8d 5s 7d]
+
+Hand #135353-3 - 2017-07-13 02:02:05
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1500)
+Seat 3: ajaxmoor (1450)
+Seat 4: betong (1500)
+Seat 5: CoinDoctor (1550)
+betong has the dealer button
+CoinDoctor posts small blind 25
+tagailog posts big blind 50
+** Hole Cards ** [4 players]
+ajaxmoor folds
+betong raises to 1500 (All-in)
+CoinDoctor folds
+tagailog folds
+betong refunded 1450
+betong wins Pot (125)
+** Deck ** [Ks Qs 3h 2d 7h 9s 8h 3d 7c Kh 7s 8d 2c 3s 2h As]
+
+Hand #135354-4 - 2017-07-13 02:02:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1450)
+Seat 3: ajaxmoor (1450)
+Seat 4: betong (1575)
+Seat 5: CoinDoctor (1525)
+CoinDoctor has the dealer button
+tagailog posts small blind 25
+ajaxmoor posts big blind 50
+** Hole Cards ** [4 players]
+betong folds
+CoinDoctor calls 50
+tagailog calls 25
+ajaxmoor checks
+** Flop ** [6d Qd 3s]
+tagailog checks
+ajaxmoor checks
+CoinDoctor checks
+** Turn ** [Ah]
+tagailog checks
+ajaxmoor checks
+CoinDoctor checks
+** River ** [3c]
+tagailog checks
+ajaxmoor bets 100
+CoinDoctor calls 100
+tagailog folds
+** Pot Show Down ** [6d Qd 3s Ah 3c]
+ajaxmoor shows [2h 3h Ts 2s] (Hi: Three of a Kind, Threes +AT  Lo: None)
+CoinDoctor shows [Qs 8c 5d 9c] (Hi: Two Pair, Queens and Threes +9  Lo: 8653A)
+ajaxmoor wins Hi Pot (175) with Three of a Kind
+CoinDoctor wins Lo Pot (175) with 8653A
+** Deck ** [Tc 2h 9s Qs Th 3h Jd 8c Ks Ts 8h 5d 4d 2s Kd 9c 6d Qd 3s Ah 3c]
+
+Hand #135355-5 - 2017-07-13 02:04:25
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1400)
+Seat 3: ajaxmoor (1475)
+Seat 4: betong (1575)
+Seat 5: CoinDoctor (1550)
+tagailog has the dealer button
+ajaxmoor posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [4 players]
+CoinDoctor folds
+tagailog calls 100
+ajaxmoor calls 50
+betong checks
+** Flop ** [7c 7s Qs]
+ajaxmoor checks
+betong checks
+tagailog checks
+** Turn ** [2s]
+ajaxmoor checks
+betong checks
+tagailog checks
+** River ** [3c]
+ajaxmoor checks
+betong checks
+tagailog bets 200
+ajaxmoor calls 200
+betong folds
+** Pot Show Down ** [7c 7s Qs 2s 3c]
+tagailog shows [4d Ks 3d 2c] (Hi: Two Pair, Sevens and Threes +K  Lo: None)
+ajaxmoor shows [Td 8d 9c 6s] (Hi: a Pair of Sevens +QT9  Lo: 87632)
+tagailog wins Hi Pot (350) with Two Pair
+ajaxmoor wins Lo Pot (350) with 87632
+** Deck ** [Td 9h 4s 4d 8d 6c 2d Ks 9c 3s 2h 3d 6s Th 9d 2c 7c 7s Qs 2s 3c]
+
+Hand #135356-6 - 2017-07-13 02:06:55
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1450)
+Seat 3: ajaxmoor (1525)
+Seat 4: betong (1475)
+Seat 5: CoinDoctor (1550)
+ajaxmoor has the dealer button
+betong posts small blind 75
+CoinDoctor posts big blind 150
+** Hole Cards ** [4 players]
+tagailog folds
+ajaxmoor folds
+betong raises to 1475 (All-in)
+CoinDoctor calls 1325
+** Flop ** [Qc Tc 4h]
+** Turn ** [Ts]
+** River ** [7h]
+** Pot Show Down ** [Qc Tc 4h Ts 7h]
+betong shows [8d 8h Kc Th] (Hi: Three of a Kind, Tens +KQ  Lo: None)
+CoinDoctor shows [5h Ah 6c 2c] (Hi: a Pair of Tens +AQ6  Lo: None)
+betong wins Pot (2950) with Three of a Kind
+No low hand qualified
+** Deck ** [8d 5h Qs 5c 8h Ah Ks 3s Kc 6c 2s Qh Th 2c 3h 9c Qc Tc 4h Ts 7h]
+
+Hand #135357-7 - 2017-07-13 02:07:42
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1450)
+Seat 3: ajaxmoor (1525)
+Seat 4: betong (2950)
+Seat 5: CoinDoctor (75)
+betong has the dealer button
+CoinDoctor posts small blind 75 (All-in)
+tagailog posts big blind 150
+** Hole Cards ** [4 players]
+ajaxmoor raises to 1525 (All-in)
+betong folds
+tagailog folds
+ajaxmoor refunded 1375
+** Flop ** [3s 8c Ts]
+** Turn ** [2h]
+** River ** [Th]
+ajaxmoor wins Side Pot 1 (150)
+** Main Pot Show Down ** [3s 8c Ts 2h Th]
+ajaxmoor shows [5h 5d 4h 6d] (Hi: Two Pair, Tens and Fives +8  Lo: 85432)
+CoinDoctor shows [4c Qs Ah Jh] (Hi: a Pair of Tens +AQ8  Lo: 8432A)
+ajaxmoor wins Hi Main Pot (113) with Two Pair
+CoinDoctor wins Lo Main Pot (112) with 8432A
+** Deck ** [4c As 5h 8s Qs 4d 5d 9c Ah Td 4h Jd Jh 7d 6d Tc 3s 8c Ts 2h Th]
+
+Hand #135358-8 - 2017-07-13 02:08:17
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1300)
+Seat 3: ajaxmoor (1638)
+Seat 4: betong (2950)
+Seat 5: CoinDoctor (112)
+CoinDoctor has the dealer button
+tagailog posts small blind 75
+ajaxmoor posts big blind 150
+** Hole Cards ** [4 players]
+betong folds
+CoinDoctor folds
+tagailog calls 75
+ajaxmoor checks
+** Flop ** [5h 7c 3c]
+tagailog checks
+ajaxmoor checks
+** Turn ** [6d]
+tagailog checks
+ajaxmoor checks
+** River ** [6h]
+tagailog checks
+ajaxmoor bets 150
+tagailog folds
+ajaxmoor refunded 150
+ajaxmoor wins Pot (300)
+** Deck ** [Ac Tc 3s 9d Td As 4s Js 9h Qd 8h 5d 9c 6s 2d 7h 5h 7c 3c 6d 6h]
+
+Hand #135359-9 - 2017-07-13 02:09:28
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1150)
+Seat 3: ajaxmoor (1788)
+Seat 4: betong (2950)
+Seat 5: CoinDoctor (112)
+tagailog has the dealer button
+ajaxmoor posts small blind 75
+betong posts big blind 150
+** Hole Cards ** [4 players]
+CoinDoctor calls 112 (All-in)
+tagailog folds
+ajaxmoor calls 75
+betong checks
+** Flop ** [9h Qh Qc]
+ajaxmoor checks
+betong checks
+** Turn ** [Ks]
+ajaxmoor checks
+betong checks
+** River ** [3d]
+ajaxmoor checks
+betong checks
+** Side Pot 1 Show Down ** [9h Qh Qc Ks 3d]
+ajaxmoor shows [As Td Ts Ad] (Hi: Two Pair, Aces and Queens +K  Lo: None)
+betong shows [5d 4c Qd Jd] (Hi: Three of a Kind, Queens +KJ  Lo: None)
+betong wins Side Pot 1 (76) with Three of a Kind
+No low hand qualified
+** Main Pot Show Down ** [9h Qh Qc Ks 3d]
+CoinDoctor shows [9d Ah 7h 3c] (Hi: Two Pair, Queens and Nines +A  Lo: None)
+betong wins Main Pot (336) with Three of a Kind
+No low hand qualified
+CoinDoctor finishes tournament in place #4
+** Deck ** [As 5d 9d Tc Td 4c Ah 8h Ts Qd 7h Ac Ad Jd 3c 6c 9h Qh Qc Ks 3d]
+
+Hand #135360-10 - 2017-07-13 02:10:22
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1150)
+Seat 3: ajaxmoor (1638)
+Seat 4: betong (3212)
+ajaxmoor has the dealer button
+betong posts small blind 100
+tagailog posts big blind 200
+** Hole Cards ** [3 players]
+ajaxmoor folds
+betong raises to 3212 (All-in)
+tagailog folds
+betong refunded 3012
+betong wins Pot (400)
+** Deck ** [6h Jd Ts 9d Tc 4d Ks 6d As Kc Qc 8s]
+
+Hand #135361-11 - 2017-07-13 02:10:45
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (950)
+Seat 3: ajaxmoor (1638)
+Seat 4: betong (3412)
+betong has the dealer button
+tagailog posts small blind 100
+ajaxmoor posts big blind 200
+** Hole Cards ** [3 players]
+betong folds
+tagailog raises to 950 (All-in)
+ajaxmoor calls 750
+** Flop ** [5h Ts Ac]
+** Turn ** [Td]
+** River ** [5s]
+** Pot Show Down ** [5h Ts Ac Td 5s]
+tagailog shows [Tc Kc Ad 4h] (Hi: a Full House, Tens full of Aces  Lo: None)
+ajaxmoor shows [Ah 3h Qd Qc] (Hi: Two Pair, Aces and Tens +Q  Lo: None)
+tagailog wins Pot (1900) with a Full House
+No low hand qualified
+** Deck ** [Tc Ah 9h Kc 3h 8h Ad Qd Ks 4h Qc 3s 5h Ts Ac Td 5s]
+
+Hand #135362-12 - 2017-07-13 02:11:08
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1900)
+Seat 3: ajaxmoor (688)
+Seat 4: betong (3412)
+tagailog has the dealer button
+ajaxmoor posts small blind 100
+betong posts big blind 200
+** Hole Cards ** [3 players]
+tagailog folds
+ajaxmoor raises to 688 (All-in)
+betong calls 488
+** Flop ** [Ac 4s 7c]
+** Turn ** [9d]
+** River ** [Ah]
+** Pot Show Down ** [Ac 4s 7c 9d Ah]
+ajaxmoor shows [4h Qc 6d Ad] (Hi: a Full House, Aces full of Fours  Lo: None)
+betong shows [Th 7h Qd 6s] (Hi: Two Pair, Aces and Sevens +Q  Lo: None)
+ajaxmoor wins Pot (1376) with a Full House
+No low hand qualified
+** Deck ** [4h Th Kh Qc 7h Jd 6d Qd Js Ad 6s 7s Ac 4s 7c 9d Ah]
+
+Hand #135363-13 - 2017-07-13 02:11:57
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1900)
+Seat 3: ajaxmoor (1376)
+Seat 4: betong (2724)
+ajaxmoor has the dealer button
+betong posts small blind 100
+tagailog posts big blind 200
+** Hole Cards ** [3 players]
+ajaxmoor folds
+betong calls 100
+tagailog checks
+** Flop ** [8c 4d 3d]
+betong checks
+tagailog bets 200
+betong calls 200
+** Turn ** [7s]
+betong checks
+tagailog checks
+** River ** [7c]
+betong checks
+tagailog checks
+** Pot Show Down ** [8c 4d 3d 7s 7c]
+tagailog shows [6h Qc Ah Jd] (Hi: a Pair of Sevens +AQ8  Lo: 7643A)
+betong shows [Jh 4s 6c Tc] (Hi: Two Pair, Sevens and Fours +J  Lo: 87643)
+betong wins Hi Pot (400) with Two Pair
+tagailog wins Lo Pot (400) with 7643A
+** Deck ** [Jh 6h Kd 4s Qc 9d 6c Ah 8s Tc Jd 2h 8c 4d 3d 7s 7c]
+
+Hand #135364-14 - 2017-07-13 02:12:49
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1900)
+Seat 3: ajaxmoor (1376)
+Seat 4: betong (2724)
+betong has the dealer button
+tagailog posts ante 25
+ajaxmoor posts ante 25
+betong posts ante 25
+tagailog posts small blind 100
+ajaxmoor posts big blind 200
+** Hole Cards ** [3 players]
+betong raises to 2699 (All-in)
+ajaxmoor: "guys lets hurry up"
+tagailog folds
+ajaxmoor calls 1151 (All-in)
+betong refunded 1348
+** Flop ** [Jd Tc 9c]
+** Turn ** [8h]
+** River ** [Jc]
+** Pot Show Down ** [Jd Tc 9c 8h Jc]
+ajaxmoor shows [4d Js 4s 3d] (Hi: Three of a Kind, Jacks +T4  Lo: None)
+betong shows [8d 2d 3s 7s] (Hi: a Straight, Seven to Jack  Lo: None)
+betong wins Pot (2877) with a Straight
+No low hand qualified
+ajaxmoor finishes tournament in place #3 and wins 400 chips
+** Deck ** [Ad 4d 8d Ts Js 2d 6s 4s 3s Kh 3d 7s Jd Tc 9c 8h Jc]
+
+Hand #135365-15 - 2017-07-13 02:13:14
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1775)
+Seat 4: betong (4225)
+tagailog has the dealer button
+tagailog posts ante 25
+betong posts ante 25
+tagailog posts small blind 100
+betong posts big blind 200
+** Hole Cards ** [2 players]
+tagailog calls 100
+betong raises to 4200 (All-in)
+tagailog folds
+betong refunded 4000
+betong wins Pot (450)
+** Deck ** [3h 3d 8c 3s Ac 7d 9h 9d]
+
+Hand #135366-16 - 2017-07-13 02:13:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: tagailog (1550)
+Seat 4: betong (4450)
+betong has the dealer button
+tagailog posts ante 25
+betong posts ante 25
+betong posts small blind 100
+tagailog posts big blind 200
+** Hole Cards ** [2 players]
+betong raises to 4425 (All-in)
+tagailog calls 1325 (All-in)
+betong refunded 2900
+** Flop ** [6d 9c 8h]
+** Turn ** [6h]
+** River ** [Kh]
+** Pot Show Down ** [6d 9c 8h 6h Kh]
+tagailog shows [3h 7s Js Qc] (Hi: a Pair of Sixes +KQJ  Lo: None)
+betong shows [Kd Ac 8c 8s] (Hi: a Full House, Eights full of Sixes  Lo: None)
+betong wins Pot (3100) with a Full House
+No low hand qualified
+tagailog finishes tournament in place #2 and wins 600 chips
+betong finishes tournament in place #1 and wins 1000 chips
+** Deck ** [3h Kd 7s Ac Js 8c Qc 8s 6d 9c 8h 6h Kh]
+
+Starting tournament 2546
+
+Hand #135383-1 - 2017-07-13 06:00:31
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Arpetuos (1500) - sitting out
+Seat 2: diamond (1500)
+Seat 3: betong (1500)
+Seat 4: CoinDoctor (1500)
+Arpetuos has the dealer button
+diamond posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [4 players]
+CoinDoctor folds
+Arpetuos folds
+diamond folds
+betong refunded 25
+betong wins Pot (50)
+** Deck ** [4h 4s Jc 5s 3h 8d Tc 2d Ad 2c 4c Td 5h 5d 6d 9h]
+
+Hand #135384-2 - 2017-07-13 06:00:49
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Arpetuos (1500) - sitting out
+Seat 2: diamond (1475)
+Seat 3: betong (1525)
+Seat 4: CoinDoctor (1500)
+diamond has the dealer button
+betong posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [4 players]
+Arpetuos folds
+diamond folds
+betong raises to 1525 (All-in)
+CoinDoctor folds
+betong refunded 1475
+betong wins Pot (100)
+** Deck ** [Ks 4c 8s Qs Kd 9h 7h 8d 3h 8c Ad 6h 5s 7d 6d 4d]
+
+Hand #135385-3 - 2017-07-13 06:01:14
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Arpetuos (1500) - sitting out
+Seat 2: diamond (1475)
+Seat 3: betong (1575)
+Seat 4: CoinDoctor (1450)
+betong has the dealer button
+CoinDoctor posts small blind 25
+Arpetuos posts big blind 50
+** Hole Cards ** [4 players]
+diamond folds
+betong folds
+CoinDoctor raises to 100
+Arpetuos folds
+CoinDoctor refunded 50
+CoinDoctor wins Pot (100)
+** Deck ** [5h 6c Qc 3d Ah 5c Ks 6d Jc Qh 9d 9s Ad 3s 8d 2d]
+
+Hand #135386-4 - 2017-07-13 06:01:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Arpetuos (1450) - sitting out
+Seat 2: diamond (1475)
+Seat 3: betong (1575)
+Seat 4: CoinDoctor (1500)
+CoinDoctor has the dealer button
+Arpetuos posts small blind 25
+diamond posts big blind 50
+** Hole Cards ** [4 players]
+betong folds
+CoinDoctor folds
+Arpetuos folds
+diamond refunded 25
+diamond wins Pot (50)
+** Deck ** [3d 8c 6c Td Js 7c Jc 2h Kh 9c 8d 4h 4s 5h Tc 9s]
+
+Hand #135387-5 - 2017-07-13 06:01:55
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Arpetuos (1425) - sitting out
+Seat 2: diamond (1500)
+Seat 3: betong (1575)
+Seat 4: CoinDoctor (1500)
+Arpetuos has the dealer button
+diamond posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [4 players]
+CoinDoctor folds
+Arpetuos folds
+diamond folds
+betong refunded 25
+betong wins Pot (50)
+** Deck ** [8s 9c 7c 7d 9d 5d 3c Td 3h 3d Js Ac 6h 3s Kd 4h]
+
+Hand #135388-6 - 2017-07-13 06:02:13
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Arpetuos (1425) - sitting out
+Seat 2: diamond (1475)
+Seat 3: betong (1600)
+Seat 4: CoinDoctor (1500)
+diamond has the dealer button
+betong posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [4 players]
+Arpetuos folds
+diamond folds
+betong calls 25
+CoinDoctor checks
+** Flop ** [6c Qs Ac]
+betong bets 100
+CoinDoctor calls 100
+** Turn ** [4s]
+betong bets 300
+CoinDoctor folds
+betong refunded 300
+betong wins Pot (300)
+** Deck ** [As Th 6h 4h Kd 2c 2d 8h 9h 2h 5s Ts Td 6d 2s Qc 6c Qs Ac 4s]
+
+Hand #135389-7 - 2017-07-13 06:03:26
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Arpetuos (1425)
+Seat 2: diamond (1475)
+Seat 3: betong (1750)
+Seat 4: CoinDoctor (1350)
+betong has the dealer button
+CoinDoctor posts small blind 25
+Arpetuos posts big blind 50
+** Hole Cards ** [4 players]
+diamond calls 50
+betong folds
+CoinDoctor folds
+Arpetuos checks
+** Flop ** [9c 5c 2c]
+Arpetuos checks
+diamond checks
+** Turn ** [3h]
+Arpetuos bets 50
+diamond folds
+Arpetuos refunded 50
+Arpetuos wins Pot (125)
+** Deck ** [Ts 7h Ah 4c 4s 9s 5s Ks 8s 8d Tc Ad 3c Jc 5h 5d 9c 5c 2c 3h]
+
+Hand #135390-8 - 2017-07-13 06:04:37
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Arpetuos (1500)
+Seat 2: diamond (1425)
+Seat 3: betong (1750)
+Seat 4: CoinDoctor (1325)
+CoinDoctor has the dealer button
+Arpetuos posts small blind 50
+diamond posts big blind 100
+** Hole Cards ** [4 players]
+betong folds
+CoinDoctor calls 100
+Arpetuos calls 50
+diamond checks
+** Flop ** [Qs Jc Jh]
+Arpetuos checks
+diamond checks
+CoinDoctor checks
+** Turn ** [4d]
+Arpetuos checks
+diamond bets 1325 (All-in)
+CoinDoctor folds
+Arpetuos folds
+diamond refunded 1325
+diamond wins Pot (300)
+** Deck ** [3c 2d Qd 2h 8s 9h 8h As 6h Qc 2c Th 2s 4s Ad 8d Qs Jc Jh 4d]
+
+Hand #135391-9 - 2017-07-13 06:05:47
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Arpetuos (1400)
+Seat 2: diamond (1625)
+Seat 3: betong (1750)
+Seat 4: CoinDoctor (1225)
+Arpetuos has the dealer button
+diamond posts small blind 50
+betong posts big blind 100
+** Hole Cards ** [4 players]
+CoinDoctor calls 100
+Arpetuos calls 100
+diamond folds
+betong checks
+** Flop ** [Js Qs Ah]
+betong checks
+CoinDoctor checks
+Arpetuos bets 100
+betong folds
+CoinDoctor folds
+Arpetuos refunded 100
+Arpetuos wins Pot (350)
+** Deck ** [Tc 2c 5d 9s 7h 8c 4h 2d 6s 3d 4c 9d 5c 8h 3h 5h Js Qs Ah]
+
+Hand #135392-10 - 2017-07-13 06:06:37
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Arpetuos (1650)
+Seat 2: diamond (1575)
+Seat 3: betong (1650)
+Seat 4: CoinDoctor (1125)
+diamond has the dealer button
+betong posts small blind 75
+CoinDoctor posts big blind 150
+** Hole Cards ** [4 players]
+Arpetuos raises to 300
+diamond folds
+betong raises to 1650 (All-in)
+CoinDoctor folds
+betong: "t53k"
+Arpetuos calls 1350 (All-in)
+** Flop ** [4h Jh Ac]
+** Turn ** [9h]
+** River ** [Ks]
+** Pot Show Down ** [4h Jh Ac 9h Ks]
+Arpetuos shows [Qc Jd 2d Kd] (Hi: Two Pair, Kings and Jacks +A  Lo: None)
+betong shows [Td 5d 3h Kh] (Hi: a Flush, King high +J943  Lo: None)
+betong wins Pot (3450) with a Flush
+No low hand qualified
+Arpetuos finishes tournament in place #4
+** Deck ** [Td 5c Qc 2s 5d 4c Jd 7s 3h 2h 2d 4s Kh 9s Kd As 4h Jh Ac 9h Ks]
+
+Hand #135393-11 - 2017-07-13 06:07:17
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: diamond (1575)
+Seat 3: betong (3450)
+Seat 4: CoinDoctor (975)
+betong has the dealer button
+CoinDoctor posts small blind 75
+diamond posts big blind 150
+** Hole Cards ** [3 players]
+betong folds
+CoinDoctor calls 75
+diamond checks
+** Flop ** [Qh 2h 3d]
+CoinDoctor bets 150
+diamond folds
+CoinDoctor refunded 150
+CoinDoctor wins Pot (300)
+** Deck ** [3c 8h 8s Qs 8c Ah 4c 3h 6c 4d 7c 6d Qh 2h 3d]
+
+Hand #135394-12 - 2017-07-13 06:07:46
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: diamond (1425)
+Seat 3: betong (3450)
+Seat 4: CoinDoctor (1125)
+CoinDoctor has the dealer button
+diamond posts small blind 75
+betong posts big blind 150
+** Hole Cards ** [3 players]
+CoinDoctor calls 150
+diamond folds
+betong raises to 3450 (All-in)
+CoinDoctor calls 975 (All-in)
+betong refunded 2325
+** Flop ** [Kh 6s 7c]
+** Turn ** [Jd]
+** River ** [Qc]
+** Pot Show Down ** [Kh 6s 7c Jd Qc]
+betong shows [3d 9c 9h 4c] (Hi: a Pair of Nines +KQJ  Lo: None)
+CoinDoctor shows [As Jh 8h 2d] (Hi: a Pair of Jacks +AKQ  Lo: None)
+CoinDoctor wins Pot (2325) with a Pair
+No low hand qualified
+** Deck ** [7h 3d As 2h 9c Jh 2s 9h 8h Qs 4c 2d Kh 6s 7c Jd Qc]
+
+Hand #135395-13 - 2017-07-13 06:08:25
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: diamond (1350)
+Seat 3: betong (2325)
+Seat 4: CoinDoctor (2325)
+diamond has the dealer button
+betong posts small blind 75
+CoinDoctor posts big blind 150
+** Hole Cards ** [3 players]
+diamond raises to 1350 (All-in)
+betong raises to 2325 (All-in)
+CoinDoctor folds
+betong refunded 975
+** Flop ** [5d Ks 8c]
+betong: "kkt3"
+** Turn ** [5h]
+** River ** [Qd]
+** Pot Show Down ** [5d Ks 8c 5h Qd]
+diamond shows [9s Kh 9d Ac] (Hi: Two Pair, Kings and Fives +A  Lo: None)
+betong shows [Kc Kd Th 3s] (Hi: a Full House, Kings full of Fives  Lo: None)
+betong wins Pot (2850) with a Full House
+No low hand qualified
+diamond finishes tournament in place #3 and wins 400 chips
+** Deck ** [Kc 6d 9s Kd 2d Kh Th Ad 9d 3s 7d Ac 5d Ks 8c 5h Qd]
+
+Hand #135396-14 - 2017-07-13 06:08:50
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: betong (3825)
+Seat 4: CoinDoctor (2175)
+betong has the dealer button
+betong posts small blind 75
+CoinDoctor posts big blind 150
+** Hole Cards ** [2 players]
+betong raises to 3825 (All-in)
+CoinDoctor calls 2025 (All-in)
+betong refunded 1650
+** Flop ** [6s Tc Ts]
+** Turn ** [2s]
+** River ** [2d]
+** Pot Show Down ** [6s Tc Ts 2s 2d]
+betong shows [6d 8d 3s Kh] (Hi: Two Pair, Tens and Sixes +K  Lo: None)
+CoinDoctor shows [Qs 8s Qd Ks] (Hi: a Flush, King high +QT62  Lo: None)
+CoinDoctor wins Pot (4350) with a Flush
+No low hand qualified
+** Deck ** [Qs 6d 8s 8d Qd 3s Ks Kh 6s Tc Ts 2s 2d]
+
+Hand #135397-15 - 2017-07-13 06:09:11
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: betong (1650)
+Seat 4: CoinDoctor (4350)
+CoinDoctor has the dealer button
+CoinDoctor posts small blind 75
+betong posts big blind 150
+** Hole Cards ** [2 players]
+CoinDoctor raises to 4350 (All-in)
+betong calls 1500 (All-in)
+CoinDoctor refunded 2700
+** Flop ** [Js Qh 2d]
+** Turn ** [9d]
+** River ** [Ah]
+** Pot Show Down ** [Js Qh 2d 9d Ah]
+betong shows [Qc 3s 6c 6s] (Hi: a Pair of Queens +AJ6  Lo: None)
+CoinDoctor shows [4s 2c Ad 8c] (Hi: Two Pair, Aces and Deuces +Q  Lo: None)
+CoinDoctor wins Pot (3300) with Two Pair
+No low hand qualified
+betong finishes tournament in place #2 and wins 600 chips
+CoinDoctor finishes tournament in place #1 and wins 1000 chips
+** Deck ** [Qc 4s 3s 2c 6c Ad 6s 8c Js Qh 2d 9d Ah]
+
+Starting tournament 2550
+
+Hand #135422-1 - 2017-07-13 10:00:31
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1500) - sitting out
+Seat 2: AlphaWolf (1500)
+Seat 3: brokedummy (1500)
+Seat 4: Arpetuos (1500)
+Seat 5: jackpot (1500) - sitting out
+tuan has the dealer button
+AlphaWolf posts small blind 25
+brokedummy posts big blind 50
+** Hole Cards ** [5 players]
+Arpetuos raises to 1500 (All-in)
+jackpot folds
+tuan folds
+AlphaWolf folds
+brokedummy folds
+Arpetuos refunded 1450
+Arpetuos wins Pot (125)
+** Deck ** [2s 8d 7d Jd 6h 7c 5d Ad 6d 2d 2h Ts 7h 8s Th 4s 8c Js As Kc]
+
+Hand #135423-2 - 2017-07-13 10:01:04
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1500) - sitting out
+Seat 2: AlphaWolf (1475)
+Seat 3: brokedummy (1450)
+Seat 4: Arpetuos (1575)
+Seat 5: jackpot (1500)
+AlphaWolf has the dealer button
+brokedummy posts small blind 25
+Arpetuos posts big blind 50
+** Hole Cards ** [5 players]
+jackpot folds
+tuan calls 50
+AlphaWolf calls 50
+brokedummy calls 25
+Arpetuos raises to 100
+tuan calls 50
+AlphaWolf calls 50
+brokedummy calls 50
+** Flop ** [8d 8s Kc]
+brokedummy checks
+Arpetuos bets 266
+tuan folds
+AlphaWolf folds
+brokedummy raises to 750
+Arpetuos calls 484
+** Turn ** [6d]
+brokedummy bets 600 (All-in)
+Arpetuos folds
+brokedummy refunded 600
+brokedummy wins Pot (1900)
+** Deck ** [7h 7s Jd As 7c 8c Qs 4h Qh 9s Ac 9d Qc 3d 9h 5c Kh 4s 4d 5d 8d 8s Kc 6d]
+
+Hand #135424-3 - 2017-07-13 10:02:19
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1400)
+Seat 2: AlphaWolf (1375)
+Seat 3: brokedummy (2500)
+Seat 4: Arpetuos (725)
+Seat 5: jackpot (1500)
+brokedummy has the dealer button
+Arpetuos posts small blind 25
+jackpot posts big blind 50
+** Hole Cards ** [5 players]
+tuan raises to 175
+AlphaWolf folds
+brokedummy folds
+Arpetuos folds
+jackpot calls 125
+** Flop ** [2h 9s Js]
+jackpot checks
+tuan bets 250
+jackpot calls 250
+** Turn ** [2c]
+jackpot checks
+tuan checks
+** River ** [Ah]
+jackpot checks
+tuan checks
+** Pot Show Down ** [2h 9s Js 2c Ah]
+tuan shows [As Td 5s 9c] (Hi: Two Pair, Aces and Nines +J  Lo: None)
+jackpot shows [4s Ac 3c Kd] (Hi: Two Pair, Aces and Deuces +K  Lo: None)
+tuan wins Pot (875) with Two Pair
+No low hand qualified
+** Deck ** [3h 4s As Qc Kc 6s Ac Td Ad 4d Qd 3c 5s 6c Qh 7d Kd 9c 6h Th 2h 9s Js 2c Ah]
+
+Hand #135425-4 - 2017-07-13 10:03:18
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1850)
+Seat 2: AlphaWolf (1375)
+Seat 3: brokedummy (2500)
+Seat 4: Arpetuos (700)
+Seat 5: jackpot (1075)
+Arpetuos has the dealer button
+jackpot posts small blind 25
+tuan posts big blind 50
+** Hole Cards ** [5 players]
+AlphaWolf calls 50
+brokedummy folds
+Arpetuos raises to 225
+jackpot folds
+tuan folds
+AlphaWolf raises to 750
+Arpetuos calls 475 (All-in)
+AlphaWolf refunded 50
+** Flop ** [Jd 9c 9s]
+** Turn ** [4s]
+** River ** [5d]
+** Pot Show Down ** [Jd 9c 9s 4s 5d]
+AlphaWolf shows [8c 2h 5s Ah] (Hi: Two Pair, Nines and Fives +A  Lo: None)
+Arpetuos shows [Ks Ac Ad 4h] (Hi: Two Pair, Aces and Nines +J  Lo: None)
+Arpetuos wins Pot (1475) with Two Pair
+No low hand qualified
+** Deck ** [Qc 3c 8c 7s Ks 5h 6h 2h 9h Ac 4d Td 5s 7c Ad 8s Qh Ah Jh 4h Jd 9c 9s 4s 5d]
+
+Hand #135426-5 - 2017-07-13 10:03:57
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (1800)
+Seat 2: AlphaWolf (675)
+Seat 3: brokedummy (2500)
+Seat 4: Arpetuos (1475)
+Seat 5: jackpot (1050)
+jackpot has the dealer button
+tuan posts small blind 50
+AlphaWolf posts big blind 100
+** Hole Cards ** [5 players]
+brokedummy folds
+Arpetuos folds
+jackpot calls 100
+tuan calls 50
+AlphaWolf checks
+** Flop ** [3h 5d Qd]
+tuan bets 300
+AlphaWolf folds
+jackpot calls 300
+** Turn ** [Ac]
+tuan bets 900
+jackpot calls 650 (All-in)
+tuan refunded 250
+** River ** [3c]
+** Pot Show Down ** [3h 5d Qd Ac 3c]
+tuan shows [8d 2d Ah Jh] (Hi: Two Pair, Aces and Threes +J  Lo: 8532A)
+jackpot shows [Qc 2h 9c 4h] (Hi: a Straight, Ace to Five  Lo: 5432A)
+jackpot wins Hi Pot (1100) with a Straight
+jackpot wins Lo Pot (1100) with 5432A
+** Deck ** [8d As Qs 3d Qc 2d 9d 8s 4s 2h Ah Ks 7d Ts 9c Jh 7s 4d 7h 4h 3h 5d Qd Ac 3c]
+
+Hand #135427-6 - 2017-07-13 10:05:23
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tuan (750)
+Seat 2: AlphaWolf (575)
+Seat 3: brokedummy (2500)
+Seat 4: Arpetuos (1475)
+Seat 5: jackpot (2200)
+tuan has the dealer button
+AlphaWolf posts small blind 50
+brokedummy posts big blind 100
+** Hole Cards ** [5 players]
+Arpetuos raises to 350
+jackpot folds
+tuan calls 350
+AlphaWolf calls 300
+brokedummy raises to 2500 (All-in)
+Arpetuos calls 1125 (All-in)
+tuan calls 400 (All-in)
+AlphaWolf folds
+brokedummy refunded 1025
+** Flop ** [2s 6c 7h]
+** Turn ** [Qd]
+** River ** [2h]
+** Side Pot 1 Show Down ** [2s 6c 7h Qd 2h]
+brokedummy shows [Jd 2c Ah 4h] (Hi: Three of a Kind, Deuces +AQ  Lo: 7642A)
+Arpetuos shows [3s Ts Ad Kd] (Hi: a Pair of Deuces +AKQ  Lo: 7632A)
+brokedummy wins Hi Side Pot 1 (725) with Three of a Kind
+Arpetuos wins Lo Side Pot 1 (725) with 7632A
+** Main Pot Show Down ** [2s 6c 7h Qd 2h]
+tuan shows [Tc Qh 9c 6h] (Hi: Two Pair, Queens and Sixes +7  Lo: None)
+brokedummy wins Hi Main Pot (1300) with Three of a Kind
+Arpetuos wins Lo Main Pot (1300) with 7632A
+tuan finishes tournament in place #5
+** Deck ** [5d Jd 3s 5c Tc 7s 2c Ts 3c Qh As Ah Ad Jh 9c 3h 4h Kd 4c 6h 2s 6c 7h Qd 2h]
+
+Hand #135428-7 - 2017-07-13 10:06:10
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: AlphaWolf (225)
+Seat 3: brokedummy (3050)
+Seat 4: Arpetuos (2025)
+Seat 5: jackpot (2200)
+AlphaWolf has the dealer button
+brokedummy posts small blind 50
+Arpetuos posts big blind 100
+** Hole Cards ** [4 players]
+jackpot folds
+AlphaWolf raises to 200
+brokedummy calls 150
+Arpetuos calls 100
+** Flop ** [Ks 8h 2h]
+brokedummy checks
+Arpetuos bets 300
+AlphaWolf calls 25 (All-in)
+brokedummy raises to 2850 (All-in)
+Arpetuos calls 1525 (All-in)
+brokedummy refunded 1025
+** Turn ** [2d]
+** River ** [7d]
+** Side Pot 1 Show Down ** [Ks 8h 2h 2d 7d]
+brokedummy shows [7c Kh 3h 5d] (Hi: Two Pair, Kings and Sevens +8  Lo: 87532)
+Arpetuos shows [Kd 3s Ac 4c] (Hi: Two Pair, Kings and Deuces +A  Lo: 8732A)
+brokedummy wins Hi Side Pot 1 (1800) with Two Pair
+Arpetuos wins Lo Side Pot 1 (1800) with 8732A
+** Main Pot Show Down ** [Ks 8h 2h 2d 7d]
+AlphaWolf shows [9h Tc Js Qs] (Hi: a Pair of Deuces +KQJ  Lo: None)
+brokedummy wins Hi Main Pot (338) with Two Pair
+Arpetuos wins Lo Main Pot (337) with 8732A
+AlphaWolf finishes tournament in place #4 and wins 200 chips
+** Deck ** [7c Kd 7s 9h Kh 3s 4d Tc 3h Ac Ts Js 5d 4c 8c Qs Ks 8h 2h 2d 7d]
+
+Hand #135429-8 - 2017-07-13 10:07:27
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (3163)
+Seat 4: Arpetuos (2137)
+Seat 5: jackpot (2200)
+brokedummy has the dealer button
+Arpetuos posts small blind 75
+jackpot posts big blind 150
+** Hole Cards ** [3 players]
+brokedummy raises to 300
+Arpetuos calls 225
+jackpot calls 150
+** Flop ** [Qd 2s 8s]
+Arpetuos checks
+jackpot bets 1900 (All-in)
+brokedummy folds
+Arpetuos folds
+jackpot refunded 1900
+jackpot wins Pot (900)
+** Deck ** [Ac 2c 7s Ts Qs Ad 8d 2h Kd Jh 3c 7h Qd 2s 8s]
+
+Hand #135430-9 - 2017-07-13 10:08:09
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (2863)
+Seat 4: Arpetuos (1837)
+Seat 5: jackpot (2800)
+Arpetuos has the dealer button
+jackpot posts small blind 75
+brokedummy posts big blind 150
+** Hole Cards ** [3 players]
+Arpetuos calls 150
+jackpot folds
+brokedummy checks
+** Flop ** [3s Tc 5h]
+brokedummy checks
+Arpetuos bets 150
+brokedummy calls 150
+** Turn ** [7c]
+brokedummy checks
+Arpetuos checks
+** River ** [Qc]
+brokedummy checks
+Arpetuos checks
+** Pot Show Down ** [3s Tc 5h 7c Qc]
+brokedummy shows [Ad 7h 9h 8h] (Hi: a Pair of Sevens +AQT  Lo: 8753A)
+Arpetuos shows [Js Ks 6s 5c] (Hi: a Pair of Fives +KQT  Lo: None)
+brokedummy wins Hi Pot (338) with a Pair
+brokedummy wins Lo Pot (337) with 8753A
+** Deck ** [7d Ad Js 2c 7h Ks 9d 9h 6s Qd 8h 5c 3s Tc 5h 7c Qc]
+
+Hand #135431-10 - 2017-07-13 10:09:23
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (3238)
+Seat 4: Arpetuos (1537)
+Seat 5: jackpot (2725)
+jackpot has the dealer button
+brokedummy posts small blind 75
+Arpetuos posts big blind 150
+** Hole Cards ** [3 players]
+jackpot calls 150
+brokedummy calls 75
+Arpetuos checks
+** Flop ** [5d 3d Qc]
+brokedummy checks
+Arpetuos checks
+jackpot checks
+** Turn ** [Kd]
+brokedummy checks
+Arpetuos checks
+jackpot checks
+** River ** [2h]
+brokedummy checks
+Arpetuos checks
+jackpot checks
+** Pot Show Down ** [5d 3d Qc Kd 2h]
+brokedummy shows [Jd Js Th 6c] (Hi: a Pair of Jacks +KQ5  Lo: None)
+Arpetuos shows [5c 9c 8h 7h] (Hi: a Pair of Fives +KQ9  Lo: 87532)
+jackpot shows [4d Kh 9s 3c] (Hi: Two Pair, Kings and Threes +Q  Lo: None)
+jackpot wins Hi Pot (225) with Two Pair
+Arpetuos wins Lo Pot (225) with 87532
+** Deck ** [Jd 5c 4d Js 9c Kh Th 8h 9s 6c 7h 3c 5d 3d Qc Kd 2h]
+
+Hand #135432-11 - 2017-07-13 10:10:03
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (3088)
+Seat 4: Arpetuos (1612)
+Seat 5: jackpot (2800)
+brokedummy has the dealer button
+Arpetuos posts small blind 100
+jackpot posts big blind 200
+** Hole Cards ** [3 players]
+brokedummy calls 200
+Arpetuos raises to 1612 (All-in)
+jackpot has timed out
+jackpot folds
+brokedummy calls 1412
+** Flop ** [8h 6d 8c]
+** Turn ** [8d]
+** River ** [Ks]
+** Pot Show Down ** [8h 6d 8c 8d Ks]
+brokedummy shows [4d As Jc 5d] (Hi: Three of a Kind, Eights +AJ  Lo: None)
+Arpetuos shows [Kh 4s Tc Qh] (Hi: Three of a Kind, Eights +KQ  Lo: None)
+brokedummy wins Pot (3424) with Three of a Kind
+No low hand qualified
+Arpetuos finishes tournament in place #3 and wins 400 chips
+** Deck ** [Kh 5s 4d 4s Td As Tc 9h Jc Qh 8s 5d 8h 6d 8c 8d Ks]
+
+Hand #135433-12 - 2017-07-13 10:11:02
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (4900)
+Seat 5: jackpot (2600)
+jackpot has the dealer button
+jackpot posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+jackpot calls 100
+brokedummy checks
+** Flop ** [8h 7h Th]
+brokedummy checks
+jackpot bets 200
+brokedummy calls 200
+** Turn ** [8d]
+brokedummy checks
+jackpot bets 200
+brokedummy raises to 4500 (All-in)
+jackpot folds and shows [5d 9d 3d Jc]
+brokedummy refunded 4300
+brokedummy wins Pot (1200)
+** Deck ** [Qc 5d Kh 9d 8s 3d Ts Jc 8h 7h Th 8d]
+
+Hand #135434-13 - 2017-07-13 10:11:50
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (5500)
+Seat 5: jackpot (2000)
+brokedummy has the dealer button
+brokedummy posts small blind 100
+jackpot posts big blind 200
+** Hole Cards ** [2 players]
+brokedummy calls 100
+jackpot checks
+** Flop ** [Js Kc 6d]
+jackpot bets 800
+brokedummy raises to 5300 (All-in)
+jackpot calls 1000 (All-in)
+brokedummy refunded 3500
+** Turn ** [8h]
+** River ** [2s]
+** Pot Show Down ** [Js Kc 6d 8h 2s]
+brokedummy shows [9s Jc Ac Jd] (Hi: Three of a Kind, Jacks +K8  Lo: None)
+jackpot shows [Td Ks 5h 7s] (Hi: a Pair of Kings +JT8  Lo: 87652)
+brokedummy wins Hi Pot (2000) with Three of a Kind
+jackpot wins Lo Pot (2000) with 87652
+** Deck ** [Td 9s Ks Jc 5h Ac 7s Jd Js Kc 6d 8h 2s]
+
+Hand #135435-14 - 2017-07-13 10:12:32
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (5500)
+Seat 5: jackpot (2000)
+jackpot has the dealer button
+brokedummy posts ante 25
+jackpot posts ante 25
+jackpot posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+jackpot calls 100
+brokedummy checks
+** Flop ** [4c Ks Jh]
+brokedummy bets 5275 (All-in)
+jackpot folds
+brokedummy refunded 5275
+brokedummy wins Pot (450)
+** Deck ** [Kd Qh 4s 7d Jd 3s 8h 9s 4c Ks Jh]
+
+Hand #135436-15 - 2017-07-13 10:12:59
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (5725)
+Seat 5: jackpot (1775)
+brokedummy has the dealer button
+brokedummy posts ante 25
+jackpot posts ante 25
+brokedummy posts small blind 100
+jackpot posts big blind 200
+** Hole Cards ** [2 players]
+brokedummy raises to 650
+jackpot folds
+brokedummy refunded 450
+brokedummy wins Pot (450)
+** Deck ** [Tc 7s 9h As 2c 4c 2d 5h]
+
+Hand #135437-16 - 2017-07-13 10:13:16
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (5950)
+Seat 5: jackpot (1550)
+jackpot has the dealer button
+brokedummy posts ante 25
+jackpot posts ante 25
+jackpot posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+jackpot raises to 1525 (All-in)
+brokedummy has timed out
+brokedummy folds
+jackpot refunded 1325
+jackpot wins Pot (450)
+** Deck ** [Th 8s 6c 7d 4s Ah 5c 3h]
+
+Hand #135438-17 - 2017-07-13 10:14:00
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (5725)
+Seat 5: jackpot (1775)
+brokedummy has the dealer button
+brokedummy posts ante 25
+jackpot posts ante 25
+brokedummy posts small blind 100
+jackpot posts big blind 200
+** Hole Cards ** [2 players]
+brokedummy calls 100
+jackpot checks
+** Flop ** [Ah Kc Ts]
+jackpot checks
+brokedummy checks
+** Turn ** [9h]
+jackpot checks
+brokedummy checks
+** River ** [6c]
+jackpot checks
+brokedummy checks
+** Pot Show Down ** [Ah Kc Ts 9h 6c]
+brokedummy shows [6s Qh 5d 9s] (Hi: Two Pair, Nines and Sixes +A  Lo: None)
+jackpot shows [5h 7d 3c 3h] (Hi: a Pair of Threes +AKT  Lo: None)
+brokedummy wins Pot (450) with Two Pair
+No low hand qualified
+** Deck ** [5h 6s 7d Qh 3c 5d 3h 9s Ah Kc Ts 9h 6c]
+
+Hand #135439-18 - 2017-07-13 10:14:46
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (5950)
+Seat 5: jackpot (1550)
+jackpot has the dealer button
+brokedummy posts ante 25
+jackpot posts ante 25
+jackpot posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+jackpot raises to 1525 (All-in)
+brokedummy calls 1325
+** Flop ** [8h 4d Qc]
+** Turn ** [5h]
+** River ** [6d]
+** Pot Show Down ** [8h 4d Qc 5h 6d]
+brokedummy shows [5d Jh 4h 2d] (Hi: Two Pair, Fives and Fours +Q  Lo: 86542)
+jackpot shows [8d 9c Qh As] (Hi: Two Pair, Queens and Eights +6  Lo: 8654A)
+jackpot wins Hi Pot (1550) with Two Pair
+jackpot wins Lo Pot (1550) with 8654A
+** Deck ** [5d 8d Jh 9c 4h Qh 2d As 8h 4d Qc 5h 6d]
+
+Hand #135440-19 - 2017-07-13 10:15:07
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (4400)
+Seat 5: jackpot (3100)
+brokedummy has the dealer button
+brokedummy posts ante 25
+jackpot posts ante 25
+brokedummy posts small blind 100
+jackpot posts big blind 200
+** Hole Cards ** [2 players]
+brokedummy raises to 4375 (All-in)
+jackpot folds
+brokedummy refunded 4175
+brokedummy wins Pot (450)
+** Deck ** [9h Jc Qc Qd 6s 5d 2d As]
+
+Hand #135441-20 - 2017-07-13 10:15:24
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (4625)
+Seat 5: jackpot (2875)
+jackpot has the dealer button
+brokedummy posts ante 25
+jackpot posts ante 25
+jackpot posts small blind 100
+brokedummy posts big blind 200
+** Hole Cards ** [2 players]
+jackpot raises to 2850 (All-in)
+brokedummy calls 2650
+** Flop ** [Ks 3c Jd]
+** Turn ** [5c]
+** River ** [6h]
+** Pot Show Down ** [Ks 3c Jd 5c 6h]
+brokedummy shows [Qh Ad Td Th] (Hi: a Pair of Tens +KJ6  Lo: None)
+jackpot shows [Ts 7s As 7h] (Hi: a Pair of Sevens +KJ6  Lo: 7653A)
+brokedummy wins Hi Pot (2875) with a Pair
+jackpot wins Lo Pot (2875) with 7653A
+** Deck ** [Qh Ts Ad 7s Td As Th 7h Ks 3c Jd 5c 6h]
+
+Hand #135442-21 - 2017-07-13 10:15:47
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (4625)
+Seat 5: jackpot (2875)
+brokedummy has the dealer button
+brokedummy posts ante 25
+jackpot posts ante 25
+brokedummy posts small blind 200
+jackpot posts big blind 400
+** Hole Cards ** [2 players]
+brokedummy calls 200
+jackpot checks
+** Flop ** [As Qc 5s]
+jackpot bets 400
+brokedummy folds
+jackpot refunded 400
+jackpot wins Pot (850)
+** Deck ** [2s 4c 5h 5c 6d Ts Js 8d As Qc 5s]
+
+Hand #135443-22 - 2017-07-13 10:16:15
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (4200)
+Seat 5: jackpot (3300)
+jackpot has the dealer button
+brokedummy posts ante 25
+jackpot posts ante 25
+jackpot posts small blind 200
+brokedummy posts big blind 400
+** Hole Cards ** [2 players]
+jackpot raises to 3275 (All-in)
+brokedummy calls 2875
+** Flop ** [Qh 5c Td]
+** Turn ** [3c]
+** River ** [Kh]
+** Pot Show Down ** [Qh 5c Td 3c Kh]
+brokedummy shows [6c Ks 8h 8s] (Hi: a Pair of Kings +QT8  Lo: None)
+jackpot shows [Ac Js Jd 3d] (Hi: a Straight, Ten to Ace  Lo: None)
+jackpot wins Pot (6600) with a Straight
+No low hand qualified
+** Deck ** [6c Ac Ks Js 8h Jd 8s 3d Qh 5c Td 3c Kh]
+
+Hand #135444-23 - 2017-07-13 10:16:39
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (900)
+Seat 5: jackpot (6600)
+brokedummy has the dealer button
+brokedummy posts ante 25
+jackpot posts ante 25
+brokedummy posts small blind 200
+jackpot posts big blind 400
+** Hole Cards ** [2 players]
+brokedummy raises to 875 (All-in)
+jackpot calls 475
+** Flop ** [9s 5d 7d]
+** Turn ** [9d]
+** River ** [5h]
+** Pot Show Down ** [9s 5d 7d 9d 5h]
+brokedummy shows [4d 6d 6c 3s] (Hi: a Flush, Nine high +7654  Lo: None)
+jackpot shows [Qc Th 4s Ks] (Hi: a Pair of Nines +KQ7  Lo: None)
+brokedummy wins Pot (1800) with a Flush
+No low hand qualified
+** Deck ** [Qc 4d Th 6d 4s 6c Ks 3s 9s 5d 7d 9d 5h]
+
+Hand #135445-24 - 2017-07-13 10:17:00
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 3: brokedummy (1800)
+Seat 5: jackpot (5700)
+jackpot has the dealer button
+brokedummy posts ante 25
+jackpot posts ante 25
+jackpot posts small blind 200
+brokedummy posts big blind 400
+** Hole Cards ** [2 players]
+jackpot calls 200
+brokedummy raises to 1775 (All-in)
+jackpot calls 1375
+** Flop ** [4h 8s 5c]
+** Turn ** [3d]
+** River ** [Kd]
+** Pot Show Down ** [4h 8s 5c 3d Kd]
+brokedummy shows [6h Jh Jd 3h] (Hi: a Pair of Jacks +K85  Lo: 86543)
+jackpot shows [3c 2h Ks 7c] (Hi: Two Pair, Kings and Threes +8  Lo: 75432)
+jackpot wins Hi Pot (1800) with Two Pair
+jackpot wins Lo Pot (1800) with 75432
+brokedummy finishes tournament in place #2 and wins 600 chips
+jackpot finishes tournament in place #1 and wins 800 chips
+** Deck ** [6h 3c Jh 2h Jd Ks 3h 7c 4h 8s 5c 3d Kd]
+
+Starting tournament 2554
+
+Hand #135560-1 - 2017-07-13 14:00:31
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tagailog (1500)
+Seat 2: NuGgetZ1 (1500) - sitting out
+Seat 3: just_Alice (1500)
+Seat 4: ROBERTO (1500)
+tagailog has the dealer button
+NuGgetZ1 posts small blind 25
+just_Alice posts big blind 50
+** Hole Cards ** [4 players]
+ROBERTO folds
+tagailog folds
+NuGgetZ1 raises to 1500 (All-in)
+just_Alice calls 1450 (All-in)
+** Flop ** [Qd Kd 6c]
+** Turn ** [Jh]
+** River ** [3c]
+** Pot Show Down ** [Qd Kd 6c Jh 3c]
+NuGgetZ1 shows [Kc 3d Ac 8d] (Hi: Two Pair, Kings and Threes +Q  Lo: None)
+just_Alice shows [As Ah 3h 7s] (Hi: a Pair of Aces +KQJ  Lo: None)
+NuGgetZ1 wins Pot (3000) with Two Pair
+No low hand qualified
+just_Alice finishes tournament in place #7
+** Deck ** [Kc As 6h 7d 3d Ah Qh 5d Ac 3h Ts 6s 8d 7s 8s 7c Qd Kd 6c Jh 3c]
+
+Hand #135563-2 - 2017-07-13 14:02:17
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tagailog (1500)
+Seat 2: NuGgetZ1 (3000)
+Seat 4: ROBERTO (1500)
+NuGgetZ1 has the dealer button
+ROBERTO posts small blind 25
+tagailog posts big blind 50
+** Hole Cards ** [3 players]
+jackpot moved from Table 2
+diamond moved from Table 2
+CoinDoctor moved from Table 2
+NuGgetZ1 has timed out
+NuGgetZ1 folds
+ROBERTO folds
+tagailog refunded 25
+tagailog wins Pot (50)
+** Deck ** [Jc Ah Ac 9s 5s 7c 8s 6c 2h 3h Js 8c]
+
+Hand #135564-3 - 2017-07-13 14:03:25
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tagailog (1525)
+Seat 2: NuGgetZ1 (3000)
+Seat 3: jackpot (1525)
+Seat 4: ROBERTO (1475)
+Seat 5: diamond (1550)
+Seat 6: CoinDoctor (1425)
+ROBERTO has the dealer button
+diamond plays after the button
+CoinDoctor plays after the button
+tagailog posts small blind 25
+NuGgetZ1 posts big blind 50
+** Hole Cards ** [4 players]
+jackpot folds
+ROBERTO folds
+tagailog folds
+NuGgetZ1 refunded 25
+NuGgetZ1 wins Pot (50)
+** Deck ** [Kc 2c Ks 4d 9d Jh Tc Th 3h Td 5h 2s 6s 5d 8d 7c]
+
+Hand #135565-4 - 2017-07-13 14:03:48
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tagailog (1500)
+Seat 2: NuGgetZ1 (3025)
+Seat 3: jackpot (1525)
+Seat 4: ROBERTO (1475)
+Seat 5: diamond (1550)
+Seat 6: CoinDoctor (1425)
+tagailog has the dealer button
+NuGgetZ1 posts small blind 50
+jackpot posts big blind 100
+** Hole Cards ** [6 players]
+ROBERTO folds
+diamond folds
+CoinDoctor calls 100
+tagailog folds
+NuGgetZ1 calls 50
+jackpot checks
+** Flop ** [2s 6h Ah]
+NuGgetZ1 bets 100
+jackpot calls 100
+CoinDoctor calls 100
+** Turn ** [4d]
+NuGgetZ1 checks
+jackpot checks
+CoinDoctor checks
+** River ** [Ks]
+NuGgetZ1 bets 600
+jackpot folds
+CoinDoctor raises to 1225 (All-in)
+NuGgetZ1 calls 625
+** Pot Show Down ** [2s 6h Ah 4d Ks]
+NuGgetZ1 shows [Jh 5h 8s 6d] (Hi: a Pair of Sixes +AKJ  Lo: 6542A)
+CoinDoctor shows [As Ts 3h Qd] (Hi: a Pair of Aces +KQ6  Lo: 6432A)
+CoinDoctor wins Hi Pot (1525) with a Pair
+CoinDoctor wins Lo Pot (1525) with 6432A
+** Deck ** [Jh Kh 3d 4s As 4h 5h Qh 9h 2d Ts 8d 8s Jd 7h Kd 3h 6s 6d 9c 5s Qs Qd Th 2s 6h Ah 4d Ks]
+
+Hand #135566-5 - 2017-07-13 14:05:55
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tagailog (1500)
+Seat 2: NuGgetZ1 (1600)
+Seat 3: jackpot (1325)
+Seat 4: ROBERTO (1475)
+Seat 5: diamond (1550)
+Seat 6: CoinDoctor (3050)
+NuGgetZ1 has the dealer button
+jackpot posts small blind 50
+ROBERTO posts big blind 100
+** Hole Cards ** [6 players]
+diamond folds
+CoinDoctor calls 100
+tagailog calls 100
+NuGgetZ1 raises to 1600 (All-in)
+jackpot has timed out
+jackpot folds
+ROBERTO folds
+CoinDoctor raises to 3050 (All-in)
+tagailog folds
+CoinDoctor refunded 1450
+** Flop ** [4c 9c 7s]
+** Turn ** [9h]
+** River ** [7c]
+** Pot Show Down ** [4c 9c 7s 9h 7c]
+NuGgetZ1 shows [Kh 6c Ah Ac] (Hi: a Flush, Ace high +9764  Lo: None)
+CoinDoctor shows [Tc Jc Qc Qs] (Hi: a Flush, Queen high +J974  Lo: None)
+NuGgetZ1 wins Pot (3450) with a Flush
+No low hand qualified
+** Deck ** [5d 7d 4d Tc 6s Kh 3c 2c 2h Jc Ks 6c 6d 7h 8c Qc Qd Ah Ts 8d Ad Qs Js Ac 4c 9c 7s 9h 7c]
+
+Hand #135567-6 - 2017-07-13 14:08:26
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tagailog (1400)
+Seat 2: NuGgetZ1 (3450)
+Seat 3: jackpot (1275) - sitting out
+Seat 4: ROBERTO (1375)
+Seat 5: diamond (1550)
+Seat 6: CoinDoctor (1450)
+jackpot has the dealer button
+ROBERTO posts small blind 75
+diamond posts big blind 150
+** Hole Cards ** [6 players]
+CoinDoctor raises to 1450 (All-in)
+tagailog folds
+NuGgetZ1 folds
+jackpot folds
+ROBERTO folds
+diamond folds
+CoinDoctor refunded 1300
+CoinDoctor wins Pot (375)
+** Deck ** [4d Td Ah 3c Ks 9c Jd 6c 2h 4s 8h 5c 5h 2s Jc 3h 4h Jh Ts As Qh 2c Qd Js]
+
+Hand #135568-7 - 2017-07-13 14:09:07
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tagailog (1400)
+Seat 2: NuGgetZ1 (3450)
+Seat 3: jackpot (1275) - sitting out
+Seat 4: ROBERTO (1300)
+Seat 5: diamond (1400)
+Seat 6: CoinDoctor (1675)
+ROBERTO has the dealer button
+diamond posts small blind 75
+CoinDoctor posts big blind 150
+** Hole Cards ** [6 players]
+tagailog folds
+NuGgetZ1 folds
+jackpot folds
+ROBERTO calls 150
+diamond folds
+CoinDoctor checks
+** Flop ** [6h 9d 8h]
+CoinDoctor bets 150
+ROBERTO calls 150
+** Turn ** [6s]
+CoinDoctor checks
+ROBERTO checks
+** River ** [2h]
+CoinDoctor bets 150
+ROBERTO calls 150
+** Pot Show Down ** [6h 9d 8h 6s 2h]
+ROBERTO shows [3d Ac 9h 3c] (Hi: Two Pair, Nines and Sixes +A  Lo: 8632A)
+CoinDoctor shows [Jd 8d 4h Kh] (Hi: a Flush, King high +8642  Lo: None)
+CoinDoctor wins Hi Pot (488) with a Flush
+ROBERTO wins Lo Pot (487) with 8632A
+** Deck ** [3h Jd Th Kd Tc 3d Ah 8d 9s 8c 7c Ac Jc 4h 7s 2d Ks 9h 7d Kh Ts 5c 6c 3c 6h 9d 8h 6s 2h]
+
+Hand #135569-8 - 2017-07-13 14:10:02
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: tagailog (1400)
+Seat 2: NuGgetZ1 (3450)
+Seat 3: jackpot (1275) - sitting out
+Seat 4: ROBERTO (1337)
+Seat 5: diamond (1325)
+Seat 6: CoinDoctor (1713)
+diamond has the dealer button
+CoinDoctor posts small blind 100
+tagailog posts big blind 200
+** Hole Cards ** [6 players]
+NuGgetZ1 raises to 3450 (All-in)
+jackpot folds
+ROBERTO folds
+diamond folds
+CoinDoctor folds
+tagailog calls 1200 (All-in)
+NuGgetZ1 refunded 2050
+** Flop ** [2h Ad Qd]
+** Turn ** [Ac]
+** River ** [Qc]
+** Pot Show Down ** [2h Ad Qd Ac Qc]
+tagailog shows [Kh 9c Jd Jc] (Hi: Two Pair, Aces and Jacks +Q  Lo: None)
+NuGgetZ1 shows [8d Qh 3s Ks] (Hi: Three of a Kind, Queens +AK  Lo: None)
+NuGgetZ1 wins Pot (2900) with Three of a Kind
+No low hand qualified
+tagailog finishes tournament in place #6
+** Deck ** [Kc Kh 8d Js 7s 6c 2d 9c Qh 8s Jh 4s 6d Jd 3s Td Th Ts 5s Jc Ks Ah 7h 5c 2h Ad Qd Ac Qc]
+
+Hand #135570-9 - 2017-07-13 14:10:43
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (4950)
+Seat 3: jackpot (1275) - sitting out
+Seat 4: ROBERTO (1337)
+Seat 5: diamond (1325)
+Seat 6: CoinDoctor (1613)
+CoinDoctor has the dealer button
+NuGgetZ1 posts small blind 100
+jackpot posts big blind 200
+** Hole Cards ** [5 players]
+ROBERTO folds
+diamond folds
+CoinDoctor calls 200
+NuGgetZ1 calls 100
+jackpot folds
+** Flop ** [2c 5c 2s]
+NuGgetZ1 checks
+CoinDoctor bets 200
+NuGgetZ1 calls 200
+** Turn ** [Kc]
+NuGgetZ1 checks
+CoinDoctor bets 400
+NuGgetZ1 folds
+CoinDoctor refunded 400
+CoinDoctor wins Pot (1000)
+** Deck ** [3s Kd 5s 2d 4d 8c 8h Kh Jc Qs 9h Qd Qc 3d Jd Js 9s 6s 8s Tc 2c 5c 2s Kc]
+
+Hand #135571-10 - 2017-07-13 14:12:44
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (4550)
+Seat 3: jackpot (1075) - sitting out
+Seat 4: ROBERTO (1337)
+Seat 5: diamond (1325)
+Seat 6: CoinDoctor (2213)
+NuGgetZ1 has the dealer button
+NuGgetZ1 posts ante 25
+jackpot posts ante 25
+ROBERTO posts ante 25
+diamond posts ante 25
+CoinDoctor posts ante 25
+jackpot posts small blind 100
+ROBERTO posts big blind 200
+** Hole Cards ** [5 players]
+diamond folds
+CoinDoctor folds
+NuGgetZ1 folds
+jackpot folds
+ROBERTO refunded 100
+ROBERTO wins Pot (325)
+** Deck ** [6d 8s 2d 2c Kh 8c 5h 9d 7c 6s 9h 2s Ks Ts 3h 4c 3s 8d 7d 7s]
+
+Hand #135572-11 - 2017-07-13 14:13:17
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (4525)
+Seat 3: jackpot (950) - sitting out
+Seat 4: ROBERTO (1537)
+Seat 5: diamond (1300)
+Seat 6: CoinDoctor (2188)
+jackpot has the dealer button
+NuGgetZ1 posts ante 25
+jackpot posts ante 25
+ROBERTO posts ante 25
+diamond posts ante 25
+CoinDoctor posts ante 25
+ROBERTO posts small blind 100
+diamond posts big blind 200
+** Hole Cards ** [5 players]
+CoinDoctor raises to 400
+NuGgetZ1 folds
+jackpot folds
+ROBERTO folds
+diamond folds
+CoinDoctor refunded 200
+CoinDoctor wins Pot (625)
+** Deck ** [5s 3s Kd 9c Qc 6s 6c Ac 4s Jh Ks 8c 2s Ts As Jd Ah Td 7s 6h]
+
+Hand #135573-12 - 2017-07-13 14:13:57
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (4500)
+Seat 3: jackpot (925) - sitting out
+Seat 4: ROBERTO (1412)
+Seat 5: diamond (1075)
+Seat 6: CoinDoctor (2588)
+ROBERTO has the dealer button
+NuGgetZ1 posts ante 25
+jackpot posts ante 25
+ROBERTO posts ante 25
+diamond posts ante 25
+CoinDoctor posts ante 25
+diamond posts small blind 100
+CoinDoctor posts big blind 200
+** Hole Cards ** [5 players]
+NuGgetZ1 raises to 4475 (All-in)
+jackpot has timed out
+jackpot folds
+ROBERTO folds
+diamond folds
+CoinDoctor folds
+NuGgetZ1 refunded 4275
+NuGgetZ1 wins Pot (625)
+** Deck ** [3c Js Ah 5d Qc 5c 8s Jd 7s Ks Qh Td Ac 2d 9c 4c 4s 6s 2s 3d]
+
+Hand #135574-13 - 2017-07-13 14:15:09
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (4900)
+Seat 3: jackpot (900) - sitting out
+Seat 4: ROBERTO (1387)
+Seat 5: diamond (950)
+Seat 6: CoinDoctor (2363)
+diamond has the dealer button
+NuGgetZ1 posts ante 25
+jackpot posts ante 25
+ROBERTO posts ante 25
+diamond posts ante 25
+CoinDoctor posts ante 25
+CoinDoctor posts small blind 100
+NuGgetZ1 posts big blind 200
+** Hole Cards ** [5 players]
+jackpot folds
+ROBERTO folds
+diamond raises to 925 (All-in)
+CoinDoctor folds
+NuGgetZ1 has timed out
+NuGgetZ1 folds
+diamond refunded 725
+diamond wins Pot (625)
+** Deck ** [Jc 3h Tc Qs 7c 8d Ad 5h 6s Qc 4c 2c 2d 3d 8c 6h 4d 5d 9h Jh]
+
+Hand #135575-14 - 2017-07-13 14:15:59
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (4675)
+Seat 3: jackpot (875)
+Seat 4: ROBERTO (1362)
+Seat 5: diamond (1350)
+Seat 6: CoinDoctor (2238)
+CoinDoctor has the dealer button
+NuGgetZ1 posts ante 25
+jackpot posts ante 25
+ROBERTO posts ante 25
+diamond posts ante 25
+CoinDoctor posts ante 25
+NuGgetZ1 posts small blind 200
+jackpot posts big blind 400
+** Hole Cards ** [5 players]
+ROBERTO calls 400
+diamond folds
+CoinDoctor folds
+NuGgetZ1 has timed out
+NuGgetZ1 folds
+jackpot checks
+** Flop ** [Qc 5d 7d]
+jackpot bets 450 (All-in)
+ROBERTO calls 450
+** Turn ** [5h]
+** River ** [Kc]
+** Pot Show Down ** [Qc 5d 7d 5h Kc]
+jackpot shows [6c 4d 5c 7s] (Hi: a Full House, Fives full of Sevens  Lo: None)
+ROBERTO shows [Jd 2d 5s 3c] (Hi: Three of a Kind, Fives +KJ  Lo: None)
+jackpot wins Pot (2025) with a Full House
+No low hand qualified
+** Deck ** [2h 6c Jd Ks 6h Kh 4d 2d 2s 8h Ts 5c 5s Tc 3h 9h 7s 3c 4h Qh Qc 5d 7d 5h Kc]
+
+Hand #135576-15 - 2017-07-13 14:17:13
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (4450) - sitting out
+Seat 3: jackpot (2025)
+Seat 4: ROBERTO (487)
+Seat 5: diamond (1325)
+Seat 6: CoinDoctor (2213)
+NuGgetZ1 has the dealer button
+NuGgetZ1 posts ante 25
+jackpot posts ante 25
+ROBERTO posts ante 25
+diamond posts ante 25
+CoinDoctor posts ante 25
+jackpot posts small blind 200
+ROBERTO posts big blind 400
+** Hole Cards ** [5 players]
+diamond folds
+CoinDoctor folds
+NuGgetZ1 raises to 4425 (All-in)
+jackpot folds
+ROBERTO calls 62 (All-in)
+NuGgetZ1 refunded 3963
+** Flop ** [Tc Kh 3c]
+** Turn ** [Qs]
+** River ** [7h]
+** Pot Show Down ** [Tc Kh 3c Qs 7h]
+NuGgetZ1 shows [5h Ah 2d 9s] (Hi: High Card Ace +KQT9  Lo: None)
+ROBERTO shows [Ad Td 9h Ac] (Hi: a Pair of Aces +KQT  Lo: None)
+ROBERTO wins Pot (1249) with a Pair
+No low hand qualified
+** Deck ** [9d Ad 3s 8d 5h 8c Td Jc Ts Ah Th 9h 6h 5c 2d As Ac 5s 6s 9s Tc Kh 3c Qs 7h]
+
+Hand #135577-16 - 2017-07-13 14:18:06
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (3963)
+Seat 3: jackpot (1800)
+Seat 4: ROBERTO (1249)
+Seat 5: diamond (1300)
+Seat 6: CoinDoctor (2188)
+jackpot has the dealer button
+NuGgetZ1 posts ante 25
+jackpot posts ante 25
+ROBERTO posts ante 25
+diamond posts ante 25
+CoinDoctor posts ante 25
+ROBERTO posts small blind 200
+diamond posts big blind 400
+** Hole Cards ** [5 players]
+CoinDoctor folds
+CoinDoctor: "dam you're slow"
+NuGgetZ1 has timed out
+NuGgetZ1 folds
+jackpot folds
+ROBERTO calls 200
+diamond checks
+** Flop ** [As 3d 7s]
+ROBERTO bets 824 (All-in)
+diamond folds
+ROBERTO refunded 824
+ROBERTO wins Pot (925)
+CoinDoctor: "remember this is free chips not your life savings lol"
+** Deck ** [9h 3c 5s 4d 3s Td Kh 7h Kd 2s 8h 6c 9s Ts 5d Ac 4s 6d Qd Qh As 3d 7s]
+
+Hand #135578-17 - 2017-07-13 14:19:16
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (3938)
+Seat 3: jackpot (1775)
+Seat 4: ROBERTO (1749)
+Seat 5: diamond (875)
+Seat 6: CoinDoctor (2163)
+ROBERTO has the dealer button
+NuGgetZ1 posts ante 50
+jackpot posts ante 50
+ROBERTO posts ante 50
+diamond posts ante 50
+CoinDoctor posts ante 50
+diamond posts small blind 300
+CoinDoctor posts big blind 600
+** Hole Cards ** [5 players]
+NuGgetZ1 raises to 3888 (All-in)
+jackpot folds
+ROBERTO folds
+diamond folds
+CoinDoctor folds
+NuGgetZ1 refunded 3288
+NuGgetZ1 wins Pot (1750)
+** Deck ** [Js 3s Ah 2d 6c Qs 2s 3d Td 8d 7h 8h 7c 4c Qh 7s 2c Kh Jh 4h]
+
+Hand #135579-18 - 2017-07-13 14:19:42
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (5038)
+Seat 3: jackpot (1725)
+Seat 4: ROBERTO (1699)
+Seat 5: diamond (525)
+Seat 6: CoinDoctor (1513)
+diamond has the dealer button
+NuGgetZ1 posts ante 50
+jackpot posts ante 50
+ROBERTO posts ante 50
+diamond posts ante 50
+CoinDoctor posts ante 50
+CoinDoctor posts small blind 300
+NuGgetZ1 posts big blind 600
+** Hole Cards ** [5 players]
+jackpot folds
+ROBERTO calls 600
+diamond calls 475 (All-in)
+CoinDoctor folds
+NuGgetZ1 raises to 4988 (All-in)
+ROBERTO calls 1049 (All-in)
+NuGgetZ1 refunded 3339
+** Flop ** [Ac 4h Jc]
+** Turn ** [3c]
+** River ** [5d]
+** Side Pot 1 Show Down ** [Ac 4h Jc 3c 5d]
+NuGgetZ1 shows [Jh 8c 2d Qc] (Hi: a Flush, Ace high +QJ83  Lo: 8432A)
+ROBERTO shows [Ks Tc 3s Th] (Hi: a Pair of Tens +AJ5  Lo: None)
+NuGgetZ1 wins Hi Side Pot 1 (1174) with a Flush
+NuGgetZ1 wins Lo Side Pot 1 (1174) with 8432A
+** Main Pot Show Down ** [Ac 4h Jc 3c 5d]
+diamond shows [Ts Ad 9c Js] (Hi: Two Pair, Aces and Jacks +5  Lo: None)
+NuGgetZ1 wins Hi Main Pot (988) with a Flush
+NuGgetZ1 wins Lo Main Pot (987) with 8432A
+diamond finishes tournament in place #5
+ROBERTO finishes tournament in place #4 and wins 200 chips
+** Deck ** [Kc Jh 8s Ks Ts 3h 8c 9d Tc Ad 5h 2d 6h 3s 9c 7s Qc 4d Th Js Ac 4h Jc 3c 5d]
+
+Hand #135580-19 - 2017-07-13 14:20:20
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (7662)
+Seat 3: jackpot (1675)
+Seat 6: CoinDoctor (1163)
+CoinDoctor has the dealer button
+NuGgetZ1 posts ante 50
+jackpot posts ante 50
+CoinDoctor posts ante 50
+NuGgetZ1 posts small blind 300
+jackpot posts big blind 600
+** Hole Cards ** [3 players]
+CoinDoctor raises to 1113 (All-in)
+NuGgetZ1 raises to 7612 (All-in)
+jackpot calls 1025 (All-in)
+NuGgetZ1 refunded 5987
+** Flop ** [6c 5s 4h]
+** Turn ** [Kc]
+** River ** [2d]
+** Side Pot 1 Show Down ** [6c 5s 4h Kc 2d]
+NuGgetZ1 shows [Ks 6d 6h 3h] (Hi: a Straight, Deuce to Six  Lo: 65432)
+jackpot shows [2h 9h As 9c] (Hi: a Pair of Nines +K65  Lo: 6542A)
+NuGgetZ1 wins Hi Side Pot 1 (512) with a Straight
+jackpot wins Lo Side Pot 1 (512) with 6542A
+** Main Pot Show Down ** [6c 5s 4h Kc 2d]
+CoinDoctor shows [7h Ts 4s Th] (Hi: a Pair of Tens +K65  Lo: 76542)
+NuGgetZ1 wins Hi Main Pot (1745) with a Straight
+jackpot wins Lo Main Pot (1744) with 6542A
+CoinDoctor finishes tournament in place #3 and wins 400 chips
+** Deck ** [Ks 2h 7h 6d 9h Ts 6h As 4s 3h 9c Th 6c 5s 4h Kc 2d]
+
+Hand #135581-20 - 2017-07-13 14:20:50
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (8244)
+Seat 3: jackpot (2256)
+NuGgetZ1 has the dealer button
+NuGgetZ1 posts ante 50
+jackpot posts ante 50
+NuGgetZ1 posts small blind 300
+jackpot posts big blind 600
+** Hole Cards ** [2 players]
+NuGgetZ1 raises to 8194 (All-in)
+jackpot folds
+NuGgetZ1 refunded 7594
+NuGgetZ1 wins Pot (1300)
+** Deck ** [5c Qs 7d Ad Th Ts Qh Ah]
+
+Hand #135582-21 - 2017-07-13 14:21:10
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 2: NuGgetZ1 (8894)
+Seat 3: jackpot (1606)
+jackpot has the dealer button
+NuGgetZ1 posts ante 50
+jackpot posts ante 50
+jackpot posts small blind 300
+NuGgetZ1 posts big blind 600
+** Hole Cards ** [2 players]
+jackpot raises to 1556 (All-in)
+NuGgetZ1 calls 956
+** Flop ** [Jc Kc 6d]
+** Turn ** [4h]
+** River ** [Jh]
+** Pot Show Down ** [Jc Kc 6d 4h Jh]
+NuGgetZ1 shows [Tc Kh Ts 2h] (Hi: Two Pair, Kings and Jacks +T  Lo: None)
+jackpot shows [2c 5s 4d 5h] (Hi: Two Pair, Jacks and Fives +K  Lo: None)
+NuGgetZ1 wins Pot (3212) with Two Pair
+No low hand qualified
+jackpot finishes tournament in place #2 and wins 600 chips
+NuGgetZ1 finishes tournament in place #1 and wins 800 chips
+** Deck ** [Tc 2c Kh 5s Ts 4d 2h 5h Jc Kc 6d 4h Jh]
+
+NuGgetZ1: "gg"
+Starting tournament 2558
+
+Hand #135631-1 - 2017-07-13 18:00:30
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Arpetuos (1500)
+Seat 5: tagailog (1500)
+Seat 6: NuGgetZ1 (1500)
+Arpetuos has the dealer button
+tagailog posts small blind 25
+NuGgetZ1 posts big blind 50
+** Hole Cards ** [3 players]
+Arpetuos calls 50
+tagailog calls 25
+NuGgetZ1 checks
+** Flop ** [Qs 3h 7s]
+tagailog checks
+NuGgetZ1 checks
+Arpetuos checks
+** Turn ** [7c]
+tagailog bets 50
+NuGgetZ1 has timed out
+NuGgetZ1 folds
+Arpetuos folds
+tagailog refunded 50
+tagailog wins Pot (150)
+** Deck ** [8c Th 4c Qh Td 2s 6h Ts Kh 5s 6c 6d Qs 3h 7s 7c]
+
+Hand #135632-2 - 2017-07-13 18:01:34
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: Arpetuos (1450)
+Seat 5: tagailog (1600)
+Seat 6: NuGgetZ1 (1450)
+tagailog has the dealer button
+NuGgetZ1 posts small blind 25
+Arpetuos posts big blind 50
+** Hole Cards ** [3 players]
+tagailog folds
+NuGgetZ1 raises to 1450 (All-in)
+Arpetuos calls 1400 (All-in)
+** Flop ** [2c Ks Qd]
+** Turn ** [Qh]
+** River ** [6d]
+** Pot Show Down ** [2c Ks Qd Qh 6d]
+Arpetuos shows [2h 5c 5h Jc] (Hi: Two Pair, Queens and Fives +K  Lo: None)
+NuGgetZ1 shows [Th Ah Ad Kh] (Hi: Two Pair, Aces and Queens +K  Lo: None)
+NuGgetZ1 wins Pot (2900) with Two Pair
+No low hand qualified
+Arpetuos finishes tournament in place #3
+** Deck ** [Th 2h Td Ah 5c 8d Ad 5h 3h Kh Jc 6c 2c Ks Qd Qh 6d]
+
+Hand #135633-3 - 2017-07-13 18:01:59
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 5: tagailog (1600)
+Seat 6: NuGgetZ1 (2900)
+NuGgetZ1 has the dealer button
+NuGgetZ1 posts small blind 25
+tagailog posts big blind 50
+** Hole Cards ** [2 players]
+NuGgetZ1 raises to 2900 (All-in)
+tagailog calls 1550 (All-in)
+NuGgetZ1 refunded 1300
+** Flop ** [3c 3h 9d]
+** Turn ** [2c]
+** River ** [7h]
+** Pot Show Down ** [3c 3h 9d 2c 7h]
+tagailog shows [6c Kh 8s 4s] (Hi: a Pair of Threes +K98  Lo: 76432)
+NuGgetZ1 shows [9h 6d 4c Ac] (Hi: Two Pair, Nines and Threes +A  Lo: 7432A)
+NuGgetZ1 wins Hi Pot (1600) with Two Pair
+NuGgetZ1 wins Lo Pot (1600) with 7432A
+tagailog finishes tournament in place #2 and wins 800 chips
+NuGgetZ1 finishes tournament in place #1 and wins 1200 chips
+** Deck ** [6c 9h Kh 6d 8s 4c 4s Ac 3c 3h 9d 2c 7h]
+
+Starting tournament 2562
+
+Hand #135832-1 - 2017-07-13 22:00:30
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1500)
+Seat 2: ROBERTO (1500)
+Seat 5: betong (1500)
+Seat 6: CoinDoctor (1500)
+bestlooser has the dealer button
+ROBERTO posts small blind 25
+betong posts big blind 50
+** Hole Cards ** [4 players]
+CoinDoctor calls 50
+bestlooser calls 50
+ROBERTO folds
+betong checks
+** Flop ** [Qc 6s 8s]
+betong checks
+CoinDoctor checks
+bestlooser checks
+** Turn ** [Kh]
+betong checks
+CoinDoctor bets 50
+bestlooser has timed out
+bestlooser folds
+betong folds
+CoinDoctor refunded 50
+CoinDoctor wins Pot (175)
+** Deck ** [Jc 4s 7d Kd 7s 3c Ts 6h Td 9c 2d 5d 4h 3h Tc Ah Qc 6s 8s Kh]
+
+Hand #135834-2 - 2017-07-13 22:02:47
+Game: NL Omaha Hi-Lo (0+0) - Blinds 25/50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1450)
+Seat 2: ROBERTO (1475)
+Seat 5: betong (1450)
+Seat 6: CoinDoctor (1625)
+ROBERTO has the dealer button
+betong posts small blind 25
+CoinDoctor posts big blind 50
+** Hole Cards ** [4 players]
+bestlooser folds
+ROBERTO folds
+betong calls 25
+CoinDoctor checks
+** Flop ** [7c 3s 8d]
+betong checks
+CoinDoctor bets 50
+betong calls 50
+** Turn ** [5d]
+betong bets 200
+CoinDoctor calls 200
+** River ** [7h]
+betong bets 1150 (All-in)
+CoinDoctor calls 1150
+** Pot Show Down ** [7c 3s 8d 5d 7h]
+betong shows [9s Tc 6s As] (Hi: a Straight, Five to Nine  Lo: 7653A)
+CoinDoctor shows [4d Kd 3d 3h] (Hi: a Full House, Threes full of Sevens  Lo: 87543)
+CoinDoctor wins Hi Pot (1450) with a Full House
+betong wins Lo Pot (1450) with 7653A
+** Deck ** [9s 4d Jc Qd Tc Kd 5h 2h 6s 3d Kc 4h As 3h 2s 4c 7c 3s 8d 5d 7h]
+
+Hand #135835-3 - 2017-07-13 22:04:08
+Game: NL Omaha Hi-Lo (0+0) - Blinds 50/100
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1450)
+Seat 2: ROBERTO (1475)
+Seat 5: betong (1450)
+Seat 6: CoinDoctor (1625)
+betong has the dealer button
+CoinDoctor posts small blind 50
+bestlooser posts big blind 100
+** Hole Cards ** [4 players]
+ROBERTO has timed out
+ROBERTO folds
+betong folds
+CoinDoctor calls 50
+bestlooser checks
+** Flop ** [8d 7d 9s]
+CoinDoctor checks
+bestlooser checks
+** Turn ** [3h]
+CoinDoctor checks
+bestlooser checks
+** River ** [8h]
+CoinDoctor checks
+bestlooser bets 100
+CoinDoctor calls 100
+** Pot Show Down ** [8d 7d 9s 3h 8h]
+bestlooser shows [Tc 7s Th 6h] (Hi: a Straight, Six to Ten  Lo: None)
+CoinDoctor shows [Qh 9h 2d Kh] (Hi: Two Pair, Nines and Eights +K  Lo: None)
+bestlooser wins Pot (400) with a Straight
+No low hand qualified
+** Deck ** [Qh Tc 7h 4c 9h 7s 9c 5h 2d Th 6s Td Kh 6h 3d Kd 8d 7d 9s 3h 8h]
+
+Hand #135838-4 - 2017-07-13 22:06:41
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1650)
+Seat 2: ROBERTO (1475)
+Seat 5: betong (1450)
+Seat 6: CoinDoctor (1425)
+CoinDoctor has the dealer button
+bestlooser posts small blind 75
+ROBERTO posts big blind 150
+** Hole Cards ** [4 players]
+betong folds
+CoinDoctor folds
+bestlooser calls 75
+ROBERTO checks
+** Flop ** [Jd Th Js]
+bestlooser checks
+ROBERTO checks
+** Turn ** [6s]
+bestlooser checks
+ROBERTO bets 150
+bestlooser folds
+ROBERTO refunded 150
+ROBERTO wins Pot (300)
+** Deck ** [4c 6h 4s 2d As 3c Jc 2s 5d 4h 5s 2h Ks 2c 7d Qs Jd Th Js 6s]
+
+Hand #135842-5 - 2017-07-13 22:08:21
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1500)
+Seat 2: ROBERTO (1625)
+Seat 5: betong (1450)
+Seat 6: CoinDoctor (1425)
+bestlooser has the dealer button
+ROBERTO posts small blind 75
+betong posts big blind 150
+** Hole Cards ** [4 players]
+CoinDoctor calls 150
+bestlooser calls 150
+ROBERTO folds
+betong raises to 1450 (All-in)
+CoinDoctor calls 1275 (All-in)
+bestlooser calls 1300
+** Flop ** [9h 5d 7s]
+** Turn ** [6h]
+** River ** [5c]
+** Side Pot 1 Show Down ** [9h 5d 7s 6h 5c]
+bestlooser shows [3d Kh Ks 4h] (Hi: a Straight, Three to Seven  Lo: 76543)
+betong shows [Th 5s Ah Js] (Hi: Three of a Kind, Fives +A9  Lo: None)
+bestlooser wins Hi Side Pot 1 (25) with a Straight
+bestlooser wins Lo Side Pot 1 (25) with 76543
+** Main Pot Show Down ** [9h 5d 7s 6h 5c]
+CoinDoctor shows [8d Tc Ad Ts] (Hi: a Straight, Six to Ten  Lo: 8765A)
+CoinDoctor wins Hi Main Pot (2175) with a Straight
+bestlooser wins Lo Main Pot (2175) with 76543
+betong finishes tournament in place #4
+** Deck ** [2h Th 8d 3d Qs 5s Tc Kh Jh Ah Ad Ks 5h Js Ts 4h 9h 5d 7s 6h 5c]
+
+Hand #135844-6 - 2017-07-13 22:09:18
+Game: NL Omaha Hi-Lo (0+0) - Blinds 75/150
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (2275)
+Seat 2: ROBERTO (1550)
+Seat 6: CoinDoctor (2175)
+ROBERTO has the dealer button
+CoinDoctor posts small blind 75
+bestlooser posts big blind 150
+** Hole Cards ** [3 players]
+ROBERTO folds
+CoinDoctor calls 75
+bestlooser checks
+** Flop ** [Qc Jd 3s]
+CoinDoctor bets 150
+bestlooser calls 150
+** Turn ** [5h]
+CoinDoctor bets 150
+bestlooser calls 150
+** River ** [Js]
+CoinDoctor bets 150
+bestlooser calls 150
+** Pot Show Down ** [Qc Jd 3s 5h Js]
+bestlooser shows [Tc Td 8s 9d] (Hi: Two Pair, Jacks and Tens +Q  Lo: None)
+CoinDoctor shows [6c Jh 4h 8c] (Hi: Three of a Kind, Jacks +Q8  Lo: None)
+CoinDoctor wins Pot (1200) with Three of a Kind
+No low hand qualified
+** Deck ** [6c Tc 9h Jh Td 6h 4h 8s 4c 8c 9d Qh Qc Jd 3s 5h Js]
+
+Hand #135846-7 - 2017-07-13 22:10:33
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1675)
+Seat 2: ROBERTO (1550)
+Seat 6: CoinDoctor (2775)
+CoinDoctor has the dealer button
+bestlooser posts small blind 100
+ROBERTO posts big blind 200
+** Hole Cards ** [3 players]
+CoinDoctor folds
+bestlooser folds
+ROBERTO refunded 100
+ROBERTO wins Pot (200)
+** Deck ** [Td 7c Kh 4c Ks 8h Jd 7s 9d 4d Jh 7h]
+
+Hand #135847-8 - 2017-07-13 22:10:54
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1575)
+Seat 2: ROBERTO (1650)
+Seat 6: CoinDoctor (2775)
+bestlooser has the dealer button
+ROBERTO posts small blind 100
+CoinDoctor posts big blind 200
+** Hole Cards ** [3 players]
+bestlooser folds
+ROBERTO folds
+CoinDoctor refunded 100
+CoinDoctor wins Pot (200)
+** Deck ** [6d Td 9c Qs 9d 9h 7d Ts 4d 2s Ad Jc]
+
+Hand #135849-9 - 2017-07-13 22:11:13
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1575)
+Seat 2: ROBERTO (1550)
+Seat 6: CoinDoctor (2875)
+ROBERTO has the dealer button
+CoinDoctor posts small blind 100
+bestlooser posts big blind 200
+** Hole Cards ** [3 players]
+ROBERTO folds
+CoinDoctor calls 100
+bestlooser checks
+** Flop ** [Ah 7c Jd]
+CoinDoctor checks
+bestlooser checks
+** Turn ** [Th]
+CoinDoctor bets 200
+bestlooser calls 200
+** River ** [Jc]
+CoinDoctor checks
+bestlooser checks
+** Pot Show Down ** [Ah 7c Jd Th Jc]
+bestlooser shows [As Kh Qc 8d] (Hi: a Straight, Ten to Ace  Lo: None)
+CoinDoctor shows [4d Kc 4c Js] (Hi: Three of a Kind, Jacks +AK  Lo: None)
+bestlooser wins Pot (800) with a Straight
+No low hand qualified
+** Deck ** [4d As 5d Kc Kh 3d 4c Qc 7s Js 8d 9c Ah 7c Jd Th Jc]
+
+Hand #135850-10 - 2017-07-13 22:12:57
+Game: NL Omaha Hi-Lo (0+0) - Blinds 100/200 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1975)
+Seat 2: ROBERTO (1550)
+Seat 6: CoinDoctor (2475)
+CoinDoctor has the dealer button
+bestlooser posts ante 25
+ROBERTO posts ante 25
+CoinDoctor posts ante 25
+bestlooser posts small blind 100
+ROBERTO posts big blind 200
+** Hole Cards ** [3 players]
+CoinDoctor calls 200
+bestlooser calls 100
+ROBERTO checks
+** Flop ** [9d 7h 8s]
+bestlooser checks
+ROBERTO checks
+CoinDoctor bets 400
+bestlooser calls 400
+ROBERTO calls 400
+** Turn ** [Qh]
+bestlooser checks
+ROBERTO bets 400
+CoinDoctor raises to 800
+bestlooser calls 800
+ROBERTO calls 400
+** River ** [Kd]
+bestlooser checks
+ROBERTO bets 125 (All-in)
+CoinDoctor calls 125
+bestlooser folds
+** Pot Show Down ** [9d 7h 8s Qh Kd]
+ROBERTO shows [8h 6d 4s Qd] (Hi: Two Pair, Queens and Eights +K  Lo: None)
+CoinDoctor shows [5s Kc 6c Ac] (Hi: a Straight, Five to Nine  Lo: None)
+CoinDoctor wins Pot (4525) with a Straight
+No low hand qualified
+ROBERTO finishes tournament in place #3 and wins 400 chips
+** Deck ** [Kh 8h 5s 5c 6d Kc 3h 4s 6c Ah Qd Ac 9d 7h 8s Qh Kd]
+
+Hand #135853-11 - 2017-07-13 22:15:40
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (550)
+Seat 6: CoinDoctor (5450)
+bestlooser has the dealer button
+bestlooser posts ante 25
+CoinDoctor posts ante 25
+bestlooser posts small blind 200
+CoinDoctor posts big blind 400
+** Hole Cards ** [2 players]
+bestlooser raises to 525 (All-in)
+CoinDoctor: "its you again lol"
+CoinDoctor calls 125
+** Flop ** [3d Kd 4h]
+** Turn ** [9h]
+** River ** [Td]
+** Pot Show Down ** [3d Kd 4h 9h Td]
+bestlooser shows [9s Ad 8h 7d] (Hi: a Flush, Ace high +KT73  Lo: None)
+CoinDoctor shows [2s 4s Jd 5h] (Hi: a Pair of Fours +KJT  Lo: None)
+bestlooser wins Pot (1100) with a Flush
+No low hand qualified
+** Deck ** [2s 9s 4s Ad Jd 8h 5h 7d 3d Kd 4h 9h Td]
+
+Hand #135854-12 - 2017-07-13 22:16:14
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1100)
+Seat 6: CoinDoctor (4900)
+CoinDoctor has the dealer button
+bestlooser posts ante 25
+CoinDoctor posts ante 25
+CoinDoctor posts small blind 200
+bestlooser posts big blind 400
+** Hole Cards ** [2 players]
+CoinDoctor calls 200
+bestlooser checks
+** Flop ** [8s 3c 8h]
+bestlooser checks
+CoinDoctor checks
+** Turn ** [Kd]
+bestlooser checks
+CoinDoctor bets 400
+bestlooser folds
+CoinDoctor refunded 400
+CoinDoctor wins Pot (850)
+** Deck ** [5c 2s 5h 7s Ts Kc 2d Jh 8s 3c 8h Kd]
+
+Hand #135856-13 - 2017-07-13 22:17:37
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (675)
+Seat 6: CoinDoctor (5325)
+bestlooser has the dealer button
+bestlooser posts ante 25
+CoinDoctor posts ante 25
+bestlooser posts small blind 200
+CoinDoctor posts big blind 400
+** Hole Cards ** [2 players]
+bestlooser raises to 650 (All-in)
+CoinDoctor calls 250
+** Flop ** [5h Ad 2h]
+** Turn ** [3d]
+** River ** [5s]
+** Pot Show Down ** [5h Ad 2h 3d 5s]
+bestlooser shows [6s 5c 3s 4d] (Hi: a Full House, Fives full of Threes  Lo: 5432A)
+CoinDoctor shows [8c 7d 6c Qd] (Hi: a Pair of Fives +AQ8  Lo: 7632A)
+bestlooser wins Hi Pot (675) with a Full House
+bestlooser wins Lo Pot (675) with 5432A
+** Deck ** [8c 6s 7d 5c 6c 3s Qd 4d 5h Ad 2h 3d 5s]
+
+Hand #135858-14 - 2017-07-13 22:18:17
+Game: NL Omaha Hi-Lo (0+0) - Blinds 200/400 Ante 25
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1350)
+Seat 6: CoinDoctor (4650)
+CoinDoctor has the dealer button
+bestlooser posts ante 25
+CoinDoctor posts ante 25
+CoinDoctor posts small blind 200
+bestlooser posts big blind 400
+** Hole Cards ** [2 players]
+CoinDoctor: "what are you a psychic? lol"
+CoinDoctor raises to 800
+bestlooser raises to 1325 (All-in)
+CoinDoctor calls 525
+** Flop ** [6h Td 8c]
+bestlooser: "why?"
+** Turn ** [3s]
+** River ** [Kh]
+** Pot Show Down ** [6h Td 8c 3s Kh]
+bestlooser shows [Kd Kc Ad Ac] (Hi: Three of a Kind, Kings +T8  Lo: None)
+CoinDoctor shows [Js Ah As 7s] (Hi: a Pair of Aces +KT8  Lo: 8763A)
+bestlooser wins Hi Pot (1350) with Three of a Kind
+CoinDoctor wins Lo Pot (1350) with 8763A
+** Deck ** [Kd Js Kc Ah Ad As Ac 7s 6h Td 8c 3s Kh]
+
+CoinDoctor: "wow"
+Hand #135859-15 - 2017-07-13 22:19:00
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1350)
+Seat 6: CoinDoctor (4650)
+bestlooser has the dealer button
+bestlooser posts ante 50
+CoinDoctor posts ante 50
+bestlooser posts small blind 300
+CoinDoctor posts big blind 600
+** Hole Cards ** [2 players]
+bestlooser: "lucky river for me"
+CoinDoctor: "nh"
+bestlooser has timed out
+bestlooser folds
+CoinDoctor refunded 300
+CoinDoctor wins Pot (700)
+** Deck ** [9c 6h 4c 6d 5s 8c 6c 4s]
+
+Hand #135860-16 - 2017-07-13 22:19:41
+Game: NL Omaha Hi-Lo (0+0) - Blinds 300/600 Ante 50
+Site: MegaTilt Club
+Table: Freeroll D NLO8 2000 - Table 1
+Seat 1: bestlooser (1000) - sitting out
+Seat 6: CoinDoctor (5000)
+CoinDoctor has the dealer button
+bestlooser posts ante 50
+CoinDoctor posts ante 50
+CoinDoctor posts small blind 300
+bestlooser posts big blind 600
+** Hole Cards ** [2 players]
+CoinDoctor calls 300
+bestlooser raises to 950 (All-in)
+CoinDoctor calls 350
+** Flop ** [Th 7c 4c]
+** Turn ** [Tc]
+** River ** [6h]
+bestlooser: "you win"
+** Pot Show Down ** [Th 7c 4c Tc 6h]
+bestlooser shows [4h 9h 6s Jc] (Hi: Two Pair, Tens and Sixes +J  Lo: None)
+CoinDoctor shows [As Ks Qs 7d] (Hi: Two Pair, Tens and Sevens +A  Lo: None)
+CoinDoctor wins Pot (2000) with Two Pair
+No low hand qualified
+bestlooser finishes tournament in place #2 and wins 600 chips
+CoinDoctor finishes tournament in place #1 and wins 1000 chips
+** Deck ** [4h As 9h Ks 6s Qs Jc 7d Th 7c 4c Tc 6h]
+
+CoinDoctor: "gg"
